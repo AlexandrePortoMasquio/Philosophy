@@ -46,3 +46,15 @@ Dicas
 - Também é possível `--ext html` para exportar como HTML.
 - Se quiser nomear pelos títulos ao invés do slug, use `--naming title`.
 - Caso veja erro de permissão, confirme que a conta autorizada tem acesso aos documentos.
+
+5) Opção C: fluxo 100% manual (sem OAuth)
+- Exporte seus capítulos do Google Docs manualmente como `.docx` para uma pasta, por exemplo `originais/` na raiz do projeto.
+- Rode o organizador para copiar/renomear para a pasta `livro/` (sem alterar conteúdo):
+```
+python scripts/organiza_capitulos.py --src originais --out livro --prefix
+```
+- Padrões do organizador:
+  - Mantém o conteúdo byte a byte (usa `copy2`).
+  - Gera nomes com slug do nome do arquivo original (sem acentos/espaços). Use `--keep-name` para manter o nome como está.
+  - Pula arquivos existentes por padrão; `--overwrite` para regravar.
+  - Salva um mapeamento em `livro/mapeamento.csv` (origem → destino).
