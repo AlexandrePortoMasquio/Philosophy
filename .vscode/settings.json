@@ -1,0 +1,16 @@
+{
+  // Quebra automática de linha no editor
+  "editor.wordWrap": "on",
+  // Coluna de referência (apenas informativa; wrap é pela janela)
+  "editor.wordWrapColumn": 120,
+  // Quebra também no editor de diffs
+  "diffEditor.wordWrap": true,
+  // Garantir wrap para tipos de texto comuns
+  "[plaintext]": {
+    "editor.wordWrap": "on"
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  }
+}
+
