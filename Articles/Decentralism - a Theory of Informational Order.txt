@@ -32,6 +32,10 @@ Natural rules are the consistent rules that are not determined arbitrarily, but 
 
 Therefore, this is the most abstract and consistent philosophical definition of “decentralization” used here: the conformity of systems to natural laws. It is important to note that this applies not only to any concrete system but also to systems that can be considered abstract, such as logic, mathematics, epistemology, metaphysics, and physics. These systems can be understood as decentralized, given that their structure is based on natural rules or laws.
 
+Clarification: this definition does not render every system “decentralized” merely because it operates under natural laws. We reserve the term for cases where the same transition rules apply to all parts without privileged exceptions or unilateral overrides. A system is centralized to the extent that some component can impose outcomes by exception while others cannot, even if a general rule exists.
+
+Degree: decentralization admits degrees. It increases with the uniformity of rule application and the dispersion of effective control. Importantly, emergent concentrations (e.g., hubs) that arise from the same rules do not by themselves constitute centralization; what matters is whether exceptions or override privileges exist.
+
 ### Informational Order
 
 The word “order” is often used to refer to two different things, namely low entropy and evolutionary order, making it important to disambiguate and clarify the meaning used here.
