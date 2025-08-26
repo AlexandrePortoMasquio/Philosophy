@@ -13,6 +13,7 @@
 - A realidade como fluxo contínuo desafia definições fixas.
 - Precisão perfeita pode ser inalcançável nessa ontologia.
 - O conceito de “simples” carece de bordas nítidas.
+- Pela ontologia da diferença, tudo deve ser vago em algum grau, até mesmo os próprios conceitos de vagueza, fundamento e simplicidade.
 
 • Números e Abstrações
 - “1” parece preciso, mas pode carregar vagueza (tese a investigar).
