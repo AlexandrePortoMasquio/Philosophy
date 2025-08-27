@@ -1,0 +1,49 @@
+Decomposição analítica busca reduzir conceitos a partes menores e claras. - Filosofia analítica visa precisão ao desmontar conceitos complexos. - Decomposição tenta isolar elementos básicos, como termos ou predicados. - Exemplo: definir simplicidade como sem partes via redução lógica. - Deconstrução deleuziana revela relações e multiplicidades em conceitos. - Deconstrução não busca clareza, mas fluxo dinâmico da diferença. - Na ontologia da diferença, conceitos como simplicidade são relacionais. - Simplicidade é vaga porque depende de relações com o complexo. - Decomposição pode expor vagueza ao atingir limites de redução. - Reduzir simplicidade revela que sem partes implica relações. - Deconstrução mostra conceitos como emergências do fluxo do devir. - Vagueza surge quando bordas conceituais não são nítidas. - Decomposição é necessária para evitar obscurantismo confuso. - Obscurantismo refere-se a discurso vago sem revelar vagueza. - Redução analítica ajuda a expor vagueza de forma rigorosa. - Deconstrução e decomposição não são idênticas, mas complementares. - Decomposição busca precisão; deconstrução abraça multiplicidade. - Filósofo usa ambos para navegar vagueza sem se perder. - Redução até o limite revela vagueza intrínseca dos conceitos. - Ontologia da diferença vê vagueza como potência, não defeito.
+### Decomposition vs. Deconstruction
+
+- One-line distinction: decomposition structures solutions; deconstruction structures questions.
+
+### Decomposition
+
+- Definition: breaking a system into smaller components while preserving semantics and enabling composition.
+- Goal: modularity, testability, scalability, reuse, performance.
+- Orientation: engineering/analysis; top-down and bottom-up partitioning.
+- Methods: functional decomposition, data-flow slicing, domain-driven bounded contexts, microservices, separation of concerns, interface contracts.
+- Outputs: cohesive components with clear APIs, invariants, and composition rules; diagrams/specs/tests.
+- When to use: complex systems, refactoring, scaling teams, reducing coupling, clarifying responsibilities.
+- Pitfalls: over-fragmentation, leaky abstractions, wrong boundaries, ignoring cross-cutting concerns, orchestration overhead.
+- Success criteria: low coupling/high cohesion, replaceability, independent deployability, observability, stable interfaces.
+
+### Deconstruction
+
+- Definition: critical analysis that exposes assumptions, binaries, and contradictions in concepts, texts, or designs. Reduction is taken to the limit where inherent conceptual vagueness is exposed. Not destruction, also not the opposite of decomposition.
+- Goal: reveal hidden structures of meaning/power; surface ambiguities; widen the option space.
+- Orientation: hermeneutic/critical; applies to requirements, policies, narratives, models.
+- Methods: close reading, interrogate definitions, invert binaries, trace implications, recontextualize constraints, alternative framings.
+- Outputs: clarified terminology, multiple readings, reframed problems, sharper questions and criteria.
+- When to use: contested terms, vague requirements, conflicting narratives, legacy concepts that centralize interpretation.
+- Pitfalls: analysis paralysis, relativism, performative contradictions, lack of synthesis back into design.
+- Success criteria: assumptions made explicit, terms disambiguated, contradictions surfaced, better decision criteria.
+
+### How they complement
+
+- Sequence: deconstruct first to clarify terms/assumptions, then decompose to design modules.
+- Iteration: if coupling stays high or boundaries feel forced, deconstruct the domain cuts and decompose again.
+- Workflow: statement → deconstruct claims/constraints → define terms/criteria → choose axes → decompose along cohesive seams → validate → iterate.
+
+### Quick examples
+
+- Software: monolith → microservices (decomposition) vs. questioning “user/account/identity” boundaries (deconstruction).
+- Policy: split an agency by function (decomposition) vs. interrogate the framing that centralizes authority (deconstruction).
+- Writing: outline sections and subsections (decomposition) vs. probe thesis/assumptions/metaphors (deconstruction).
+
+### Checklist
+
+- If interfaces and invariants can be stated crisply, proceed with decomposition.
+- If terms are contested or slippery, start with deconstruction.
+- Combine: clarify language, then cut along stable seams.
+
+### Summary
+
+- Decomposition: organizing parts to build.
+- Deconstruction: organizing meanings to think.
