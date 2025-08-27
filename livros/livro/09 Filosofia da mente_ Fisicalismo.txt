@@ -1,0 +1,228 @@
+﻿- Monismo
+
+
+O idealismo e o dualismo, metafisicamente e ontologicamente, seriam as posições, respectivamente, de que a mente é a substância, e de que a mente e a física são ambas substâncias. Já foram apresentados argumentos contra o idealismo e o dualismo, então vamos prosseguir para outras posições sobre a filosofia da mente. Já que o dualismo falha precisamente por postular múltiplas substâncias indecomponíveis entre si, vamos nos ater a posições monistas. O monismo abarca todas as posições na filosofia da mente e na metafísica que propõem reduzir toda a realidade a um único princípio ou substância em comum, ou a princípios interdependentes, e não excludentes, na sua composição.
+
+
+- Fisicalismo
+
+
+O fisicalismo afirma que a física é a base de tudo o que é real e que, portanto, a mente seria algo físico, ou redutível a princípios físicos. O fisicalismo pode ser subdividido em várias vertentes, como o reducionismo, o eliminativismo, o funcionalismo e o emergentismo. O fisicalismo reducionista sustenta que os estados mentais podem ser reduzidos a estados físicos, ou seja, que a mente e suas propriedades podem ser explicadas inteiramente em termos de processos físicos, como os neurônios e suas conexões no cérebro. O funcionalismo, por outro lado, defende que os estados mentais são definidos pelos papéis funcionais que desempenham no sistema, independentemente de sua constituição física. Isso significa que diferentes sistemas físicos poderiam, teoricamente, apresentar as mesmas propriedades mentais, desde que desempenhassem as mesmas funções. Já o emergentismo defende que a mente é um fenômeno emergente, isto é, um produto de processos físicos complexos que ocorrem no cérebro, mas que possui propriedades qualitativamente diferentes das propriedades físicas. Nessa visão, a estrutura da mente, a consciência e os estados mentais subjetivos e qualitativos surgiriam da complexidade e combinação dos componentes físicos do cérebro.
+
+
+Mais adiante, serão explicados diversos tipos de fisicalismo. Alguns deles são compatíveis entre si, enquanto outros são mutuamente excludentes.
+
+
+- Problema Difícil da Consciência
+
+
+O "problema difícil da consciência" é uma questão central na filosofia da mente, que se refere à dificuldade de se explicarem os aspectos da mente que parecem não ser explicáveis em termos puramente físicos. Isso se distingue do "problema fácil da consciência", que inclui tarefas como explicar a capacidade de discriminar, integrar informação, relatar estados mentais e outras funções cognitivas que são facilmente explicáveis e redutíveis a sistemas físicos e informacionais.
+
+
+Existem pelo menos duas características consideradas intrinsecamente subjetivas ou qualitativas: os qualia e a intencionalidade. Esses dois aspectos podem ser considerados dois problemas difíceis da consciência, que podem precisar ser resolvidos separadamente. Os qualia são o aspecto qualitativo em primeira pessoa presente nos estados mentais, enquanto a intencionalidade é a característica dos estados mentais serem "sobre" algo, e se referirem a algo, como crenças e proposições se referem a fatos e objetos no mundo. O desafio é explicar os qualia e a intencionalidade de uma forma racional e naturalista, sem cair em dualismo, subjetivismo ou sobrenaturalismo.
+
+
+Trataremos separadamente desses dois problemas difíceis da consciência, apresentando diversas posições e argumentos sobre como conciliar esses aspectos, que parecem irredutivelmente subjetivos, a uma explicação objetiva, naturalista e monista.
+
+
+- Qualia
+
+
+Um dos principais desafios do fisicalismo está em como essa posição pode ser consistente com a existência dos qualia. Os qualia (plural de "quale", em latim), são as propriedades qualitativas dos estados mentais, ou seja, como os estados mentais são experimentados diretamente e qualitativamente, em primeira pessoa, em oposição a como funcionam em terceira pessoa.
+
+
+Para ilustrar e explicar claramente o que são os qualia, podemos usar um experimento mental chamado "o quarto de Mary". Experimentos mentais são uma ferramenta comum na filosofia, em que uma situação hipotética é usada para explorar e analisar conceitos filosóficos e suas implicações. Neste experimento mental, Mary é uma cientista brilhante, que nasceu e cresceu dentro de um laboratório, mas nesse laboratório, toda a decoração e todos os objetos que ela viu, desde que nasceu, eram em preto e branco, e não tinham cor visível, exceto o espectro do preto ao branco, incluindo os tons de cinza. Desde que nasceu, Mary se concentrou nos estudos sobre a luz e sobre a visão humana, aprendendo tudo o que há para saber sobre a física da luz, a biologia dos olhos e a neurociência do processamento visual. Ela sabe exatamente como a luz de diferentes comprimentos de onda interage com os cones e bastonetes nos olhos, como as informações visuais são processadas no cérebro e como as pessoas descrevem e diferenciam as cores.
+
+
+Pode-se dizer que Mary sabia todo o conhecimento científico, físico, biológico e neurológico sobre a luz e a visão que pudesse ser conhecido. No entanto, ela nunca experimentara a percepção direta das cores, em primeira pessoa, já que todos os objetos e materiais de estudo com os quais ela tivera contato, na vida, eram em preto e branco.
+
+
+Um dia, depois de já ter todo o conhecimento científico da luz e da visão, Mary é levada para fora do laboratório e, pela primeira vez na sua vida, ela vê uma maçã vermelha, a grama verde e o céu azul. A questão principal do experimento mental é: Mary aprendeu algo novo sobre a visão e as cores, ao ver as cores, em primeira pessoa, pela primeira vez? Se concordarmos que sim, o que ela aprendeu de novo foi a experiência direta e subjetiva das cores, ou seja, os qualia das cores. Isso implica os qualia serem acessíveis exclusivamente em primeira pessoa, e não poderem ser descritos fisicamente em terceira pessoa, fazendo parte da mente e dos estados mentais em primeira pessoa. Isso pode trazer questionamentos sobre a consistência do fisicalismo e outras posições na filosofia da mente.
+
+
+Apesar dos qualia geralmente serem entendidos como a experiência em primeira pessoa de estados mentais, não necessariamente todos os qualia que existem devem ser mentais. A questão da existência de qualia não-mentais é uma outra questão na filosofia, o experimento do quarto de Mary apenas se propõe a tornar evidente que qualia existem e são um tipo de experiência separada daquilo que possa ser fisicamente ou cientificamente descrito.
+
+
+- Hipótese dos Qualia Invertidos
+
+
+A hipótese dos qualia invertidos está presente em outro experimento mental, que visa explorar a natureza dos qualia e sua relação com a realidade física. Essa hipótese tem implicações mais radicais em relação ao experimento do quarto de Mary, pois questiona a natureza objetiva e a intersubjetividade das experiências qualitativas.
+
+
+Nesse experimento mental, imaginemos dois indivíduos, Alice e Bob, que têm sistemas visuais, incluindo os olhos, nervos e cérebro, fisicamente idênticos. Desde a infância, Alice e Bob foram ensinados da mesma forma a nomear as cores. Ambos chamam a grama de "verde" e o céu de "azul". No entanto, dentro de suas próprias mentes, as experiências qualitativas de Alice para as cores azul e verde são invertidas em relação às de Bob. Por exemplo, quando ambos olham para a grama, Alice tem a mesma experiência qualitativa da cor que Bob teria ao olhar para o céu, e vice-versa. No entanto, ambos ainda chamam a grama de "verde" e o céu de "azul", porque foram ensinados a fazer isso. Pelo ponto de vista em primeira pessoa, no entanto, sem que soubessem, eles estariam chamando cores diferentes de nomes diferentes.
+
+
+A questão principal é: Existe alguma maneira possível, por meio de análise física ou comportamental, de determinar se as experiências qualitativas de Alice e Bob são invertidas? Se a resposta for não, isso implica que os qualia são inerentemente qualitativos e não podem ser explicados com base na física, e o fisicalismo seria insuficiente para explicar esse aspecto da realidade, sendo, portanto, falso.
+
+
+A abordagem do fisicalismo em relação à hipótese dos qualia invertidos deve ser, portanto, de negá-la, considerando-a impossível, pois essa mera possibilidade já seria suficiente para refutar o fisicalismo. No fisicalismo, dois sistemas com a mesma estrutura física devem, necessariamente, ter o mesmo conteúdo qualitativo ou subjetivo. No entanto, para afirmar a impossibilidade dos qualia invertidos, seria necessário demonstrar a possibilidade de testar os qualia intersubjetivamente, ou demonstrar que essa hipótese seja teoricamente inconsistente. Porém, o próprio conceito de qualia se restringe apenas ao conteúdo da observação em primeira pessoa, e nunca em terceira. Uma outra forma de sustentar a impossibilidade dos qualia invertidos seria por dedução, provando-se que haja alguma inconsistência lógica ou teórica nessa hipótese.
+
+
+- Problemas do Fisicalismo
+
+
+Como fica evidente no experimento do quarto de Mary, os qualia parecem apenas poder ser descritos em primeira pessoa, qualitativamente, e não de uma forma física, quantitativa e em terceira pessoa. Isso levanta um desafio para o fisicalismo, já que, se a mente é inteiramente física, deveria ser possível descrever todas as suas propriedades e estados em termos físicos, quantitativos e em terceira pessoa. A existência dos qualia e sua natureza inerentemente subjetiva e qualitativa sugerem que há aspectos da mente que não podem ser completamente capturados ou explicados pela física, ou pelo menos exigem uma explicação de como podem ser totalmente físicos, que parece depender de uma abordagem mais ampla que apenas a física descrita em terceira pessoa.
+
+
+- Problema do Universo Zumbi
+
+
+Um dos argumentos contra o fisicalismo seria: se fenômenos físicos são diferentes dos qualia, e podem ser descritos sem os qualia, como fica evidente no experimento do quarto de Mary, então deve existir a possibilidade de um mundo possível em que exista um universo físico, sem os qualia, e esse universo poderia inclusive ser idêntico ao nosso, conter todas as pessoas e animais, mas sem suas experiências qualitativas em primeira pessoa.
+
+
+Esse ser hipotético que seria idêntico ao ser humano em todos os aspectos e comportamentos, mas sem os qualia, ou qualquer experiência real em primeira pessoa, é chamado de "zumbi filosófico". Podemos chamar esse universo hipotético que contém apenas objetos físicos, mas não qualia, de "universo zumbi". Se essas hipóteses forem realmente possíveis, elas levantam um desafio significativo para o fisicalismo. Se os zumbis filosóficos forem possíveis, então a existência de qualia e consciência pode ser independente da constituição física dos seres, o que sugere que a mente não seria apenas física, contrariando o fisicalismo.
+
+
+Se for possível a existência de coisas físicas sem a existência dos qualia, mesmo que essas coisas físicas tenham todas as propriedades e constituição física daquelas que contém qualia, então isso implica os qualia não serem físicos. Se, em adição à possibilidade de zumbis filosóficos, existem qualia na realidade, incluindo o que conhecemos como a mente em primeira pessoa e as experiências subjetivas, então o fisicalismo seria falso.
+
+
+- Respostas ao Problema dos qualia e Universo Zumbi
+
+
+Alguns fisicalistas respondem a esse problema afirmando que os qualia não existem como algo separado da física, e que a subjetividade e os qualia seriam ilusões, ou um simplesmente um ponto de vista pelo qual coisas físicas estariam sendo descritas. Apenas seria necessário identificar como os qualia corresponderiam aos objetos e processos físicos, como interações complexas entre neurônios e outras atividades cerebrais. O tipo de fisicalismo que propõe eliminar a ideia de qualia como algo existente, sendo os qualia apenas ilusões, pode ser chamada de "eliminativismo", enquanto o tipo de fisicalismo que afirma que os qualia são idênticos a objetos e processos físicos pode ser chamada de "fisicalismo de identidade". A seguir, veremos como diferentes tipos de fisicalismo tentam resolver os problemas apontados pelo conceito dos qualia.
+
+
+- Eliminativismo
+
+
+O eliminativismo é uma abordagem radical dentro do fisicalismo que nega a existência de qualia e estados mentais, afirmando que eles são meras construções teóricas ou ilusões. Segundo os eliminativistas, a linguagem cotidiana que usamos para descrever nossas experiências mentais e emocionais estaria profundamente equivocada e baseada em teorias populares ultrapassadas sobre a mente. Eles argumentam que, à medida que a ciência avança e compreendemos melhor o cérebro e o sistema nervoso, essas noções serão substituídas por descrições mais precisas e baseadas em processos físicos e neurobiológicos. Eliminativistas radicais propõem até mesmo reformular a linguagem que descreve a mente de forma a eliminar termos como “crença” e “desejo”. No entanto, como estamos tratando do problema difícil da consciência, e os qualia são o ponto de maior relevância neste tópico, vamos nos ater ao eliminativismo apenas em relação aos qualia neste momento. Além disso, já foi oferecida aqui uma explicação naturalista do que são crenças, desejos, ações e outras funcionalidades da mente, que são problemas fáceis da consciência, sendo inútil a ideia de eliminá-los em defesa do fisicalismo.
+
+
+O eliminativismo pode argumentar que o experimento do quarto de Mary não contenha realmente uma prova de que a razão não possa conhecer e explicar os qualia em terceira pessoa. Não sabemos o que a ciência, tecnologia e inteligência humana poderiam fazer caso evoluíssem muito além do seu estado atual. Talvez seja possível que esse entendimento evolua tanto que torne os qualia inteligíveis fisicamente.
+
+
+- Fisicalismo Reducionista
+
+O fisicalismo reducionista sustenta que os qualia e as experiências subjetivas possam ser reduzidos a estados e processos físicos. Ao contrário do eliminativismo, o reducionismo não quer eliminar os conceitos de qualia e estados mentais, mas apenas decompor esses conceitos e explicá-los com base em princípios físicos. Em outras palavras, os qualia e a consciência seriam completamente explicáveis em termos de processos neurais, químicos e físicos, que ocorrem no cérebro.
+
+
+É importante notar que pode haver outros tipos de reducionismo dentro da filosofia da mente, que não sejam fisicalistas, e se proponham a reduzir processos mentais e físicos a um princípio mais básico em comum, que componha ambos. Esse tipo de reducionismo pode ser chamado de "monismo neutro".
+
+
+- Fisicalismo de Identidade
+
+
+Há dois tipos de fisicalismo de identidade: o fisicalismo de identidade de tipo e o fisicalismo de identidade de token. O fisicalismo de identidade de tipo sustenta que para cada tipo de experiência mental ou qualia, existe um tipo específico de evento ou processo físico que corresponde a ele. Assim, todos os estados mentais de um tipo particular seriam idênticos a um tipo específico de evento ou processo físico. Por exemplo, a dor seria idêntica a um tipo específico de atividade neural, envolvendo certas relações entre certas moléculas e células específicas.
+
+
+Uma das principais objeções ao fisicalismo de identidade de tipo é o "argumento das múltiplas realizações". Esse argumento sugere que, ao contrário do que defende o fisicalismo de identidade de tipo, diferentes tipos de eventos ou processos físicos podem dar origem a experiências mentais ou qualia semelhantes. Em outras palavras, uma mesma experiência mental ou qualia pode ser realizada por diferentes tipos de processos físicos, e não apenas por um tipo específico de evento ou processo físico. Um exemplo disso é uma crença, como "o céu é azul". Pessoas com diferentes tipos de cérebro e estruturas neurais podem ter essa crença, pois as atividades cerebrais são determinadas pela transmissão de informação, e não pelo material que compõe o cérebro. Diferentes estruturas materiais podem transmitir a mesma informação, e implementar a mesma crença. Logo, a identidade de tipo seria falsa.
+
+
+Já o fisicalismo de identidade de token afirma que, para cada ocorrência individual e particular de uma experiência mental ou qualia (mas não o tipo como um todo), há uma ocorrência específica de um evento ou processo físico que corresponde a ela. A identidade de token permite, portanto, que um mesmo tipo de estado mental seja idêntico a diferentes tipos de estados físicos e neurofisiológicos do cérebro, em situações e pessoas diferentes. Por exemplo, dois indivíduos podem ter a mesma crença "o céu é azul" sem necessariamente terem a mesma configuração idêntica de moléculas no cérebro.
+
+
+Partindo do princípio que toda transmissão de informação acontece por meios físicos, e todo estado mental aconteça devido a um certo processamento de informação, o fisicalismo de identidade seria verdadeiro se os qualia também fossem idênticos a coisas físicas, em si e em primeira pessoa, e falso se os qualia forem algo não-físico, de alguma forma.
+
+
+No ponto de vista dos qualia serem algo físico, o universo ou pessoa zumbis seriam impossíveis, já que os estados mentais seriam idênticos a estados físicos (mesmo com base na informação transmitida por esses estados, e não na matéria) e, portanto, não seria possível a existência desses estados físicos sem que também fossem mentais. 
+
+
+No entanto, se os qualia fossem algo não-físico, cairíamos no dualismo, e no problema da impossibilidade de interação entre duas substâncias separadas, que, como já foi demonstrado, refuta o dualismo. Portanto, se os qualia existem, elas precisam ser feitos da mesma substância que as coisas físicas. Os estados neurofisiológicos e os qualia devem ser compostos da mesma substância, para que o dualismo seja evitado. Com base nisso, podemos concluir que um universo zumbi fisicamente idêntico a um universo com qualia seria impossível, pois ambos não poderiam ser separados, já que isso implicaria em dualismo.
+
+
+Mesmo assim, ainda precisamos resolver o problema de que os qualia não parecem poder ser descritos em termos físicos, como objetos, mas apenas conteúdo em primeira pessoa. O fisicalismo de identidade de token precisaria ser capaz de provar que certos eventos em terceira pessoa sejam idênticos a certos estados qualitativos, o que não parece ser possível de acordo com o experimento do quarto de Mary. Principalmente, se a composição dos qualia em estados mentais específicos depender da informação transmitida dentro do cérebro, o que parece ser o caso, e não apenas dos estados físicos que a transmitem, isso tornaria a teoria de identidade de token insuficiente para explicar o que são os qualia e como se compõem de diferentes formas.
+
+
+Talvez os qualia sejam idênticos a componentes físicos apenas em um nível extremamente simples e fundamental, mas parecem ser dependentes da transmissão e processamento de informação em um nível complexo e sofisticado. Portanto, a identidade de token parece ser insuficiente para explicar os qualia.
+
+
+- Emergentismo
+
+
+O emergentismo propõe que os qualia surgem a partir de uma complexa organização de componentes físicos. Componentes físicos mais simples não teriam qualquer conteúdo qualitativo, e haveria um certo grau de complexidade suficiente no qual o conteúdo qualitativo surgisse em um sistema físico. Esse princípio implica a ideia de que o todo é maior do que a soma de suas partes, ou seja, que há propriedades e características emergentes de sistemas complexos que não podem ser previstas ou explicadas apenas pela compreensão das partes que o compõem.
+
+
+Para o emergentismo, a consciência e os qualia seriam propriedades emergentes de sistemas físicos complexos, como o cérebro humano. Assim como a "molhabilidade" é uma propriedade emergente de um conjunto de moléculas de água e não de uma única molécula, os qualia seriam uma propriedade emergente do conjunto de neurônios e sinapses que formam o cérebro.
+
+
+Um problema com essa abordagem é que, embora ela possa explicar como os qualia emergem de sistemas complexos, ela ainda não esclarece a natureza exata dos qualia ou como eles poderiam ser reduzidos a, ou explicados em termos de, processos físicos. O surgimento deles seria misterioso ou mágico, e o grau de complexidade necessário para seu surgimento, determinado arbitrariamente, devido à falta de uma explicação de como coisas não-qualitativas, somadas, poderiam formar coisas qualitativas.
+
+
+O emergentismo também poderia cair em uma forma de dualismo, chamado "dualismo de propriedades", onde os qualia seriam uma propriedade emergente não redutível do sistema nervoso. Se os qualia são uma propriedade do sistema nervoso que não é idêntica a nenhuma propriedade física, então eles seriam uma propriedade não física, e isso seria uma forma de dualismo. 
+
+
+- Behaviorismo
+
+
+Dentro da filosofia da mente, o behaviorismo é uma abordagem que se concentra no comportamento observável, em vez de estados mentais internos ou qualia. De acordo com o behaviorismo, a consciência e os qualia não são objetos de estudo científico, pois não podem ser observados diretamente. Em vez disso, os behavioristas argumentam que a ciência deve se concentrar em comportamentos que podem ser medidos e observados, de forma a explicar os estados mentais.
+
+
+O behaviorismo não nega a existência de qualia ou estados mentais internos, mas argumenta que eles não são relevantes para a ciência da mente. Em vez disso, os behavioristas propõem que a mente deve ser entendida em termos de comportamentos e respostas a estímulos ambientais. Por isso, para o behaviorismo, estados mentais seriam idênticos a comportamentos.
+
+
+O behaviorismo também pode ser considerado um tipo de eliminativismo epistêmico, já que, mesmo que não negue a existência dos qualia, ele propõe que se ignore toda a subjetividade e qualidade, e simplesmente se use as palavras referentes à mente para se referir a eventos físicos e comportamentais.
+
+
+Podemos refutar o behaviorismo da seguinte forma: sabemos que estados mentais amplamente diferentes podem produzir os mesmos comportamentos. Três pessoas poderiam fazer a mesma atividade, por exemplo, jardinagem, uma delas porque precisa trabalhar para ganhar dinheiro, outra porque tem aquilo como hobby, e outra porque quer se livrar de insetos ou pragas no seu jardim. Essas motivações envolvem crenças, desejos e estados mentais diferentes, mas são capazes de produzir o mesmo comportamento observável. Portanto, o behaviorismo na filosofia da mente é falso.
+
+
+- Dualismo de Propriedades
+
+
+Enquanto o dualismo de substância, ou dualismo cartesiano, afirma que existem duas substâncias distintas, o físico e o mental, o dualismo de propriedades sugere que, embora exista apenas uma substância - a substância física - ela possui dois tipos de propriedades: físicas e mentais. Tipicamente nessa posição, as propriedades físicas seriam inerentes à realidade, enquanto as propriedades mentais seriam emergentes, mas a estrutura principal da ideia é que existe apenas uma substância, com duas propriedades diferentes e irredutíveis entre si.
+
+
+O problema com o dualismo de propriedades é que as propriedades físicas, como massa, densidade, velocidade, etc. são todas derivadas das mesmas leis naturais e universais. Se propriedades mentais forem redutíveis a leis físicas, seria inadequado classificá-las como um tipo não-físico. Se, por outro lado, propriedades mentais não forem redutíveis a leis físicas, seria racional concluir que essas leis físicas não sejam fundamentais, e algo mais fundamental deveria basear ambos os tipos físico e mental. Pois uma dualidade irredutível entre si, como vimos no dualismo de substância, falha como explicação racional da realidade. O dualismo de propriedades, ao postular um segundo tipo de propriedade diferente da física, não oferece uma explicação para os qualia, mas sim um salto inexplicável do físico ao não-físico, que é desnecessário, já que todas as coisas reais deveriam ser redutíveis a um mesmo princípio.  
+
+
+Algumas versões de dualismo de propriedade, com o objetivo de evitar o problema da interação no dualismo, defendem o epifenomenalismo, para o qual os eventos mentais ou qualitativos são apenas subprodutos que não interagem ou interferem com as leis da física.
+
+
+- Epifenomenalismo
+
+
+O epifenomenalismo é uma posição no campo da filosofia da mente que defende a ideia de que os eventos mentais ou qualitativos são supervenientes e causados por eventos físicos, mas não têm, por sua vez, qualquer efeito causal sobre esses eventos físicos. A experiência qualitativa no epifenomenalismo é vista como uma espécie de subproduto inútil de processos físicos, como a atividade cerebral - um "epifenômeno". Essa ideia pode ser defendida como solução ao problema da interação entre os qualia e a física, simplesmente ao negar que essa interação aconteça.
+
+
+Um dos problemas com o epifenomenalismo é que ele defende a possibilidade de uma causalidade de mão única. Uma causa e um efeito se constituem de uma transferência de energia, que por sua vez continua causando novos efeitos, já que energia é potencial de mudança, ou seja, de causar novos efeitos. A ideia de um efeito que, por sua vez, não tem poder causal, contraria a lei da conservação de energia, um princípio fundamental na física. Neste sentido, a própria existência de um epifenômeno que não possui poder causal contradiz as noções mais básicas do que é a causalidade.
+
+
+Outro problema seria: por que a seleção natural teria favorecido uma característica do cérebro que fosse completamente inútil e que não tivesse nenhum impacto sobre o comportamento físico? Se todas as características do cérebro são formadas pela seleção natural, que favorece o melhor uso possível da energia disponível para a adaptação da espécie, então não haveria explicação racional de por que o cérebro teria evoluído um gasto de energia para gerar um efeito inútil.
+
+
+Por essas razões, pode-se concluir que o epifenomenalismo não se sustenta como uma teoria racionalmente justificada, e por isso pode ser considerado falso.
+
+
+- Funcionalismo
+
+
+O funcionalismo é uma posição na filosofia da mente que afirma que estados mentais são idênticos a suas funções causais ou papéis funcionais, independentemente de sua implementação física. Ou seja, o que importa para a identidade de um estado mental é o que ele faz, como ele se relaciona causalmente com outros estados mentais, estímulos sensoriais e comportamento, e não a sua constituição física específica. Assim, o funcionalismo é compatível com a ideia das múltiplas realizações, pois diferentes sistemas físicos, biológicos, computacionais ou sintéticos poderiam realizar a mesma função mental.
+
+
+Uma ilustração do funcionalismo é a analogia do software e do hardware. Um programa de computador (software) pode ser executado em diferentes dispositivos com diferentes tipos de hardware, mas a função do programa permanece a mesma. No funcionalismo, o software seria análogo aos estados mentais, e o hardware seria análogo aos substratos físicos em que os estados mentais são implementados.
+
+
+- Computacionalismo
+
+
+O computacionalismo é um tipo de funcionalismo que afirma que a mente ou, mais amplamente, qualquer sistema cognitivo, pode ser entendido como um sistema computacional. De acordo com o computacionalismo, estados mentais são idênticos a estados computacionais e processos que manipulam símbolos e informações. Nesse sentido, a mente seria como um software, ou uma rede de softwares interconectados, que executa algoritmos, processa informações ou até realiza aprendizado, que seriam baseados, nesse ponto de vista, em arquiteturas computacionais. Assim como no funcionalismo, isso implica a possibilidade dos estados mentais serem implementados em qualquer tipo de material, seja ele biológico, sintético, ou de qualquer tipo capaz de realizar as operações computacionais que componham esses estados mentais.
+
+
+- Conexionismo
+
+
+Esta é uma abordagem baseada em redes que considera a mente e o cérebro como uma rede complexa de neurônios interconectados. O conexionismo sugere que o conhecimento é armazenado não em regras ou algoritmos específicos, mas nas conexões entre os neurônios. Essa perspectiva é muitas vezes associada à aprendizagem profunda e às redes neurais artificiais, que tentam replicar a maneira como se acredita que os neurônios no cérebro interagem e aprendem com a experiência. Ao contrário do computacionalismo, que concebe a mente como um computador simbólico, o conexionismo enfatiza as interações paralelas e distribuídas entre unidades de processamento simples, como neurônios e sinapses.
+
+
+Nessa abordagem, o aprendizado e o conhecimento são vistos como sendo emergentes de muitas interações entre essas unidades de processamento. A inteligência, a memória e a cognição são consideradas resultados de inúmeros processos neurais paralelos, em vez de processos sequenciais e simbólicos. Dessa forma, os modelos conexionistas, também conhecidos como redes neurais artificiais, tentam emular a maneira como o cérebro humano processa informações.
+
+
+No entanto, é importante notar que computacionalismo e conexionismo não são necessariamente mutuamente excludentes. Sistemas booleanos e simbólicos podem simular redes neurais, e vice-versa, e a mente pode funcionar como um sistema híbrido, podendo combinar elementos booleanos, simbólicos e neurais. A computação convencional, com sua ênfase em algoritmos e estruturas lógicas, pode ser útil para representar e resolver problemas bem definidos e estruturados. Redes neurais, por outro lado, podem ser mais adequadas para lidar com tarefas que envolvem reconhecimento de padrões, aprendizado adaptativo e processamento de informações de forma não-linear e distribuída. Ambos podem evoluir como capacidades em organismos conscientes.
+
+
+Independentemente do conexionismo e computacionalismo serem capazes de solucionar os problemas difíceis da consciência, eles ainda podem ser bem-sucedidos em resolver problemas fáceis do funcionamento da mente em terceira pessoa, observáveis pela neurociência. É importante fazer essa distinção, pois o sucesso em resolver problemas fáceis da consciência não implica na solução dos difíceis.
+
+
+- Qualia na Teoria de Identidade, Funcionalismo e Computacionalismo
+
+
+Os qualia apresentam um desafio à teoria de identidade, funcionalismo e computacionalismo, pois o seu conteúdo qualitativo em primeira pessoa não parece ser explicável em termos físicos, funcionais ou computacionais, já que, no experimento mental do quarto de Mary, fica claro que, apesar de Mary saber tudo sobre a física, funcionalidade e processos computacionais ou neurais envolvendo a visão, isso ainda seria diferente de ver as cores em primeira pessoa.
+
+
+De acordo com o funcionalismo, os qualia seriam determinados por processos funcionais, que no caso do computacionalismo ou conexionismo, também seriam computacionais ou neurais.
+
+
+Um dos maiores problemas com isso é que processos funcionais, computacionais ou neurais são complexos, o que implica todo conteúdo dos qualia, no caso do funcionalismo, ser irredutível a algo simples. Por alguma razão, algum certo grau de complexidade de coisas sem conteúdo qualitativo precisaria ser suficiente para produzir os qualia, que são conteúdo qualitativo. Esta transição da ausência de qualia para a presença de qualia é o "problema da emergência". O grau de complexidade necessário para que o não-qualitativo causasse os qualia deve ser, necessariamente, arbitrário, e não é uma explicação, mas sim um salto lógico.
+
+
+Evitando essa lacuna entre o quantitativo e o qualitativo, na qual parece impossível determinar um critério pelo o qual um pudesse causar o outro, uma outra posição na filosofia da mente propõe que os qualia sejam intrínsecos à física em geral. Os qualia não poderiam, de acordo com essa visão, emergir da física, mas estariam presentes em todas as coisas físicas em um nível fundamental, mesmo em formas primitivas e não complexas o suficiente para serem considerados mentais. Essa posição é o pampsiquismo.

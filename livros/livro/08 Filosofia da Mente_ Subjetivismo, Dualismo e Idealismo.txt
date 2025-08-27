@@ -1,0 +1,141 @@
+﻿- Filosofia da Mente
+
+
+A filosofia da mente é uma área, na filosofia, que busca explicar o que é a mente e a consciência, e qual a sua relação com o restante da realidade. Esta disciplina investiga questões como a natureza dos estados mentais, as propriedades da consciência, a relação entre mente e corpo, e o papel da linguagem e da percepção na formação do pensamento. A filosofia da mente é uma área interdisciplinar que se conecta a outras áreas da filosofia, como a epistemologia, a metafísica e a ética, bem como a campos como a psicologia, a neurociência e a inteligência artificial.
+
+
+Um dos principais problemas abordados pela filosofia da mente é o "problema mente-corpo", que se refere à questão da existência da mente e da matéria, se uma das duas tem a existência mais fundamental que a outra, ou é derivada da outra. O problema mente-corpo se relaciona com o âmbito da metafísica, que é o estudo na filosofia do que fundamenta a realidade, e a ontologia, que seria o estudo do que fundamenta a existência. Aquilo que seria o fundamento mais básico da realidade ou da existência é chamado, na filosofia, de "substância", não da mesma forma que substâncias químicas, mas no sentido de um conceito filosófico que seja aquilo que haveria de mais fundamental na realidade.
+
+
+Três posições comuns na história da filosofia, mas não as únicas possíveis, são o idealismo, dualismo e fisicalismo, sendo as duas primeiras posições subjetivistas, pois tratam a mente e o sujeito como uma substância fundamental da realidade. A seguir, vamos analisar as posições subjetivistas do dualismo e idealismo.
+
+
+- O que é a mente?
+
+A própria palavra "mente” pode ser definida de diversas formas, e um dos motivos pelos quais não há uma definição universalmente aceita pelos filósofos é porque as próprias divergências na explicação e natureza do que se chama de "mente” afetam as definições adotadas. Mesmo assim, pode-se tentar definir "mente” da forma mais abrangente possível, que se aplique simultaneamente às diferentes posições filosóficas que se propõem a explicá-la. Dentro da filosofia da mente, a "mente” seria a coisa que têm as seguintes características: a percepção espaço-temporal, ou interpretação de dados espaço-temporais, a cognição, ou capacidade de usar a memória, aprendizado ou raciocínio para regular o próprio comportamento, fazer previsões ou inferências, e os estados em primeira pessoa, em que a mente existe para si mesma e observa seus próprios estados mentais internamente.
+
+
+- Subjetivismo, Dualismo e Idealismo
+
+
+Todo o conteúdo anterior deste livro teve como objetivo estabelecer um fundamento naturalista e reducionista para a ordem presente na natureza, ação, cultura e tecnologia. Dentro da praxeologia, o objetivo foi estabelecer uma teoria da ação livre de qualquer subjetivismo ou sobrenaturalismo. Como veremos em partes posteriores, essa explicação naturalista da ordem e da transmissão de informação não explica apenas a ação humana, mas também redes mais amplas que o indivíduo, como a cultura, o capital e a rede da tecnologia da informação, o ciberespaço.
+
+
+Definimos "subjetivismo", aqui, como a posição de tratar o sujeito, e consequentemente a ação, que é o comportamento subjetivo, como algo irredutível, inexplicável por mecanismos e leis naturais, ou, de certa forma, separado da natureza objetiva, tendo uma existência ou funcionamento especiais. O subjetivismo trata o sujeito como básico e como ponto de partida para a explicação de pelo menos alguns âmbitos, como os âmbitos da mente e da ação, e seus derivados.
+
+
+- Subjetivismo
+
+
+O subjetivismo se manifesta de diferentes maneiras e se aplica a diferentes âmbitos. Por exemplo, o tipo de subjetivismo que foi abordado até aqui e que este livro se propôs a refutar pode ser chamado de subjetivismo praxeológico. O subjetivismo praxeológico trata a ação humana como algo fundamentalmente separado da natureza física e objetiva, propondo que a ação seja um fenômeno exclusivamente subjetivo e autocontido.
+
+
+O subjetivismo praxeológico defende que o estudo da ação humana deve levar em conta principalmente as experiências internas, em primeira pessoa, e as perspectivas individuais dos agentes, e trata essa experiência direta, interna e subjetiva da ação, e seu funcionamento causal, como algo fundamentalmente diferente do funcionamento de objetos, da natureza e da física.
+
+
+O subjetivismo praxeológico leva a um tipo de dualismo causal, que divide todas as relações entre causa e efeito em dois tipos mutuamente excludentes: as relações causais objetivas, que ocorrem no mundo físico e natural, regidas pelas leis da física, que são observáveis apenas em terceira pessoa, e do outro lado, as relações causais subjetivas, causadas por propósito e escolha, observáveis apenas em primeira pessoa é determinadas pela mente, não pela física.
+
+
+Podemos afirmar, dessa forma, que o subjetivismo praxeológico vem acompanhado de algum tipo de dualismo (divisão fundamental entre mente e matéria) ou idealismo (posição que trata a mente como mais fundamental que a natureza física). Esse dualismo pode ser metafísico e ontológico, afirmando que a mente é um tipo de coisa cuja própria existência é imaterial e independente da matéria, ou epistemológico, afirmando que o conhecimento e compreensão da mente e das ações humanas são fundamentalmente diferentes e separados do conhecimento e compreensão do mundo físico e natural.
+
+
+Podemos considerar que a refutação do subjetivismo praxeológico acontece em duas etapas. Uma delas seria a de explicar a origem natural e objetiva de todos os componentes que compõem a estrutura da ação, o que já foi feito aqui, demonstrando-se que esses componentes se formam naturalmente com a evolução de organismos, inclusive a capacidade semântica que origina crenças, desejos e preferências, que determinam as escolhas. Essa demonstração da origem evolutiva dos componentes que formam a ação é importante para deixar claro que a ação não pertence a uma categoria especial separada do restante da natureza, mas sim contém uma certa combinação de características derivadas da evolução. A segunda etapa seria tratar do problema difícil da consciência, e explicar por que a ação existe em primeira pessoa, como uma experiência subjetiva e qualitativa. Vamos fazer isso com argumentos dentro da filosofia da mente, e mostrar que essas experiências em primeira pessoa também são naturais e não contradizem o naturalismo praxeológico.
+
+
+Outras formas de subjetivismo seriam o subjetivismo ontológico e epistemológico, que tratam a mente, de alguma forma, como especial e separada da natureza física nos âmbitos da realidade ou do conhecimento. Também existem os subjetivismos econômico e ético, que tratam a economia ou a ética, ambas áreas derivadas da praxeologia, como algo baseado apenas no sujeito de forma irredutível, e não baseado em fatos objetivos. A seguir serão apresentados argumentos em oposição a todas essas formas de subjetivismo. Os subjetivismos econômico e ético serão tratados mais adiante, quando esses assuntos forem abordados.
+
+
+- Problemas do Subjetivismo Praxeológico
+
+
+O subjetivismo praxeológico enfrenta diversos problemas e desafios, tanto teóricos quanto práticos. Um dos principais problemas é o abismo epistemológico que ele cria entre a ação humana e o mundo natural. Ao considerar a ação humana como algo fundamentalmente diferente do funcionamento do mundo físico, ou ao considerar o ser agente e mental como mais básico que a natureza objetiva, torna-se difícil entender como as ações dos indivíduos estão integradas e interagem com o mundo natural e social, e também torna-se impossível basear a estrutura da ação e da mente em fundamentos simples e objetivos.
+
+
+As bases do subjetivismo praxeológico podem ser o idealismo, a noção de que toda a realidade, ou todo o conhecimento, se baseiam na mente e na subjetividade, ou o dualismo, que afirma que a realidade ou o conhecimento se dividem entre os seus aspectos mental e natural, e que essa divisão não pode ser reduzida a um princípio comum. Vamos tratar dos problemas ontológicos e epistemológicos do idealismo e do dualismo a seguir.
+
+
+- Problemas do Idealismo
+
+
+O idealismo metafísico, ou ontológico, afirma que o componente mais básico da realidade é a mente, enquanto o idealismo epistemológico afirma que todo o conhecimento sobre a realidade deve se adequar a estruturas que são fundamentalmente mentais. A seguir, serão apresentados argumentos de por que seria racional rejeitar ambos. É importante notar que “idealismo” é usado aqui no sentido moderno, em que a mente é tratada como fundamental, diferente do idealismo platônico, que trata as formas como fundamentais, e que será abordado mais adiante.
+
+
+- Problemas do Idealismo Ontológico
+
+
+Se a realidade fosse composta apenas de mentes, não haveria explicação de por que essas mentes seriam limitadas, sendo os meios de sua ação sempre escassos. Está pressuposto em todo o funcionamento da mente que ela é limitada pela escassez. Se tudo que existisse fossem mentes, elas deveriam poder fazer qualquer coisa que quisessem pela sua vontade, sem limites, e precisariam ser onipotentes.
+
+
+A experiência a posteriori da escassez e falta de recursos, e de desejos não satisfeitos, já prova que a mente não é onipotente e que, portanto, deve existir algo não-mental limitando quais recursos estão ou não disponíveis. Mas a priori, a onipotência é um conceito falho, pois leva a contradições, como a possibilidade da mente onipotente criar um objeto imovível. Se uma mente não puder criar um objeto imovível, ela não seria onipotente, mas se ela puder criar esse objeto, ela não poderá movê-lo, e portanto também não seria onipotente. Isso prova que a onipotência é impossível.
+
+
+Uma resposta dada pelos teístas a esse argumento é a de que a onipotência não permitiria fazer algo logicamente contraditório. Porém, a ideia de um objeto imovível não é logicamente contraditória, o que é contraditório é precisamente a onipotência. Além disso, se a onipotência estiver sujeita às leis da lógica, então as leis da lógica, que são naturais, têm prioridade em determinar a realidade e, portanto, a realidade não seria determinada pela vontade da mente, mas sim por leis naturais.
+
+
+Na hipótese de toda a realidade ser criada por uma única mente, incluindo as leis naturais, essa mente precisaria criar a realidade e seus limites pela sua própria vontade. Mas o próprio conceito de vontade implica algo estar em falta para essa mente, sendo escasso, e portanto a escassez não pode ser resultado da vontade de uma mente, pois ela precisaria existir antes da vontade. A escassez, necessária para toda ação, não poderia ter sido criada pela vontade de uma mente, ela existe independente de qualquer vontade. Esse pode ser chamado de problema da limitação no idealismo.
+
+
+Outro problema com o idealismo é que ele considera a mente como componente fundamental da realidade, mas esse componente fundamental deveria ser simples, para que se pudesse explicar as coisas complexas com base nesse componente fundamental simples. Porém, a mente, ou a consciência, não são coisas simples. A mente é uma entidade complexa que consiste em muitos processos e estruturas cognitivas interconectadas, que exigem sua própria explicação. Por sua vez, a explicação racional de como surgem os componentes que formam a mente e seu funcionamento é evolutiva e naturalista, contradizendo o idealismo, já que a mente é derivada da natureza, e não o contrário. Portanto, a mente não pode ser um aspecto fundamental da realidade, mas sim algo complexo que emerge de processos e componentes mais simples e fundamentais.
+
+
+Aquilo que é fundamental deve ser irredutível e simples, enquanto o que é complexo exige explicações que devem se basear em princípios básicos e simples. Mas a mente deve ser complexa para que possa processar informação de forma inteligente e agir, e deve pressupor diversas estruturas e causas que expliquem a sua existência.
+
+
+- Problemas do Idealismo Epistemológico
+
+
+O idealismo epistemológico, ou idealismo transcendental, é exemplificado na posição defendida por Kant, que afirma que todo o conhecimento humano é mediado pelas estruturas inerentes à mente e, portanto, a realidade como é conhecida pelos seres humanos é moldada pela estrutura mental. Para Kant, o espaço, o tempo, a causalidade e todas as estruturas conforme as quais o ser humano pode conceber, perceber ou conhecer a realidade, seriam mentais, e não intrinsecamente físicas e independentes da mente.
+
+
+Esse tipo de idealismo pode ser mais sutil e difícil de refutar comparado ao idealismo ontológico ou metafísico, pois ele não nega a existência de uma realidade independente da mente, mas sim afirma que o conhecimento dessa realidade está sempre mediado pelas estruturas mentais. No entanto, alguns problemas com essa posição podem ser apontados.
+
+
+O idealismo transcendental leva a pelo menos uma forma de subjetivismo. Pode-se argumentar que, se a realidade é moldada pela estrutura da mente humana, então a verdade e a objetividade seriam conceitos puramente mentais e não aplicáveis a uma realidade independente da mente. As estruturas básicas da realidade como a conhecemos seriam subjetivas, e não objetivas, sendo a objetividade derivada de bases subjetivas, e não o contrário. As características evolutivas de como organismos usam recursos para desempenhar funções também poderiam ser consideradas interpretações da mente, e não uma realidade objetiva externa, o que poderia servir como base para o subjetivismo praxeológico. Pois nesse ponto de vista, é a mente agente que interpreta, com bases semânticas, o funcionamento de organismos em geral, e não esse funcionamento geral que fornece uma base objetiva e natural para a ação e a interpretação semântica.
+
+
+Uma implicação disso seria a de que as estruturas da mente e como ela funciona não poderiam ser decompostas em princípios totalmente objetivos, já que tudo que é conhecido como objetivo teria que se basear nas estruturas de como a mente interpreta a realidade. As estruturas de tudo que é objetivo seriam subjetivas, e não o contrário. Como a mente é complexa, e sua estrutura contém várias partes interdependentes, como as que Kant identificou como categorias básicas da estrutura do entendimento e percepção, o idealismo transcendental impede que se decomponham essas partes da estrutura da mente em partes simples e princípios objetivos que as componham. Em vez disso, seria preciso aceitar dogmaticamente que essas categorias existem e são a base subjetiva de tudo, já que não poderiam ser reduzidas a um princípio objetivo e simples. Isso tornaria impossível uma explicação totalmente naturalista, reducionista e racionalista da realidade e da própria mente.
+
+
+Mas basear a realidade em uma complexidade irredutível não é explicar a realidade, mas sim tornar essa explicação misteriosa e dogmática. Isso já é um motivo suficiente para rejeitarmos o idealismo epistemológico. Explicar a realidade e a mente com base em princípios simples e fundamentais exige que esses princípios sejam objetivos, e não subjetivos.
+
+
+O idealismo epistemológico enfrenta o problema da objetividade do conhecimento. Se todo o conhecimento é mediado pelas estruturas mentais, como podemos explicar a concordância entre diferentes observadores independentes? O fato de que diferentes pessoas podem concordar sobre a descrição de eventos e objetos, mesmo quando não têm contato entre si, sugere que há algo objetivo e independente das estruturas mentais individuais que governa a realidade. Além disso, o progresso científico e tecnológico depende dessa objetividade, já que diferentes pesquisadores em diferentes lugares e épocas conseguem construir teorias e inventar dispositivos que funcionam de acordo com leis e princípios comuns. As leis da lógica, matemática e física são, da mesma forma, objetivas e parecem ser independentes da mente.
+
+
+Um idealista transcendental poderia responder, a isso, que a estrutura da mente é apenas uma, comum a todas as mentes, e por isso, todos os seres humanos perceberiam a realidade de maneira semelhante, funcionando pelas mesmas leis. No entanto, isso exigiria uma explicação de como a estrutura de todas as mentes poderia ser exatamente a mesma, e de por que essa estrutura teria precisão em descrever a realidade de uma forma correta e consistente. A única forma racional de explicar por que a mente teria uma estrutura adequada a perceber a realidade seria com base na evolução, caso contrário teria que se apelar a alguma forma de criacionismo, mágica ou ausência de explicação do que fizesse a mente ser dessa forma. Mas explicar a mente com base na evolução é basear a estrutura da mente na natureza objetiva, e não o contrário. Mesmo assim, a mente humana é imperfeita para o conhecimento, possui vieses cognitivos e limitações na sua capacidade, ou facilidade, em interpretar a realidade racionalmente. Isso é facilmente explicado pela evolução, que adaptou a mente humana para a sobrevivência e evolução no ambiente em que evoluiu, em que o conhecimento racional e científico não era a maior prioridade, e no qual os vieses cognitivos irracionais podem ter ajudado a espécie.
+
+
+Sabemos que a estrutura da mente humana é o resultado da evolução da espécie em um certo ambiente, e que outros tipos de espécie com estruturas mentais diferentes são possíveis. É possível criar, por exemplo, inteligências artificiais que não tenham sentidos e uma percepção do espaço da mesma forma que o ser humano. Mesmo assim essas inteligências artificiais e outros tipos possíveis de espécies inteligentes seriam capazes de ter conhecimento, assim como o ser humano. Isso, por si só, não refuta o idealismo transcendental, mas indica que as categorias apontadas por Kant podem não ser absolutas para todas as mentes, mas variar de acordo com a espécie de ser inteligente e consciente.
+
+
+Segundo o idealismo transcendental, a realidade pode ser dividida em fenômeno e númeno. O fenômeno seria a aparência da realidade acessível pela percepção e entendimento do sujeito, enquanto o númeno seria a realidade em si mesma, independente das estruturas mentais. Segundo o idealismo transcendental, o númeno não poderia ser conhecido, e a realidade só poderia ser conhecida através dos fenômenos que aparecem para o sujeito. Além dos problemas já apresentados, isso traz a implicação de que nada que a mente possa conhecer seria a realidade em si, mas apenas aparências. O próprio conhecimento da mente sobre si mesma, e sobre a estrutura da sua interpretação do fenômeno, também não seria o conhecimento de algo-em-si, e assim não restaria nenhuma base na própria realidade para qualquer conhecimento possível ao sujeito. Mas todo o conhecimento racional e científico que temos indica que leis como a lógica, a matemática e as leis fundamentais da física são absolutas e intrínsecas à realidade em geral, sendo uma base sólida para conhecer a realidade, e que devem portanto se basear na realidade em si, e não ser meras ilusões presentes apenas em aparências.
+
+
+A própria mente também pode conhecer pelo menos alguns aspectos de si mesma em primeira pessoa. Mas o conceito de aparência implica aquilo que é representado pela aparência estar sendo percebido em terceira pessoa. O conhecimento de algo em primeira pessoa não pode ser uma aparência e deve, portanto, ser um conhecimento, em algum grau, da coisa-em-si, o númeno.
+
+
+- Problemas do Dualismo Ontológico
+
+
+O dualismo ontológico, ou metafísico, como o defendido por Descartes, afirma que a realidade é composta por dois tipos fundamentais de substâncias: a mental e a física. Segundo essa teoria, a substância física compõe o mundo físico e é estudada pelas ciências naturais, enquanto a mente, composta por substância pensante, é responsável por nossos pensamentos, emoções e experiências conscientes. Esses dois tipos de substância, no dualismo ontológico, têm sua existência e realidade fundamentalmente separadas e excludentes entre si. Nesse ponto de vista, a ação, que é um comportamento feito propositalmente pela mente, teria um tipo de existência fundamentalmente separada das causas e efeitos físicos e naturais, não podendo ser a ação baseada em princípios naturais e objetivos, e resultando inevitavelmente no subjetivismo praxeológico.
+
+
+É importante deixar claro que estamos abordando, agora, o dualismo entre as substâncias mental e física, diferente do dualismo de Platão, entre as formas abstratas e concretas, ou o dualismo de Aristóteles, entre forma e matéria. Abordaremos os problemas envolvendo forma e matéria em capítulos posteriores.
+
+
+Um dos maiores problemas do dualismo ontológico é o problema da interação. No dualismo ontológico, a realidade é dividida em duas substâncias simples (pois são componentes fundamentais da realidade), fundamentais e irredutíveis entre si. Se são simples e indecomponíveis, mas diferentes entre si, então não poderia haver nada em comum entre ambas, o que inclui a própria causalidade, ou propriedade de causar efeitos e ter efeitos causados sobre si. Pois, se duas substâncias tivessem uma propriedade em comum, elas poderiam ser decompostas em partes, sendo uma das partes o componente em comum, e outra um componente diferente. Mas "substância" é definida como o componente da realidade que não pode ser decomposto adiante. E logo, duas substâncias diferentes não poderiam interagir ou fazer parte do mesmo universo. Esse é o problema da interação no dualismo ontológico, que prova que essa hipótese é inconsistente e impossível, e que portanto a mente e as coisas físicas devem ser redutíveis a um princípio comum a ambas, para que possam fazer parte da mesma realidade e interagir entre si.
+
+
+- Problemas do Dualismo Epistemológico
+
+
+Chamamos aqui de dualismo epistemológico a posição de que não apenas existem dois métodos diferentes para se obter conhecimento, mas cada um desses métodos deve ser usado em um âmbito diferente, sendo esses âmbitos fundamentalmente separados. Esses dois métodos seriam o método a priori, ou dedutivo, e o método a posteriori, que é baseado em dados e evidências concretas. O objetivo deste texto não é se opor à dualidade entre os métodos epistemológicos a priori e a posteriori, ambos os métodos são considerados aqui válidos, se usados de forma adequada, sendo que este livro se propõe a usar o método a priori para fazer deduções que sustentem o seu conteúdo. Mas o que é contestado aqui é a ideia de que cada método se aplique a um âmbito separado, por exemplo, de que o método a priori se aplique apenas a assuntos da mente, enquanto o método a posteriori se aplicaria apenas a assuntos da natureza. Ambos os métodos podem se aplicar a ambas as áreas de estudo, e essas áreas não são fundamentalmente separadas.
+
+
+A física teórica inclui muitos raciocínios dedutivos, baseados em modelos abstratos, que descrevem corretamente a realidade devido à sua consistência lógica e matemática. A física é uma ciência natural, e que usa ambos raciocínios a priori e a posteriori. Muito do que sabemos sobre a evolução pode se basear em argumentos dedutivos. O fato de uma área da ciência ser física ou natural não exclui dela o método a priori e dedutivo. Da mesma forma, a mente e a ação podem ser estudadas pelo ponto de vista dedutivo, da sua estrutura básica, como é predominante na escola austríaca de economia e na praxeologia misesiana, mas também é possível fazer observações a posteriori sobre a forma como o ser humano age, que desejos e preferências o ser humano tende a adotar, e como acontecem certos fatos e tendências econômicas, e essas observações, se feitas corretamente, não entrarão em conflito com o conhecimento a priori da estrutura da ação.
+
+
+Essa separação epistemológica leva algumas pessoas ao erro de acreditar que não se pode fazer previsões sobre escolhas feitas pela ação humana, por serem subjetivas e não poderem ser estudadas pelo método a posteriori, que se aplicaria apenas às ciências naturais. Isso é falso, é claro que podemos fazer previsões probabilísticas sobre escolhas e preferências humanas, por exemplo, podemos prever que humanos provavelmente irão preferir comer chocolate a comer terra. É racional afirmar isso mesmo sem dados muito complexos, já que chocolate tem muito mais energia aproveitável pela digestão humana que a terra, e o instinto humano evoluiu para absorver energia do ambiente, gerando essa preferência, que influencia escolhas. É claro que a sociedade e o indivíduo humano são muito complexos, e previsões podem ser muito difíceis de serem feitas com precisão em alguns casos, mas isso se deve à complexidade do que se está tentando prever, e não a uma natureza misteriosa, mágica e inacessível da ação.
+
+
+O dualismo metodológico proposto por Mises propõe que a estrutura da ação deve ser estudada pelo método dedutivo a priori. Este texto está em concordância com essa proposta, e o fato deste texto ter a proposta de fundamentar uma base naturalista para a praxeologia não vai contra o método dedutivo, pelo contrário, a proposta aqui é deduzir de alguns princípios básicos, como a entropia e a evolução, como se forma a estrutura da ação. Este texto apenas se opõe à ideia, que pode ser associada ao dualismo metodológico, de que ações e tendências econômicas não possam ser vistas por um ponto de vista a posteriori (sem contrariar a sua estrutura a priori), ou de que as ciências naturais não contenham também raciocínios a priori. Essa divisão é falsa e desnecessária para a praxeologia, economia e ética da escola austríaca.
