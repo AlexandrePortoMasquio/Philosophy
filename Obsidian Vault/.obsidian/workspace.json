@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMP.md",
+                "file": "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMP"
+              "title": "Aprendizado de Máquina"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMP.md",
+                "file": "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KMP"
+              "title": "Backlinks for Aprendizado de Máquina"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMP.md",
+                "file": "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KMP"
+              "title": "Outgoing links from Aprendizado de Máquina"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMP.md",
+                "file": "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KMP"
+              "title": "Outline of Aprendizado de Máquina"
             }
           }
         ]
@@ -224,41 +224,41 @@
   },
   "active": "1464a331ffc15e68",
   "lastOpenFiles": [
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Engenharia de Software Mobile.md",
     "Ciência da Computação/Ciência da Computação.md",
-    "KMP.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/iOS.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desempenho.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/UX Móvel.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Multiplataforma.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/CI CD para Apps Móveis.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
-    "Ciência da Computação/Engenharia de Software/Testes.md",
-    "Ciência da Computação/Engenharia de Software/Processos.md",
-    "Ciência da Computação/Engenharia de Software/Padrões de Projeto.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software.md",
-    "Ciência da Computação/Engenharia de Software/Ferramentas.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile",
-    "Ciência da Computação/Engenharia de Software/Arquitetura.md",
-    "Ciência da Computação/Engenharia de Software",
-    "Ciência da Computação",
-    "Computer Science/Software Engineering/Mobile Software Engineering/Engenharia de Software Móvel.md",
-    "Computer Science/Software Engineering/Engenharia de Software.md",
-    "Computer Science/Ciência da Computação.md",
-    "Computer Science/Software Engineering/Mobile Software Engineering/Desempenho.md",
-    "Computer Science/Software Engineering/Mobile Software Engineering/CI CD para Apps Móveis.md",
-    "Computer Science/Software Engineering/Mobile Software Engineering/UX Móvel.md",
-    "Computer Science/Software Engineering/Mobile Software Engineering/Multiplataforma.md",
-    "Computer Science/Software Engineering/Ferramentas.md",
-    "Computer Science/Software Engineering/Processos.md",
-    "Computer Science/Software Engineering/Testes.md",
-    "Computer Science/Software Engineering/Padrões de Projeto.md",
-    "Computer Science/Software Engineering/Mobile Software Engineering",
-    "Computer Science/Software Engineering",
-    "Computer Science",
-    "software engineering/Mobile Software Engineering",
-    "software engineering",
-    "Mobile Software Engineering",
-    "Capítulos"
+    "Ciência da Computação/DevOps/Observabilidade.md",
+    "Ciência da Computação/DevOps/Infraestrutura como Código.md",
+    "Ciência da Computação/DevOps/DevOps.md",
+    "Ciência da Computação/DevOps/Containers.md",
+    "Ciência da Computação/DevOps/CI CD.md",
+    "Ciência da Computação/DevOps",
+    "Ciência da Computação/Computação em Nuvem/Serverless.md",
+    "Ciência da Computação/Computação em Nuvem/Kubernetes.md",
+    "Ciência da Computação/Computação em Nuvem/IaaS PaaS SaaS.md",
+    "Ciência da Computação/Computação em Nuvem/Computação em Nuvem.md",
+    "Ciência da Computação/Computação em Nuvem",
+    "Ciência da Computação/Computação Paralela/Sincronização.md",
+    "Ciência da Computação/Computação Paralela/Modelos de Programação.md",
+    "Ciência da Computação/Computação Paralela/Computação Paralela.md",
+    "Ciência da Computação/Computação Paralela/CUDA e OpenCL.md",
+    "Ciência da Computação/Computação Paralela",
+    "Ciência da Computação/Interação Humano-Computador/Usabilidade.md",
+    "Ciência da Computação/Interação Humano-Computador/Interação Humano-Computador.md",
+    "Ciência da Computação/Interação Humano-Computador/Design de Interface.md",
+    "Ciência da Computação/Interação Humano-Computador/Acessibilidade.md",
+    "Ciência da Computação/Interação Humano-Computador",
+    "Ciência da Computação/Computação Gráfica/Shaders.md",
+    "Ciência da Computação/Computação Gráfica/Ray Tracing.md",
+    "Ciência da Computação/Computação Gráfica/Rasterização.md",
+    "Ciência da Computação/Computação Gráfica/Computação Gráfica.md",
+    "Ciência da Computação/Computação Gráfica",
+    "Ciência da Computação/Processamento de Linguagem Natural/Transformers.md",
+    "Ciência da Computação/Processamento de Linguagem Natural/Tokenização.md",
+    "Ciência da Computação/Processamento de Linguagem Natural/Processamento de Linguagem Natural.md",
+    "Ciência da Computação/Processamento de Linguagem Natural/Embeddings.md",
+    "Ciência da Computação/Processamento de Linguagem Natural",
+    "Ciência da Computação/Visão Computacional",
+    "Ciência da Computação/Aprendizado de Máquina",
+    "Ciência da Computação/Inteligência Artificial",
+    "Ciência da Computação/Criptografia"
   ]
 }
