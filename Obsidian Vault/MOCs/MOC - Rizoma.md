@@ -13,10 +13,9 @@ Temas
 - [[MOC - Decentralismo & Informação]]
 
 Nós centrais
-- [[Virtualidade (Deleuze)]] ↔ [[Apeiron]] ↔ [[Informação]]
+- [[Virtualidade (Deleuze)]] ↔ [[Apeiron]] ↔ [[Diferença]] ↔ [[Informação]] ↔ [[Formas]] ↔ [[Mundo das Formas]]
 - [[Vagueza]] ↔ [[Bivalência Global]] ↔ [[Sorites]]
 - [[Decentralismo]] ↔ [[Determinação e Controle]] ↔ [[Entropia Informacional]]
 
 Explorar próximos
 - [[Organismo e Máquina]] · [[Cosmologia Informacional]] · [[Transmissão de Informação]]
-

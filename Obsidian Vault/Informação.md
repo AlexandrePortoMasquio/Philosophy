@@ -10,9 +10,9 @@ updated: 2025-08-28
 
 ## Ligações
 - Base para [[Decentralismo]], [[Virtualidade (Deleuze)]], [[Cosmologia Informacional]].
+- Suporta [[Diferença]] e [[Formas]] como padrões diferenciais codificados.
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
 
 ## Fontes externas (referência)
 - ../livros/livro/02 Cosmologia Informacional.txt
 - ../livros/livro/03 Transmissão de Informação.txt
-
