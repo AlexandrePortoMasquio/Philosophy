@@ -14,8 +14,8 @@ Hubs (MOCs):
 - [[MOCs/MOC - Decentralismo & Informação]]
 
 Pontos de partida:
-- [[Virtualidade (Deleuze)]] · [[Apeiron]] · [[Diferença]] · [[Informação]] · [[Formas]] · [[Mundo das Formas]]
+- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Informação]] · [[Formas]] · [[Mundo das Formas]]
 - [[Vagueza]] · [[Bivalência Global]] · [[Sorites]]
-- [[Decentralismo]] · [[Determinação e Controle]] · [[Entropia Informacional]]
+- [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]]
 
 Nota: Este rizoma referencia textos fora da vault como fontes, mas mantém todos os nós aqui dentro para o Graph.

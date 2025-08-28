@@ -9,8 +9,8 @@ updated: 2025-08-28
 - Distinção e acoplamento entre teleologia orgânica e mecanicismo; ambos tratáveis informacionalmente.
 
 ## Ligações
-- Aplicação do [[Decentralismo]].
-- Depende de [[Informação]] e [[Determinação e Controle]].
+- Aplicação do [[Descentralismo]].
+- Depende de [[Informação]] e [[Controle]].
 
 ## Fontes externas (referência)
 - ../livros/livro/05 Organismo e Máquina.txt

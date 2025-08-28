@@ -10,7 +10,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Fundamenta [[Formas]] como entidades diferenciais.
-- Conecta-se a [[Virtualidade (Deleuze)]] (campo de diferenciação real que dá origem a formas).
+- Conecta-se a [[Virtualidade]] (campo de diferenciação real que dá origem a formas).
 - Relaciona-se a [[Informação]] (codificação de diferenças que suportam formas).
 
 ## Fontes externas (referência)

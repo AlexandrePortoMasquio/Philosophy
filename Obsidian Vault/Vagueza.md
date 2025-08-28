@@ -6,12 +6,14 @@ updated: 2025-08-28
 ---
 
 ## Ideia
+* Um princípio análogo à incerteza de Heisenberg, mas se aplica a todas as coisas, inclusive objetos abstratos, proposições, predicados, e objetos concretos.
 - Predicados ordinários carecem de fronteiras nítidas; há casos-limite e possivelmente vagueza de ordem superior.
 
 ## Ligações
-- Pressiona [[Bivalência Global]]; modelagens: supervaloração, fuzzy, epistemicismo.
+* Baseia-se na [[Ontologia da Diferença]], em que a [[Granularidade]] emerge da [[Continuidade]].
+- Pressiona [[Bivalência Global]]; modelagens: supervaloração, fuzzy, [[Epistemicismo]].
 - Conecta a [[Sorites]] como forma paradigmática do problema.
-- Relaciona-se a [[Virtualidade (Deleuze)]] (diferença vs indeterminação) e [[Informação]].
+- Relaciona-se a [[Virtualidade]] (diferença vs indeterminação) e [[Informação]].
 
 ## Fontes externas (referência)
 - ../Assimilar/Vagueza.txt

@@ -9,7 +9,8 @@ updated: 2025-08-28
 - Controle como acoplamento por feedbacks comuns; descentralização quando critérios são consistentes entre nós.
 
 ## Ligações
-- Fundamenta [[Decentralismo]].
+* Baseia-se em... (TODO completar)
+- Funciona com base no [[Descentralismo]],.
 - Relaciona-se a [[Informação]] (sinais) e [[Entropia Informacional]] (ruído/ordem).
 - Contrapontos em [[Organismo e Máquina]].
 

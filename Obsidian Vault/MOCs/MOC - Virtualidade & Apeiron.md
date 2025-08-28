@@ -8,7 +8,7 @@ updated: 2025-08-28
 # Virtualidade & Apeiron
 
 Nós
-- [[Virtualidade (Deleuze)]]
+- [[../Virtualidade]]
 - [[Apeiron]]
 - [[Diferença]]
 - [[Formas]]

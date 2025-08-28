@@ -9,7 +9,7 @@ updated: 2025-08-28
 - O indeterminado (ἄπειρον) como princípio gerador: potencialidade inesgotável de diferenciações.
 
 ## Ligações
-- [[Virtualidade (Deleuze)]] (potência de atualização)
+- [[Virtualidade]] (potência de atualização)
 - [[Informação]] (estrutura de diferenças que atualiza o indeterminado)
 - [[Cosmologia Informacional]] (quadro geral)
 

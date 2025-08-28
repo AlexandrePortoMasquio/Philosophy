@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Diferença como fundamento ontológico: é o que estrutura o real; [[Formas]] emergem dela e são padrões diferenciais.
 
 ## Ligações
-- Núcleo de [[Virtualidade (Deleuze)]] (campo de diferenciação real).
+- Núcleo de [[Virtualidade]] (campo de diferenciação real).
 - Suporta [[Informação]] (diferença que faz diferença).
 - Conecta-se ao [[Mundo das Formas]] e a [[Entropia Informacional]] (ordem vs dispersão de diferenças).
 

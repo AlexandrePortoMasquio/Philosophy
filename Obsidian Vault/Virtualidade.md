@@ -12,7 +12,7 @@ updated: 2025-08-28
 - Baseia-se no [[Apeiron]] (indeterminação fértil)
 - Relaciona-se ao [[Mundo das Formas]]; [[Formas]] emergem da [[Diferença]].
 - [[Informação]] (diferenças estruturadas).
-- Conecta com [[Entropia Informacional]] na passagem virtual→atual (ordem/desordem).
+- Conecta com [[Entropia Informacional]] na passagem virtual→atual.
 - Tensiona [[Vagueza]]: distinção virtual vs indeterminado sem bordas.
 
 ## Fontes externas (referência)

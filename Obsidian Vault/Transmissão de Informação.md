@@ -10,7 +10,7 @@ updated: 2025-08-28
 - Transmitir é conservar operacionalmente forma; o que se transmite é forma, portanto [[Informação]].
 
 ## Ligações
-- Base para [[Determinação e Controle]] e [[Organismo e Máquina]].
+- Base para [[Controle]] e [[Organismo e Máquina]].
 - Complementa [[Cosmologia Informacional]].
 - Equaciona [[Formas]] e [[Informação]]: informação = forma transmissível (em um canal sob condições de fidelidade).
 

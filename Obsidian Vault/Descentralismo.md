@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Princípio: a determinação de sistemas emerge de regras naturais compartilhadas pelos nós (feedbacks), não de comando arbitrário central.
 
 ## Ligações
-- Exige [[Determinação e Controle]] não arbitrários.
+- Exige [[Controle]] não arbitrários.
 - Dialoga com [[Informação]] e [[Entropia Informacional]].
 - Aplicações em [[Organismo e Máquina]].
 
