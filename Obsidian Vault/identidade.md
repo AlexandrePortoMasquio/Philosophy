@@ -6,6 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
+* A [[Ontologia da Diferença]] permite que a [[Identidade]] seja derivada da [[Diferença]] (TODO de que forma?)
 - Critério de mesmidade ao longo de variações; na [[Virtualidade]] não há identidade intrínseca, mas padrões que se tornam [[Formas]] na atualização.
 
 ## Ligações

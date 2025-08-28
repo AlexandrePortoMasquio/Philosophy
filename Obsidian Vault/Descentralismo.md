@@ -16,3 +16,5 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Articles/Decentralism - a Theory of Informational Order.txt
+## Mapa Rápido
+- [[Controle]] · [[Informação]] · [[Entropia Informacional]] · [[Organismo e Máquina]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]

@@ -13,6 +13,7 @@ updated: 2025-08-28
 - Base para [[Controle]] e [[Organismo e Máquina]].
 - Complementa [[Cosmologia Informacional]].
 - Equaciona [[Formas]] e [[Informação]]: informação = forma transmissível (em um canal sob condições de fidelidade).
+- Relaciona-se a [[Canal e Fidelidade]] (capacidade, ruído, códigos) e [[Critérios Naturais]].
 
 ## Fontes externas (referência)
 - ../livros/livro/03 Transmissão de Informação.txt

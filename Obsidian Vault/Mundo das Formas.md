@@ -18,4 +18,6 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - Ideia articulada nas notas de Virtualidade e no projeto do livro (capítulos de informação e mente).
+## Mapa Rápido
+- [[Formas]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
 

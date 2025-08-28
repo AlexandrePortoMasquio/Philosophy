@@ -17,4 +17,6 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Assimilar/Vagueza.txt
+## Mapa Rápido
+- [[Sorites]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Epistemicismo]] · [[Granularidade]] · [[Continuidade]]
 

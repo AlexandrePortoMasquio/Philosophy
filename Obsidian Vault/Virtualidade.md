@@ -19,3 +19,6 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Articles/Drafts/Virtualidade e Informação - Da Virtualidade Deleuziana à Entropia Informacional.txt
+## Mapa Rápido
+- [[Apeiron]] · [[Diferença]] · [[Campo]] · [[Continuidade]] · [[Variação]] · [[Atualização]]
+- [[Atratores]] · [[Invariantes]] · [[Informação]] · [[Entropia Informacional]] · [[Singularidades e Catástrofes]]
