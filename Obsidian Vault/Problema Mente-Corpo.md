@@ -11,4 +11,10 @@ updated: 2025-08-28
 ## Ligações
 - Posições: [[Dualismo]], [[Idealismo]], [[Fisicalismo]], [[Pampsiquismo]].
 - Problemas: [[Problema Difícil da Consciência]], [[Qualia]], [[Intencionalidade]].
+## Mapa Rápido
+- Posições: [[Dualismo]] · [[Idealismo]] · [[Fisicalismo]] · [[Pampsiquismo]]
+- Problemas: [[Qualia]] · [[Intencionalidade]] · [[Consciência]]
+- Conexões: [[Informação]] · [[Virtualidade]]
 
+## Perguntas Abertas
+- O projeto favorece qual monismo (informacional, fisicalista, pampsiquista)?

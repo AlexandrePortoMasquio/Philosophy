@@ -15,6 +15,7 @@ Pontos de partida:
 - [[Mundo das Formas]] · [[Formas]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
+ - Filosofia da Mente: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
 
 Paradigmas:
 - [[Computação]] · [[Matemática]] · [[Topologia]] · [[Modularidade]] · [[Abstração]] · [[Análise]]

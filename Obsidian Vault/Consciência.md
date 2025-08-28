@@ -12,4 +12,10 @@ updated: 2025-08-28
 - Divide-se analiticamente em [[Problema Fácil da Consciência]] e [[Problema Difícil da Consciência]].
 - TODO dois problemas fáceis e um difícil (de acordo com capítulos do meu livro)
 - Conecta [[Informação]], [[Organismo e Máquina]] e [[Virtualidade]].
+## Mapa Rápido
+- [[Problema Fácil da Consciência]] · [[Problema Difícil da Consciência]]
+- [[Qualia]] · [[Intencionalidade]] · [[Informação]]
+- [[Organismo e Máquina]] · [[Virtualidade]]
 
+## Perguntas Abertas
+- Integração informacional é suficiente para consciência fenomenal?

@@ -15,4 +15,14 @@ TODO physics-alism vs fisicalismo em [[Galen Strawson]]
 - Subposições: [[Reducionismo]], [[Eliminativismo]], [[Funcionalismo]], [[Emergentismo]].
 - Desafios: [[Problema Difícil da Consciência]], [[Qualia]], [[Intencionalidade]].
 - Ver também: [[Identidade Mente-Cérebro]], [[Superveniência]].
+## Mapa Rápido
+- [[Reducionismo]] · [[Eliminativismo]] · [[Funcionalismo]] · [[Emergentismo]]
+- [[Identidade Mente-Cérebro]] · [[Superveniência]]
+- Desafios: [[Problema Difícil da Consciência]] · [[Qualia]] · [[Intencionalidade]]
 
+## Perguntas Abertas
+- Quais combinações de subposições são de fato compatíveis? (funcionalismo + identidade?)
+- Critérios empíricos suficientes para descartar [[Qualia Invertidos]]?
+
+## Referências sugeridas
+- Chalmers (hard problem); Jackson (Mary); Putnam/Fodor (funcionalismo)

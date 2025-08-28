@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergentismo.md",
+                "file": "Pampsiquismo Informacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emergentismo"
+              "title": "Pampsiquismo Informacional"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergentismo.md",
+                "file": "Pampsiquismo Informacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emergentismo"
+              "title": "Backlinks for Pampsiquismo Informacional"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergentismo.md",
+                "file": "Pampsiquismo Informacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Emergentismo"
+              "title": "Outgoing links from Pampsiquismo Informacional"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergentismo.md",
+                "file": "Pampsiquismo Informacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Emergentismo"
+              "title": "Outline of Pampsiquismo Informacional"
             }
           }
         ]
@@ -284,6 +284,13 @@
   },
   "active": "b02b6d5c4899e88c",
   "lastOpenFiles": [
+    "Pampsiquismo Informacional.md",
+    "Físico.md",
+    "Anaximandro.md",
+    "Qualia.md",
+    "primordial.md",
+    "Guattari.md",
+    "Emergentismo.md",
     "Galen Strawson.md",
     "Fisicalismo.md",
     "Quarto de Mary.md",
@@ -293,22 +300,15 @@
     "Consciência.md",
     "Intencionalidade.md",
     "Qualia Invertidos.md",
-    "Qualia.md",
     "Problema Fácil da Consciência.md",
     "Problema Difícil da Consciência.md",
     "Problema Mente-Corpo.md",
-    "Emergentismo.md",
     "Funcionalismo.md",
     "Eliminativismo.md",
     "Reducionismo.md",
     "Idealismo.md",
     "Dualismo.md",
     "Subjetivismo.md",
-    "Apeiron.md",
-    "Informação.md",
-    "Descentralismo.md",
-    "Repetição.md",
-    "Âmbito.md",
-    "Lei da Variedade Requisitada.md"
+    "Apeiron.md"
   ]
 }

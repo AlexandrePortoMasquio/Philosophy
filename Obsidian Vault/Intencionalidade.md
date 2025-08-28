@@ -11,4 +11,9 @@ updated: 2025-08-28
 ## Ligações
 - Problema difícil paralelo a [[Qualia]]; pressiona [[Fisicalismo]].
 - Relaciona-se a [[Informação]] (referência como mapeamento) e [[Transmissão de Informação]].
+## Mapa Rápido
+- [[Informação]] · [[Transmissão de Informação]]
+- [[Consciência]] · [[Problema Difícil da Consciência]]
 
+## Perguntas Abertas
+- Esboçar naturalização via conteúdo informacional (mapas entre estados e objetos) sem circularidade.
