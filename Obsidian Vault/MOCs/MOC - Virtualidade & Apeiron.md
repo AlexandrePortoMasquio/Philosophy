@@ -23,4 +23,4 @@ Relações
 - Entropia relaciona-se à dispersão/ordem de informação no processo de atualização.
 
 Ver também
-- [[MOC - Decentralismo & Informação]]
+- [[MOC - Descentralismo & Informação]]

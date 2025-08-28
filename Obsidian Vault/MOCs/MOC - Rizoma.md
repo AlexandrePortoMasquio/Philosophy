@@ -10,7 +10,7 @@ updated: 2025-08-28
 Temas
 - [[MOC - Virtualidade & Apeiron]]
 - [[MOC - Vagueza & Bivalência]]
-- [[MOC - Decentralismo & Informação]]
+- [[MOC - Descentralismo & Informação]]
 
 Nós centrais
 - [[../Virtualidade]] ↔ [[Apeiron]] ↔ [[Diferença]] ↔ [[Informação]] ↔ [[Formas]] ↔ [[Mundo das Formas]]

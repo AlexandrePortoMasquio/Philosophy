@@ -11,7 +11,7 @@ Hubs (MOCs):
 - [[MOCs/MOC - Rizoma]]
 - [[MOCs/MOC - Virtualidade & Apeiron]]
 - [[MOCs/MOC - Vagueza & Bivalência]]
-- [[MOCs/MOC - Decentralismo & Informação]]
+- [[MOCs/MOC - Descentralismo & Informação]]
 
 Pontos de partida:
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Informação]] · [[Formas]] · [[Mundo das Formas]]
