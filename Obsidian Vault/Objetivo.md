@@ -1,0 +1,1 @@
+Aquilo que existe independentemente da [[Mente]] ou da [[Linguagem]]

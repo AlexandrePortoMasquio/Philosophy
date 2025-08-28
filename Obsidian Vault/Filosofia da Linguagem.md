@@ -1,0 +1,3 @@
+TODO
+
+[[Filosofia]] da [[Linguagem]]
