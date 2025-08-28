@@ -6,10 +6,10 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Estados/regiões do espaço de fases para onde dinâmicas convergem; estabilizam [[Formas]].
+- Estados/regiões do espaço de fases para onde dinâmicas convergem; estabilizam [[Formas]]. (TODO como?)
 
 ## Ligações
-- Explicam a persistência de formas ao lado de [[Invariantes]].
+- Explicam a [[Persistência]] de formas ao lado de [[Invariantes]].
 - Relacionam-se a [[Informação]] e [[Compressão]] via regularidade/estrutura repetível.
 - Conectam [[Virtualidade]] (produção do novo) a padrões estáveis.
 
