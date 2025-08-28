@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granularidade.md",
+                "file": "Ontologia da Diferença.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Granularidade"
+              "title": "Ontologia da Diferença"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Granularidade.md",
+                "file": "Ontologia da Diferença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Granularidade"
+              "title": "Backlinks for Ontologia da Diferença"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Granularidade.md",
+                "file": "Ontologia da Diferença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Granularidade"
+              "title": "Outgoing links from Ontologia da Diferença"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granularidade.md",
+                "file": "Ontologia da Diferença.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Granularidade"
+              "title": "Outline of Ontologia da Diferença"
             }
           }
         ]
@@ -186,6 +186,11 @@
   },
   "active": "31d846c99732f473",
   "lastOpenFiles": [
+    "Atratores.md",
+    "Formas.md",
+    "MOCs/MOC - Rizoma.md",
+    "Granularidade.md",
+    "Análise.md",
     "Repetição.md",
     "Vagueza de Ordem Superior.md",
     "Sorites.md",
@@ -201,16 +206,11 @@
     "Epistemicismo.md",
     "Compressão.md",
     "Invariantes.md",
-    "Atratores.md",
     "MOCs/MOC - Mundo das Formas.md",
     "MOCs/MOC - Descentralismo & Informação.md",
     "Vagueza.md",
     "Ontologia da Diferença.md",
     "Continuidade.md",
-    "Granularidade.md",
-    "Entropia Informacional.md",
-    "Descentralismo.md",
-    "Organismo e Máquina.md",
-    "Formas.md"
+    "Entropia Informacional.md"
   ]
 }

@@ -8,7 +8,6 @@ updated: 2025-08-28
 # Home — Rizoma de Ideias
 
 Hubs
-- [[MOCs/MOC - Rizoma]] (mapa global)
 - Conceitos‑hub: [[Virtualidade]] · [[Mundo das Formas]] · [[Vagueza]] · [[Descentralismo]]
 
 Pontos de partida:

@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- A granularidade é o nível de resolução (escala) de análise.
+- A granularidade é o nível de resolução (escala) de [[Análise]].
 - O nível de resolução (escala) em que um sistema é observado altera quais [[Formas]] e quanta [[Vagueza]] é percebida.
 - Em escalas mais grossas, diferenças sutis se tornam indistintas (mais compressão, menos detalhe); em escalas finas, aumentam limiares e bordas.
 
