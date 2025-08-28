@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pampsiquismo Informacional.md",
+                "file": "Bit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pampsiquismo Informacional"
+              "title": "Bit"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pampsiquismo Informacional.md",
+                "file": "Bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pampsiquismo Informacional"
+              "title": "Backlinks for Bit"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pampsiquismo Informacional.md",
+                "file": "Bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pampsiquismo Informacional"
+              "title": "Outgoing links from Bit"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pampsiquismo Informacional.md",
+                "file": "Bit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pampsiquismo Informacional"
+              "title": "Outline of Bit"
             }
           }
         ]
@@ -284,6 +284,23 @@
   },
   "active": "b02b6d5c4899e88c",
   "lastOpenFiles": [
+    "Informação.md",
+    "Bit.md",
+    "Home.md",
+    "Ruído.md",
+    "Entropia Energética.md",
+    "Calor.md",
+    "Analogia.md",
+    "Reducionismo.md",
+    "Chalmers.md",
+    "Eliminativismo.md",
+    "Desejo.md",
+    "mentais.md",
+    "Mente.md",
+    "Idealismo.md",
+    "Criptoespaço.md",
+    "Ciberespaço.md",
+    "Tecnocapital.md",
     "Pampsiquismo Informacional.md",
     "Físico.md",
     "Anaximandro.md",
@@ -292,23 +309,6 @@
     "Guattari.md",
     "Emergentismo.md",
     "Galen Strawson.md",
-    "Fisicalismo.md",
-    "Quarto de Mary.md",
-    "Pampsiquismo.md",
-    "Superveniência.md",
-    "Identidade Mente-Cérebro.md",
-    "Consciência.md",
-    "Intencionalidade.md",
-    "Qualia Invertidos.md",
-    "Problema Fácil da Consciência.md",
-    "Problema Difícil da Consciência.md",
-    "Problema Mente-Corpo.md",
-    "Funcionalismo.md",
-    "Eliminativismo.md",
-    "Reducionismo.md",
-    "Idealismo.md",
-    "Dualismo.md",
-    "Subjetivismo.md",
-    "Apeiron.md"
+    "Fisicalismo.md"
   ]
 }

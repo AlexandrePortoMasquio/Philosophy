@@ -13,4 +13,4 @@ updated: 2025-08-28
 - Conecta [[Formas]] (o que se transmite) e [[Repetição]] (padrões recorrentes aumentam fidelidade efetiva).
 - Ver também: [[Capacidade de Canal]], [[Código]], [[Ruído]], [[Redundância]].
 ## Exemplo
-- Canal binário com ruído: taxa, prob. de erro p; [[Capacidade de Canal]] depende de p. TODO: adicionar fórmula verbal da capacidade para canal binário simétrico.
+- Canal binário com ruído (BSC): taxa, prob. de erro p; [[Capacidade de Canal]] (verbal) = 1 menos a entropia binária H2(p), em bits por uso do canal.

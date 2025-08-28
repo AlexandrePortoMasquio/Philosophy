@@ -6,8 +6,8 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- TODO: Como a SN se aplica à informação como um todo. Como a SN pode fundamentar toda a [[Cosmologia Informacional]].
-- Caso particular de [[Seleção]]: padrões biológicos reforçados por sucesso reprodutivo e adaptação ambiental.
+- Seleção como princípio informacional geral: padrões que se preservam ou replicam sob [[Critérios Naturais]] (reforço/inibição) ao longo do [[Tempo]].
+- Fundamenta a [[Cosmologia Informacional]] e especializa-se em biologia como [[Seleção Natural]] (sucesso reprodutivo/adaptação).
 
 ## Ligações
 - Conecta [[Informação]] (herança, codificação), [[Atratores]] (estabilidades) e [[Invariantes]] (traços funcionais).

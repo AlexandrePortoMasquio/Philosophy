@@ -14,7 +14,7 @@ updated: 2025-08-28
 - Dialoga com [[Informação]] e [[Entropia Informacional]].
 - Aplicações em [[Organismo e Máquina]].
  - Operacionaliza a equivalência: [[Informação]] = [[Formas]] transmissíveis (via [[Transmissão de Informação]]).
- - TODO [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]]
+ - Ver também: [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]].
 
 ## Fontes externas (referência)
 - ../Articles/Decentralism - a Theory of Informational Order.txt

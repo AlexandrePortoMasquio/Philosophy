@@ -6,6 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
+* O [[Ruído]], na [[Entropia Informacional]], é [[Analogia|análogo]] ao [[Calor]] na [[Entropia Energética]].
 - Perturbações que degradam a fidelidade de transmissão; modelado probabilisticamente.
 
 ## Ligações

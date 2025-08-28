@@ -1,4 +1,3 @@
-TODO
 ---
 title: Shannon
 tags: [shannon, informação]

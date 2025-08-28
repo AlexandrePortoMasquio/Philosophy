@@ -11,6 +11,10 @@ updated: 2025-08-28
 ## Ideia
 - Informação é forma transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
+- TODO toda informação é um [[Bit]]?
+
+## Relações
+* TODO a [[Virtualidade]] contém informação?
 
 ## Ligações
 - Base para [[Descentralismo]], [[Virtualidade]], [[Cosmologia Informacional]].
@@ -21,7 +25,7 @@ updated: 2025-08-28
  - Relaciona-se a [[Repetição]] (padrões recorrentes favorecem compressibilidade e transmissibilidade).
 
 ## [[Shannon]]
-- TODO informação em [[Shannon]]
+- Entropia H mede incerteza de fontes; [[Capacidade de Canal]] define a taxa máxima confiável sob [[Ruído]]. [[Código]] e [[Redundância]] equilibram eficiência e fidelidade.
 
 ## Fontes externas (referência)
 - ../livros/livro/02 Cosmologia Informacional.txt

@@ -7,9 +7,10 @@ updated: 2025-08-28
 
 ## Ideia
 - A mente é física ou redutível a princípios físicos/funcionais.
-
-TODO diferentes formas de fisicalismo
-TODO physics-alism vs fisicalismo em [[Galen Strawson]]
+ 
+## Variedades
+- Reducionismo, [[Identidade Mente-Cérebro]], [[Funcionalismo]], [[Eliminativismo]], [[Emergentismo]] (fraco/forte), [[Superveniência]].
+- Nota: em [[Galen Strawson]], “real materialism” (físico‑alismo realista) aproxima fisicalismo de posições panqualitativas (próximas a [[Pampsiquismo]]).
 
 ## Ligações
 - Subposições: [[Reducionismo]], [[Eliminativismo]], [[Funcionalismo]], [[Emergentismo]].

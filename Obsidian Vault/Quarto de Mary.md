@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Experimento Mental
-* TODO explicar
+- Mary domina toda a física/biologia da visão em ambiente preto‑e‑branco; ao ver cores pela primeira vez, adquire o “como é” da experiência — evidenciando [[Qualia]] não dedutíveis só da descrição física.
 
 ## Ligações
 - Explica e ilustra os [[Qualia]]; desafia o [[Fisicalismo]] ingênuo; relaciona-se a [[Qualia Invertidos]].

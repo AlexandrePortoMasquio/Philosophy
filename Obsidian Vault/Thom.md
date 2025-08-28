@@ -1,4 +1,3 @@
-TODO
 ---
 title: Thom
 tags: [thom, catástrofes]

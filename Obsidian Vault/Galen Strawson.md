@@ -1,4 +1,3 @@
-TODO
 ---
 title: Galen Strawson
 tags: [strawson, pampsiquismo]

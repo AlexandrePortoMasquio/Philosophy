@@ -10,7 +10,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Divide-se analiticamente em [[Problema Fácil da Consciência]] e [[Problema Difícil da Consciência]].
-- TODO dois problemas fáceis e um difícil (de acordo com capítulos do meu livro)
+- Dois problemas “fáceis”: funções cognitivas/relato e integração de informação; um “difícil”: [[Qualia]]/[[Intencionalidade]].
 - Conecta [[Informação]], [[Organismo e Máquina]] e [[Virtualidade]].
 ## Mapa Rápido
 - [[Problema Fácil da Consciência]] · [[Problema Difícil da Consciência]]

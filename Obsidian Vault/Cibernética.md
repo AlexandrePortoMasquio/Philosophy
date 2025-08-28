@@ -10,5 +10,4 @@ updated: 2025-08-28
 
 ## Ligações
 - Conecta [[Lei da Variedade Requisitada]], [[Informação]], [[Transmissão de Informação]].
-
-TODO Cibernética em [[Deleuze]] e [[Guattari]]
+- Em [[Deleuze]]/[[Guattari]]: máquinas desejantes, acoplamentos e sociedades de controle (laços com feedback e comunicação distribuída).

@@ -1,4 +1,3 @@
-TODO
 ---
 title: Princípio da Vagueza
 tags: [vagueza]
