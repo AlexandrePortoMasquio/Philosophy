@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - [[Controle]] · [[Lei da Variedade Requisitada]] · [[Tempo]]
-- ↓ [[Engenharia de Software/Desempenho|Desempenho]] · [[Engenharia de Software/Arquitetura|Arquitetura]]
+- ↓ [[Engenharia de Software/Desempenho|Desempenho]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
 
 ## Ideia
 - SO coordena recursos e isola processos; media hardware/software com políticas e mecanismos.

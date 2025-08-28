@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - [[Descentralismo]] · [[Tempo]] · [[Ruído]]
-- ↓ [[Engenharia de Software/Arquitetura|Arquitetura]] · [[Engenharia de Software/Processos|Processos]]
+- ↓ [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Processos|Processos]]
 
 ## Ideia
 - Sistemas que cooperam via rede, sob falhas e latência; foco em consenso, replicação e consistência.
@@ -21,4 +21,4 @@ updated: 2025-08-28
 
 ## Ligações
 - Acima: [[Descentralismo]].
-- Abaixo: [[Engenharia de Software/Arquitetura|Arquitetura]] (microserviços, filas).
+- Abaixo: [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] (microserviços, filas).

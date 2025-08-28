@@ -1,7 +1,7 @@
 # Engenharia de Software
 
 - [[Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]]
-- [[Arquitetura]]
+- [[Arquitetura de Software]]
 - [[Padrões de Projeto]]
 - [[Testes]]
 - [[Processos]]

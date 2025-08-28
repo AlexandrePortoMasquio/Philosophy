@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - [[Formas]] · [[Informação]] · [[Granularidade]] · [[Identidade]]
-- ↓ [[Engenharia de Software/Arquitetura|Arquitetura]] · [[Engenharia de Software/Desempenho|Desempenho]] · [[Engenharia de Software/Padrões de Projeto|Padrões de Projeto]]
+- ↓ [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Desempenho|Desempenho]] · [[Engenharia de Software/Padrões de Projeto|Padrões de Projeto]]
 
 ## Ideia
 - Estruturas de dados são formas para organizar informação visando operações eficientes.

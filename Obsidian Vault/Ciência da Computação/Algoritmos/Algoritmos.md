@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - [[Computação]] · [[Informação]] · [[Complexidade de Kolmogorov]] · [[Compressão]] · [[Critérios Naturais]]
-- ↓ [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[Engenharia de Software/Arquitetura|Arquitetura]]
+- ↓ [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
 
 ## Ideia
 - Algoritmo é um procedimento finito e efetivo para transformar entradas em saídas.
@@ -27,7 +27,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Acima: [[Informação]], [[Computação]], [[Formas]], [[Complexidade de Kolmogorov]].
-- Abaixo: [[Engenharia de Software/Testes|Testes]] (corretude), [[Engenharia de Software/Processos|Processos]] (análise/medição), [[Engenharia de Software/Arquitetura|Arquitetura]] (adequação ao contexto).
+- Abaixo: [[Engenharia de Software/Testes|Testes]] (corretude), [[Engenharia de Software/Processos|Processos]] (análise/medição), [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] (adequação ao contexto).
 
 ## Referências sugeridas
 - [[Complexidade de Kolmogorov]]; [[Shannon]] (trade-offs de informação); notas de [[Compressão]].
