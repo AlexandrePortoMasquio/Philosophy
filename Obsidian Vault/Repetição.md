@@ -10,7 +10,7 @@ updated: 2025-08-28
 - Distingue-se repetição mecânica de iteração diferencial (cada ciclo pode introduzir variação relevante).
 
 ## Repetição em [[Deleuze]]
-* 
+* TODO
 
 ## Ligações
 - Relaciona-se a [[Diferença]] (Diferença e Repetição) e [[Virtualidade]].

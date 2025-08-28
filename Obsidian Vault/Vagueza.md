@@ -26,3 +26,7 @@ updated: 2025-08-28
 - Fine (supervaloração), Williamson (epistemicismo)
 ## Mapa Rápido
 - [[Sorites]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Epistemicismo]] · [[Granularidade]] · [[Continuidade]]
+
+## Perguntas Abertas
+- Postura preferida do projeto (supervaloração/epistemicismo/fuzzy) e custos?
+- Como integrar granularidade e continuidade para explicar limiares de corte sem perder praticidade?

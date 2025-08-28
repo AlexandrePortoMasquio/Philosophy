@@ -23,3 +23,7 @@ updated: 2025-08-28
 - [[Thom]] (morfogênese), Klein/Cartan (simetrias), Shannon/Kolmogorov (informação/complexidade)
 ## Mapa Rápido
 - [[Formas]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
+
+## Perguntas Abertas
+- Quais invariantes são relevantes para formas conceituais (não físicas)?
+- Como distinguir repetição informacional de redundância inútil no reconhecimento de forma?

@@ -14,6 +14,7 @@ updated: 2025-08-28
 - Dialoga com [[Informação]] e [[Entropia Informacional]].
 - Aplicações em [[Organismo e Máquina]].
  - Operacionaliza a equivalência: [[Informação]] = [[Formas]] transmissíveis (via [[Transmissão de Informação]]).
+ - TODO [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]]
 
 ## Fontes externas (referência)
 - ../Articles/Decentralism - a Theory of Informational Order.txt
@@ -21,4 +22,8 @@ updated: 2025-08-28
 ## Referências sugeridas
 - Wiener (cibernética), Ashby (Lei da Variedade Requisitada)
 ## Mapa Rápido
-- [[Controle]] · [[Informação]] · [[Entropia Informacional]] · [[Organismo e Máquina]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
+- [[Controle]] · [[Informação]] · [[Entropia Informacional]] · [[Organismo e Máquina]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]] · [[Cibernética]] · [[Lei da Variedade Requisitada]]
+
+## Perguntas Abertas
+- Como verificar “critérios naturais” em casos sociais sem introduzir arbitrariedade escondida?
+- Exemplos mínimos: rede neural, mercado e rede p2p com feedbacks e simetria de regras bem definidos.

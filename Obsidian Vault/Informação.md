@@ -28,4 +28,4 @@ updated: 2025-08-28
 - ../livros/livro/03 Transmissão de Informação.txt
 
 ## Referências sugeridas
-- Shannon (Teoria da Informação); Kolmogorov (Complexidade Algorítmica)
+- [[Shannon]] (Teoria da Informação); [[Complexidade de Kolmogorov]]

@@ -26,3 +26,7 @@ updated: 2025-08-28
 ## Mapa Rápido
 - [[Apeiron]] · [[Diferença]] · [[Campo]] · [[Continuidade]] · [[Variação]] · [[Atualização]]
 - [[Atratores]] · [[Invariantes]] · [[Informação]] · [[Entropia Informacional]] · [[Singularidades e Catástrofes]]
+
+## Perguntas Abertas
+- Exemplos canônicos de singularidades aplicadas a conceitos (não físicos)?
+- Critérios práticos para distinguir indeterminação virtual vs. [[Vagueza]] sem sobrecarregar a teoria.

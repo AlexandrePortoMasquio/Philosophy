@@ -4,7 +4,7 @@ tags: [apeiron, arca, cosmologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+(TODO [[Anaximandro]])
 ## Ideia
 - O indeterminado (ἄπειρον) como princípio gerador: potencialidade inesgotável de diferenciações.
 

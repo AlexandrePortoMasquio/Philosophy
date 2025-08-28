@@ -11,4 +11,6 @@ updated: 2025-08-28
 ## Ligações
 - Relaciona [[Transmissão de Informação]], [[Entropia Informacional]] (capacidade/ruído) e [[Compressão]].
 - Conecta [[Formas]] (o que se transmite) e [[Repetição]] (padrões recorrentes aumentam fidelidade efetiva).
-
+- Ver também: [[Capacidade de Canal]], [[Código]], [[Ruído]], [[Redundância]].
+## Exemplo
+- Canal binário com ruído: taxa, prob. de erro p; [[Capacidade de Canal]] depende de p. TODO: adicionar fórmula verbal da capacidade para canal binário simétrico.
