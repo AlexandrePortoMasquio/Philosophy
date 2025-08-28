@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Todo enunciado declarativo é verdadeiro ou falso (exatamente um), salvo restrições (ex.: evitar predicados de verdade globais).
 
 ## Ligações
-- Em tensão com [[Vagueza]] e [[Sorites]].
+- Em tensão com [[Vagueza]] e [[Paradoxo de Sorites]].
 - Compatibilizações: hierarquias de verdade; epistemicismo; supervaloração mantendo LEM.
 - Relaciona-se a [[Cosmologia Informacional]] na exigência de critérios nítidos de determinação.
 

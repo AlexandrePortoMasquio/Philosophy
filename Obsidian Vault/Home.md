@@ -16,7 +16,7 @@ Hubs (MOCs):
 
 Pontos de partida:
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Informação]] · [[Formas]] · [[Mundo das Formas]]
-- [[Vagueza]] · [[Bivalência Global]] · [[Sorites]]
+- [[Vagueza]] · [[Bivalência Global]] · [[Paradoxo de Sorites]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]]
 
 Nota: Este rizoma referencia textos fora da vault como fontes, mas mantém todos os nós aqui dentro para o Graph.

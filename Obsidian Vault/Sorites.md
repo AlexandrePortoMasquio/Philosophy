@@ -1,5 +1,6 @@
 ---
 title: Sorites
+aliases: [Paradoxo de Sorites]
 tags: [paradoxo, vagueza]
 created: 2025-08-28
 updated: 2025-08-28
@@ -10,6 +11,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Pressiona [[Bivalência Global]]; motiva [[Vagueza]].
+- Conecta com [[Vagueza de Ordem Superior]]
 - Conecta com [[Informação]] ao pensar limiares e discriminação.
 
 ## Fontes externas (referência)

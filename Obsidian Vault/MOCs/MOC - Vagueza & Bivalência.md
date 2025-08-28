@@ -10,11 +10,11 @@ updated: 2025-08-28
 Nós
 - [[Vagueza]]
 - [[Bivalência Global]]
-- [[Sorites]]
+- [[../Paradoxo de Sorites]]
 
 Relações
 - [[Vagueza]] pressiona a bivalência; opções: supervaloração, fuzzy, epistemicismo.
-- [[Sorites]] como motor de pressão por tolerância vs cortes nítidos.
+- [[../Paradoxo de Sorites]] como motor de pressão por tolerância vs cortes nítidos.
 - Bivalência global pode ser mantida com restrições (ex.: hierarquia de verdade).
 
 Ver também

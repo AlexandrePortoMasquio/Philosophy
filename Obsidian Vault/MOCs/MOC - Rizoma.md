@@ -15,7 +15,7 @@ Temas
 
 Nós centrais
 - [[../Virtualidade]] ↔ [[Apeiron]] ↔ [[Diferença]] ↔ [[Informação]] ↔ [[Formas]] ↔ [[Mundo das Formas]]
-- [[Vagueza]] ↔ [[Bivalência Global]] ↔ [[Sorites]]
+- [[Vagueza]] ↔ [[Bivalência Global]] ↔ [[../Paradoxo de Sorites]]
 - [[../Descentralismo]] ↔ [[../Controle]] ↔ [[Entropia Informacional]]
 
 Explorar próximos

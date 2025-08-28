@@ -12,7 +12,7 @@ updated: 2025-08-28
 ## Ligações
 * Baseia-se na [[Ontologia da Diferença]], em que a [[Granularidade]] emerge da [[Continuidade]].
 - Pressiona [[Bivalência Global]]; modelagens: supervaloração, fuzzy, [[Epistemicismo]].
-- Conecta a [[Sorites]] como forma paradigmática do problema.
+- Conecta a [[Paradoxo de Sorites]] como forma paradigmática do problema.
 - Relaciona-se a [[Virtualidade]] (diferença vs indeterminação) e [[Informação]].
 
 ## Fontes externas (referência)
