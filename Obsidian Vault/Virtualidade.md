@@ -7,11 +7,13 @@ updated: 2025-08-28
 
 ## Ideia
 - Virtual como campo de diferenciação real (não atual), base de produção do novo.
+- A virtualidade é um [[campo]] de diferenciações puras reais, sem [[identidade]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
 
 ## Ligações
 - Baseia-se no [[Apeiron]] (indeterminação fértil)
 - Relaciona-se ao [[Mundo das Formas]]; [[Formas]] emergem da [[Diferença]].
 - [[Informação]] (diferenças estruturadas).
+- Estrutura-se como variações contínuas; [[Continuidade]] guia trajetórias de atualização até [[Atratores]] e [[Invariantes]].
 - Conecta com [[Entropia Informacional]] na passagem virtual→atual.
 - Tensiona [[Vagueza]]: distinção virtual vs indeterminado sem bordas.
 

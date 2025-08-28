@@ -15,13 +15,14 @@ Nós
 - [[../Atratores]]
 - [[../Invariantes]]
 - [[../Compressão]]
+ - [[../Repetição]]
 
 Relações
 - Formas emergem da [[../Diferença]]; formas são diferenças estruturadas (padrões estáveis).
 - [[../Informação]] como forma transmissível; compressão mede regularidade/estabilidade.
 - [[../Atratores]] e [[../Invariantes]] explicam a estabilidade de formas sob dinâmicas/transformações.
+ - [[../Repetição]] reforça padrões e contribui para compressibilidade; distingue-se repetição mecânica de iteração diferencial.
 
 Ver também
 - [[MOC - Virtualidade & Apeiron]]
 - [[MOC - Descentralismo & Informação]]
-

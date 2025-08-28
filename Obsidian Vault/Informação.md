@@ -15,6 +15,7 @@ updated: 2025-08-28
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
 - Equivalência operacional: informação ≈ [[Formas]] quando há [[Transmissão de Informação]].
 - Compressibilidade: liga-se a [[Compressão]] como heurística de estrutura e a [[Invariantes]].
+ - Relaciona-se a [[Repetição]] (padrões recorrentes favorecem compressibilidade e transmissibilidade).
 
 ## Fontes externas (referência)
 - ../livros/livro/02 Cosmologia Informacional.txt

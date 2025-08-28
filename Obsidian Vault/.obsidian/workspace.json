@@ -25,10 +25,14 @@
             "id": "31d846c99732f473",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Granularidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Granularidade"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Granularidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Granularidade"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Granularidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Granularidade"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Granularidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Granularidade"
             }
           }
         ]
@@ -179,9 +186,15 @@
   },
   "active": "31d846c99732f473",
   "lastOpenFiles": [
-    "Sorites.md",
-    "Paradoxo de Sorites.md",
+    "Repetição.md",
     "Vagueza de Ordem Superior.md",
+    "Sorites.md",
+    "Atualização.md",
+    "Virtualidade.md",
+    "variação.md",
+    "identidade.md",
+    "campo.md",
+    "Paradoxo de Sorites.md",
     "High Order Vagueness.md",
     "MOCs/MOC - Vagueza & Bivalência.md",
     "Informação.md",
@@ -198,12 +211,6 @@
     "Entropia Informacional.md",
     "Descentralismo.md",
     "Organismo e Máquina.md",
-    "Formas.md",
-    "Diferença.md",
-    "Cosmologia Informacional.md",
-    "Controle.md",
-    "Virtualidade.md",
-    "Virtualidade.md",
-    "Mundo das Formas.md"
+    "Formas.md"
   ]
 }

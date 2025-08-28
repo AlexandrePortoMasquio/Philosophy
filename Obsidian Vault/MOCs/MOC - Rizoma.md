@@ -18,5 +18,5 @@ Nós centrais
 - [[Vagueza]] ↔ [[Bivalência Global]] ↔ [[../Paradoxo de Sorites]]
 - [[../Descentralismo]] ↔ [[../Controle]] ↔ [[Entropia Informacional]]
 
-Explorar próximos
-- [[Organismo e Máquina]] · [[Cosmologia Informacional]] · [[Transmissão de Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]]
+ Explorar próximos
+ - [[Organismo e Máquina]] · [[Cosmologia Informacional]] · [[Transmissão de Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]]
