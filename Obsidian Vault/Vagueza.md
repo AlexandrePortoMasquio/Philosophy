@@ -21,5 +21,8 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Assimilar/Vagueza.txt
+
+## Referências sugeridas
+- Fine (supervaloração), Williamson (epistemicismo)
 ## Mapa Rápido
 - [[Sorites]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Epistemicismo]] · [[Granularidade]] · [[Continuidade]]

@@ -1,5 +1,6 @@
 ---
 title: Lei do Terceiro Excluído
+aliases: [LEM]
 tags: [lógica, LEM]
 created: 2025-08-28
 updated: 2025-08-28

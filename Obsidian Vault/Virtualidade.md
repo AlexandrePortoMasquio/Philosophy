@@ -1,5 +1,6 @@
 ---
 title: Virtualidade (Deleuze)
+aliases: [Virtualidade]
 tags: [virtualidade, deleuze]
 created: 2025-08-28
 updated: 2025-08-28
@@ -19,6 +20,9 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Articles/Drafts/Virtualidade e Informação - Da Virtualidade Deleuziana à Entropia Informacional.txt
+
+## Referências sugeridas
+- Deleuze (Diferença e Repetição); Thom (Teoria das Catástrofes)
 ## Mapa Rápido
 - [[Apeiron]] · [[Diferença]] · [[Campo]] · [[Continuidade]] · [[Variação]] · [[Atualização]]
 - [[Atratores]] · [[Invariantes]] · [[Informação]] · [[Entropia Informacional]] · [[Singularidades e Catástrofes]]

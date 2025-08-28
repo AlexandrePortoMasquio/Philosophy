@@ -16,4 +16,7 @@ Pontos de partida:
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
 
+Paradigmas:
+- [[Computação]] · [[Matemática]] · [[Topologia]] · [[Modularidade]] · [[Abstração]] · [[Análise]]
+
 Nota: Este rizoma referencia textos fora da vault como fontes, mas mantém todos os nós aqui dentro para o Graph.

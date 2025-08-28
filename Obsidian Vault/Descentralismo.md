@@ -1,5 +1,6 @@
 ---
 title: Descentralismo
+aliases: [Decentralismo]
 tags: [decentralismo, filosofia]
 created: 2025-08-28
 updated: 2025-08-28
@@ -16,5 +17,8 @@ updated: 2025-08-28
 
 ## Fontes externas (referência)
 - ../Articles/Decentralism - a Theory of Informational Order.txt
+
+## Referências sugeridas
+- Wiener (cibernética), Ashby (Lei da Variedade Requisitada)
 ## Mapa Rápido
 - [[Controle]] · [[Informação]] · [[Entropia Informacional]] · [[Organismo e Máquina]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]

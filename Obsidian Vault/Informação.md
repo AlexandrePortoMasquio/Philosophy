@@ -20,6 +20,12 @@ updated: 2025-08-28
 - Compressibilidade: liga-se a [[Compressão]] como heurística de estrutura e a [[Invariantes]].
  - Relaciona-se a [[Repetição]] (padrões recorrentes favorecem compressibilidade e transmissibilidade).
 
+## [[Shannon]]
+- TODO informação em [[Shannon]]
+
 ## Fontes externas (referência)
 - ../livros/livro/02 Cosmologia Informacional.txt
 - ../livros/livro/03 Transmissão de Informação.txt
+
+## Referências sugeridas
+- Shannon (Teoria da Informação); Kolmogorov (Complexidade Algorítmica)
