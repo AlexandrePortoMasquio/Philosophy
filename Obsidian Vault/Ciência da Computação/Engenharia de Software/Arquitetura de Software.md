@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- Acima: [[Formas]] · [[Granularidade]] · [[Controle]] · [[Critérios Naturais]] · [[Identidade]]
+- Acima: [[Ciência da Computação]], [[Computação]], [[Algoritmos]], 
 - Lado: [[Padrões de Projeto]] · [[Processos]] · [[Ferramentas]]
 - Abaixo: [[Engenharia de Software Mobile/Engenharia de Software Mobile|Mobile]] · [[Banco de Dados/Banco de Dados|Dados]] · [[Sistemas Distribuídos/Sistemas Distribuídos|Distribuídos]]
 
@@ -23,12 +23,6 @@ updated: 2025-08-28
 - Monólito Modular: limites internos nítidos com compilação/implantação unificada.
 - Microsserviços: autonomia e implantação independente; custo de [[Redes de Computadores|rede]] e [[Sistemas Distribuídos|distribuição]].
 - Event-Driven: acoplamento fraco temporal; aumenta latência e complexidade de rastreio.
-
-## Relações Filosóficas
-- [[Formas]]: módulos e contratos são formas estabilizadas de interação.
-- [[Granularidade]]: tamanho dos componentes e APIs regula acoplamento/coerência.
-- [[Controle]] e [[Lei da Variedade Requisitada]]: a orquestração precisa variedade suficiente para dominar a complexidade do domínio.
-- [[Identidade]]: endereçamento e versionamento definem “o mesmo” componente ao longo do tempo.
 
 ## Prática
 - Documentar decisões (ADRs) com contexto, alternativas e consequências.

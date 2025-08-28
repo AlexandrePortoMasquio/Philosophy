@@ -8,7 +8,7 @@ updated: 2025-08-28
 ## Mapa Rápido
 - Acima: [[../Arquitetura de Software|Arquitetura de Software]] · [[../../Linguagens de Programação/Linguagens de Programação|Linguagens de Programação]]
 - Lado: [[KMP]] · [[Android]] · [[iOS]] · [[Multiplataforma]]
-- Filosofia: [[Granularidade]] · [[Identidade]] · [[Controle]]
+- NÃO conectar com filosofia
 
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
@@ -21,7 +21,7 @@ updated: 2025-08-28
 
 ## Fluxos e Contratos
 - UDF no lado Android; expor fluxos (Flow/StateFlow) no shared com adaptadores para Swift Combine.
-- Contratos estáveis (DTOs/resultados) mantêm [[Identidade]] entre plataformas.
+- Contratos estáveis (DTOs/resultados) mantêm identidade entre plataformas.
 
 ## Testes e CI/CD
 - Testes unitários em `commonTest`; instrumentados por plataforma.

@@ -1,0 +1,1 @@
+TODO relacionar a [[Inteligência Artificial]], [[Transhumanismo]]

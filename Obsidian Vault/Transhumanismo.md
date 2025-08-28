@@ -1,0 +1,1 @@
+Relacionar a [[Ray Kurzweil]]

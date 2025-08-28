@@ -7,7 +7,6 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - Acima: [[../Arquitetura de Software|Arquitetura de Software]] · [[../../Sistemas Operacionais/Sistemas Operacionais|Sistemas Operacionais]]
-- Filosofia: [[Controle]] · [[Lei da Variedade Requisitada]] · [[Identidade]] · [[Granularidade]]
 - Lado: [[Android]] · [[iOS]] · [[Multiplataforma]] · [[KMP]]
 
 ## Ideia
@@ -26,12 +25,6 @@ updated: 2025-08-28
 - DI: Hilt/Koin; limites modulares (feature modules) e [[Granularidade]].
 - Navegação: Navigation Compose, rotas estáveis, deep links.
 - Observabilidade: logs, métricas, tracing, ANR/Crash.
-
-## Relações Filosóficas
-- [[Controle]]: orquestração de efeitos (rede/IO) e UI reativa.
-- [[Lei da Variedade Requisitada]]: instrumentação + feature flags aumentam variedade de controle.
-- [[Granularidade]]: modularização por features/domínio.
-- [[Identidade]]: id estáveis para entidades/rotas, consistência entre camadas.
 
 ## Testes
 - Unidade (domínio), instrumentados (DAO, navegação), UI (Compose Testing), contratos de API.
