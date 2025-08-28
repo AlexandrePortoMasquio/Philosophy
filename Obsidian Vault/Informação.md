@@ -11,10 +11,10 @@ updated: 2025-08-28
 ## Ideia
 - Informação é forma transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
-- TODO toda informação é um [[Bit]]? 
+- Nem toda informação é um [[Bit]]; o bit é a unidade de medida (quantidade), não a forma em si.
 
 ## Relações
-* TODO a [[Virtualidade]] contém informação?
+- [[Virtualidade]] fornece estrutura de diferenciação real; torna-se [[Informação]] quando há codificação/transmissão sob um [[Canal e Fidelidade]].
 
 ## Ligações
 - Base para [[Descentralismo]], [[Virtualidade]], [[Cosmologia Informacional]].

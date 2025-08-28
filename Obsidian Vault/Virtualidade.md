@@ -19,7 +19,7 @@ updated: 2025-08-28
 - Tensiona [[Vagueza]]: distinção virtual vs indeterminado sem bordas.
 
 ## Diferenças
-* Embora semelhante à [[potência]] em [[Aristóteles]], TODO
+- Embora dialogue com a noção de [[potência]] em [[Aristóteles]], a virtualidade é real e estruturada por multiplicidades/singularidades (não mera possibilidade abstrata) e orienta a [[Atualização]] por vias contínuas.
 
 ## Fontes externas (referência)
 - ../Articles/Drafts/Virtualidade e Informação - Da Virtualidade Deleuziana à Entropia Informacional.txt
