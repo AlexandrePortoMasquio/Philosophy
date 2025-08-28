@@ -11,7 +11,7 @@ updated: 2025-08-28
 ## Ligações
 - Aplicação do [[Descentralismo]].
 - Depende de [[Informação]] e [[Controle]].
+- Relaciona-se a [[Teleologia Naturalista]] e [[Função Natural]] (efeitos selecionados explicam “para que”).
 
 ## Fontes externas (referência)
 - ../livros/livro/05 Organismo e Máquina.txt
-

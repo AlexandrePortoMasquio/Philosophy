@@ -10,4 +10,4 @@ updated: 2025-08-28
 
 ## Ligações
 - Conecta [[Controle]], [[Desejo]], [[Organismo e Máquina]], [[Descentralismo]].
-
+- Integra [[Teleologia Naturalista]] (propósitos como efeitos selecionados) sem apelar a subjetivismo.
