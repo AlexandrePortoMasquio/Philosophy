@@ -12,10 +12,12 @@ updated: 2025-08-28
 - Informação é forma transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
 - Nem toda informação é um [[Bit]]; o bit é a unidade de medida (quantidade), não a forma em si.
-- A informação é [[Identidade|identitária]]? Ou será que a [[diferença]], em si, também é [[forma]] e [[informação]]? Resposta: TODO
+- A informação é “identitária”? Ou a diferença, em si, também é forma e informação?
+  - Resposta: informação não é “identitária” por essência; ela codifica/preserva diferenças. [[Identidade]] emerge como invariantes sobre padrões diferenciais (formas). Logo, diferença estruturada = forma; forma transmissível = informação.
 
 ## Relações
-- [[Virtualidade]] fornece estrutura de diferenciação real; torna-se [[Informação]] quando há codificação/transmissão sob um [[Canal e Fidelidade]]? Ou será que a informação é um [[Coarse-Graining]] dos [[Fluxo|fluxos]] [[Continuidade|contínuos]] de [[Diferença|diferenciação]]? Resposta: TODO
+- [[Virtualidade]] fornece estrutura de diferenciação real; torna-se [[Informação]] quando há codificação/transmissão sob um [[Canal e Fidelidade]].
+- Informação como coarse‑graining: também pode ser vista como o recorte operacional de fluxos contínuos de diferenciação (variáveis/macrostados úteis para transmissão/controle).
 
 ## Ligações
 - Base para [[Descentralismo]], [[Virtualidade]], [[Cosmologia Informacional]].

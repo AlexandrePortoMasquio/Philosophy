@@ -9,8 +9,10 @@ updated: 2025-08-28
 - Conjunto de estados/processos informacionais com [[Consciência]] e [[Intencionalidade]], integrados por mecanismos físicos/funcionais.
 
 ## Discordâncias
-* TODO [[Descartes]] e outros pensadores
+- [[Descartes]] e dualismos clássicos vs monismos informacionais; contraste metodológico.
 
 ## Ligações
 - Conecta [[Problema Mente-Corpo]], [[Fisicalismo]], [[Pampsiquismo]], [[Consciência]], [[Informação]].
-
+ 
+## Referências históricas
+- [[Descartes]]: dualismo interacionista (res cogitans/res extensa), ponto de contraste com monismos informacionais.

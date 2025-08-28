@@ -11,6 +11,7 @@ updated: 2025-08-28
 ## Ligações
 - Problema difícil paralelo a [[Qualia]]; pressiona [[Fisicalismo]].
 - Relaciona-se a [[Informação]] (referência como mapeamento) e [[Transmissão de Informação]].
+- Teleosemântica: ver [[Teleosemântica]] para função/seleção como base do “sobre”.
 ## Mapa Rápido
 - [[Informação]] · [[Transmissão de Informação]]
 - [[Consciência]] · [[Problema Difícil da Consciência]]
