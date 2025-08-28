@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-* A [[Ontologia da Diferença]] permite que a [[Identidade]] seja derivada da [[Diferença]] (TODO de que forma?)
+- Identidade derivada da diferença: na [[Ontologia da Diferença]], a identidade emerge de invariâncias de padrões diferenciais ao longo de transformações.
 - Critério de mesmidade ao longo de variações; na [[Virtualidade]] não há identidade intrínseca, mas padrões que se tornam [[Formas]] na atualização.
 
 ## Ligações

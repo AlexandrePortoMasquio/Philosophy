@@ -1,3 +1,12 @@
-TODO
+---
+title: Persistência
+tags: [persistência, identidade]
+created: 2025-08-28
+updated: 2025-08-28
+---
 
-TODO como a persistência é um tipo de [[Transmissão de informação]] ao longo do [[Tempo]]
+## Ideia
+- Manter traços/invariantes ao longo do [[Tempo]]; pode ser vista como [[Transmissão de Informação]] intra‑sistema.
+
+## Ligações
+- Relaciona [[Identidade]], [[Invariantes]], [[Repetição]] e [[Atratores]].

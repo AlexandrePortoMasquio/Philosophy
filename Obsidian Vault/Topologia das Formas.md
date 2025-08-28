@@ -6,8 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- A [[Topologia]] das formas é a estrutura (TODO). (TODO) continuidade, vizinhança e transformação de [[Formas]]; base para definir [[Invariantes]] e mapear [[Atratores]].
+- Estuda continuidade, vizinhança e transformação de [[Formas]]; base para definir [[Invariantes]] e mapear [[Atratores]].
 
 ## Ligações
 - Relaciona [[Mundo das Formas]], [[Diferença]], [[Continuidade]] e [[Singularidades e Catástrofes]].
-

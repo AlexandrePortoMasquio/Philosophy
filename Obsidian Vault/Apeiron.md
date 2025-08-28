@@ -8,6 +8,8 @@ updated: 2025-08-28
 ## Ideia
 - O indeterminado (ἄπειρον) como princípio gerador: potencialidade inesgotável de diferenciações.
 
+## Argumentação
+ * TODO por que o apeiron é a realidade mais [[Básico|básica]]?
 ## Ligações
 - [[Virtualidade]] (potência de atualização)
 - [[Informação]] (estrutura de diferenças que atualiza o indeterminado)

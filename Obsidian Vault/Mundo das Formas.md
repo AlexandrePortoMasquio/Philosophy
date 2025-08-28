@@ -7,10 +7,10 @@ updated: 2025-08-28
 
 ## Ideia
 - Domínio das estruturas formais enquanto diferenças estáveis; as formas emergem da [[Diferença]] e são, elas mesmas, padrões diferenciais.
-- Qual a diferença entre virtualidade e mundo das formas?
 
-## Diferenças
-* Diferencia-se de [[Virtualidade]]: TODO
+## Diferenciação de Conceitos
+- Mundo das Formas vs [[Virtualidade]]: a virtualidade é o campo de diferenciação real (potências/variações); o Mundo das Formas reúne padrões estabilizados (atratores/invariantes) que resultam dessas atualizações.
+ 
 ## Ligações
 - Fundamenta [[Formas]] como entidades diferenciais.
 - Conecta-se a [[Virtualidade]] (campo de diferenciação real que dá origem a formas).
@@ -20,4 +20,3 @@ updated: 2025-08-28
 - Ideia articulada nas notas de Virtualidade e no projeto do livro (capítulos de informação e mente).
 ## Mapa Rápido
 - [[Formas]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
-

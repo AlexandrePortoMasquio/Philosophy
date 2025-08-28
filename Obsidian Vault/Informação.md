@@ -5,6 +5,9 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
+## Mapa Rápido
+- [[Formas]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
+
 ## Ideia
 - Informação é forma transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.

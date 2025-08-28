@@ -10,6 +10,6 @@ updated: 2025-08-28
 
 ## Ligações
 - Relaciona-se a [[Informação]] (seleção/codificação de traços) e [[Diferença]].
-- TODO relacionar com [[Descentralização]]
+- Relaciona-se a [[Descentralismo]] ao exigir critérios não‑arbitrários de seleção de traços relevantes.
 - Conecta com [[Modularidade]] (isolamento de responsabilidades) quando aplicável a sistemas.
 - Apoia [[Mundo das Formas]] e [[Repetição]] (padrões recorrentes facilitam abstração).
