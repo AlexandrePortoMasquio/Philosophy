@@ -18,6 +18,9 @@ updated: 2025-08-28
 - Conecta com [[Entropia Informacional]] na passagem virtual→atual.
 - Tensiona [[Vagueza]]: distinção virtual vs indeterminado sem bordas.
 
+## Diferenças
+* Embora semelhante à [[potência]] em [[Aristóteles]], TODO
+
 ## Fontes externas (referência)
 - ../Articles/Drafts/Virtualidade e Informação - Da Virtualidade Deleuziana à Entropia Informacional.txt
 

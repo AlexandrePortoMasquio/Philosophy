@@ -11,7 +11,7 @@ updated: 2025-08-28
 ## Ideia
 - Informação é forma transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
-- TODO toda informação é um [[Bit]]?
+- TODO toda informação é um [[Bit]]? 
 
 ## Relações
 * TODO a [[Virtualidade]] contém informação?
