@@ -7,16 +7,14 @@ updated: 2025-08-28
 
 # Home — Rizoma de Ideias
 
-Hubs (MOCs):
-- [[MOCs/MOC - Rizoma]]
-- [[MOCs/MOC - Virtualidade & Apeiron]]
-- [[MOCs/MOC - Vagueza & Bivalência]]
- - [[MOCs/MOC - Descentralismo & Informação]]
- - [[MOCs/MOC - Mundo das Formas]]
+Hubs
+- [[MOCs/MOC - Rizoma]] (mapa global)
+- Conceitos‑hub: [[Virtualidade]] · [[Mundo das Formas]] · [[Vagueza]] · [[Descentralismo]]
 
 Pontos de partida:
-- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Informação]] · [[Formas]] · [[Mundo das Formas]]
-- [[Vagueza]] · [[Bivalência Global]] · [[Paradoxo de Sorites]]
+- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]]
+- [[Mundo das Formas]] · [[Formas]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]]
+- [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]]
 
 Nota: Este rizoma referencia textos fora da vault como fontes, mas mantém todos os nós aqui dentro para o Graph.
