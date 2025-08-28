@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtualidade.md",
+                "file": "Mente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtualidade"
+              "title": "Mente"
+            }
+          },
+          {
+            "id": "1cfb26bc2f68a608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descartes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descartes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtualidade.md",
+                "file": "Descartes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtualidade"
+              "title": "Backlinks for Descartes"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtualidade.md",
+                "file": "Descartes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Virtualidade"
+              "title": "Outgoing links from Descartes"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtualidade.md",
+                "file": "Descartes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Virtualidade"
+              "title": "Outline of Descartes"
             }
           }
         ]
@@ -169,8 +184,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "05a344afac2884ca",
+  "active": "1cfb26bc2f68a608",
   "lastOpenFiles": [
+    "Descartes.md",
+    "Mente.md",
+    "Home.md",
+    "Deleuze.md",
+    "Diferença.md",
+    "Informação.md",
+    "Bit.md",
+    "Virtualidade.md",
     "Vagueza.md",
     "Compressão.md",
     "Abstração.md",
@@ -185,18 +208,10 @@
     "Subjetivismo.md",
     "sujeito.md",
     "Naturalismo Praxeológico.md",
-    "Informação.md",
     "substâncias.md",
     "Mental.md",
     "Pamprotopsiquismo.md",
     "produção.md",
-    "Capítulos/09 Filosofia da Mente — Fisicalismo.md",
-    "Físico.md",
-    "Capítulos/11 Intencionalidade.md",
-    "Capítulos/10 Filosofia da Mente — Pampsiquismo.md",
-    "Capítulos/08 Filosofia da Mente — Subjetivismo, Dualismo e Idealismo.md",
-    "Capítulos/07 Naturalismo Praxeológico.md",
-    "Capítulos/06 Simbiose Memética.md",
     "Capítulos"
   ]
 }
