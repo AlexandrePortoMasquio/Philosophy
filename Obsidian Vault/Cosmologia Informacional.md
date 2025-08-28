@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Quadro onde estruturas físicas são vistas como organização informacional e dinâmicas de seleção.
+- Tese que se baseia em uma [[Ontologia da Diferença]], ou metafísica da diferença, em que a [[Informação]], emergindo da [[Virtualidade]] como [[Formas]] transmissíveis [[Transmissão de Informação]] constituem uma rede de [[Entropia Informacional]], da qual emerge o [[Espaço-Tempo]]. Estruturas físicas são organização informacional e dinâmicas de [[Seleção Natural]].
 
 ## Ligações
 - Integra [[Apeiron]], [[Virtualidade]], [[Informação]], [[Entropia Informacional]].

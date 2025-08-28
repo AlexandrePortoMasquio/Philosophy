@@ -6,7 +6,10 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Todo enunciado declarativo é verdadeiro ou falso (exatamente um), salvo restrições (ex.: evitar predicados de verdade globais).
+- Todo enunciado declarativo é verdadeiro ou falso (exatamente um), salvo restrições (ex.: evitar predicados de verdade globais). TODO: é o mesmo que [[Lei do Terceiro Excluído]]?
+
+## Objeções
+* TODO
 
 ## Ligações
 - Em tensão com [[Vagueza]] e [[Paradoxo de Sorites]].
