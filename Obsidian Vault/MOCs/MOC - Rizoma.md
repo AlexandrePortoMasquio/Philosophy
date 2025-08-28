@@ -11,6 +11,7 @@ Temas
 - [[MOC - Virtualidade & Apeiron]]
 - [[MOC - Vagueza & Bivalência]]
 - [[MOC - Descentralismo & Informação]]
+ - [[MOC - Mundo das Formas]]
 
 Nós centrais
 - [[../Virtualidade]] ↔ [[Apeiron]] ↔ [[Diferença]] ↔ [[Informação]] ↔ [[Formas]] ↔ [[Mundo das Formas]]
@@ -18,4 +19,4 @@ Nós centrais
 - [[../Descentralismo]] ↔ [[../Controle]] ↔ [[Entropia Informacional]]
 
 Explorar próximos
-- [[Organismo e Máquina]] · [[Cosmologia Informacional]] · [[Transmissão de Informação]]
+- [[Organismo e Máquina]] · [[Cosmologia Informacional]] · [[Transmissão de Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]]

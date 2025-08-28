@@ -14,6 +14,7 @@ updated: 2025-08-28
 - Suporta [[Diferença]] e [[Formas]] como padrões diferenciais codificados.
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
 - Equivalência operacional: informação ≈ [[Formas]] quando há [[Transmissão de Informação]].
+- Compressibilidade: liga-se a [[Compressão]] como heurística de estrutura e a [[Invariantes]].
 
 ## Fontes externas (referência)
 - ../livros/livro/02 Cosmologia Informacional.txt

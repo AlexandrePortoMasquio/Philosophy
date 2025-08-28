@@ -11,7 +11,7 @@ updated: 2025-08-28
 ## Ligações
 - Conecta [[Informação]] e processos de atualização em [[Virtualidade]].
 - Importante para [[Descentralismo]] (feedbacks, ruído vs sinal).
+- Relaciona-se a [[Compressão]] (ordem vs dispersão; redundância vs ruído).
 
 ## Fontes externas (referência)
 - ../Articles/Drafts/Virtualidade e Informação - Da Virtualidade Deleuziana à Entropia Informacional.txt
-
