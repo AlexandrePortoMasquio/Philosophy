@@ -9,6 +9,7 @@ updated: 2025-08-29
 - Investiga como artefatos, técnicas e sistemas sociotécnicos moldam e são moldados por categorias filosóficas (ontologia, ética, política, epistemologia).
 - Síntese operativa: usar conceitos filosóficos para projetar/avaliar tecnologias; usar tecnologias como “laboratório” para testar e refinar teses filosóficas.
 - A [[Tecnofilosofia]] depende do avanço tecnoeconômico e, portanto, floresce no [[Tecnocapitalismo]].
+- [[Tecnofilosofia]] é o acesso ao [[Poder]] mais [[Primordial]] da [[Informação]].
 
 ## Eixos
 - [[Ontologia Técnica]] ([[Simondon]], [[Stiegler]]): individuação, memória e temporalidade dos objetos técnicos.

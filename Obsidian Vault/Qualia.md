@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Ideia
 - Aspectos qualitativos da experiência em primeira pessoa (o “como é” sentir/experienciar).
-- No [[Pampsiquismo]], ou até no [[Pamprotopsiquismo]] ([[Chalmers]]), nem todo qualia é necessariamente [[Subjetivo]], podendo ser [[primordial|primordiais]].
+- No [[Pampsiquismo]], ou até no [[Pamprotopsiquismo]] ([[Chalmers]]), nem todo qualia é necessariamente [[Subjetivo]], podendo ser [[Primordial|primordiais]].
 - O [[Pampsiquismo Informacional]] considera que [[Qualia]] são a mesma coisa que [[Informação]].
 
 ## Ligações

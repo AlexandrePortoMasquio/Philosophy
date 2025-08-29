@@ -1,3 +1,3 @@
 TODO
 
-TODO [[Filosofia da História]]
+TODO [[Filosofia da História]], [[Capitalismo]], [[Poder]], [[Jusnaturalismo]]
