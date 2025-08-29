@@ -1,1 +1,1 @@
-TODO [[Transhumanismo]]
+TODO [[Transhumanismo]], [[Pampsiquismo]], [[Mente]]

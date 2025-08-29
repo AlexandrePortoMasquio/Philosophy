@@ -1,5 +1,13 @@
-TODO
+---
+title: Web3
+tags: [web3]
+created: 2025-08-29
+updated: 2025-08-29
+---
 
-TODO [[Contrato Inteligente]], [[Descentralização]], [[Tecnocapitalismo]]
+## Ideia
+- Ecossistema de aplicações descentralizadas usando blockchain para identidade, valor e execução de regras (contratos inteligentes).
+- O mesmo que [[Criptoespaço]]
 
-TODO [[C]]
+## Ligações
+- [[Blockchain]] · [[Contrato Inteligente]] · [[DAO]]

@@ -10,5 +10,5 @@ updated: 2025-08-28
 - O [[Capital]] em fusão e [[Síntese]] com a [[Tecnologia]], no estágio [[Filosofia da História|histórico]] do [[Capitalismo Informacional]].
 
 ## Ligações
-- Conecta [[Ciberespaço]], [[Criptoespaço]], [[Descentralismo]].
+- Conecta [[Ciberespaço]], [[Criptoespaço]], [[Descentralismo]], [Inteligência em Rede](Inteligência%20em%20Rede.md)
 

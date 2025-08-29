@@ -1,3 +1,3 @@
 TODO
 
-[[Tecnocapital]], [[Anarcocapitalismo]]
+[[Tecnocapital]], [[Anarcocapitalismo]], [[Descentralismo]], [[Filosofia da História]]

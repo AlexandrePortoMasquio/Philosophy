@@ -1,3 +1,12 @@
-TODO
+---
+title: Contrato Inteligente
+tags: [web3]
+created: 2025-08-29
+updated: 2025-08-29
+---
 
-TODO [Web3](Web3.md), [Blockchain](Blockchain.md), [[DAO]]
+## Ideia
+- Programa executado na blockchain que define regras e efeitos verificáveis (transferências, permissões, estados), com auditabilidade pública.
+
+## Ligações
+- [[Web3]] · [[Blockchain]] · [[DAO]]

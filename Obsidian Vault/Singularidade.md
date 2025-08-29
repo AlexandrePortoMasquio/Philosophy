@@ -1,1 +1,4 @@
-TODO relacionar a [[Inteligência Artificial]], [[Transhumanismo]]
+
+TODO
+
+TODO relacionar a [[Inteligência Artificial]], [[Transhumanismo]], [[John Smart]]

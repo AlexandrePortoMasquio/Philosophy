@@ -1,4 +1,12 @@
-TODO
+---
+title: DAO (Organização Autônoma Descentralizada)
+tags: [web3, governança]
+created: 2025-08-29
+updated: 2025-08-29
+---
 
-TODO [Web3](Web3.md), [Descentralização](Descentralização.md), [Tecnocapitalismo](Tecnocapitalismo.md)
+## Ideia
+- Estrutura de governança baseada em contratos inteligentes e participação distribuída (tokens/votos), com regras transparentes e automação.
 
+## Ligações
+- [[Web3]] · [[Blockchain]] · [[Contrato Inteligente]], [[Governança]]
