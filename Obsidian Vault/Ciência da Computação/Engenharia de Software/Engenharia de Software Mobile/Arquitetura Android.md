@@ -22,7 +22,7 @@ updated: 2025-08-28
 ## Decisões Centrais
 - Estado: imutabilidade local, fontes únicas de verdade; [[Injeção de Dependência]], ciclo de vida.
 - Concorrência: coroutines (Dispatchers), cancelamento estruturado, backpressure com Flow.
-- DI: Hilt/Koin; limites modulares (feature modules).
+- DI: Koin (somente na apresentação); limites modulares (feature modules).
 - Navegação: Navigation Compose, rotas estáveis, deep links.
 - Observabilidade: logs, métricas, tracing, ANR/Crash.
 

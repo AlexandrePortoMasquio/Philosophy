@@ -2,7 +2,7 @@
 title: Arquitetura KMP (Kotlin Multiplatform)
 tags: [mobile, kotlin, kmp, arquitetura]
 created: 2025-08-28
-updated: 2025-08-28
+\12025-08-29
 ---
 
 ## Mapa Rápido
@@ -15,8 +15,8 @@ updated: 2025-08-28
 - Minimizar atritos de interop (Swift/ObjC) com APIs estáveis e conversões claras de tipos.
 
 ## Estrutura Recomendada
-- shared: `:core:domain`, `:core:data` (commonMain + expect/actual para IO/crypto)
-- Android app: módulos `:app` + features; DI com Hilt, Navigation Compose.
+- Shared (KMP): módulos `:core:domain`, `:core:data` (commonMain + expect/actual para IO/crypto)
+- Android app: módulos `:app` + features; DI com Koin, Navigation Compose.
 - iOS app: integra XCFramework do módulo compartilhado; DI/estado locais da plataforma.
 
 ## Fluxos e Contratos
@@ -44,3 +44,8 @@ updated: 2025-08-28
 ### Enforcement
 - Limites de pacote/módulo; visibilidade restrita; regras do Gradle (dependency constraints).
 - Testes de substituição (LSP) e contratos de API; análise estática e lint.
+
+## Regras de Dependência
+- Shared (KMP) — Domínio/Modelos: sem AndroidX/Swift; apenas Kotlin multiplataforma (stdlib, coroutines, serialization).
+- Shared (KMP) — Dados: apenas libs KMP (Ktor/SQLDelight) — zero APIs específicas de plataforma.
+- Apresentação (plataforma): Compose no Android e SwiftUI no iOS; adaptação/DI nas bordas.

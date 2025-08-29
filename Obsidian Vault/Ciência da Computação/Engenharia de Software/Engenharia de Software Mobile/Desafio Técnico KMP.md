@@ -2,7 +2,7 @@
 title: Desafio Técnico KMP
 tags: [mobile, kotlin, kmp, desafio técnico, arquitetura]
 created: 2025-08-28
-updated: 2025-08-28
+\12025-08-29
 ---
 
 
@@ -25,21 +25,25 @@ updated: 2025-08-28
 - Demonstrar conhecimento profundo em KMP, usando ferramentas da melhor forma possível e atendendo o melhor possível a todos os requerimentos.
 - Qualidade: cobertura de regras de negócio ≥ 70% no módulo shared; lints sem erros.
 - UX: tempo de 1º carregamento ≤ 1s com cache; ≤ 3s a frio com rede média.
+- Design bonito, bem acabado e intuitivo.
 - Estabilidade: zero crashes conhecidos; taxas de erro instrumentadas.
 
 ## Arquitetura Proposta
+
+## Regras de Dependência por Camada
+- Shared (KMP) — Domínio/Modelos: apenas Kotlin multiplataforma (stdlib, coroutines, serialization); sem AndroidX, sem Swift/Objective-C.
+- Shared (KMP) — Dados: apenas bibliotecas multiplataforma (Ktor/SQLDelight/etc.); nada de APIs Android/iOS.
+- Apresentação (plataforma): Compose (Android) e SwiftUI (iOS); adapters traduzem modelos/domínio → UI.
 - Shared (KMP):
   - Módulos: `:shared:core:domain`, `:shared:core:data`, `:shared:feature:catalog`.
   - Domain: casos de uso, entidades e invariantes; erros tipados; orquestra políticas offline‑first.
   - Data: repositórios, fontes remota (Ktor) e local (SQLDelight); mapeadores; políticas de cache.
   - Expect/Actual: relógio, storage seguro, reachability, logger.
 - Android:
-  - App `:androidApp` + `:feature:*` finas (UI Compose, ViewModel, navegação). DI: Hilt.
+  - App `:androidApp` + `:feature:*` finas (UI Compose, ViewModel, navegação). DI: Koin (apresentação Android).
   - Fluxo UDF: intents → reducer → state (StateFlow). Observabilidade: Timber + Crashlytics (stubável).
 - iOS:
   - SwiftUI + Combine; integração via XCFramework do shared. Adaptadores de Flow → Publisher; DI local (p.ex., Factory).
-
-## Perguntas (TODO)
 
 ## Fluxos de Dados (alto nível)
 - UI → Intent → Caso de Uso → Repositório → (Remote/Local) → Model → Estado → UI.
@@ -50,7 +54,7 @@ updated: 2025-08-28
 - Network: Ktor Client + engines por plataforma.
 - Persistência: SQLDelight (schema único, código gerado multiplataforma).
 - Concurrency: coroutines/Flow no shared; limite de paralelismo configurável. Em iOS, expor APIs sem suspensão no boundary.
-- DI: construtores no shared; Hilt/Koin apenas na borda Android; em iOS, composição manual.
+- DI: construtores no shared; Koin apenas na borda Android; em iOS, composição manual.
 
 ## Testes
 - commonTest: casos de uso e repositórios com fakes (HTTP/DB), teste de políticas offline‑first.
@@ -81,15 +85,13 @@ updated: 2025-08-28
 - Supercompartilhamento: manter UI nativa e integrações no app; revisar dependências do shared.
 - Tempo do desafio: priorizar backlog pelo caminho crítico (dados → domínio → Android UI → testes → iOS UI mínima).
 
-## Ligações
-
 
 ## Perguntas (para confirmação)
 - Qual é o endpoint/dataset JSON real e um exemplo de schema?
 - Há restrições de design/branding para a UI (cores, fontes, ícones)?
 - Targets: Android (minSdk/target/compile) e iOS (deployment target)?
 - Restrições legais/privacidade (telemetria, PII) ou política de logs?
-- Confirmar DI: Hilt no Android, composição manual no iOS e por construtor no shared.
+- Confirmar DI: Koin no Android (apresentação), composição manual no iOS e por construtor no shared.
 - Plataforma de CI preferida (p.ex., GitHub Actions) e ambiente de build?
 - Prioridades/timebox: performance vs cobertura de testes vs features?
 - Idioma padrão da UI (EN/PT-BR) e necessidade de i18n?
@@ -100,30 +102,31 @@ updated: 2025-08-28
 - Design/Branding: Material 3 básico, dark mode, acessibilidade; ícones do Material; sem branding específico.
 - Targets: Android `compileSdk=34`, `targetSdk=34`, `minSdk=24`; iOS `deploymentTarget=iOS 16`.
 - Privacidade/Logs: sem analytics; logs locais (Napier/Timber) anonimizados; nenhum PII além do dataset.
-- DI: shared por construtor; Android com Hilt; iOS com factories (composition root).
+- DI: shared com Koin core por construtor; Android com Koin (apresentação); iOS com factories (composition root).
 - CI: GitHub Actions (lint, testes `commonTest`/Android, build XCFramework e APK).
 - Prioridades: entregabilidade e corretude > testabilidade > UX; performance após básicos.
 - Idioma: EN por padrão; PT-BR opcional se tempo permitir; strings isoladas para futura i18n.
 - Cache: offline-first com TTL 24h; refresh manual e em segundo plano quando rede disponível.
 
 ## Ferramentas e Dependências (KMP)
+- Regras de acoplamento (camadas):
+  - Domínio/Modelos: sem dependências específicas de Android/iOS. Apenas Kotlin padrão e libs multiplataforma necessárias (ex.: coroutines, serialization) — sem AndroidX, sem Swift.
+  - Dados: apenas bibliotecas multiplataforma (Ktor, SQLDelight, datetime, logging KMP). Nenhuma API específica de plataforma.
+  - Apresentação: específico por plataforma — Android (Compose + AndroidX) e iOS (SwiftUI + Combine).
 - Build: Gradle 8.7; Kotlin 2.0.20; AGP 8.5.2.
-- Shared:
-  - kotlinx.coroutines 1.8.1; kotlinx.serialization 1.6.3; kotlinx.datetime 0.6.0.
+- Shared (KMP) — Domínio (:core:domain):
+  - kotlinx.coroutines 1.8.1 (suspend/Flow), kotlinx.serialization 1.6.3, kotlinx.datetime 0.6.0.
+- Shared (KMP) — Dados (:core:data):
   - Ktor Client 2.3.8 (core, content-negotiation, serialization-json).
-  - SQLDelight 2.0.2 (runtime + drivers por plataforma).
+  - SQLDelight 2.0.2 (runtime + drivers por plataforma fornecidos na borda).
   - Napier 2.7.1 (logging multiplataforma).
-- Android:
+- Apresentação Android:
   - Compose BOM 2024.08.00; activity-compose; lifecycle-viewmodel-compose.
-  - Hilt 2.51.1; hilt-navigation-compose.
+  - Koin 3.x (koin-android, koin-androidx-compose) na apresentação Android.
   - Ktor engine OkHttp; SQLDelight Android driver.
   - Testes: junit4, androidx.test, compose-ui-test-junit4, turbine 1.0.0.
-- iOS:
-  - Ktor Darwin; SQLDelight Native driver; integração via XCFramework.
-- Qualidade: Ktlint/Detekt (opcional), lint Android; tasks de verificação no CI.
-## Ligações
-
-## Respostas às Perguntas
+- Apresentação iOS:
+  - SwiftUI + Combine.verificação no CI.
 
 ### Injeção de Dependência
 - Shared (KMP): injeção por construtor, sem framework. Dependências entram como interfaces (ports) e são fornecidas nas bordas, mantendo testabilidade e portabilidade.

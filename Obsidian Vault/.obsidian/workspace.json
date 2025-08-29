@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
+                "file": "Desafio Técnico KMP - Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desafio Técnico KMP"
+              "title": "Desafio Técnico KMP - Requisitos"
             }
           },
           {
@@ -67,10 +67,14 @@
             "id": "c81dc14cc2cc01a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Desafio Técnico KMP - Requisitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desafio Técnico KMP - Requisitos"
             }
           },
           {
@@ -88,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desafio Técnico KMP - Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Desafio Técnico KMP - Requisitos"
             }
           },
           {
@@ -180,11 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desafio Técnico KMP - Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Desafio Técnico KMP - Requisitos"
             }
           },
           {
@@ -208,12 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Desafio Técnico KMP - Requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Desafio Técnico KMP - Requisitos"
             }
           }
         ]
@@ -234,12 +241,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c81dc14cc2cc01a2",
+  "active": "ac91ce8efeefdc9a",
   "lastOpenFiles": [
-    "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
-    "Ciência da Computação/Engenharia de Software/Arquitetura de Software.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
     "Desafio Técnico KMP - Requisitos.md",
+    "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
+    "Ciência da Computação/Engenharia de Software/Arquitetura de Software.md",
     "Ciência de Dados.md",
     "Ciência da Computação/Ciência da Computação.md",
     "Aprendizado.md",
