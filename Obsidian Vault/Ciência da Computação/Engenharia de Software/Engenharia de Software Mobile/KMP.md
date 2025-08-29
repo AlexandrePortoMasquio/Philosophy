@@ -11,7 +11,7 @@ updated: 2025-08-28
 - Abaixo: CI/CD (publicação de artefatos), testes, integração com apps
 
 ## Ideia
-- KMP permite compartilhar código Kotlin entre Android, iOS e outras plataformas via módulos com `commonMain` (expect) e implementações específicas (`actual`).
+- KMP permite compartilhar código [[Kotlin]] entre [[Android]], iOS e outras plataformas via módulos com `commonMain` (expect) e implementações específicas (`actual`).
 - Objetivo: reduzir duplicação de regras de negócio mantendo experiência nativa na UI.
 
 ## Quando usar

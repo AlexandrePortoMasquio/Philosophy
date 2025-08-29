@@ -10,7 +10,7 @@ updated: 2025-08-28
 - Distingue-se repetição mecânica de iteração diferencial (cada ciclo pode introduzir variação relevante).
 
 ## Repetição em [[Deleuze]]
-- Repetição como [[produção]] do novo: não cópia do mesmo, mas insistência de diferenças que se individuam via [[Singularidades e Catástrofes]] e [[Atratores]].
+- Repetição como [[Produção]] do novo: não cópia do mesmo, mas insistência de diferenças que se individuam via [[Singularidades e Catástrofes]] e [[Atratores]].
 
 ## Ligações
 - Relaciona-se a [[Diferença]] (Diferença e Repetição) e [[Virtualidade]].

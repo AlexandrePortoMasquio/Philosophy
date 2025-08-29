@@ -1,2 +1,5 @@
-# Aprendizado Supervisionado
 
+
+TODO 
+
+TODO [[Aprendizado de Máquina]]

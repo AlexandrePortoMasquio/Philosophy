@@ -17,4 +17,4 @@ updated: 2025-08-28
 ## Ligações
 *  Não conectar este nó com filosofia, e também os nós em geral que já estejam abaixo da Ciência da Computação.
 - Acima: [[Código]].
-- Abaixo: [[Engenharia de Software/Ferramentas|Ferramentas]] (compiladores, linters), [[Engenharia de Software/Processos|Processos]] (revisões).
+- Abaixo: [[Engenharia de Software/Ferramentas|Ferramentas]] (compiladores, linters), [[Engenharia de Software/Processos|Processos]] (revisões), [[Kotlin]], [[Java]].
