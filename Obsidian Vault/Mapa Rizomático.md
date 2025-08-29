@@ -11,6 +11,7 @@ Hubs
 - Conceitos‑hub: [[Virtualidade]] · [[Mundo das Formas]] · [[Vagueza]] · [[Descentralismo]]
 
 Pontos de partida:
+* [[Rizoma]]
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]

@@ -27,6 +27,7 @@ updated: 2025-08-28
 ## Referências sugeridas
 - Deleuze (Diferença e Repetição); Thom (Teoria das Catástrofes)
 ## Mapa Rápido
+* [[Deleuze]]
 - [[Apeiron]] · [[Diferença]] · [[Campo]] · [[Continuidade]] · [[Variação]] · [[Atualização]]
 - [[Atratores]] · [[Invariantes]] · [[Informação]] · [[Entropia Informacional]] · [[Singularidades e Catástrofes]]
 
