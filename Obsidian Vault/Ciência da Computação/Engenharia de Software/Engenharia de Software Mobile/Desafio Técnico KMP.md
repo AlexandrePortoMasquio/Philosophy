@@ -39,9 +39,10 @@ created: 2025-08-28
   - Módulos: `:shared:core:domain`, `:shared:core:data`, `:shared:feature:catalog`.
   - Domain: casos de uso, entidades e invariantes; erros tipados; orquestra políticas offline‑first.
   - Data: repositórios, fontes remota (Ktor) e local (SQLDelight); mapeadores; políticas de cache.
+  - Separação interfaces/implementações (ports/adapters): contratos (`Repository`, `UseCase`) definidos no domínio; implementações concretas em data (ou features) e injetadas via DI nas bordas.
   - Expect/Actual: relógio, storage seguro, reachability, logger.
 - Android:
-  - App `:androidApp` + `:feature:*` finas (UI Compose, ViewModel, navegação). DI: Koin (apresentação Android).
+  - App `:composeApp` + `:feature:*` finas (UI Compose, ViewModel, navegação). DI: Koin (apresentação Android).
   - Fluxo UDF: intents → reducer → state (StateFlow). Observabilidade: Timber + Crashlytics (stubável).
 - iOS:
   - SwiftUI + Combine; integração via XCFramework do shared. Adaptadores de Flow → Publisher; DI local (p.ex., Factory).
@@ -166,9 +167,9 @@ created: 2025-08-28
 - DIP — Princípio da Inversão de Dependência (Dependency Inversion Principle): shared depende de `CatalogRepository` (interface); Android/iOS fornecem implementações via DI na borda.
 
 ### Tarefas Concretas
-1) Definir interfaces do domínio e resultados `sealed` (DIP/OCP).
+1) Definir interfaces (ports) do domínio e resultados `sealed` (DIP/OCP).
 2) Implementar fakes/stubs do repositório e testes de substituição (LSP).
-3) Quebrar interfaces gordas por caso de uso/consulta (ISP).
+3) Quebrar interfaces gordas por caso de uso/consulta (ISP) e manter implementações separadas dos contratos.
 4) Isolar mapeadores/adaptadores por módulo (SRP) e restringir visibilidades.
 5) Garantir extensão por composição (novos casos/handlers) sem editar código estabilizado (OCP).
 

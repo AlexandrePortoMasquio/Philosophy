@@ -18,6 +18,9 @@ updated: 2025-08-29
 - Domínio com lógica substancial e estável (networking, cache, validação, casos de uso) e UI nativa específica.
 - Equipes com proficiência em Kotlin e integração [[iOS]] (Interop Swift/ObjC).
 
+## Módulos
+* [[Domain]]
+
 ## Relações Arquiteturais
 - Camadas: módulo compartilhado (domínio/dados) e apps finos (UI nativa, DI, navegação).
 - Limites claros (API do módulo) preservam [[Modularidade]] adequada e reduzem acoplamento.
@@ -53,8 +56,8 @@ updated: 2025-08-29
 - DI: Koin core no shared (contratos), Koin Android apenas na apresentação Android.
 - Resultados: padronizar use cases com `sealed class` para estados/erros (OCP/UX).
 - Mappers: explicitar Db→Domain e DTO→Domain (SRP/testes).
+- Ports/Adapters: definir interfaces (ports) no domínio (`Repository`, `UseCase`) e manter implementações em data/features; composição via DI nas bordas.
 
 ## Por que SQLDelight e Napier no KMP
 - SQLDelight: cache offline-first com um único schema/queries no Shared; APIs tipadas geradas a partir de `.sq` evitam erros em runtime; funciona em Android e iOS apenas trocando o driver. Ver [[SQLDelight]].
 - Napier: logging multiplataforma (KMP) simples e leve; direciona logs para Logcat no Android e NSLog no iOS; facilita observabilidade mínima sem acoplamento de plataforma. Ver [[Napier]].
-

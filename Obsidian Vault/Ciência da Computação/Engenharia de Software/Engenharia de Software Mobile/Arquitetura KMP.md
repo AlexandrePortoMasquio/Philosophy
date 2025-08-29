@@ -17,6 +17,7 @@ updated: 2025-08-29
 - Modularização por feature: `:feature:catalog` etc., dependem de `:core:*` via interfaces; facilita testes e evolução.
 - DI: Koin core no shared (contratos e wiring leve), Koin Android apenas na apresentação; iOS faz composition root em Swift.
 - Offline‑first: RemoteDataSource (Ktor) + Local (SQLDelight); política de hidratação (insertOrReplace), [[TTL]]/refresh.
+- Ports/Adapters: contratos (interfaces) no domínio (`Repository`, `UseCase`) e implementações concretas em data/features; bordas fazem a composição via DI.
 
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
@@ -64,7 +65,7 @@ updated: 2025-08-29
 - Apresentação (plataforma): Compose no Android e SwiftUI no iOS; adaptação/DI nas bordas.
 
 ## Boas Práticas de Nomenclatura e Módulos
-- Módulo da app Android: prefira `:androidApp` quando o alvo é só Android (em vez de `:composeApp`).
+- Mantenha os nomes do template (ex.: `:composeApp`) salvo exigência explícita; evite renomear módulos sem necessidade.
 - Composable raiz em Android: `RootApp`/`MainApp`; classe `Application`: `MyAppApplication`.
 - Shared sem específicos de plataforma: nada de AndroidX/Swift/Core no shared; engines/drivers apenas por source sets.
 

@@ -7,7 +7,7 @@ updated: 2025-08-28
 
 ## Mapa Rápido
 - [[Granularidade]] · [[Invariantes]] · [[Entropia Informacional]], [[Inteligência Artificial]]
-- ↓ [[Engenharia de Software/Desempenho|Desempenho]] · [[Engenharia de Software/Processos|Processos]]
+- ↓ [[../../Engenharia de Software/Performance (Software)|Performance (Software)]] · [[Engenharia de Software/Processos|Processos]]
 
 ## Ideia
 - Construção de funções a partir de dados por otimização; generalização além do conjunto de treinamento.
@@ -21,4 +21,4 @@ updated: 2025-08-28
 
 ## Ligações
 - Acima: [[Informação]], [[Granularidade]].
-- Abaixo: [[Engenharia de Software/Desempenho|Desempenho]] (serving), [[Engenharia de Software/Processos|Processos]] (MLOps).
+- Abaixo: [[../../Engenharia de Software/Performance (Software)|Performance (Software)]] (serving), [[Engenharia de Software/Processos|Processos]] (MLOps).

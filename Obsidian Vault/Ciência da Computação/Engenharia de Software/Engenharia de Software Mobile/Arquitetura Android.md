@@ -30,7 +30,7 @@ updated: 2025-08-28
 - Unidade (domínio), instrumentados (DAO, navegação), UI (Compose Testing), contratos de API.
 
 ## Ligações
-- [[../Arquitetura de Software|Arquitetura de Software]] · [[Android]] · [[Multiplataforma]] · [[KMP]]  · [[Engenharia de Software/Testes|Testes]] · [[Engenharia de Software/Desempenho|Desempenho]]
+- [[../Arquitetura de Software|Arquitetura de Software]] · [[Android]] · [[Multiplataforma]] · [[KMP]]  · [[Engenharia de Software/Testes|Testes]] · [[../../../Engenharia de Software/Performance (Software)|Performance (Software)]]
 
 ## Application vs Composable Root (Android)
 - Application (ex.: `MyAppApplication`): inicializa DI (Koin), logs, configs globais e providers (SqlDriver). Padrão profissional.

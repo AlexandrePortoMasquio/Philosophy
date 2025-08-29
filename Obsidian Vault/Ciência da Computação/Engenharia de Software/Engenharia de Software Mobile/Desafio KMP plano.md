@@ -15,9 +15,11 @@ updated: 2025-08-29
 2) Modularizar Shared
    - Criar `:shared:core:domain` e `:shared:core:data` (se ainda não existirem).
    - Adicionar deps KMP: coroutines, serialization, datetime.
+   Testar o build.
 3) Definir contratos de domínio
    - Entidades, invariantes, `sealed class Result` e `DomainError`.
    - Casos de uso (lista/detalhe/busca/local‑filter).
+   - Separação ports/adapters: definir interfaces (ports) para `UseCase` e `Repository` no domínio; implementações concretas (adapters) ficam em data (ou features) e entram por DI.
 4) Implementar dados/offline‑first
    - `RemoteDataSource` (Ktor + JSON) com timeouts/backoff.
    - Schema/queries SQLDelight; `LocalDataSource` e repositórios.
@@ -44,4 +46,3 @@ updated: 2025-08-29
 ## Dependências/Notas
 - Endpoint real ou mock versionado no repositório (substituível).
 - DI Android: Koin (preferência); confirmar se Hilt é exigência do cliente.
-
