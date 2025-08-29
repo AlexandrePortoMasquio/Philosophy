@@ -25,12 +25,14 @@ updated: 2025-08-29
 
 ## Ferramentas
 * [[SQDelight]]
+* [[Koin]]
+* [[Napier]]
 
 ## Perguntas e Respostas
 - shared vs commonMain: "shared" costuma ser o nome do módulo Gradle; `commonMain` é o source set dentro desse módulo. Padrão de mercado: o source set chama‑se sempre `commonMain`; o nome do módulo varia (ex.: `:shared`, `:core`).
 
 ## Tópicos
-- Estrutura: `commonMain`, `androidMain`, `iosMain`; bibliotecas: kotlinx.coroutines, serialization, Ktor.
+- Estrutura: [[commonMain]], `androidMain`, `iosMain`; bibliotecas: kotlinx.coroutines, serialization, [[Ktor]].
 - Interop iOS: geração de framework, bridging de tipos (nullable, collections), performance de bridging.
 - Persistência: multiplataforma (SQLDelight, Realm/KMM) e cache.
 - Testes: unitários em comum, instrumentados por plataforma; contratos de API.
@@ -51,3 +53,15 @@ updated: 2025-08-29
 - DI: Koin core no shared (contratos), Koin Android apenas na apresentação Android.
 - Resultados: padronizar use cases com `sealed class` para estados/erros (OCP/UX).
 - Mappers: explicitar Db→Domain e DTO→Domain (SRP/testes).
+
+## Por que SQLDelight e Napier no KMP
+- SQLDelight: cache offline-first com um único schema/queries no Shared; APIs tipadas geradas a partir de `.sq` evitam erros em runtime; funciona em Android e iOS apenas trocando o driver. Ver [[SQLDelight]].
+- Napier: logging multiplataforma (KMP) simples e leve; direciona logs para Logcat no Android e NSLog no iOS; facilita observabilidade mínima sem acoplamento de plataforma. Ver [[Napier]].
+
+## TODOs
+- Definir `:androidApp` como nome do módulo (em vez de `:composeApp`).
+- Adicionar `sealed class Result/DomainError` aos use cases.
+- Implementar `RemoteDataSource` (Ktor + DTOs) e hidratação do cache (SQLDelight).
+- Criar mappers explícitos (DTO→Domain, Db→Domain).
+- Compor DI no iOS (fornecer `SqlDriver` e instâncias do shared).
+- Especificar estratégia de i18n (EN default, PT-BR opcional).

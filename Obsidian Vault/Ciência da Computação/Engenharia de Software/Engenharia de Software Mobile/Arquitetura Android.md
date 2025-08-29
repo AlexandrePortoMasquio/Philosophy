@@ -37,3 +37,23 @@ updated: 2025-08-28
 - Composable raiz (ex.: `RootApp`): tema, navegação, estado de UI. Chamado pela `MainActivity` via `setContent { ... }`.
 - Nomenclatura: evite nomes genéricos (`App.kt`). Prefira `MyAppApplication.kt` e `RootApp.kt`.
 
+
+## TODOs
+- Criar ViewModel (StateFlow + UDF) para lista/detalhe.
+- Wiring do Koin: módulos por feature, escopos de tela.
+- Navegação: rotas estáveis, argumentos tipados.
+- Testes: UI (Compose), instrumentados de DAO e navegação.
+- Performance: tracing básico, ANR/Crash reporting (stubável).
+
+## ViewModel e UDF
+- Estado único imutável por tela (`data class UiState`).
+- Intents (ações do usuário) → reducer → novo estado (StateFlow).
+- Efeitos: para navegação/toasts, expor `SharedFlow`/canal.
+
+## Navegação
+- Rotas estáveis com argumentos tipados; preferir single‑source de truth para rotas.
+- Deep links mapeados para rotas equivalentes.
+
+## Koin por Feature
+- Módulos por feature (`featureCatalogModule`), com escopos de tela quando necessário.
+- Application registra módulos da base; Activity/feature injeta ViewModel/UseCases.

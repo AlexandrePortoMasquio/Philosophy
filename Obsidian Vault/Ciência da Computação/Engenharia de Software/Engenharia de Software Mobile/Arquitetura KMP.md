@@ -16,7 +16,7 @@ updated: 2025-08-29
 - MVI (quando fizer sentido): único estado imutável por tela, intents, reducer e efeitos. Útil em flows complexos.
 - Modularização por feature: `:feature:catalog` etc., dependem de `:core:*` via interfaces; facilita testes e evolução.
 - DI: Koin core no shared (contratos e wiring leve), Koin Android apenas na apresentação; iOS faz composition root em Swift.
-- Offline‑first: RemoteDataSource (Ktor) + Local (SQLDelight); política de hidratação (insertOrReplace), TTL/refresh.
+- Offline‑first: RemoteDataSource (Ktor) + Local (SQLDelight); política de hidratação (insertOrReplace), [[TTL]]/refresh.
 
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
@@ -65,3 +65,25 @@ TODO
 - Módulo da app Android: prefira `:androidApp` quando o alvo é só Android (em vez de `:composeApp`).
 - Composable raiz em Android: `RootApp`/`MainApp`; classe `Application`: `MyAppApplication`.
 - Shared sem específicos de plataforma: nada de AndroidX/Swift/Core no shared; engines/drivers apenas por source sets.
+
+## Escolhas de Bibliotecas (racionais curtos)
+- [[SQLDelight]]: um único schema/queries no Shared; APIs tipadas; ideal para offline-first. Drivers entram só nas bordas (Android/iOS).
+- [[Napier]]: logging KMP leve; evita `println`/logs específicos de plataforma no Shared; suficiente para diagnóstico e observabilidade básica.
+
+## TODOs
+- Registrar ADR curta das escolhas (Koin, Ktor, SQLDelight, Napier).
+- Adotar padrão de nomes: `:androidApp`, `MyAppApplication`, `RootApp`.
+- Formalizar política offline-first (TTL, gatilhos de refresh, reconciliation).
+- Definir contratos de erro (DomainError) e guidelines de UI para estados.
+- Matriz de testes: commonTest (driver em memória), Android (smoke/UI), iOS (smoke).
+
+## Política Offline‑first
+- TTL: 24h; invalidação por versão de schema ou logout. (TODO: o que é TTL?)
+- Refresh: manual (pull‑to‑refresh) e automático em segundo plano se rede disponível.
+- Reconciliação: `insertOrReplace` por chave primária; idempotência nos repositórios.
+- Erros: backoff exponencial; timeout padrão (ex.: 5s) e timeouts dedicados por rota sensível.
+
+## Matriz de Testes
+- commonTest: use cases + repositórios com driver em memória e fakes de rede.
+- Android: UI (Compose), navegação e DAO instrumentado (se necessário).
+- iOS: smoke tests consumindo o framework compartilhado.

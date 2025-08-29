@@ -1,1 +1,1 @@
-TODO
+TODO por que usar no [[KMP]]

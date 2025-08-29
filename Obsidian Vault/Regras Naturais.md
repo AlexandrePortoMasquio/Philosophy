@@ -1,1 +1,1 @@
-TODO [[Regra]]
+TODO [[Regra]], [[Natureza]]

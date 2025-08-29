@@ -176,147 +176,63 @@
             }
           },
           {
-            "id": "7762c94786bcb85a",
+            "id": "569af7ff186d39eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regra.md",
+                "file": "Natureza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regra"
+              "title": "Natureza"
             }
           },
           {
-            "id": "233849fce339dd02",
+            "id": "8c927859ab9c1a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência da Computação/Algoritmos/Algoritmos.md",
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmos"
+              "title": "Desafio Técnico KMP"
             }
           },
           {
-            "id": "31a0209a033e3f40",
+            "id": "3c88ebbe7acd194d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialética.md",
+                "file": "Napier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialética"
+              "title": "Napier"
             }
           },
           {
-            "id": "8609972b9d9c8eee",
+            "id": "cef8a7b9fce16d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura Android.md",
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura Android"
+              "title": "Arquitetura KMP"
             }
           },
           {
-            "id": "5f6497411f871035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitetura MVVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura MVVM"
-            }
-          },
-          {
-            "id": "fbba9b01d0fea9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Segurança da Informação/Criptografia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criptografia"
-            }
-          },
-          {
-            "id": "72d1f2826d066f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blockchain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blockchain"
-            }
-          },
-          {
-            "id": "4c5f1b98d08ff22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web3"
-            }
-          },
-          {
-            "id": "2bf38e1affda154f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contrato Inteligente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contrato Inteligente"
-            }
-          },
-          {
-            "id": "a47619dc471c0991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web3"
-            }
-          },
-          {
-            "id": "81edd013ce99ddf4",
+            "id": "e70456815d5547ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -330,105 +246,21 @@
             }
           },
           {
-            "id": "442cf44a0c87e95b",
+            "id": "9d726e9a183d5d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Koin.md",
+                "file": "commonMain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koin"
-            }
-          },
-          {
-            "id": "9e0d7226f72414ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Turing"
-            }
-          },
-          {
-            "id": "57f5d46d631f6497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Completude de Turing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Completude de Turing"
-            }
-          },
-          {
-            "id": "3043143f6d028307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Máquina de Turing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Máquina de Turing"
-            }
-          },
-          {
-            "id": "0311c88cca0c18e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Ciência da Computação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciência da Computação"
-            }
-          },
-          {
-            "id": "c81dc14cc2cc01a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desafio Técnico KMP - Requisitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desafio Técnico KMP - Requisitos"
-            }
-          },
-          {
-            "id": "3307fd4cf9154039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adaptação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adaptação"
+              "title": "commonMain"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -460,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desafio",
+                "query": "SQD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -502,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Koin.md",
+                "file": "commonMain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +344,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Koin"
+              "title": "Backlinks for commonMain"
             }
           },
           {
@@ -521,12 +353,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Koin.md",
+                "file": "commonMain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Koin"
+              "title": "Outgoing links from commonMain"
             }
           },
           {
@@ -550,13 +382,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Koin.md",
+                "file": "commonMain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Koin"
+              "title": "Outline of commonMain"
             }
           }
         ]
@@ -577,13 +409,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "442cf44a0c87e95b",
+  "active": "9d726e9a183d5d3c",
   "lastOpenFiles": [
-    "Injeção de Dependência.md",
-    "Koin.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-    "SQDelight.md",
+    "commonMain.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+    "TTL.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+    "Logging.md",
+    "Napier.md",
+    "Koin.md",
+    "SQDelight.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
+    "SQLDelight.md",
+    "Filosofia.md",
+    "Spinoza.md",
+    "Natureza.md",
+    "Regras Naturais.md",
+    "Completude de Turing.md",
+    "Dialética.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura Android.md",
+    "Arquitetura MVVM.md",
+    "Ciência da Computação/Segurança da Informação/Criptografia.md",
+    "Blockchain.md",
+    "Web3.md",
+    "Turing.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Multiplataforma.md",
+    "Ciência da Computação/Engenharia de Software/Arquitetura.md",
+    "Injeção de Dependência.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/dirty-sources.txt",
     "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6/1qhixto64rks2n3rwuzry5ovx/configuration-cache-report.html",
@@ -604,26 +456,6 @@
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png",
-    "Ciência da Computação/Engenharia de Software/Ferramentas.md",
-    "Cyberia.md",
-    "Web3.md",
-    "Projetos/bimm-kmp-challenge-base/README.md",
-    "DAO.md",
-    "Contrato Inteligente.md",
-    "Blockchain.md",
-    "Ciência da Computação/Segurança da Informação/Criptografia.md",
-    "Ciência da Computação/Segurança da Informação/Segurança da Informação.md",
-    "View Model.md",
-    "Arquitetura MVVM.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura Android.md",
-    "Hegel.md",
-    "Dialética.md",
-    "Binário.md",
-    "Descentralização.md",
-    "Energia.md",
-    "Ciência da Computação/Teoria da Computação/Teoria da Computação.md",
-    "Completude de Turing.md",
-    "Turing.md",
-    "Máquina de Turing.md"
+    "Ciência da Computação/Engenharia de Software/Ferramentas.md"
   ]
 }

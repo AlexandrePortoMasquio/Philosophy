@@ -121,8 +121,8 @@ created: 2025-08-28
   - kotlinx.coroutines 1.8.1 (suspend/Flow), kotlinx.serialization 1.6.3, kotlinx.datetime 0.6.0.
 - Shared (KMP) — Dados (:core:data):
   - Ktor Client 2.3.8 (core, content-negotiation, serialization-json).
-  - SQLDelight 2.0.2 (runtime + drivers por plataforma fornecidos na borda).
-  - Napier 2.7.1 (logging multiplataforma).
+  - [[SQLDelight]] 2.0.2 (runtime + drivers por plataforma fornecidos na borda).
+  - [[Napier]] 2.7.1 (logging multiplataforma).
 - Apresentação Android:
   - Compose BOM 2024.08.00; activity-compose; lifecycle-viewmodel-compose.
   - Koin 3.x (koin-android, koin-androidx-compose) na apresentação Android.
@@ -175,3 +175,16 @@ created: 2025-08-28
 - Inclusão de uma nova variante de erro requer apenas adicionar código (sem modificar contratos existentes).
 - Substituir repo real por fake não altera cenários de teste (mesmo comportamento observado).
 - Nenhuma interface com métodos não utilizados nas telas-alvo.
+
+## TODOs Imediatos
+- Implementar RemoteDataSource com Ktor (GET lista/detalhe) + DTOs.
+- Hidratar cache no primeiro carregamento e refresh em segundo plano.
+- Montar tela de lista em Compose (estados: loading/empty/error/content).
+- Tela de detalhe com imagem, descrição, rating, endereço (Map), site.
+- Documentar comandos de build/run no README do projeto.
+
+## Build e Execução
+- shared: `./gradlew :shared:assemble`
+- Android app: `./gradlew :composeApp:assembleDebug`
+- iOS: abrir `iosApp/` no Xcode e rodar o target iOS.
+- Pré‑requisitos: JDK, Android SDK (sdk.dir), Xcode para iOS.
