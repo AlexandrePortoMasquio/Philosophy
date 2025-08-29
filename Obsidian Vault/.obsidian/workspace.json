@@ -459,14 +459,46 @@
             "id": "c92cd81825e7bf63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitetura KMP"
+            }
+          },
+          {
+            "id": "798480960daf29ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data"
+            }
+          },
+          {
+            "id": "def9ecf95b85f2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UDF"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -498,7 +530,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ADR",
+                "query": "Controller",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -540,6 +572,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -549,7 +582,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for UDF"
             }
           },
           {
@@ -558,11 +591,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from UDF"
             }
           },
           {
@@ -586,12 +620,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UDF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of UDF"
             }
           }
         ]
@@ -612,39 +647,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "c92cd81825e7bf63",
+  "active": "def9ecf95b85f2a2",
   "lastOpenFiles": [
+    "Controller.md",
+    "UDF.md",
+    "Consumidor (Software).md",
+    "DTO.md",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared.FtXY5d",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/6/classes.dex",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImplKt.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl$Schema.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/Catalog_itemQueries.class",
+    "Data.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png",
     "Ciência da Computação/Redes de Computadores/HTTP.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
     "Síntese.md",
     "Engenharia de Software/Performance (Software).md",
-    "Engenharia de Software",
     "Domain.md",
-    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/ev4b49d9n65zbj3bojgywn13p/7zwrsmvcn16zoi2lvg78zvoua/configuration-cache-report.html",
-    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/ev4b49d9n65zbj3bojgywn13p/7zwrsmvcn16zoi2lvg78zvoua",
-    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/ev4b49d9n65zbj3bojgywn13p",
-    "Projetos/bimm-kmp-challenge-base/shared/build/test-results/kotlin-test-tasks-state.bin",
-    "Projetos/bimm-kmp-challenge-base/shared/build/reports/tests/allTests/packages/com.bimm.takehomeassignmnent.html",
-    "Projetos/bimm-kmp-challenge-base/shared/build/reports/tests/allTests/js/report.js",
-    "Projetos/bimm-kmp-challenge-base/shared/build/reports/tests/allTests/css/style.css",
-    "Projetos/bimm-kmp-challenge-base/shared/build/reports/tests/allTests/css/base-style.css",
-    "Projetos/bimm-kmp-challenge-base/shared/build/reports/tests/allTests/classes/com.bimm.takehomeassignmnent.SharedCommonTest.html",
     "Ciência de Dados.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio KMP plano.md",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/README.md",
     "ADR.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-    "Consumidor de Dados.md",
     "Reatividade.md",
     "Ciência da Computação/Segurança da Informação/Criptografia.md",
     "Declarativo.md",
@@ -654,11 +694,6 @@
     "Infinito Interior.md",
     "DAO.md",
     "Cyberia.md",
-    "Agorismo.md",
-    "Jusnaturalismo.md",
-    "Ética.md",
-    "Upload da Mente.md",
-    "Tecnocapital.md",
-    "Governança.md"
+    "Agorismo.md"
   ]
 }

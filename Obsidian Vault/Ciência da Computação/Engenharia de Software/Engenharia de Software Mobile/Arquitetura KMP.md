@@ -19,6 +19,13 @@ updated: 2025-08-29
 - Offline‑first: RemoteDataSource (Ktor) + Local (SQLDelight); política de hidratação (insertOrReplace), [[TTL]]/refresh.
 - Ports/Adapters: contratos (interfaces) no domínio (`Repository`, `UseCase`) e implementações concretas em data/features; bordas fazem a composição via DI.
 
+## Camadas
+- Camadas não são necessariamente [[Módulo|módulos]]: camada é um papel/limite arquitetural; módulo é uma unidade de build/empacotamento. Você pode ter camadas distintas dentro de um único módulo (via pacotes) ou mapear cada camada para um módulo quando o isolamento/compilação separada trouxer valor.
+- Recomendações no KMP:
+  - Pequeno/Desafio: manter `Domain` e `Data` como pacotes dentro do módulo `:shared` (menos overhead).
+  - Médio/Grande: separar em `:shared:core:domain` e `:shared:core:data` para reforçar dependências e reduzir acoplamento.
+- Camadas principais: [[Domain]] (entidades, casos de uso, contratos) e [[Data]] (repositórios, fontes local/remota, mapeadores).
+
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
 - Minimizar atritos de interop (Swift/ObjC) com APIs estáveis e conversões claras de tipos.

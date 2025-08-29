@@ -6,7 +6,7 @@ updated: 2025-08-29
 ---
 
 ## O que é
-- Modelo em que mudanças de dados propagam-se automaticamente para os [[Consumidor de Dados|consumidores]], via streams/observáveis (ex.: `Flow`, `Publisher`).
+- Modelo em que mudanças de dados propagam-se automaticamente para os [[Consumidor (Software)|consumidores]], via streams/observáveis (ex.: `Flow`, `Publisher`).
 - Foca em declarar dependências de dados e não em orquestrar manualmente callbacks/atualizações.
 
 ## Por que usar no [[KMP]]
