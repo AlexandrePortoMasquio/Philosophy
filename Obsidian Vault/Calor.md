@@ -6,7 +6,8 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-* TODO em termos energéticos, o calor é uma forma de [[Energia]] dispersa a ponto de não poder mais ser reaproveitada [[Produção|produtivamente]]?
+- Calor é energia em trânsito associada a diferenças de temperatura; não é “tipo” de [[Energia]] em repouso.
+- Sobre reaproveitamento: o limite está na exergia (qualidade da energia). Calor próximo à temperatura ambiente tem pouca exergia — difícil converter em trabalho útil. Quanto maior o gradiente térmico, maior a fração convertível (Carnot).
 - Transferência de energia associada a diferenças de temperatura; aumenta [[Entropia Energética]] em sistemas fechados.
 
 ## Ligações

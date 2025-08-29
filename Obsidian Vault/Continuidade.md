@@ -15,3 +15,4 @@ updated: 2025-08-28
  - Sustenta preservação/compressão de [[Informação]]; quebras elevam [[Entropia Informacional]].
  - Dá critério para cortes locais (bivalência contextual), enquanto zonas limiares aumentam [[Vagueza]].
  - Nem tudo é contínuo: a [[Ontologia da Diferença]] estrutura variações contínuas locais, mas há bifurcações/[[Singularidades e Catástrofes]] que introduzem descontinuidades globais.
+ - [[Relatividade]]

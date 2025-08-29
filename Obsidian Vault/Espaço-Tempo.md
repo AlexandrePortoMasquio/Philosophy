@@ -11,4 +11,5 @@ updated: 2025-08-28
 - TODO o espaço se constitui de [[Informação]] na cosmologia informacional, argumentos contra e a favor.
 
 ## Ligações
-- Relaciona-se a [[Tempo]], [[Topologia das Formas]], [[Entropia Informacional]] e [[Cosmologia Informacional]].
+- TODO relacionar a [[Tempo]], [[Topologia das Formas]], [[Entropia Informacional]] e [[Cosmologia Informacional]].
+- TODO [[Rovelli]], [[Relatividade]]

@@ -1,7 +1,17 @@
-TODO
+---
+title: Inteligência
+tags: [mente, cognição]
+updated: 2025-08-29
+---
 
-TODO como emerge da [[Adaptação]] por [[Seleção Natural]]?
+## Ideia
+- Inteligência é a capacidade de [[Adaptação]] contínua da [[Informação]] por [[Seleção Natural]], ao invés da adaptação apenas ao longo de gerações.
 
-TODO [[Aprendizado]]
+## Origem biológica
+- Emerge da [[Adaptação]] por [[Seleção Natural]]: pressões ecológicas favorecem arquiteturas que exploram regularidades (compressão) e guiam ação eficaz (controle). Informação + energia + corpo = agência situada.
 
-TODO [[Inteligência Artificial]]
+## Relações
+- Gera o [[Aprendizado]], pela formação inteligente do próprio sistema inteligente (inteligência aplicada à sua própria formação). [[Inteligência Artificial]] e [[Informação]].
+
+## Notas
+- Medidas: desempenho, amostragem, transferência. Trade-offs: viés/variância, exploração/exploração.
