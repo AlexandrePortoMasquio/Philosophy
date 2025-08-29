@@ -2,7 +2,7 @@
 title: KMP (Kotlin Multiplatform)
 tags: [mobile, kotlin, multiplatform]
 created: 2025-08-28
-updated: 2025-08-28
+updated: 2025-08-29
 ---
 
 ## Mapa Rápido
@@ -23,6 +23,12 @@ updated: 2025-08-28
 - Limites claros (API do módulo) preservam [[Modularidade]] adequada e reduzem acoplamento.
 - mapeamentos consistentes (DTOs ↔ modelos de UI), evitando drift entre plataformas.
 
+## Ferramentas
+* [[SQDelight]]
+
+## Perguntas e Respostas
+- shared vs commonMain: "shared" costuma ser o nome do módulo Gradle; `commonMain` é o source set dentro desse módulo. Padrão de mercado: o source set chama‑se sempre `commonMain`; o nome do módulo varia (ex.: `:shared`, `:core`).
+
 ## Tópicos
 - Estrutura: `commonMain`, `androidMain`, `iosMain`; bibliotecas: kotlinx.coroutines, serialization, Ktor.
 - Interop iOS: geração de framework, bridging de tipos (nullable, collections), performance de bridging.
@@ -37,3 +43,11 @@ updated: 2025-08-28
 
 ## Ligações
 - [[Multiplataforma]] · [[Android]] · [[iOS]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Ferramentas|Ferramentas]] · [[Arquitetura de Software]]
+
+## Padrões Profissionais (KMP)
+- Shared-first: todo Model/Domain/Repository/Data/UseCases ficam em `commonMain` (libs KMP apenas). UI é específica por plataforma.
+- HttpClient único (Ktor): instanciado no shared; engines (OkHttp/Darwin) entram só por source sets, sem `expect/actual`.
+- SqlDriver por DI: injeção por construtor; drivers (Android/Native) fornecidos nas bordas (Android/iOS), não no shared.
+- DI: Koin core no shared (contratos), Koin Android apenas na apresentação Android.
+- Resultados: padronizar use cases com `sealed class` para estados/erros (OCP/UX).
+- Mappers: explicitar Db→Domain e DTO→Domain (SRP/testes).

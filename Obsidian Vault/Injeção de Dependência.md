@@ -1,0 +1,1 @@
+TODO [[Koin]] é a melhor ferramenta para [Injeção de Dependência](Injeção%20de%20Dependência.md) no [KMP](Ciência%20da%20Computação/Engenharia%20de%20Software/Engenharia%20de%20Software%20Mobile/KMP.md)?

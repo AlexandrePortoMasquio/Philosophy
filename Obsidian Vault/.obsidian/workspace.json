@@ -319,10 +319,28 @@
             "id": "81edd013ce99ddf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KMP"
+            }
+          },
+          {
+            "id": "442cf44a0c87e95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Koin"
             }
           },
           {
@@ -410,7 +428,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -484,6 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Koin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -493,7 +512,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Koin"
             }
           },
           {
@@ -502,11 +521,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Koin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Koin"
             }
           },
           {
@@ -530,12 +550,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Koin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Koin"
             }
           }
         ]
@@ -556,31 +577,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "81edd013ce99ddf4",
+  "active": "442cf44a0c87e95b",
   "lastOpenFiles": [
+    "Injeção de Dependência.md",
+    "Koin.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+    "SQDelight.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/dirty-sources.txt",
+    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6/1qhixto64rks2n3rwuzry5ovx/configuration-cache-report.html",
+    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6/1qhixto64rks2n3rwuzry5ovx",
+    "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeExtDexDebug",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png",
     "Ciência da Computação/Engenharia de Software/Ferramentas.md",
     "Cyberia.md",
     "Web3.md",
-    "Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/kotlin/com/bimm/takehomeassignmnent/ui/MainActivity.kt",
-    "Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
-    "Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
-    "Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain",
-    "Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/data",
-    "Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/Platform.kt",
-    "Projetos/bimm-kmp-challenge-base/shared/src/androidMain/kotlin/com/bimm/takehomeassignmnent/Platform.android.kt",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/kotlin/com/bimm/takehomeassignmnent/ui",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/kotlin/com/bimm/takehomeassignmnent/presentation",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/README.md",
     "DAO.md",
     "Contrato Inteligente.md",
@@ -598,11 +624,6 @@
     "Ciência da Computação/Teoria da Computação/Teoria da Computação.md",
     "Completude de Turing.md",
     "Turing.md",
-    "Máquina de Turing.md",
-    "Ciência da Computação/Ciência da Computação.md",
-    "Bit.md",
-    "Física.md",
-    "Ciência da Computação/Algoritmos/Algoritmos.md",
-    "Computação.md"
+    "Máquina de Turing.md"
   ]
 }

@@ -2,13 +2,21 @@
 title: Arquitetura KMP (Kotlin Multiplatform)
 tags: [mobile, kotlin, kmp, arquitetura]
 created: 2025-08-28
-\12025-08-29
+updated: 2025-08-29
 ---
 
 ## Mapa Rápido
 - Acima: [[../Arquitetura de Software|Arquitetura de Software]] 
 - Lado: [[KMP]] · [[Android]] · [[iOS]] · [[Multiplataforma]]
 - NÃO conectar com filosofia
+
+## Arquiteturas Profissionais (como aplicar)
+- Camadas Limpa/Clean: `:core:domain` (entidades/UseCases) e `:core:data` (repositórios, fontes local/remota). Shared (KMP) abriga ambas; apresentação fica nas apps.
+- MVVM + UDF: Android com ViewModel + StateFlow/Reducer; iOS com ObservableObject/State. Use cases orquestram regras; repositórios abstraem dados.
+- MVI (quando fizer sentido): único estado imutável por tela, intents, reducer e efeitos. Útil em flows complexos.
+- Modularização por feature: `:feature:catalog` etc., dependem de `:core:*` via interfaces; facilita testes e evolução.
+- DI: Koin core no shared (contratos e wiring leve), Koin Android apenas na apresentação; iOS faz composition root em Swift.
+- Offline‑first: RemoteDataSource (Ktor) + Local (SQLDelight); política de hidratação (insertOrReplace), TTL/refresh.
 
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
@@ -22,6 +30,9 @@ created: 2025-08-28
 ## Fluxos e Contratos
 - UDF no lado Android; expor fluxos (Flow/StateFlow) no shared com adaptadores para Swift Combine.
 - Contratos estáveis (DTOs/resultados) mantêm identidade entre plataformas.
+
+## Explique a diferença entre o App.kt e o KmpApp.kt
+TODO
 
 ## Testes e CI/CD
 - Testes unitários em `commonTest`; instrumentados por plataforma.
@@ -49,3 +60,8 @@ created: 2025-08-28
 - Shared (KMP) — Domínio/Modelos: sem AndroidX/Swift; apenas Kotlin multiplataforma (stdlib, coroutines, serialization).
 - Shared (KMP) — Dados: apenas libs KMP (Ktor/SQLDelight) — zero APIs específicas de plataforma.
 - Apresentação (plataforma): Compose no Android e SwiftUI no iOS; adaptação/DI nas bordas.
+
+## Boas Práticas de Nomenclatura e Módulos
+- Módulo da app Android: prefira `:androidApp` quando o alvo é só Android (em vez de `:composeApp`).
+- Composable raiz em Android: `RootApp`/`MainApp`; classe `Application`: `MyAppApplication`.
+- Shared sem específicos de plataforma: nada de AndroidX/Swift/Core no shared; engines/drivers apenas por source sets.

@@ -31,3 +31,9 @@ updated: 2025-08-28
 
 ## Ligações
 - [[../Arquitetura de Software|Arquitetura de Software]] · [[Android]] · [[Multiplataforma]] · [[KMP]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[Engenharia de Software/Desempenho|Desempenho]]
+
+## Application vs Composable Root (Android)
+- Application (ex.: `MyAppApplication`): inicializa DI (Koin), logs, configs globais e providers (SqlDriver). Padrão profissional.
+- Composable raiz (ex.: `RootApp`): tema, navegação, estado de UI. Chamado pela `MainActivity` via `setContent { ... }`.
+- Nomenclatura: evite nomes genéricos (`App.kt`). Prefira `MyAppApplication.kt` e `RootApp.kt`.
+
