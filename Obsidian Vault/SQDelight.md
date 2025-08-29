@@ -19,4 +19,4 @@ updated: 2025-08-29
 ## Comparação
 - Room: Android‑only; não atende Shared.
 - CoreData: iOS‑only; duplicaria regras/esquemas.
-- Realm Kotlin: KMP, mas formato próprio (não SQL) e menos transparência para queries complexas. TODO por quê menos transparência?
+- Realm Kotlin: KMP, mas formato próprio (não SQL) e menos transparência para queries complexas. Porque o modelo é orientado a objetos com API própria, não SQL declarativo: consultas complexas viram encadeamentos opacos; tuning/otimização é menos direto; e não há um schema relacional explícito human-readable para revisar e versionar.

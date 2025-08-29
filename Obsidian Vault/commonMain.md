@@ -1,3 +1,12 @@
-TODO
+---
+title: commonMain
+tags: [kmp]
+created: 2025-08-29
+updated: 2025-08-29
+---
 
-TODO commonMain é o nome correto para o módulo shared em KMP? Qual dos dois nomes é o mais padronizado e profissional no mercado?
+## O que é
+- Source set padrão do KMP onde fica o código compartilhado entre plataformas (Shared): modelos, use cases, repositórios etc.
+
+## shared vs commonMain
+- `shared` costuma ser o nome do módulo Gradle que contém o código multiplataforma; `commonMain` é o source set dentro desse módulo. O padrão do KMP é o nome `commonMain`.
