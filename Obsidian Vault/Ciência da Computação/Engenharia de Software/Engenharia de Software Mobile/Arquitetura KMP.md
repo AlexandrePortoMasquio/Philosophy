@@ -31,8 +31,10 @@ updated: 2025-08-29
 - UDF no lado Android; expor fluxos (Flow/StateFlow) no shared com adaptadores para Swift Combine.
 - Contratos estáveis (DTOs/resultados) mantêm identidade entre plataformas.
 
-## Explique a diferença entre o App.kt e o KmpApp.kt
-TODO
+## App.kt vs KmpApp.kt (Android)
+- KmpApp.kt: classe `Application` do Android. Inicializa DI (Koin), logging e providers globais (ex.: `SqlDriver`). Ponto único de configuração do processo.
+- App.kt: composable raiz (ex.: `RootApp`) chamado por `MainActivity#setContent { ... }`. Define tema, navegação e estado de UI.
+- Padrão profissional: manter ambos com nomes claros — `MyAppApplication` (Application) e `RootApp` (UI raiz). Manifest: `android:name=".MyAppApplication"`.
 
 ## Testes e CI/CD
 - Testes unitários em `commonTest`; instrumentados por plataforma.
@@ -78,7 +80,7 @@ TODO
 - Matriz de testes: commonTest (driver em memória), Android (smoke/UI), iOS (smoke).
 
 ## Política Offline‑first
-- TTL: 24h; invalidação por versão de schema ou logout. (TODO: o que é TTL?)
+- [[TTL]]: 24h; invalidação por versão de schema ou logout. TTL = tempo de vida do cache antes de solicitar refresh.
 - Refresh: manual (pull‑to‑refresh) e automático em segundo plano se rede disponível.
 - Reconciliação: `insertOrReplace` por chave primária; idempotência nos repositórios.
 - Erros: backoff exponencial; timeout padrão (ex.: 5s) e timeouts dedicados por rota sensível.
