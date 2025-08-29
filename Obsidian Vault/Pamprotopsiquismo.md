@@ -9,4 +9,4 @@ updated: 2025-08-28
 - Propriedades protofenomenais fundamentais (pré‑qualitativas) subjacentes à consciência; alternativa a [[Fisicalismo]]/[[Pampsiquismo]].
 
 ## Ligações
-- Conecta [[Consciência]], [[Informação]] e [[Pampsiquismo]].
+- TODO Conecta [[Primordial]], [[Substância]] [[Consciência]], [[Informação]] e [[Pampsiquismo]].

@@ -9,5 +9,5 @@ updated: 2025-08-28
 - Procedimentos que sustentam o valor de verdade de [[Proposição|proposições]] de forma não‑arbitrária.
 
 ## Ligações
-- Conecta [[Informação]], [[Racionalismo Naturalista]], [[Empirismo Naturalista]].
+- Conecta [[Informação]], [[Racionalismo Naturalista]], [[Empirismo Naturalista]], [[Epistemologia]].
 

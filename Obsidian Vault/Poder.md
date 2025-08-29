@@ -8,6 +8,7 @@ updated: 2025-08-29
 - Capacidade de produzir efeitos sobre ações e estados de coisas (causalidade social e técnica). Não se reduz a comando: circula por normas, infraestruturas, conhecimento.
 - Dimensão infraestrutural: padrões, protocolos e plataformas distribuem capacidade de agir (design é política materializada).
 - O [[Capital]] concentra o poder no [[Capitalismo]], determinando o [[sistema vigente]]
+- TODO como o [[Conhecimento]] torna-se [[Poder]]?
 
 ## Formas
 - Poder centralizado vs. distribuído; coercitivo (força, sanção) vs. capacitante (recursos, coordenação).

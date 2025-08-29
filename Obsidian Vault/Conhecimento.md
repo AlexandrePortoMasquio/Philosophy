@@ -1,1 +1,3 @@
-TODO [[Epistemologia]]
+TODO
+
+TODO relacionar [[Justificação]] [[Epistemologia]]

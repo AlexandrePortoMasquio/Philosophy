@@ -1,4 +1,5 @@
 
 TODO
 
-[[Filosofia da Linguagem]]
+TODO relacionar:
+[[Filosofia da Linguagem]], [[Semântica]]
