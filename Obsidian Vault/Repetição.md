@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Repetição como retorno estruturado de diferenças: padrões recorrentes que estabilizam [[Formas]] e permitem [[Compressão]] (previsibilidade/regularidade).
+- Repetição como retorno estruturado de diferenças: padrões recorrentes que estabilizam [[Forma]] e permitem [[Compressão]] (previsibilidade/regularidade).
 - Distingue-se repetição mecânica de iteração diferencial (cada ciclo pode introduzir variação relevante).
 
 ## Repetição em [[Deleuze]]

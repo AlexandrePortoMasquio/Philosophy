@@ -10,5 +10,5 @@ updated: 2025-08-28
 
 ## Ligações
 - Núcleo de [[Virtualidade]] (campo de diferenciação real) e de [[Diferença]].
-- Dá origem a [[Formas]] no [[Mundo das Formas]] via [[Informação]].
+- Dá origem a [[Forma]] no [[Mundo das Formas]] via [[Informação]].
 - Conecta-se a [[Apeiron]] (potência indeterminada) e [[Continuidade]].

@@ -13,7 +13,7 @@ updated: 2025-08-28
 - Exige [[Controle]] não [[Arbitrário]].
 - Dialoga com [[Informação]] e [[Entropia Informacional]].
 - Aplicações em [[Organismo e Máquina]].
- - Operacionaliza a equivalência: [[Informação]] = [[Formas]] transmissíveis (via [[Transmissão de Informação]]).
+ - Operacionaliza a equivalência: [[Informação]] = [[Forma]] transmissíveis (via [[Transmissão de Informação]]).
  - Ver também: [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]].
 
 ## Fontes externas (referência)

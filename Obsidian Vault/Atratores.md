@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Estados/regiões do espaço de fases para onde dinâmicas convergem; estabilizam [[Formas]].
+- Estados/regiões do espaço de fases para onde dinâmicas convergem; estabilizam [[Forma]].
 - Como: feedbacks e dissipação conduzem trajetórias a regiões estáveis (pontos fixos, ciclos, atratores estranhos), preservando padrões apesar de perturbações moderadas.
 
 ## Conexões

@@ -12,7 +12,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Baseia-se no [[Apeiron]] (indeterminação fértil)
-- Relaciona-se ao [[Mundo das Formas]]; [[Formas]] emergem da [[Diferença]].
+- Relaciona-se ao [[Mundo das Formas]]; [[Forma]] emergem da [[Diferença]].
 - [[Informação]] (diferenças estruturadas).
 - Estrutura-se como variações contínuas; [[Continuidade]] guia trajetórias de atualização até [[Atratores]] e [[Invariantes]].
 - Conecta com [[Entropia Informacional]] na passagem virtual→atual.

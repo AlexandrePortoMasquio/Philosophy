@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Estruturas críticas que organizam campos de [[Virtualidade]] e explicam bifurcações/”quebras” de [[Continuidade]] gerando novas [[Formas]].
+- Estruturas críticas que organizam campos de [[Virtualidade]] e explicam bifurcações/”quebras” de [[Continuidade]] gerando novas [[Forma]].
 - Fontes: teoria das catástrofes (Thom, Zeeman), teoria de singularidades (Whitney), e usos filosóficos (Deleuze) que tratam singularidades como pontos de maximização/instabilidade que regulam séries.
 
 ## Ligações

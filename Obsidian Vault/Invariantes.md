@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Propriedades que permanecem constantes sob transformações relevantes; definem [[Formas]].
+- Propriedades que permanecem constantes sob transformações relevantes; definem [[Forma]].
 
 
 ## Ligações

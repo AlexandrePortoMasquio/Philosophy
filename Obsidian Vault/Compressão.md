@@ -10,6 +10,6 @@ updated: 2025-08-28
  - Relaciona-se a [[Abstração]] (remover detalhes mantendo estrutura) como operação conceitual paralela.
 
 ## Ligações
-- Relaciona [[Informação]] e [[Formas]] (compressibilidade como estimativa de estrutura).
+- Relaciona [[Informação]] e [[Forma]] (compressibilidade como estimativa de estrutura).
 - Interage com [[Entropia Informacional]] (ordem vs dispersão).
 - Aparece em [[Transmissão de Informação]] (fidelidade/ruído vs redundância).

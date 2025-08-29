@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Quadro unificado: [[Apeiron]] → [[Virtualidade]] (diferença real) → [[Continuidade]]/[[Variação]]/[[Atualização]] → [[Informação]] (forma transmissível) → [[Formas]] ([[Atratores]]/[[Invariantes]]) → [[Seleção]]/[[Controle]] → [[Teleologia Naturalista]]/[[Função Natural]].
+- Quadro unificado: [[Apeiron]] → [[Virtualidade]] (diferença real) → [[Continuidade]]/[[Variação]]/[[Atualização]] → [[Informação]] (forma transmissível) → [[Forma]] ([[Atratores]]/[[Invariantes]]) → [[Seleção]]/[[Controle]] → [[Teleologia Naturalista]]/[[Função Natural]].
 
 ## Ligações
 - Mente: [[Fisicalismo]]/[[Pampsiquismo]] · [[Qualia]] · [[Intencionalidade]] (via [[Teleosemântica]]).

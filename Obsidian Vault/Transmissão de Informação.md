@@ -12,7 +12,7 @@ updated: 2025-08-28
 ## Ligações
 - Base para [[Controle]] e [[Organismo e Máquina]].
 - Complementa [[Cosmologia Informacional]].
-- Equaciona [[Formas]] e [[Informação]]: informação = forma transmissível (em um canal sob condições de fidelidade).
+- Equaciona [[Forma]] e [[Informação]]: informação = forma transmissível (em um canal sob condições de fidelidade).
 - Relaciona-se a [[Canal e Fidelidade]] (capacidade, ruído, códigos) e [[Critérios Naturais]].
 
 ## Fontes externas (referência)

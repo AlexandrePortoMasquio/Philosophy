@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Operação de reduzir detalhes para captar [[Formas]] e invariantes relevantes; correlata a [[Compressão]] enquanto medida de regularidade.
+- Operação de reduzir detalhes para captar [[Forma]] e invariantes relevantes; correlata a [[Compressão]] enquanto medida de regularidade.
 
 ## Ligações
 - Relaciona-se a [[Informação]] (seleção/codificação de traços) e [[Diferença]].

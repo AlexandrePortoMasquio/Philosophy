@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Integra razão (lógica/matemática) e dados empíricos sob critérios naturais comuns; rejeita dogmatismo e subjetivismos.
 
 ## Ligações
-- Conecta [[Empirismo Naturalista]], [[Informação]], [[Ontologia da Diferença]].
+- Conecta [[Naturalismo]] [[Empirismo Naturalista]], [[Informação]], [[Ontologia da Diferença]].
 
 ## Fonte
 - ../livros/livro/01 Epistemologia_ Racionalismo Naturalista.txt

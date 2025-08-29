@@ -12,7 +12,7 @@ updated: 2025-08-28
 - Mundo das Formas vs [[Virtualidade]]: a virtualidade é o campo de diferenciação real (potências/variações); o Mundo das Formas reúne padrões estabilizados (atratores/invariantes) que resultam dessas atualizações.
  
 ## Ligações
-- Fundamenta [[Formas]] como entidades diferenciais.
+- Fundamenta [[Forma]] como entidades diferenciais.
 - Conecta-se a [[Virtualidade]] (campo de diferenciação real que dá origem a formas).
 - Relaciona-se a [[Informação]] (codificação de diferenças que suportam formas).
 
@@ -22,7 +22,7 @@ updated: 2025-08-28
 ## Referências sugeridas
 - [[Thom]] (morfogênese), Klein/Cartan (simetrias), Shannon/Kolmogorov (informação/complexidade)
 ## Mapa Rápido
-- [[Formas]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
+- [[Forma]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
 
 ## Perguntas Abertas
 - Quais invariantes são relevantes para formas conceituais (não físicas)?

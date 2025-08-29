@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Processos que reforçam/inibem padrões conforme [[Critérios Naturais]]; estabilizam [[Formas]] via [[Atratores]] e [[Invariantes]].
+- Processos que reforçam/inibem padrões conforme [[Critérios Naturais]]; estabilizam [[Forma]] via [[Atratores]] e [[Invariantes]].
 - Como a [[Seleção Natural]] é a forma mais [[básica|Básico]] de seleção.
 
 ## Ligações

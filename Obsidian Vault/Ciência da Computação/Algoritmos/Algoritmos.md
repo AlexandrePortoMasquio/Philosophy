@@ -16,7 +16,7 @@ updated: 2025-08-28
 
 ## Relações
 * [[Wolfram]] considera algoritmos a base da [[Física]]
-- Como forma operacional, reflete [[Formas]] aplicadas a processos (formas de transformação).
+- Como forma operacional, reflete [[../../Forma]] aplicadas a processos (formas de transformação).
 - Critérios de escolha algorítmica podem seguir [[Critérios Naturais]] (simplicidade, robustez) em vez de autoridade.
 - [[Repetição]] e padrões estruturais favorecem estratégias como Programação Dinâmica e [[Compressão]].
 
@@ -27,7 +27,7 @@ updated: 2025-08-28
 - Backtracking: busca dirigida com podas; útil quando restrições definem forte estrutura.
 
 ## Ligações
-- Acima: [[Informação]], [[Computação]], [[Formas]], [[Complexidade de Kolmogorov]].
+- Acima: [[Informação]], [[Computação]], [[../../Forma]], [[Complexidade de Kolmogorov]].
 - Abaixo: [[Engenharia de Software/Testes|Testes]] (corretude), [[Engenharia de Software/Processos|Processos]] (análise/medição), [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] (adequação ao contexto).
 
 ## Referências sugeridas

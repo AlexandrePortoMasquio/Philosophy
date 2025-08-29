@@ -53,6 +53,48 @@
             "id": "f546c8bb301275bb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitalismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capitalismo"
+            }
+          },
+          {
+            "id": "d1c1194042e7b79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemologia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epistemologia"
+            }
+          },
+          {
+            "id": "b5bcfd536b9197aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Racionalismo Naturalista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Racionalismo Naturalista"
+            }
+          },
+          {
+            "id": "05caa18dd7797f78",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -74,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -220,26 +262,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "f546c8bb301275bb",
+  "active": "05caa18dd7797f78",
   "lastOpenFiles": [
+    "Naturalismo.md",
+    "Racionalismo Naturalista.md",
+    "Epistemologia.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/outputs/apk/debug/output-metadata.json",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/outputs/apk/debug/composeApp-debug.apk",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/outputs/apk/debug",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/outputs/apk",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/ComposableSingletons$AppKt$lambda$-1455075209$1$1.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/feature/catalog/CatalogScreenKt$ListView$2$1$1$1$1$1.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/feature/catalog/CatalogScreenKt$CatalogScreen$2$1.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/ComposableSingletons$AppKt$lambda$-1455075209$1$1$1.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/Screen$Details.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/feature/catalog/CatalogScreenKt$ListView$lambda$23$lambda$22$$inlined$items$default$3.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.values.at",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream.len",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.values.at",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt.dex",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt$lambda$-965331435$1.dex",
+    "Ciência da Computação/Ciência da Computação.md",
+    "Aprendizado.md",
+    "Capitalismo Mercantil.md",
+    "Capitalismo.md",
+    "Forma.md",
     "Ciência da Computação/Engenharia de Software/Classe.md",
     "Ciência da Computação/Engenharia de Software/Software.md",
     "Sealed Class.md",
-    "Ciência da Computação/Ciência da Computação.md",
     "Sistema Vigente.md",
     "Poder.md",
-    "Capitalismo.md",
     "Tecnofilosofia.md",
     "Cosmologia Informacional.md",
     "Espaço-Tempo.md",
@@ -253,11 +300,6 @@
     "Ciência da Computação/Engenharia de Software/API.md",
     "Ciência da Computação/Engenharia de Software/CMS.md",
     "Ciência da Computação/Engenharia de Software/Backend.md",
-    "Continuidade.md",
-    "Relatividade.md",
-    "Álgebra Relacional.md",
-    "Ciência da Computação/Sistemas Operacionais/Sistemas Operacionais.md",
-    "Linux.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.png",
