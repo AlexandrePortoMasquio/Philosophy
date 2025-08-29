@@ -1,0 +1,3 @@
+TODO
+
+TODO [[Dialética]], [[Síntese]]

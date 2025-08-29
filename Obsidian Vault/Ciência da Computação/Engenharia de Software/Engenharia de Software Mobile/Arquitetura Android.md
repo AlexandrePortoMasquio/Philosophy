@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- Acima: [[../Arquitetura de Software|Arquitetura de Software]] · [[../../Sistemas Operacionais/Sistemas Operacionais|Sistemas Operacionais]]
+- Acima: [[../Arquitetura de Software|Arquitetura de Software]] · [[../../Sistemas Operacionais/Sistemas Operacionais|Sistemas Operacionais]] · [[Arquitetura MVVM]]
 - Lado: [[Android]] · [[iOS]] · [[Multiplataforma]] · [[KMP]]
 
 ## Ideia
