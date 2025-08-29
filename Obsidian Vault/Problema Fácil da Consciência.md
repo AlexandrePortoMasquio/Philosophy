@@ -9,5 +9,5 @@ updated: 2025-08-28
 - Explicar as funções cognitivas (discriminação, integração de informação, relato) em termos físico-informacionais.
 
 ## Ligações
-- Modelável por [[Informação]], [[Transmissão de Informação]], [[Controle]]. Complementa o [[Problema Difícil da Consciência]].
+- Modelável por [[Informação]], [[Transmissão de Informação]], [[Controle]]. Complementa o [[Problema Difícil da Consciência]], [[Intencionalidade]].
 

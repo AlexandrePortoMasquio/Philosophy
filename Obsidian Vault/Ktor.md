@@ -12,7 +12,11 @@ updated: 2025-08-29
 - Código de rede em `commonMain`; engines entram por source sets (OkHttp no Android, Darwin no iOS).
 - Integração direta com `kotlinx.serialization` para JSON.
 
-TODO Se o ktor já serializa o json, ainda é necessário usar SQDelight? Por quê? É porque o ktor substitui o [[Retrofit]], enquanto o SQDelight substitui o [[Room]]?
+## Ktor vs SQLDelight
+- Ktor (rede) não substitui SQLDelight (persistência).
+- Par analogia no Android: Ktor ≈ Retrofit (HTTP/JSON), SQLDelight ≈ Room (SQLite).
+- Usamos Ktor para buscar JSON e SQLDelight para cache offline‑first e consultas locais eficientes.
+
 
 ## Padrão no projeto
 - Shared: `HttpClient { install(ContentNegotiation) { json(Json { ignoreUnknownKeys = true }) } }`.

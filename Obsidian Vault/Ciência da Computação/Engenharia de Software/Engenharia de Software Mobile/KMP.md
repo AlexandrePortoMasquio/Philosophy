@@ -16,7 +16,7 @@ updated: 2025-08-29
 
 ## Quando usar
 - Domínio com lógica substancial e estável (networking, cache, validação, casos de uso) e UI nativa específica.
-- Equipes com proficiência em Kotlin e integração iOS (Interop Swift/ObjC).
+- Equipes com proficiência em Kotlin e integração [[iOS]] (Interop Swift/ObjC).
 
 ## Relações Arquiteturais
 - Camadas: módulo compartilhado (domínio/dados) e apps finos (UI nativa, DI, navegação).
@@ -44,7 +44,7 @@ updated: 2025-08-29
 - Interop: validar ponte de tipos com suites pequenas de prova.
 
 ## Ligações
-- [[Multiplataforma]] · [[Android]] · [[iOS]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Ferramentas|Ferramentas]] · [[Arquitetura de Software]]
+- [[Multiplataforma]] · [[Android]] · [[iOS]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Ferramentas|Ferramentas]] · [[Arquitetura de Software]] · [[Cyberia Web]]
 
 ## Padrões Profissionais (KMP)
 - Shared-first: todo Model/Domain/Repository/Data/UseCases ficam em `commonMain` (libs KMP apenas). UI é específica por plataforma.

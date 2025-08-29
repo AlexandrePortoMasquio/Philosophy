@@ -45,7 +45,7 @@ updated: 2025-08-29
 - Latência/bridging — medir e ajustar interfaces.
 
 ## Ligações
-- [[KMP]] · [[Multiplataforma]] · [[Android]] · [[../Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]]
+- [[KMP]] · [[Multiplataforma]] · [[Android]] · [[../Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Testes|Testes]]
 
 ## Princípios SOLID no KMP
 - SRP — Princípio da Responsabilidade Única (Single Responsibility Principle): módulos e classes com papéis únicos (ex.: `UseCase`, `Repository`, `Mapper`); UI nativa sem regras de negócio.

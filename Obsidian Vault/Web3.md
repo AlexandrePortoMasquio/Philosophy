@@ -1,5 +1,5 @@
 TODO
 
-TODO [[Contrato Inteligente]]
+TODO [[Contrato Inteligente]], [[Descentralização]], [[Tecnocapitalismo]]
 
 TODO [[C]]

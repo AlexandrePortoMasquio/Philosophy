@@ -1,3 +1,3 @@
 TODO
 
-[[Tecnocapital]]
+[[Tecnocapital]], [[Anarcocapitalismo]]
