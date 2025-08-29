@@ -7,6 +7,7 @@ updated: 2025-08-28
 
 ## Ideia
 - Estruturas críticas que organizam campos de [[Virtualidade]] e explicam bifurcações/”quebras” de [[Continuidade]] gerando novas [[Formas]].
+- TODO quais fontes baseiam esse conceito?
 
 ## Ligações
 - Conecta [[Topologia das Formas]], [[Atratores]], [[Invariantes]].

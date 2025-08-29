@@ -25,14 +25,15 @@ updated: 2025-08-29
    - Schema/queries SQLDelight; `LocalDataSource` e repositórios.
    - Política: hidratação inicial, TTL=24h, refresh em background, reconciliação idempotente.
 5) DI e Logging no shared
-   - Injeção por construtor; wiring leve (Koin core opcional).
-   - Inicializar Napier por ambiente (debug/release).
+   - Injeção por construtor; wiring leve via fábricas no shared (Providers) — sem framework.
+   - Inicializar Napier por ambiente (debug/release) nas bordas.
 6) UI Android (Compose)
    - ViewModel (UDF): intents → reducer → `UiState` (loading/empty/error/content).
    - Telas: lista (cards, busca local) e detalhe; navegação; acessibilidade básica.
+   - Composition root Android: criar `SqlDriver` (AndroidSqliteDriver), instanciar repositório via Providers e injetar no ViewModel.
 7) iOS mínimo (SwiftUI)
    - Gerar XCFramework do shared.
-   - Adapter Flow→Combine; telas lista/detalhe simples.
+   - Adapter Flow→Combine; telas lista/detalhe simples; Composition root Swift cria driver nativo e instancia repositório via Providers.
 8) Testes
    - `commonTest`: use cases e repositórios com fakes/driver em memória.
    - AndroidTest: DAO e navegação/UI básica; iOS: smoke tests.

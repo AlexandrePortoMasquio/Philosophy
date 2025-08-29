@@ -6,19 +6,16 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- [[Controle]] · [[Lei da Variedade Requisitada]] · [[Tempo]]
-- ↓ [[../../Engenharia de Software/Performance (Software)|Performance (Software)]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
+* [Teoria da Computação](../Teoria%20da%20Computação/Teoria%20da%20Computação.md)
+* [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
+* [[Android]]
+* [[iOS]]
+* [[Linux]]
+* [[Windows]]
 
 ## Ideia
 - SO coordena recursos e isola processos; media hardware/software com políticas e mecanismos.
 
-## Relações
-- [[Lei da Variedade Requisitada]]: controles (escalonadores, MMU) precisam variedade suficiente para a carga.
-- [[Controle]]: preempção, sincronização, isolamento e segurança.
 
 ## Tópicos
 - Processos/Threads, Escalonamento, Memória (paginação/segmentação), Sistemas de Arquivos, Sincronização.
-
-## Ligações
-- Acima: [[Controle]].
-- Abaixo: [[../../Engenharia de Software/Performance (Software)|Performance (Software)]], implantação e tuning.

@@ -13,492 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolução e Ordem.md",
+                "file": "Ciência da Computação/Sistemas Operacionais/Sistemas Operacionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolução e Ordem"
+              "title": "Sistemas Operacionais"
             }
           },
           {
-            "id": "a55caadfe3c184b2",
+            "id": "6eaf2373f40045f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligência.md",
+                "file": "Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inteligência"
+              "title": "Álgebra Relacional"
             }
           },
           {
-            "id": "ac91ce8efeefdc9a",
+            "id": "f559009bf53c7475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longevidade.md",
+                "file": "Álgebra Linear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longevidade"
+              "title": "Álgebra Linear"
             }
           },
           {
-            "id": "1b781afc9944bcd0",
+            "id": "2ac09425d17a7663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longevidade.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longevidade"
-            }
-          },
-          {
-            "id": "5ecd93e9e4043fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interface Neural.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interface Neural"
-            }
-          },
-          {
-            "id": "ecb61090d609a70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calor"
-            }
-          },
-          {
-            "id": "7d1854be6c717872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Energia"
-            }
-          },
-          {
-            "id": "4a9ca2d8b8efcbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Inteligência Artificial/Autômato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autômato"
-            }
-          },
-          {
-            "id": "ca022c7a2de5c107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trabalho"
-            }
-          },
-          {
-            "id": "7d5e2278f115fe06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criação"
-            }
-          },
-          {
-            "id": "799dcedc41e84bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Descentralização.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Descentralização"
-            }
-          },
-          {
-            "id": "16e991785f5645bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras Naturais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regras Naturais"
-            }
-          },
-          {
-            "id": "569af7ff186d39eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Natureza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Natureza"
-            }
-          },
-          {
-            "id": "8c927859ab9c1a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desafio Técnico KMP"
-            }
-          },
-          {
-            "id": "3c88ebbe7acd194d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Napier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Napier"
-            }
-          },
-          {
-            "id": "cef8a7b9fce16d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura KMP"
-            }
-          },
-          {
-            "id": "e70456815d5547ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KMP"
-            }
-          },
-          {
-            "id": "db06d9b1dfbf0ee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Koin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Koin"
-            }
-          },
-          {
-            "id": "c54a491b55b97720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Injeção de Dependência.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Injeção de Dependência"
-            }
-          },
-          {
-            "id": "d2f4ad9e6fd0e570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Koin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Koin"
-            }
-          },
-          {
-            "id": "1eb1b68567012050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web3"
-            }
-          },
-          {
-            "id": "14758fafea03b18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnocapitalismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tecnocapitalismo"
-            }
-          },
-          {
-            "id": "5b11ee8d320905c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KMP"
-            }
-          },
-          {
-            "id": "a7f0aca29363c87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/iOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "iOS"
-            }
-          },
-          {
-            "id": "d1bda3b773e55b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problema Fácil da Consciência.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problema Fácil da Consciência"
-            }
-          },
-          {
-            "id": "093ac691b3720fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KMP"
-            }
-          },
-          {
-            "id": "0528a4ce572c42d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyberia Web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cyberia Web"
-            }
-          },
-          {
-            "id": "08a7dd1819fd4559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwiftUI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SwiftUI"
-            }
-          },
-          {
-            "id": "70ef75d8ccdbdbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyberia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cyberia"
-            }
-          },
-          {
-            "id": "63e31d5ad6b95e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Singularidade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Singularidade"
-            }
-          },
-          {
-            "id": "bad7598129c2b65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcension.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcension"
-            }
-          },
-          {
-            "id": "b2352c5b4f9e5246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura KMP"
-            }
-          },
-          {
-            "id": "c92cd81825e7bf63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura KMP"
-            }
-          },
-          {
-            "id": "798480960daf29ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data"
-            }
-          },
-          {
-            "id": "def9ecf95b85f2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UDF"
+              "title": "Linux"
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -572,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDF.md",
+                "file": "Álgebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -582,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UDF"
+              "title": "Backlinks for Álgebra Linear"
             }
           },
           {
@@ -591,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDF.md",
+                "file": "Álgebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UDF"
+              "title": "Outgoing links from Álgebra Linear"
             }
           },
           {
@@ -620,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDF.md",
+                "file": "Álgebra Linear.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UDF"
+              "title": "Outline of Álgebra Linear"
             }
           }
         ]
@@ -647,25 +213,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "def9ecf95b85f2a2",
+  "active": "f559009bf53c7475",
   "lastOpenFiles": [
-    "Controller.md",
-    "UDF.md",
-    "Consumidor (Software).md",
-    "DTO.md",
-    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared",
-    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared.FtXY5d",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeLibDexDebug/6/classes.dex",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl.class",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImplKt.class",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl$Schema.class",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/Catalog_itemQueries.class",
-    "Data.md",
+    "Álgebra Linear.md",
+    "Álgebra Relacional.md",
+    "Álgebra.md",
+    "Windows.md",
+    "Ciência da Computação/Sistemas Operacionais/Sistemas Operacionais.md",
+    "Linux.md",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/facade/CatalogFacade.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/facade/CatalogFacade$getList$1.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/facade",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/di/ProvidersKt.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/di",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/data/repository/CatalogRepositoryImplKt.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/data/repository/CatalogRepositoryImpl.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/data/repository/CatalogRepositoryImpl$refreshAll$1.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/tmp/kotlin-classes/debug/app/shared/data/repository/CatalogRepositoryImpl$fetchList$1.class",
+    "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
+    "Evolução e Ordem.md",
+    "Longevidade.md",
+    "Interface Neural.md",
+    "Calor.md",
+    "Ciência da Computação/Inteligência Artificial/Autômato.md",
+    "Trabalho.md",
+    "Criação.md",
+    "Regras Naturais.md",
+    "Natureza.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
+    "Napier.md",
+    "Koin.md",
+    "Injeção de Dependência.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+    "Tecnocapitalismo.md",
+    "Web3.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/iOS.md",
+    "Problema Fácil da Consciência.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.png",
@@ -675,25 +260,6 @@
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png",
-    "Ciência da Computação/Redes de Computadores/HTTP.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
-    "Síntese.md",
-    "Engenharia de Software/Performance (Software).md",
-    "Domain.md",
-    "Ciência de Dados.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio KMP plano.md",
-    "Projetos/bimm-kmp-challenge-base/README.md",
-    "ADR.md",
-    "Reatividade.md",
-    "Ciência da Computação/Segurança da Informação/Criptografia.md",
-    "Declarativo.md",
-    "SwiftUI.md",
-    "SQDelight.md",
-    "Libertarianismo.md",
-    "Infinito Interior.md",
-    "DAO.md",
-    "Cyberia.md",
-    "Agorismo.md"
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png"
   ]
 }

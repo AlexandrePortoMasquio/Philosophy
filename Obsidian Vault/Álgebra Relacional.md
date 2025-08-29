@@ -1,3 +1,5 @@
 TODO
 
-TODO [[Matemática]]
+TODO [[Matemática]], 
+[[Álgebra]]
+[[Álgebra Linear]]
