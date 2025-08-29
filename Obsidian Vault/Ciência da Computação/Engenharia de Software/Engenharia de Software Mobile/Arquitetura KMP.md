@@ -72,12 +72,19 @@ updated: 2025-08-29
 - [[SQLDelight]]: um único schema/queries no Shared; APIs tipadas; ideal para offline-first. Drivers entram só nas bordas (Android/iOS).
 - [[Napier]]: logging KMP leve; evita `println`/logs específicos de plataforma no Shared; suficiente para diagnóstico e observabilidade básica.
 
-## TODOs
-- Registrar ADR curta das escolhas (Koin, Ktor, SQLDelight, Napier).
-- Adotar padrão de nomes: `:androidApp`, `MyAppApplication`, `RootApp`.
-- Formalizar política offline-first (TTL, gatilhos de refresh, reconciliation).
-- Definir contratos de erro (DomainError) e guidelines de UI para estados.
-- Matriz de testes: commonTest (driver em memória), Android (smoke/UI), iOS (smoke).
+## [[ADR]]s (Decisões Registradas)
+- DI: Koin no shared (wiring leve) e na apresentação Android; iOS com composition root. Consequência: sem codegen, build mais rápido; flexível para KMP.
+- Rede/JSON: Ktor + kotlinx.serialization. Consequência: binário menor, integração multiplataforma direta.
+- Persistência: SQLDelight. Consequência: tipagem forte e queries portáveis; drivers por plataforma nas bordas.
+- Logging: Napier. Consequência: observabilidade mínima multiplataforma sem acoplamento.
+
+## Contratos de Erro e Estados de UI
+- `sealed interface DomainError { object Network; object Timeout; object NotFound; data class Unknown(val cause: String) }`
+- `sealed interface UiState { object Loading; object Empty; data class Content(...); data class Error(val error: DomainError) }`
+- Guidelines:
+  - Nunca propagar exceções cruas para UI; mapear para `DomainError`.
+  - Estados sempre imutáveis; transições via reducer; efeitos (navegação/toast) separados.
+
 
 ## Política Offline‑first
 - [[TTL]]: 24h; invalidação por versão de schema ou logout. TTL = tempo de vida do cache antes de solicitar refresh.

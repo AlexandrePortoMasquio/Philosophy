@@ -58,10 +58,3 @@ updated: 2025-08-29
 - SQLDelight: cache offline-first com um único schema/queries no Shared; APIs tipadas geradas a partir de `.sq` evitam erros em runtime; funciona em Android e iOS apenas trocando o driver. Ver [[SQLDelight]].
 - Napier: logging multiplataforma (KMP) simples e leve; direciona logs para Logcat no Android e NSLog no iOS; facilita observabilidade mínima sem acoplamento de plataforma. Ver [[Napier]].
 
-## TODOs
-- Definir `:androidApp` como nome do módulo (em vez de `:composeApp`).
-- Adicionar `sealed class Result/DomainError` aos use cases.
-- Implementar `RemoteDataSource` (Ktor + DTOs) e hidratação do cache (SQLDelight).
-- Criar mappers explícitos (DTO→Domain, Db→Domain).
-- Compor DI no iOS (fornecer `SqlDriver` e instâncias do shared).
-- Especificar estratégia de i18n (EN default, PT-BR opcional).

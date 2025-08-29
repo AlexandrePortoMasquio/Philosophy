@@ -1,0 +1,1 @@
+TODO o que é ADR?

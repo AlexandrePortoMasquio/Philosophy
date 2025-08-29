@@ -21,10 +21,11 @@ updated: 2025-08-29
 - Kermit (Touchlab): também KMP, com API semelhante; escolha de projeto. Napier atende bem pela simplicidade.
 - Logger Android / NSLog: específicos de plataforma e aumentam acoplamento; evitados no Shared.
 
-## TODOs
-- Exemplificar inicialização por ambiente (debug/release).
-- Listar níveis de log e boas práticas no Shared.
-- Comparar rapidamente com Kermit (trade-offs).
+
+## Napier vs Kermit (resumo)
+- Napier: API mínima, configuração simples, leve; ideal para desafios/projetos de referência.
+- Kermit: API semelhante, integração com multiplataforma madura; ligeiramente mais funcionalidades utilitárias.
+- Ambas funcionam; escolha por preferência/equipe. Este projeto usa Napier pela simplicidade.
 
 ## Exemplo de Inicialização
 ```kotlin

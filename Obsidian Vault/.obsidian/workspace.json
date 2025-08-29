@@ -447,16 +447,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarativo.md",
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Declarativo"
+              "title": "Arquitetura KMP"
+            }
+          },
+          {
+            "id": "c92cd81825e7bf63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -488,7 +502,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SwiftUI",
+                "query": "ADR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -530,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarativo.md",
+                "file": "ADR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -540,7 +554,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Declarativo"
+              "title": "Backlinks for ADR"
             }
           },
           {
@@ -549,12 +563,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarativo.md",
+                "file": "ADR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Declarativo"
+              "title": "Outgoing links from ADR"
             }
           },
           {
@@ -578,13 +592,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarativo.md",
+                "file": "ADR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Declarativo"
+              "title": "Outline of ADR"
             }
           }
         ]
@@ -605,8 +619,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2352c5b4f9e5246",
+  "active": "c92cd81825e7bf63",
   "lastOpenFiles": [
+    "ADR.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+    "Consumidor de Dados.md",
+    "Reatividade.md",
+    "Ciência da Computação/Segurança da Informação/Criptografia.md",
+    "Declarativo.md",
     "SwiftUI.md",
     "SQDelight.md",
     "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
@@ -626,13 +646,7 @@
     "John Smart.md",
     "Solana.md",
     "Combine.md",
-    "Reatividade.md",
-    "Declarativo.md",
     "Ciência da Computação/Engenharia de Software/Padrões de Projeto.md",
-    "Cyberia Web.md",
-    "Intencionalidade.md",
-    "Problema Fácil da Consciência.md",
-    "UIKit.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/dirty-sources.txt",
     "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6/1qhixto64rks2n3rwuzry5ovx/configuration-cache-report.html",

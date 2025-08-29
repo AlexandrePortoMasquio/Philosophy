@@ -6,7 +6,7 @@ updated: 2025-08-29
 ---
 
 ## Definição (Cosmologia Informacional)
-- Mecanismos formais para restringir, verificar e autenticar a transmissão de informação (formas) sob um canal ruidoso, preservando invariantes desejados (sigilo, integridade e autoria). Independente de tecnologia específica ou de [[Sujeito|sujeitos]].
+- Mecanismos formais para restringir, verificar e autenticar a transmissão de informação (formas) sob um canal ruidoso, preservando invariantes desejados (sigilo, integridade e autoria). Independente de tecnologia específica ou de sujeitos.
 
 ## Componentes
 - Simétrica: AES/GCM para cifrar/decifrar com a mesma chave (rápida, gestão de chaves essencial).
