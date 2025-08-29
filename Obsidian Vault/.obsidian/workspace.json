@@ -41,12 +41,218 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desafio Técnico KMP - Requisitos.md",
+                "file": "Longevidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desafio Técnico KMP - Requisitos"
+              "title": "Longevidade"
+            }
+          },
+          {
+            "id": "1b781afc9944bcd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Longevidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longevidade"
+            }
+          },
+          {
+            "id": "5ecd93e9e4043fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interface Neural.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interface Neural"
+            }
+          },
+          {
+            "id": "ecb61090d609a70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calor"
+            }
+          },
+          {
+            "id": "7d1854be6c717872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Energia"
+            }
+          },
+          {
+            "id": "4a9ca2d8b8efcbe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciência da Computação/Inteligência Artificial/Autômato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autômato"
+            }
+          },
+          {
+            "id": "ca022c7a2de5c107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabalho"
+            }
+          },
+          {
+            "id": "7d5e2278f115fe06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criação"
+            }
+          },
+          {
+            "id": "799dcedc41e84bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descentralização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descentralização"
+            }
+          },
+          {
+            "id": "16e991785f5645bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras Naturais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regras Naturais"
+            }
+          },
+          {
+            "id": "7762c94786bcb85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regra"
+            }
+          },
+          {
+            "id": "233849fce339dd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciência da Computação/Algoritmos/Algoritmos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algoritmos"
+            }
+          },
+          {
+            "id": "31a0209a033e3f40",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9e0d7226f72414ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turing"
+            }
+          },
+          {
+            "id": "57f5d46d631f6497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Completude de Turing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Completude de Turing"
+            }
+          },
+          {
+            "id": "3043143f6d028307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Máquina de Turing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Máquina de Turing"
             }
           },
           {
@@ -92,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -166,7 +372,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desafio Técnico KMP - Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +381,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Desafio Técnico KMP - Requisitos"
+              "title": "Backlinks"
             }
           },
           {
@@ -185,12 +390,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desafio Técnico KMP - Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Desafio Técnico KMP - Requisitos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -214,13 +418,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desafio Técnico KMP - Requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Desafio Técnico KMP - Requisitos"
+              "title": "Outline"
             }
           }
         ]
@@ -241,35 +444,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac91ce8efeefdc9a",
+  "active": "31a0209a033e3f40",
   "lastOpenFiles": [
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Desafio Técnico KMP.md",
-    "Desafio Técnico KMP - Requisitos.md",
-    "Ciência da Computação/Aprendizado de Máquina/Aprendizado de Máquina.md",
-    "Ciência da Computação/Engenharia de Software/Arquitetura de Software.md",
-    "Ciência de Dados.md",
+    "Energia.md",
+    "Ciência da Computação/Teoria da Computação/Teoria da Computação.md",
+    "Completude de Turing.md",
+    "Turing.md",
+    "Máquina de Turing.md",
     "Ciência da Computação/Ciência da Computação.md",
-    "Aprendizado.md",
+    "Bit.md",
+    "Física.md",
+    "Ciência da Computação/Algoritmos/Algoritmos.md",
+    "Computação.md",
+    "Regra.md",
+    "Lógica.md",
+    "Fisicalismo.md",
+    "Síntese.md",
+    "Ruliad.md",
+    "Regras Naturais.md",
+    "Descentralização.md",
+    "Liberdade.md",
+    "Criação.md",
+    "Poder.md",
+    "Trabalho.md",
+    "Automação.md",
+    "Ciência da Computação/Inteligência Artificial/Autômato.md",
     "Inteligência.md",
-    "Adaptação.md",
-    "Evolução e Ordem.md",
-    "Ciência da Computação/Inteligência Artificial/Inteligência Artificial.md",
-    "Ciência da Computação/Aprendizado de Máquina/Aprendizado Supervisionado.md",
-    "Epistemicismo.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
-    "Capitalismo Informacional.md",
-    "Ciência da Computação/Linguagens de Programação/Linguagens de Programação.md",
-    "Java.md",
-    "Kotlin.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-    "Produção.md",
-    "Interação Humano-Computador/Interação Humano-Computador.md",
+    "Trabalho Físico.md",
+    "Entropia Energética.md",
     "Interação Humano-Computador",
-    "Arcabouço.md",
-    "Ciência da Computação/Engenharia de Software/Princípios SOLID.md",
-    "Ciência da Computação/Compiladores/Compiladores.md",
-    "Ciência da Computação/Sistemas Distribuídos/Sistemas Distribuídos.md",
     "Ciência da Computação/DevOps",
     "Ciência da Computação/Computação em Nuvem",
     "Ciência da Computação/Computação Paralela",

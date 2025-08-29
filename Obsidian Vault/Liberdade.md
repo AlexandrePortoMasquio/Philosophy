@@ -1,0 +1,1 @@
+TODO [[Poder]] [[Descentralização|descentralizado]] 

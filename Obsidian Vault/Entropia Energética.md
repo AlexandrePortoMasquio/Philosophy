@@ -9,4 +9,4 @@ updated: 2025-08-28
 - Medida termodinâmica de indisponibilidade de energia para trabalho; distinta mas relacionada à [[Entropia Informacional]].
 
 ## Ligações
-- Conecta [[Calor]], [[Informação]] (limites físico-informacionais), [[Cosmologia Informacional]].
+- Conecta [[Calor]], [[Informação]] (limites físico-informacionais), [[Cosmologia Informacional]]. [[Entropia]]

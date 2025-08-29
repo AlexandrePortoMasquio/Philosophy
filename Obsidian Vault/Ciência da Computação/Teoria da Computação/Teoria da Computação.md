@@ -8,11 +8,14 @@ updated: 2025-08-28
 
 ## Ideia
 - Estuda limites do computável e a classificação de problemas por recursos (tempo, espaço).
-- Modelos: autômatos e linguagens formais, máquinas de Turing, λ‑cálculo.
+- Modelos: autômatos e linguagens formais, máquinas de [[Turing]], λ‑cálculo.
+- O que é i
 
 ## Relações
 - [[Digitalização]]: modelos abstratos com poder explicativo para sistemas concretos.
 - [[Entropia Informacional]] e contagem: limites de compressão/decisão e noção de aleatoriedade.
+- Qual a teoria de [[Wolfram]] sobre a computação?
+- Quais as implicações da [Ontologia da Diferença](../../Ontologia%20da%20Diferença.md) sobre a computação?
 
 ## Tópicos
 - Computabilidade: decidibilidade, redução, teoremas de Rice e Church‑Turing.

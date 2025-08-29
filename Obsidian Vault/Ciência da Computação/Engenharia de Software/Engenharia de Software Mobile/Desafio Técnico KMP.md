@@ -49,6 +49,9 @@ created: 2025-08-28
 - UI → Intent → Caso de Uso → Repositório → (Remote/Local) → Model → Estado → UI.
 - Sincronização: Startup → hidratar cache → refresh em segundo plano (se rede disponível) → reconciliar diffs.
 
+## UI
+* Os itens deverão ser apresentados em cards, com bordas arredondadas, cores estilosas e com um bom design bonito.
+
 ## Decisões e Trade-offs
 - JSON: kotlinx.serialization pela integração multiplataforma (evitar reflection e reduzir binário).
 - Network: Ktor Client + engines por plataforma.

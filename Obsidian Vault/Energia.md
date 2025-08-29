@@ -1,0 +1,1 @@
+TODO [[Entropia Energética]], [[Trabalho Físico]], [[Física]]

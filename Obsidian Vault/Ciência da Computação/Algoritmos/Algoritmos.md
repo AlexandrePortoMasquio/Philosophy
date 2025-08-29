@@ -15,6 +15,7 @@ updated: 2025-08-28
 - Qualidade algorítmica emerge de trocas entre corretude, tempo e espaço, relacionadas à [[Complexidade de Kolmogorov]] e à compressibilidade de descrições.
 
 ## Relações
+* [[Wolfram]] considera algoritmos a base da [[Física]]
 - Como forma operacional, reflete [[Formas]] aplicadas a processos (formas de transformação).
 - Critérios de escolha algorítmica podem seguir [[Critérios Naturais]] (simplicidade, robustez) em vez de autoridade.
 - [[Repetição]] e padrões estruturais favorecem estratégias como Programação Dinâmica e [[Compressão]].
