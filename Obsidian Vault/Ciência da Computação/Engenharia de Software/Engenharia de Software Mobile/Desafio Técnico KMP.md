@@ -21,6 +21,7 @@ updated: 2025-08-28
 ## Objetivos e Métricas
 - Entregabilidade: setup em ≤ 10 min, build reprodutível.
 - Qualidade na arquitetura: demonstrar habilidade altamente profissional, de um sênior especialista, em estruturar um projeto KMP.
+- Respeitar o máximo possível os requerimentos do teste, fornecidos pelo cliente.
 - Demonstrar conhecimento profundo em KMP, usando ferramentas da melhor forma possível e atendendo o melhor possível a todos os requerimentos.
 - Qualidade: cobertura de regras de negócio ≥ 70% no módulo shared; lints sem erros.
 - UX: tempo de 1º carregamento ≤ 1s com cache; ≤ 3s a frio com rede média.
@@ -39,8 +40,6 @@ updated: 2025-08-28
   - SwiftUI + Combine; integração via XCFramework do shared. Adaptadores de Flow → Publisher; DI local (p.ex., Factory).
 
 ## Perguntas (TODO)
-* Vamos usar [[Injeção de Dependência]]? Qual?
-* Quais são as propostas pelas quais vamos impressionar o cliente, para que sejamos contratados nessa vaga?
 
 ## Fluxos de Dados (alto nível)
 - UI → Intent → Caso de Uso → Repositório → (Remote/Local) → Model → Estado → UI.
@@ -82,6 +81,73 @@ updated: 2025-08-28
 - Supercompartilhamento: manter UI nativa e integrações no app; revisar dependências do shared.
 - Tempo do desafio: priorizar backlog pelo caminho crítico (dados → domínio → Android UI → testes → iOS UI mínima).
 
+## Ligações
+
+
+## Perguntas (para confirmação)
+- Qual é o endpoint/dataset JSON real e um exemplo de schema?
+- Há restrições de design/branding para a UI (cores, fontes, ícones)?
+- Targets: Android (minSdk/target/compile) e iOS (deployment target)?
+- Restrições legais/privacidade (telemetria, PII) ou política de logs?
+- Confirmar DI: Hilt no Android, composição manual no iOS e por construtor no shared.
+- Plataforma de CI preferida (p.ex., GitHub Actions) e ambiente de build?
+- Prioridades/timebox: performance vs cobertura de testes vs features?
+- Idioma padrão da UI (EN/PT-BR) e necessidade de i18n?
+- TTL/estratégia de cache offline e gatilhos de refresh?
+
+## Respostas
+- Endpoint/Schema: na ausência de endpoint oficial, forneceremos um mock JSON versionado no projeto e abstrairemos o acesso via `CatalogRepository`, permitindo troca por endpoint real sem alterar UI.
+- Design/Branding: Material 3 básico, dark mode, acessibilidade; ícones do Material; sem branding específico.
+- Targets: Android `compileSdk=34`, `targetSdk=34`, `minSdk=24`; iOS `deploymentTarget=iOS 16`.
+- Privacidade/Logs: sem analytics; logs locais (Napier/Timber) anonimizados; nenhum PII além do dataset.
+- DI: shared por construtor; Android com Hilt; iOS com factories (composition root).
+- CI: GitHub Actions (lint, testes `commonTest`/Android, build XCFramework e APK).
+- Prioridades: entregabilidade e corretude > testabilidade > UX; performance após básicos.
+- Idioma: EN por padrão; PT-BR opcional se tempo permitir; strings isoladas para futura i18n.
+- Cache: offline-first com TTL 24h; refresh manual e em segundo plano quando rede disponível.
+
+## Ferramentas e Dependências (KMP)
+- Build: Gradle 8.7; Kotlin 2.0.20; AGP 8.5.2.
+- Shared:
+  - kotlinx.coroutines 1.8.1; kotlinx.serialization 1.6.3; kotlinx.datetime 0.6.0.
+  - Ktor Client 2.3.8 (core, content-negotiation, serialization-json).
+  - SQLDelight 2.0.2 (runtime + drivers por plataforma).
+  - Napier 2.7.1 (logging multiplataforma).
+- Android:
+  - Compose BOM 2024.08.00; activity-compose; lifecycle-viewmodel-compose.
+  - Hilt 2.51.1; hilt-navigation-compose.
+  - Ktor engine OkHttp; SQLDelight Android driver.
+  - Testes: junit4, androidx.test, compose-ui-test-junit4, turbine 1.0.0.
+- iOS:
+  - Ktor Darwin; SQLDelight Native driver; integração via XCFramework.
+- Qualidade: Ktlint/Detekt (opcional), lint Android; tasks de verificação no CI.
+## Ligações
+
+## Respostas às Perguntas
+
+### Injeção de Dependência
+- Shared (KMP): injeção por construtor, sem framework. Dependências entram como interfaces (ports) e são fornecidas nas bordas, mantendo testabilidade e portabilidade.
+- Android: Hilt para compor os concretos (network, storage, logger) e conectar casos de uso/repositórios. Módulos por feature para escopo e isolamento.
+- iOS: Composition Root com fábricas (factories) e inicialização explícita, sem framework, reduzindo atrito de interop.
+- Limites: contratos no shared (interfaces/expect); implementations e actuals apenas nas plataformas.
+
+### Propostas para impressionar o cliente
+- Qualidade arquitetural: módulos bem delimitados (domain/data/shared features), UDF/MVVM na apresentação, contratos selados para erros/estados e aplicação dos Princípios SOLID (por extenso).
+- Offline-first robusto: cache, hidratação inicial, refresh em segundo plano e reconciliação de diffs; UX consistente on/offline.
+- Testabilidade: >70% de cobertura no shared, fakes/stubs para repositórios, testes de substituição (LSP), instrumentados no Android e smoke em iOS.
+- Observabilidade e resiliência: logging estruturado, métricas básicas, tratamento padronizado de falhas (timeouts, backoff, circuit breaker).
+- Acessibilidade e UX: navegação clara, estados visuais (loading/empty/error), dark mode, tamanhos dinâmicos de fonte.
+- Reprodutibilidade/CI: README com setup ≤ 10 min, pipeline com lint+testes+XCFramework, artefatos (APK/XCFramework).
+- Documentação de decisões: ADRs curtas (contexto → opções → decisão → consequências) e diagramas simples das camadas/módulos.
+
+### Como o código será documentado
+- README raiz: setup, execução e build Android/iOS; troubleshooting.
+- Architecture.md: camadas, módulos, fluxos (mermaid), limites e trade-offs.
+- ADRs: 1–2 páginas por decisão relevante (DI, offline-first, serialização, persistência).
+- READMEs por módulo (shared/domain/data/features) com responsabilidades e dependências.
+- Contratos de API: schema JSON de exemplo, erros e timeouts esperados.
+- KDoc no shared para casos de uso, repositórios e modelos; geração opcional.
+- Guia de testes: como rodar suites (commonTest/AndroidTest/iOS) e estratégia de fakes.
 ## Ligações
 - [[KMP]] · [[Arquitetura KMP]] · [[Arquitetura Android]] · [[../Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Testes|Testes]] · [[Engenharia de Software/Processos|Processos]]
 

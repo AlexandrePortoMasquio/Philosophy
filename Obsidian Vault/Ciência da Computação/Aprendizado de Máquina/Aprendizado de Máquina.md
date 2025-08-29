@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- [[Granularidade]] · [[Invariantes]] · [[Entropia Informacional]]
+- [[Granularidade]] · [[Invariantes]] · [[Entropia Informacional]], [[Inteligência Artificial]]
 - ↓ [[Engenharia de Software/Desempenho|Desempenho]] · [[Engenharia de Software/Processos|Processos]]
 
 ## Ideia
