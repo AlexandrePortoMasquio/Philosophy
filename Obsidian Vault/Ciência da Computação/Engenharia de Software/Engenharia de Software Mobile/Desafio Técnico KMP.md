@@ -8,6 +8,7 @@ created: 2025-08-28
 
 ## Requisitos
 * [[Desafio Técnico KMP - Requisitos]]
+* [[Desafio KMP plano]]
 
 ## Ideia
 - Planejar a arquitetura de um projeto Kotlin Multiplatform (KMP) para um desafio técnico, priorizando clareza de limites, testabilidade e entrega rápida sem comprometer a qualidade.
