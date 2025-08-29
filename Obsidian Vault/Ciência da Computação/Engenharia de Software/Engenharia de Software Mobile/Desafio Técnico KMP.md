@@ -43,7 +43,7 @@ created: 2025-08-28
   - Expect/Actual: relógio, storage seguro, reachability, logger.
 - Android:
   - App `:composeApp` + `:feature:*` finas (UI Compose, ViewModel, navegação). DI: Koin (apresentação Android).
-  - Fluxo UDF: intents → reducer → state (StateFlow). Observabilidade: Timber + Crashlytics (stubável).
+  - Fluxo UDF: intents → reducer → state (StateFlow).
 - iOS:
   - SwiftUI + Combine; integração via XCFramework do shared. Adaptadores de Flow → Publisher; DI local (p.ex., Factory).
 
@@ -66,10 +66,8 @@ created: 2025-08-28
 - AndroidTest: DAO/Room ou SQLDelight Android driver; navegação; snapshot de UI (opcional).
 - iOS tests: unidades de integração com o framework compartilhado.
 
-## CI/CD (mínimo viável)
-- Jobs: lint + testes (common + Android), build XCFramework; publicação local (MavenLocal/artefato no repositório do projeto).
-- Artefatos: APK debug e XCFramework.
-- Gatilhos: push e PR.
+## Escopo (MVP)
+- Observability (logs/métricas/tracing além do mínimo para desenvolvimento) e CI/CD não serão entregues neste MVP. Foco em funcionalidade, build local e instruções claras de execução.
 
 ## Backlog Inicial
 1) Bootstrap projeto KMP (Gradle, módulos shared).
@@ -143,9 +141,9 @@ created: 2025-08-28
 - Qualidade arquitetural: módulos bem delimitados (domain/data/shared features), UDF/MVVM na apresentação, contratos selados para erros/estados e aplicação dos Princípios SOLID (por extenso).
 - Offline-first robusto: cache, hidratação inicial, refresh em segundo plano e reconciliação de diffs; UX consistente on/offline.
 - Testabilidade: >70% de cobertura no shared, fakes/stubs para repositórios, testes de substituição (LSP), instrumentados no Android e smoke em iOS.
-- Observabilidade e resiliência: logging estruturado, métricas básicas, tratamento padronizado de falhas (timeouts, backoff, circuit breaker).
+  - (MVP) Sem observability/CI: foco em funcionalidade e build local.
 - Acessibilidade e UX: navegação clara, estados visuais (loading/empty/error), dark mode, tamanhos dinâmicos de fonte.
-- Reprodutibilidade/CI: README com setup ≤ 10 min, pipeline com lint+testes+XCFramework, artefatos (APK/XCFramework).
+  - Reprodutibilidade: README com setup ≤ 10 min; sem pipeline de CI neste MVP.
 - Documentação de decisões: ADRs curtas (contexto → opções → decisão → consequências) e diagramas simples das camadas/módulos.
 
 ### Como o código será documentado

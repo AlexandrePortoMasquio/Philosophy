@@ -24,9 +24,8 @@ updated: 2025-08-29
    - `RemoteDataSource` (Ktor + JSON) com timeouts/backoff.
    - Schema/queries SQLDelight; `LocalDataSource` e repositórios.
    - Política: hidratação inicial, TTL=24h, refresh em background, reconciliação idempotente.
-5) DI e Logging no shared
+5) DI no shared
    - Injeção por construtor; wiring leve via fábricas no shared (Providers) — sem framework.
-   - Inicializar Napier por ambiente (debug/release) nas bordas.
 6) UI Android (Compose)
    - ViewModel (UDF): intents → reducer → `UiState` (loading/empty/error/content).
    - Telas: lista (cards, busca local) e detalhe; navegação; acessibilidade básica.
@@ -37,12 +36,12 @@ updated: 2025-08-29
 8) Testes
    - `commonTest`: use cases e repositórios com fakes/driver em memória.
    - AndroidTest: DAO e navegação/UI básica; iOS: smoke tests.
-9) CI/CD e Artefatos
-   - Pipeline (lint + testes + build XCFramework + APK debug).
-   - Publicar artefatos nos jobs; badges opcionais.
-10) Documentação e Entrega
+9) Documentação e Entrega
    - README (setup ≤10min, build Android/iOS, troubleshooting).
    - Architecture.md (camadas/fluxos/ADRs curtas).
+
+## Escopo (MVP)
+- Observability (logs/métricas/tracing além do mínimo para desenvolvimento) e CI/CD estão fora do escopo deste MVP. Foco em funcionalidade e build local.
 
 ## Dependências/Notas
 - Endpoint real ou mock versionado no repositório (substituível).

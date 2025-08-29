@@ -10,8 +10,10 @@ updated: 2025-08-29
 
 ## Por que usar no KMP
 - Multiplataforma real: um único ponto de logging no Shared; sem `expect/actual` nem `println` ad hoc.
+- Escopo MVP: usar apenas para logs mínimos de desenvolvimento; observabilidade avançada fica fora do MVP.
 - Observabilidade mínima: registros de erro/info durante desenvolvimento e em produção (com controle de nível), sem acoplamento à plataforma.
 - Leve e direto: suficiente para um desafio técnico; facilita troubleshooting de rede/cache sem puxar infra pesada.
+
 
 ## Integração (padrão)
 - Shared: inicializa logger e usa `Napier.d/e` nos pontos críticos (network/cache/use cases).
@@ -23,9 +25,7 @@ updated: 2025-08-29
 
 
 ## Napier vs Kermit (resumo)
-- Napier: API mínima, configuração simples, leve; ideal para desafios/projetos de referência.
-- Kermit: API semelhante, integração com multiplataforma madura; ligeiramente mais funcionalidades utilitárias.
-- Ambas funcionam; escolha por preferência/equipe. Este projeto usa Napier pela simplicidade.
+- Ambos funcionam. No MVP, a escolha por Napier prioriza simplicidade e logs mínimos.
 
 ## Exemplo de Inicialização
 ```kotlin

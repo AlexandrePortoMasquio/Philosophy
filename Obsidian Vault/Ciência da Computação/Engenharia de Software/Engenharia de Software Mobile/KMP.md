@@ -39,7 +39,7 @@ updated: 2025-08-29
 - Interop iOS: geração de framework, bridging de tipos (nullable, collections), performance de bridging.
 - Persistência: multiplataforma (SQLDelight, Realm/KMM) e cache.
 - Testes: unitários em comum, instrumentados por plataforma; contratos de API.
-- Publicação: CI/CD para distribuir artefatos (Maven, XCFramework) e versionamento semântico.
+- Publicação (MVP): entrega local/README; CI/CD fica para etapas futuras.
 
 ## Riscos e Mitigações
 - Dissonância de ciclos (Xcode/Gradle): automatizar com scripts e fastlane.

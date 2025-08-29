@@ -44,9 +44,9 @@ updated: 2025-08-29
 - App.kt: composable raiz (ex.: `RootApp`) chamado por `MainActivity#setContent { ... }`. Define tema, navegação e estado de UI.
 - Padrão profissional: manter ambos com nomes claros — `MyAppApplication` (Application) e `RootApp` (UI raiz). Manifest: `android:name=".MyAppApplication"`.
 
-## Testes e CI/CD
-- Testes unitários em `commonTest`; instrumentados por plataforma.
-- Publicação do shared: Maven/XCFramework; versões semânticas; automação em CI.
+## Testes (MVP)
+- Testes unitários em `commonTest`; instrumentados por plataforma quando útil.
+- Publicação: gerar frameworks/APK localmente para validação; CI/CD fora do escopo do MVP.
 
 ## Riscos
 - Supercompartilhar (UI/interop complexos) — manter fronteiras nítidas.
