@@ -2,6 +2,8 @@
 
 - [[Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]]
 - [[Arquitetura de Software]]
+- [[Software]]
+- [[Classe]]
 - [[Backend]]
 - [[API]]
 - [[Banco de Dados]]
