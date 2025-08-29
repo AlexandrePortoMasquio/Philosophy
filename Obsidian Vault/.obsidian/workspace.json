@@ -447,12 +447,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+                "file": "Declarativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMP"
+              "title": "Declarativo"
             }
           }
         ],
@@ -488,7 +488,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DAO",
+                "query": "SwiftUI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -530,7 +530,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+                "file": "Declarativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -540,7 +540,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KMP"
+              "title": "Backlinks for Declarativo"
             }
           },
           {
@@ -549,12 +549,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+                "file": "Declarativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KMP"
+              "title": "Outgoing links from Declarativo"
             }
           },
           {
@@ -578,13 +578,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+                "file": "Declarativo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KMP"
+              "title": "Outline of Declarativo"
             }
           }
         ]
@@ -607,6 +607,9 @@
   },
   "active": "b2352c5b4f9e5246",
   "lastOpenFiles": [
+    "SwiftUI.md",
+    "SQDelight.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
     "Libertarianismo.md",
     "Infinito Interior.md",
     "DAO.md",
@@ -623,16 +626,13 @@
     "John Smart.md",
     "Solana.md",
     "Combine.md",
-    "SwiftUI.md",
     "Reatividade.md",
     "Declarativo.md",
     "Ciência da Computação/Engenharia de Software/Padrões de Projeto.md",
     "Cyberia Web.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
     "Intencionalidade.md",
     "Problema Fácil da Consciência.md",
     "UIKit.md",
-    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/iOS.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/dirty-sources.txt",
     "Projetos/bimm-kmp-challenge-base/build/reports/configuration-cache/4s5i8nater6k5k6yid3nixfv6/1qhixto64rks2n3rwuzry5ovx/configuration-cache-report.html",
