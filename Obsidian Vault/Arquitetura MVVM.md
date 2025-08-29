@@ -13,4 +13,4 @@ updated: 2025-08-29
 - Evitar lógica de domínio na View; delegar a use cases e repositórios.
 
 ## Ligações
-- [[View Model]] · [[Arquitetura Android]] · [[KMP]]
+- [[ViewModel]] · [[Arquitetura Android]] · [[KMP]]

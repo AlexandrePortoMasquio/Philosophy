@@ -1,8 +1,25 @@
-TODO por que usar no [[KMP]]
-## TODOs
-- Adicionar exemplos de arquivo `.sq` (select, insert, join).
-- Demonstrar uso com driver em memória para testes.
-- Registrar gotchas em iOS (acesso serial ao SQLite).
+---
+title: SQLDelight
+tags: [kmp, banco de dados, persistência]
+created: 2025-08-29
+updated: 2025-08-29
+---
+
+## O que é
+- Biblioteca KMP que gera APIs fortemente tipadas a partir de arquivos `.sq` (SQL) e oferece runtime multiplataforma (Android/iOS/JVM/Native).
+
+## Por que usar no KMP
+- Um único schema e consultas no Shared (commonMain); drivers específicos (Android/Native) só nas bordas.
+- Segurança de compilação: queries inválidas falham no build (não em runtime).
+- Expressividade/Desempenho: filtros/ordenação no SQL; ideal para offline‑first.
+
+## Quando usar
+- Cache local para lista/detalhe/busca; necessidade de consistência entre Android e iOS.
+
+## Comparação
+- Room: Android‑only; não atende Shared.
+- CoreData: iOS‑only; duplicaria regras/esquemas.
+- Realm Kotlin: KMP, mas formato próprio (não SQL) e menos transparência para queries complexas (sem schema relacional explícito; tuning/operação menos direta).
 
 ## Exemplos
 ```sql
@@ -27,3 +44,5 @@ val db = CatalogDatabase(driver)
 ## iOS (gotchas)
 - Acesso serializado ao SQLite; evitar concorrência não controlada no driver nativo.
 - Criar e fechar conexões com cuidado para não vazar recursos.
+
+Ver também: [[KMP]].
