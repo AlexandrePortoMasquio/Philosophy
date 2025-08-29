@@ -5,9 +5,6 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Mapa Rápido
-- Acima: [[Informação]] · [[Computação]] · [[Formas]] · [[Granularidade]] · [[Identidade]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Virtualidade]] · [[Controle]] · [[Lei da Variedade Requisitada]]
-- Abaixo: [[Engenharia de Software/Engenharia de Software|Engenharia de Software]] · [[Engenharia de Software/Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]]
 
 ## Ideia
 - Estudo sistemático da informação processável: representações, transformações (algoritmos), limites (computabilidade/complexidade) e meios de execução (linguagens, compiladores, SO, redes, BD).
@@ -27,14 +24,14 @@ updated: 2025-08-28
 ## Níveis e Fluxos
 - Filosofia → CC → Engenharia de Software → Mobile: conceitos sobem/descem os níveis.
 - Critérios “acima” informam decisões “abaixo”: [[Critérios Naturais]] (simplicidade/robustez), [[Granularidade]] (nível de detalhe), [[Identidade]] (o que conta como “o mesmo”).
-- Limites teóricos ancoram escolhas práticas: [[Lei da Variedade Requisitada]] (controle), [[Entropia Informacional]] (incerteza), [[Virtualidade]] (modelos) e [[Controle]].
+- Limites teóricos ancoram escolhas práticas: [[Lei da Variedade Requisitada]] (controle), [[Entropia Informacional]] (incerteza) e [[Controle]].
 
 ## Ligações
-- Conceituais: [[Informação]], [[Computação]], [[Formas]], [[Granularidade]], [[Identidade]], [[Entropia Informacional]], [[Critérios Naturais]], [[Virtualidade]], [[Controle]].
+- Conceituais: [[Informação]], [[Computação]], [[Entropia Informacional]], [[Controle]].
 - Para prática: [[Engenharia de Software/Engenharia de Software|Engenharia de Software]], [[Engenharia de Software/Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]].
 
 ## Navegação por Tópicos
 - [[Algoritmos/Algoritmos|Algoritmos]] · [[Estruturas de Dados/Estruturas de Dados|Estruturas de Dados]] · [[Teoria da Computação/Teoria da Computação|Teoria da Computação]] · [[Linguagens de Programação/Linguagens de Programação|Linguagens]] · [[Compiladores/Compiladores|Compiladores]] · [[Sistemas Operacionais/Sistemas Operacionais|SO]] · [[Redes de Computadores/Redes de Computadores|Redes]] · [[Sistemas Distribuídos/Sistemas Distribuídos|Distribuídos]] · [[Banco de Dados/Banco de Dados|Banco de Dados]] · [[Criptografia/Criptografia|Criptografia]] · [[Inteligência Artificial/Inteligência Artificial|IA]] · [[Aprendizado de Máquina/Aprendizado de Máquina|ML]] · [[Visão Computacional/Visão Computacional|Visão]] · [[Processamento de Linguagem Natural/Processamento de Linguagem Natural|PLN]] · [[Computação Gráfica/Computação Gráfica|Gráfica]] · [[Interação Humano-Computador/Interação Humano-Computador|IHC]] · [[Computação Paralela/Computação Paralela|Paralela]] · [[Computação em Nuvem/Computação em Nuvem|Nuvem]] · [[DevOps/DevOps|DevOps]]
 
 ## Referências sugeridas
-- [[Shannon]] (teoria da informação), [[Complexidade de Kolmogorov]], [[Lei da Variedade Requisitada]], [[Virtualidade]].
+- [[Shannon]] (teoria da informação), [[Complexidade de Kolmogorov]], [[Lei da Variedade Requisitada]].

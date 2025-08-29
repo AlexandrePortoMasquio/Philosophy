@@ -20,9 +20,9 @@ updated: 2025-08-28
 - Dados: Repositórios consolidam fontes (Room/SQLDelight, Network com Ktor/Retrofit); caches e políticas offline‑first.
 
 ## Decisões Centrais
-- Estado: imutabilidade local, fontes únicas de verdade; [[Identidade]] de objetos e ciclo de vida.
+- Estado: imutabilidade local, fontes únicas de verdade; [[Injeção de Dependência]], ciclo de vida.
 - Concorrência: coroutines (Dispatchers), cancelamento estruturado, backpressure com Flow.
-- DI: Hilt/Koin; limites modulares (feature modules) e [[Granularidade]].
+- DI: Hilt/Koin; limites modulares (feature modules).
 - Navegação: Navigation Compose, rotas estáveis, deep links.
 - Observabilidade: logs, métricas, tracing, ANR/Crash.
 

@@ -5,11 +5,6 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Mapa Rápido
-- Acima: [[Ciência da Computação]], [[Computação]], [[Algoritmos]], 
-- Lado: [[Padrões de Projeto]] · [[Processos]] · [[Ferramentas]]
-- Abaixo: [[Engenharia de Software Mobile/Engenharia de Software Mobile|Mobile]] · [[Banco de Dados/Banco de Dados|Dados]] · [[Sistemas Distribuídos/Sistemas Distribuídos|Distribuídos]]
-
 ## Ideia
 - Arquitetura é a organização intencional de componentes e relações para satisfazer requisitos funcionais e não funcionais sob restrições.
 - Conecta teoria e prática: estrutura (formas), níveis (granularidade) e mecanismos de controle (fluxo, estado, isolamento) direcionam decisões.
@@ -21,7 +16,7 @@ updated: 2025-08-28
 ## Estilos e Decisões
 - Camadas: separação de responsabilidades; facilita substituição e testes.
 - Monólito Modular: limites internos nítidos com compilação/implantação unificada.
-- Microsserviços: autonomia e implantação independente; custo de [[Redes de Computadores|rede]] e [[Sistemas Distribuídos|distribuição]].
+- Microsserviços: autonomia e implantação independente; custo e [[Sistemas Distribuídos|distribuição]].
 - Event-Driven: acoplamento fraco temporal; aumenta latência e complexidade de rastreio.
 
 ## Prática

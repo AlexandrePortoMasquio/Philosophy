@@ -20,8 +20,8 @@ updated: 2025-08-28
 
 ## Relações Arquiteturais
 - Camadas: módulo compartilhado (domínio/dados) e apps finos (UI nativa, DI, navegação).
-- Limites claros (API do módulo) preservam [[Granularidade]] adequada e reduzem acoplamento.
-- [[Identidade]] de modelos comuns exige mapeamentos consistentes (DTOs ↔ modelos de UI), evitando drift entre plataformas.
+- Limites claros (API do módulo) preservam [[Modularidade]] adequada e reduzem acoplamento.
+- mapeamentos consistentes (DTOs ↔ modelos de UI), evitando drift entre plataformas.
 
 ## Tópicos
 - Estrutura: `commonMain`, `androidMain`, `iosMain`; bibliotecas: kotlinx.coroutines, serialization, Ktor.

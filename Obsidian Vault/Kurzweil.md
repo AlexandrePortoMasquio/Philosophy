@@ -1,1 +1,1 @@
-TODO relacionar a [[Singularidade]]
+TODO relacionar a [[Singularidade]], [[Transhumanismo]], [[Lei de Retornos Acelerados]]

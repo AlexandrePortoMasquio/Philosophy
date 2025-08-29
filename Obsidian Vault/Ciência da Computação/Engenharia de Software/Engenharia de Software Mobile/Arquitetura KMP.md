@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- Acima: [[../Arquitetura de Software|Arquitetura de Software]] · [[../../Linguagens de Programação/Linguagens de Programação|Linguagens de Programação]]
+- Acima: [[../Arquitetura de Software|Arquitetura de Software]] 
 - Lado: [[KMP]] · [[Android]] · [[iOS]] · [[Multiplataforma]]
 - NÃO conectar com filosofia
 
@@ -33,3 +33,14 @@ updated: 2025-08-28
 
 ## Ligações
 - [[KMP]] · [[Multiplataforma]] · [[Android]] · [[../Arquitetura de Software|Arquitetura de Software]] · [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]]
+
+## Princípios SOLID no KMP
+- SRP — Princípio da Responsabilidade Única (Single Responsibility Principle): módulos e classes com papéis únicos (ex.: `UseCase`, `Repository`, `Mapper`); UI nativa sem regras de negócio.
+- OCP — Princípio do Aberto/Fechado (Open-Closed Principle): evoluir por extensão (novos `UseCase`/handlers) e `sealed class Result` para novas variantes sem modificar chamadores.
+- LSP — Princípio da Substituição de Liskov (Liskov Substitution Principle): contratos testáveis; fakes substituem implementações reais sem quebrar invariantes (ex.: retries, cache policy).
+- ISP — Princípio da Segregação de Interfaces (Interface Segregation Principle): interfaces focadas por feature (evitar um repositório único onipotente); separar portas de leitura/escrita quando útil.
+- DIP — Princípio da Inversão de Dependência (Dependency Inversion Principle): shared depende de interfaces (`expect` ou interfaces puras); injeção nas bordas Android/iOS fornece `actual` concretos.
+
+### Enforcement
+- Limites de pacote/módulo; visibilidade restrita; regras do Gradle (dependency constraints).
+- Testes de substituição (LSP) e contratos de API; análise estática e lint.
