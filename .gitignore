@@ -1,9 +1,3 @@
-
-# KMP challenge base (ignore cloned project folder)
-Obsidian Vault/Projetos/bimm-kmp-challenge-base/
-
 # macOS
 .DS_Store
 Obsidian Vault/.DS_Store
-# Nested KMP challenge project (separate Git repo)
-Obsidian Vault/Projetos/bimm-kmp-challenge-base/
