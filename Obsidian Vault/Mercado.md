@@ -1,3 +1,3 @@
 TODO
 
-TODO relacionar [[Capitalismo]]
+TODO relacionar [[Capitalismo]] [[Propriedade Privada]] [[Descentralização]] [[Agorismo]] [[Economia]] [[Finanças]]

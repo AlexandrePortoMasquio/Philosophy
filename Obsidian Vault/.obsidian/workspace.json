@@ -627,6 +627,34 @@
             "id": "ef72a84237be5cb7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mercado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mercado"
+            }
+          },
+          {
+            "id": "1d83de53586f6123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitetura KMP"
+            }
+          },
+          {
+            "id": "7c0df54052a858d8",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -662,7 +690,7 @@
             }
           }
         ],
-        "currentTab": 44
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -808,8 +836,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef72a84237be5cb7",
+  "active": "7c0df54052a858d8",
   "lastOpenFiles": [
+    "Capitalismo.md",
+    "Estado.md",
+    "Migração (Software).md",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/META-INF/composeApp_debug.kotlin_module",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/DetailScreenKt$DetailScreen$1$1.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/DetailScreenKt$DetailScreen$defaultFactory$1$1.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/DetailScreenKt.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt$lambda$-934962520$1.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt$lambda$1849759691$1.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt$lambda$-965331435$1.class",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/ComposableSingletons$DetailScreenKt.class",
+    "Projetos/bimm-kmp-challenge-base.zip",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared.ezkdue",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
+    "Finanças.md",
+    "Mercado.md",
     "Corporativismo.md",
     "Neocameralismo.md",
     "Curtis Yarvin.md",
@@ -829,23 +873,7 @@
     "Moeda Forte.md",
     "Moeda.md",
     "Dinheiro.md",
-    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosArm64/releaseFramework/Shared.framework/Shared.mHrNRj",
-    "Projetos/bimm-kmp-challenge-base/shared/build/fat-framework/debug/Shared.framework/Shared.lipo",
-    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared.ejYBRt",
-    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosArm64/debugFramework/Shared.framework/Shared.LaKoex",
-    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/manifest",
-    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/linkdata/package_app.shared.facade/0_facade.knm",
-    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/resources",
     "Físico.md",
-    "Nietzsche.md",
-    "Niilismo.md",
-    "Existencialismo.md",
-    "Romantismo.md",
-    "Pré-Rafaelita.md",
-    "Pintura.md",
-    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl$Schema$migrate-zeHU3Mk$$inlined$sortedBy$1.class",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/drawable-nodpi-v4/sake_splash.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/drawable-nodpi/sake_splash.png",
     "Projetos/bimm-kmp-challenge-base/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/bottle-1024.png",

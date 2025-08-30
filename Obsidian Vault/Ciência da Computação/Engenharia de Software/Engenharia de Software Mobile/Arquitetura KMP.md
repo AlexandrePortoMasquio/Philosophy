@@ -29,6 +29,7 @@ updated: 2025-08-29
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.
 - Minimizar atritos de interop (Swift/ObjC) com APIs estáveis e conversões claras de tipos.
+- TODO Como fazer [[Migração (Software)]] do app [[KMP]]
 
 ## Estrutura Recomendada
 - Shared (KMP): módulos `:core:domain`, `:core:data` (commonMain + expect/actual para IO/crypto)

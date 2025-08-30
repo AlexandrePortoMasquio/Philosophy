@@ -9,5 +9,5 @@ updated: 2025-08-29
 - Ecossistema de aplicações descentralizadas usando blockchain para identidade, valor e execução de regras (contratos inteligentes).
 - O mesmo que [[Criptoespaço]]
 
-## Ligações (TODO)
+## Ligações (TODO elaborar cada uma)
 - [[Blockchain]] · [[Contrato Inteligente]] · [[DAO]] [[Liberdade de Expressão]]
