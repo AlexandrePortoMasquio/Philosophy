@@ -403,6 +403,230 @@
             "id": "e43017915696c9af",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinheiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dinheiro"
+            }
+          },
+          {
+            "id": "6d1089e963656932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moeda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moeda"
+            }
+          },
+          {
+            "id": "614dc3788e227274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web3"
+            }
+          },
+          {
+            "id": "d164fc599ecbe4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liberdade de Expressão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liberdade de Expressão"
+            }
+          },
+          {
+            "id": "7191054533e9c47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Justiça.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Justiça"
+            }
+          },
+          {
+            "id": "fce5387dc4d369f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ética.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ética"
+            }
+          },
+          {
+            "id": "aaa9c2bcaef94707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lei Jurídica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lei Jurídica"
+            }
+          },
+          {
+            "id": "6b394d21702ec6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Juspositivismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Juspositivismo"
+            }
+          },
+          {
+            "id": "f4a0fd96a62be073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Centralização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Centralização"
+            }
+          },
+          {
+            "id": "2bd06a5eab7c9f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ditadura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ditadura"
+            }
+          },
+          {
+            "id": "8c94f01eba3e1f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autoritarismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autoritarismo"
+            }
+          },
+          {
+            "id": "29cb0549984d1b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Política.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Política"
+            }
+          },
+          {
+            "id": "fcbe2fa2759a7cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propaganda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Propaganda"
+            }
+          },
+          {
+            "id": "356dd6487bbdf002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catedral (Yarvin).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Catedral (Yarvin)"
+            }
+          },
+          {
+            "id": "bb0b25f8ad317bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curtis Yarvin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curtis Yarvin"
+            }
+          },
+          {
+            "id": "a1e28d08bd71fbee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neocameralismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neocameralismo"
+            }
+          },
+          {
+            "id": "ef72a84237be5cb7",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -438,7 +662,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -584,8 +808,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "e43017915696c9af",
+  "active": "ef72a84237be5cb7",
   "lastOpenFiles": [
+    "Corporativismo.md",
+    "Neocameralismo.md",
+    "Curtis Yarvin.md",
+    "Catedral (Yarvin).md",
+    "Propaganda.md",
+    "Política.md",
+    "Autoritarismo.md",
+    "Ditadura.md",
+    "Centralização.md",
+    "Juspositivismo.md",
+    "Lei Jurídica.md",
+    "Ética.md",
+    "Justiça.md",
+    "Liberdade de Expressão.md",
+    "Web3.md",
+    "Criptomoeda.md",
+    "Moeda Forte.md",
+    "Moeda.md",
+    "Dinheiro.md",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosArm64/releaseFramework/Shared.framework/Shared.mHrNRj",
+    "Projetos/bimm-kmp-challenge-base/shared/build/fat-framework/debug/Shared.framework/Shared.lipo",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosSimulatorArm64/debugFramework/Shared.framework/Shared.ejYBRt",
+    "Projetos/bimm-kmp-challenge-base/shared/build/bin/iosArm64/debugFramework/Shared.framework/Shared.LaKoex",
+    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/manifest",
+    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/linkdata/package_app.shared.facade/0_facade.knm",
+    "Projetos/bimm-kmp-challenge-base/shared/build/classes/kotlin/metadata/commonMain/default/resources",
+    "Físico.md",
     "Nietzsche.md",
     "Niilismo.md",
     "Existencialismo.md",
@@ -595,33 +846,6 @@
     "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl$Schema$migrate-zeHU3Mk$$inlined$sortedBy$1.class",
     "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab",
     "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i.len",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab",
-    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len",
-    "Dinheiro.md",
-    "Cyberpunk.md",
-    "Filósofo.md",
-    "Filosofia.md",
-    "Reducionismo.md",
-    "Moeda.md",
-    "Propriedade Privada.md",
-    "Escola Austríaca.md",
-    "A Priori.md",
-    "Lógica.md",
-    "Razão.md",
-    "Racionalismo.md",
-    "substâncias.md",
-    "Blade Runner.md",
-    "Ficção Científica.md",
-    "Ficção.md",
-    "Desconstrução.md",
-    "Deleuze.md",
-    "Derrida.md",
-    "Fundamento.md",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/drawable-nodpi-v4/sake_splash.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/drawable-nodpi/sake_splash.png",
     "Projetos/bimm-kmp-challenge-base/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/bottle-1024.png",

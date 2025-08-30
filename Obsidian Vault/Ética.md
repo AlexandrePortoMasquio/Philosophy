@@ -1,3 +1,3 @@
 TODO
 
-TODO [[Regra]]
+TODO [[Regra]] [[Lei Jurídica]]
