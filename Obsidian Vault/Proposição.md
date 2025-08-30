@@ -1,8 +1,12 @@
 ---
 title: Proposição
-tags: [epistemologia, semântica]
+tags:
+  - epistemologia
+  - semântica
 created: 2025-08-28
 updated: 2025-08-28
+aliases:
+  - proposições
 ---
 
 ## Ideia

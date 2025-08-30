@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-- Associado ao [[Princípio da Incerteza]]: certas grandezas conjugadas (posição/momento, tempo/energia) têm limites conjuntos de precisão.
+- Associado ao [[Princípio de Incerteza]]: certas grandezas conjugadas (posição/momento, tempo/energia) têm limites conjuntos de precisão.
 
 ## Ligações
 - Caso físico específico do [[Princípio da Vagueza]] quando interpretado como limites estruturais de discriminação.
