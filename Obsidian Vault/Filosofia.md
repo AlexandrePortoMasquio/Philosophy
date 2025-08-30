@@ -1,9 +1,9 @@
 
 TODO
 
-TODO o que é a Filosofia para Deleuze?
+TODO o que é a Filosofia para [[Deleuze]]?
 
-TODO [[Metafísica]] [[Dialética]]
+TODO [[Metafísica]] [[Dialética]] [[Filósofo]]
 
 ## Arcabouços
 * [[Descentralismo]]

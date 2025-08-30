@@ -6,6 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Ideia
+* Abstração é o grau de amplitude em que uma [[Forma]] pode ser implementada? Quanto mais abstração, mais [[Possibilidade]] de [[Implementação]]?
 - Operação de reduzir detalhes para captar [[Forma]] e invariantes relevantes; correlata a [[Compressão]] enquanto medida de regularidade.
 
 ## Ligações

@@ -4,207 +4,403 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5557eff0076ac3",
+        "id": "a63d77d909f1744f",
         "type": "tabs",
         "children": [
           {
-            "id": "6eaf2373f40045f2",
+            "id": "e7be403667b07087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espaço-Tempo.md",
+                "file": "Blockchain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espaço-Tempo"
+              "title": "Blockchain"
             }
           },
           {
-            "id": "6093d4db00a5b4d6",
+            "id": "2de0f5bd636c342a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poder.md",
+                "file": "Criptomoeda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poder"
+              "title": "Criptomoeda"
             }
           },
           {
-            "id": "9640eb440c151ff7",
+            "id": "3c23d86d6589e7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poder.md",
+                "file": "Moeda Forte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poder"
+              "title": "Moeda Forte"
             }
           },
           {
-            "id": "f546c8bb301275bb",
+            "id": "b6d9b5e33c3ca9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imanência.md",
+                "file": "Escola Austríaca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imanência"
+              "title": "Escola Austríaca"
             }
           },
           {
-            "id": "1326f657b9a306af",
+            "id": "0de41bf3a9e4d6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapa Rizomático.md",
+                "file": "Mises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa Rizomático"
+              "title": "Mises"
             }
           },
           {
-            "id": "fc4f550e5b68e0f2",
+            "id": "bc0765cd3ea8b613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rizoma.md",
+                "file": "Valor Marginal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rizoma"
+              "title": "Valor Marginal"
             }
           },
           {
-            "id": "110f28f62251c2b8",
+            "id": "3b2095880902713a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem.md",
+                "file": "Valor Subjetivo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linguagem"
+              "title": "Valor Subjetivo"
             }
           },
           {
-            "id": "98dc215ffc6454d1",
+            "id": "cc078b8a869bdcea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semântica.md",
+                "file": "Escola Austríaca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semântica"
+              "title": "Escola Austríaca"
             }
           },
           {
-            "id": "286b923c847d5501",
+            "id": "dc25284c9fcb6097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei da Não-Contradição.md",
+                "file": "Mercado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei da Não-Contradição"
+              "title": "Mercado"
             }
           },
           {
-            "id": "8415687c89dd6856",
+            "id": "5b77398af13e34c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verdade.md",
+                "file": "Capitalismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdade"
+              "title": "Capitalismo"
             }
           },
           {
-            "id": "7b0edb8cd809cd7e",
+            "id": "6b5fcd4493992a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhecimento.md",
+                "file": "Lucro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conhecimento"
+              "title": "Lucro"
             }
           },
           {
-            "id": "bb2fa26fd7126665",
+            "id": "1f8733bdbbf8c4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei da Identidade.md",
+                "file": "Valor Excedente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei da Identidade"
+              "title": "Valor Excedente"
             }
           },
           {
-            "id": "371f942f616667fd",
+            "id": "a32639209ce24515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pamprotopsiquismo.md",
+                "file": "Produção Excedente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pamprotopsiquismo"
+              "title": "Produção Excedente"
             }
           },
           {
-            "id": "1cf4b81dee43894d",
+            "id": "954d6b7f11032683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Substância.md",
+                "file": "Deleuze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Substância"
+              "title": "Deleuze"
             }
           },
           {
-            "id": "8fe987d094f07668",
+            "id": "8f7ad07ffb556638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ficção"
+            }
+          },
+          {
+            "id": "fca91217fe271313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficção Científica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ficção Científica"
+            }
+          },
+          {
+            "id": "f90c759265b5099d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyberpunk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cyberpunk"
+            }
+          },
+          {
+            "id": "edb87523b4c4a01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Racionalismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Racionalismo"
+            }
+          },
+          {
+            "id": "71e4a5c346718143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Razão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Razão"
+            }
+          },
+          {
+            "id": "580ea2c43663d210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escola Austríaca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escola Austríaca"
+            }
+          },
+          {
+            "id": "b41b787585aead46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propriedade Privada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Propriedade Privada"
+            }
+          },
+          {
+            "id": "272beb690eb2f47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinheiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dinheiro"
+            }
+          },
+          {
+            "id": "0dd38519b1ec182d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filosofia"
+            }
+          },
+          {
+            "id": "6fa174e8a085c9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pintura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pintura"
+            }
+          },
+          {
+            "id": "ab2a9473032bafb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pré-Rafaelita.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pré-Rafaelita"
+            }
+          },
+          {
+            "id": "203c5a5b30421add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Romantismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Romantismo"
+            }
+          },
+          {
+            "id": "91b41ab18f6aee64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existencialismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Existencialismo"
+            }
+          },
+          {
+            "id": "b8b7e806e3d7bf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Niilismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Niilismo"
+            }
+          },
+          {
+            "id": "e43017915696c9af",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -214,35 +410,35 @@
             }
           },
           {
-            "id": "d1c1194042e7b79f",
+            "id": "eef956468af31222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemologia.md",
+                "file": "Derrida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epistemologia"
+              "title": "Derrida"
             }
           },
           {
-            "id": "7480814aa9568871",
+            "id": "40b3411631df2385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolução e Ordem.md",
+                "file": "Economia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolução e Ordem"
+              "title": "Economia"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -274,7 +470,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tecnocapitalismo",
+                "query": "pré",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -388,53 +584,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "8fe987d094f07668",
+  "active": "e43017915696c9af",
   "lastOpenFiles": [
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/ui/components/StarsKt.dex",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/ui/components",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/bimm/takehomeassignmnent/ui",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/compileDebugJavaWithJavac/compileTransaction/backup-dir",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/compileDebugJavaWithJavac/compileTransaction",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/java_res/debug/processDebugJavaRes/out/com/bimm/takehomeassignmnent/ui/components",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/java_res/debug/processDebugJavaRes/out/com/bimm/takehomeassignmnent/ui",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len",
-    "Poder.md",
-    "Monismo.md",
-    "Substância.md",
-    "Pamprotopsiquismo.md",
-    "identidade.md",
-    "Lei da Identidade.md",
-    "Justificação.md",
-    "Conhecimento.md",
-    "Verdade.md",
-    "Lei da Não-Contradição.md",
+    "Nietzsche.md",
+    "Niilismo.md",
+    "Existencialismo.md",
+    "Romantismo.md",
+    "Pré-Rafaelita.md",
+    "Pintura.md",
+    "Projetos/bimm-kmp-challenge-base/shared/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/app/shared/db/shared/CatalogDatabaseImpl$Schema$migrate-zeHU3Mk$$inlined$sortedBy$1.class",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i.len",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab",
+    "Projetos/bimm-kmp-challenge-base/shared/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len",
+    "Dinheiro.md",
+    "Cyberpunk.md",
+    "Filósofo.md",
+    "Filosofia.md",
+    "Reducionismo.md",
+    "Moeda.md",
+    "Propriedade Privada.md",
+    "Escola Austríaca.md",
+    "A Priori.md",
     "Lógica.md",
-    "Semântica.md",
-    "Linguagem.md",
-    "Proposições.md",
-    "Mapa.md",
-    "Rizoma.md",
-    "Mapa Rizomático.md",
-    "Virtualidade.md",
-    "Imanência.md",
-    "Transcendência.md",
-    "Tecnocapitalismo.md",
-    "Capitalismo.md",
-    "Evolução e Ordem.md",
-    "Epistemologia.md",
-    "Racionalismo Naturalista.md",
+    "Razão.md",
+    "Racionalismo.md",
+    "substâncias.md",
+    "Blade Runner.md",
+    "Ficção Científica.md",
+    "Ficção.md",
+    "Desconstrução.md",
+    "Deleuze.md",
+    "Derrida.md",
+    "Fundamento.md",
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/drawable-nodpi-v4/sake_splash.png",
+    "Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/drawable-nodpi/sake_splash.png",
+    "Projetos/bimm-kmp-challenge-base/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/bottle-1024.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher_round.png",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.png",
-    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png"
+    "Projetos/bimm-kmp-challenge-base/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.png"
   ]
 }

@@ -10,6 +10,7 @@ updated: 2025-08-28
 - Estudo sistemático da informação processável: representações, transformações (algoritmos), limites (computabilidade/complexidade) e meios de execução (linguagens, compiladores, SO, redes, BD).
 - Media filosofia e prática: conceitos como [[Informação]] e [[Computação]] orientam critérios; a implementação em software concretiza e valida hipóteses.
 - Progride por ciclos de teoria ↔ prática: modelos explicam e limitam; engenharia testa e refina sob restrições reais (tempo, espaço, confiabilidade, custo).
+- TODO A ciência da computação é uma [[Ciência]]?
 
 ## Escopo (módulos)
 - Transformação: [[Algoritmos/Algoritmos|Algoritmos]] e [[Estruturas de Dados/Estruturas de Dados|Estruturas de Dados]].

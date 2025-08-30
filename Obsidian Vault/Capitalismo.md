@@ -1,3 +1,3 @@
 TODO
 
-TODO [[Capitalismo Mercantil]] [[Tecnocapitalismo]]
+TODO [[Capitalismo Mercantil]] [[Tecnocapitalismo]], [[Lucro]]

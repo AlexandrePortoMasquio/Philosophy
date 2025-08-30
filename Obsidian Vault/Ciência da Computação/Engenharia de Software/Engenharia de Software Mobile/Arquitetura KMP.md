@@ -24,7 +24,7 @@ updated: 2025-08-29
 - Recomendações no KMP:
   - Pequeno/Desafio: manter `Domain` e `Data` como pacotes dentro do módulo `:shared` (menos overhead).
   - Médio/Grande: separar em `:shared:core:domain` e `:shared:core:data` para reforçar dependências e reduzir acoplamento.
-- Camadas principais: [[Domain]] (entidades, casos de uso, contratos) e [[Data]] (repositórios, fontes local/remota, mapeadores).
+- Camadas principais: [[Domain]] (entidades, casos de uso, contratos) e [[../../../Data Layer]] (repositórios, fontes local/remota, mapeadores).
 
 ## Ideia
 - Separar lógica de domínio/dados em módulos KMP compartilhados, mantendo UI nativa por plataforma.

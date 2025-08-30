@@ -25,5 +25,5 @@ updated: 2025-08-28
 - Evoluir com experimentos controlados (feature flags, canary) e revisões arquiteturais periódicas.
 
 ## Ligações
-- [[Padrões de Projeto]] (aplicação local), [[Processos]] (governança), [[Ferramentas]] (observabilidade, automação).
+- [[Modularidade]] , [[Padrões de Projeto]] (aplicação local), [[Processos]] (governança), [[Ferramentas]] (observabilidade, automação).
 - [[Engenharia de Software Mobile/Engenharia de Software Mobile|Mobile]] (camadas, limites, sincronização offline), [[Banco de Dados]] (modelagem), [[Sistemas Distribuídos]] (consistência/replicação).

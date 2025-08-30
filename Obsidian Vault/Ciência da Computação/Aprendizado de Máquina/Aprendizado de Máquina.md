@@ -5,20 +5,15 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Mapa Rápido
-- [[Granularidade]] · [[Invariantes]] · [[Entropia Informacional]], [[Inteligência Artificial]]
-- ↓ [[../../Engenharia de Software/Performance (Software)|Performance (Software)]] · [[Engenharia de Software/Processos|Processos]]
-
 ## Ideia
 - Construção de funções a partir de dados por otimização; generalização além do conjunto de treinamento.
 
 ## Relações
-- [[Granularidade]]: escolha de features/representações; [[Invariantes]]: o que o modelo deve preservar.
-- [[Entropia Informacional]]: regularização e incerteza; trade‑offs viés‑variância.
+* TODO: O Aprendizado de Máquina é uma subcategoria da [[Inteligência Artificial]]?
+- TODO: tipos de aprendizado de máquina
 
 ## Tópicos
 - Supervisionado (regressão, classificação), Não supervisionado (clustering, redução de dimensionalidade), Reforço.
 
 ## Ligações
-- Acima: [[Informação]], [[Granularidade]].
 - Abaixo: [[../../Engenharia de Software/Performance (Software)|Performance (Software)]] (serving), [[Engenharia de Software/Processos|Processos]] (MLOps).

@@ -12,6 +12,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Baseia-se no [[Apeiron]] (indeterminação fértil)
+- Do Apeiron, [[Emergência|emergem]] [[Fluxo de Diferenciação|fluxos de diferenciação]], que são [[Continuidade|contínuos]], [[Infinitude|não-finitos]] e [[Relação|não-relacionais]].
 - Relaciona-se ao [[Mundo das Formas]]; [[Forma]] emergem da [[Diferença]].
 - [[Informação]] (diferenças estruturadas).
 - Estrutura-se como variações contínuas; [[Continuidade]] guia trajetórias de atualização até [[Atratores]] e [[Invariantes]].

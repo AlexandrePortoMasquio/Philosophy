@@ -19,4 +19,4 @@ updated: 2025-08-29
 - Converter datas/formatos (ex.: string → `Instant`) nos mappers, não na UI.
 
 ## Ligações
-- [[Data]] · [[Ktor]] · [[SQLDelight]] · [[KMP]]
+- [[Data Layer]] · [[Ktor]] · [[SQLDelight]] · [[KMP]]

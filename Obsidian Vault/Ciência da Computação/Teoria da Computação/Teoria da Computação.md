@@ -9,7 +9,7 @@ updated: 2025-08-28
 ## Ideia
 - Estuda limites do computável e a classificação de problemas por recursos (tempo, espaço).
 - Modelos: autômatos e linguagens formais, máquinas de [[Turing]], λ‑cálculo.
-- O que é i
+- O que é um [[Programa]]?
 
 ## Relações
 - [[Digitalização]]: modelos abstratos com poder explicativo para sistemas concretos.

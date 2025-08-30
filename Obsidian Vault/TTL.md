@@ -18,4 +18,4 @@ updated: 2025-08-29
 - Expor estado para UI sem bloquear: mostrar dados existentes e sinalizar refresh.
 
 ## Ligações
-- [[KMP]] · [[SQLDelight]] · [[Data]]
+- [[KMP]] · [[SQLDelight]] · [[Data Layer]]
