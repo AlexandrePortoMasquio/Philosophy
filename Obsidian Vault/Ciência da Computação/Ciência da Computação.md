@@ -29,7 +29,7 @@ updated: 2025-08-28
 - Limites teóricos ancoram escolhas práticas: [[Lei da Variedade Requisitada]] (controle), [[Entropia Informacional]] (incerteza) e [[Controle]].
 
 ## Ligações
-- Conceituais: [[Informação]], [[Computação]], [[Entropia Informacional]], [[Controle]].
+- Conceituais: [[Informação]], [[Computação]], [[Entropia Informacional]], [[Controle]], [[Software]]
 - Para prática: [[Engenharia de Software/Engenharia de Software|Engenharia de Software]], [[Engenharia de Software/Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]].
 
 ## Navegação por Tópicos
