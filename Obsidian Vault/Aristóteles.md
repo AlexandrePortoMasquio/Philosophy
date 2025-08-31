@@ -9,4 +9,4 @@ updated: 2025-08-28
 - Potência/ato e teleologia clássica (causas finais); contraste útil com [[Virtualidade]] (diferença real) e [[Teleologia Naturalista]] (funções selecionadas).
 
 ## Ligações
-- Conecta [[Virtualidade]], [[Teleologia Naturalista]], [[Função Natural]].
+- Conecta [[Virtualidade]], [[Teleologia Naturalista]], [[Função Natural]], [[Dualismo Hilemórfico]]

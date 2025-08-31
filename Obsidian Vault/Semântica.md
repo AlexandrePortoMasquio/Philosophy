@@ -9,7 +9,7 @@
 - [[Realismo Semântico]]
 
 ## Realismo Semântico
-* Proposições não são [[Sentenças]] [[Linguagem|linguísticas]], mas sim [[Objeto Abstrato|objetos abstratos]].
+* Proposições não são [[Sentença]] [[Linguagem|linguísticas]], mas sim [[Objeto Abstrato|objetos abstratos]].
 - Ver [[Realismo Semântico]]: Proposições têm valores de verdade objetivos, independentemente de nossa capacidade de saber/verificar; favorece [[Bivalência Global]] e o uso clássico de conectivos.
 
 ### Argumentos contra
@@ -19,3 +19,8 @@
 
 ## Ligações
 - [[Verdade]] · [[Bivalência Global]] · [[Vagueza]] · [[Sorites]] · [[Lógica]] · [[Linguagem]] · [[Epistemologia]] · [[Realismo Semântico]]
+
+## Deleuze
+- Sentido como [[Acontecimento]] (ver [[Lógica do Sentido]]): evento incorpóreo produzido por relações diferenciais/[[Quase-Causa]], distinto de designação/manifestação/significação.
+- Produção antes de representação: prioridade dos problemas/diferenciais (ver [[Diferença e Repetição]]); séries de sentido e papel do “nonsense”.
+- Expressão (espinosista): modos expressam substância; foco em relações de [[Expressão]]/produção, não mera correspondência.

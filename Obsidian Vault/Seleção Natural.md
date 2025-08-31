@@ -13,3 +13,4 @@ updated: 2025-08-28
 ## Ligações
 - Conecta [[Informação]] (herança, codificação), [[Atratores]] (estabilidades) e [[Invariantes]] (traços funcionais).
 - Relaciona-se a [[Descentralismo]] (sem controlador central) e [[Critérios Naturais]].
+- TODO [[Evolução]]

@@ -1,2 +1,4 @@
-# Computabilidade
+## Conceito
 
+## Relações
+* TODO relacionar [[Computação]]

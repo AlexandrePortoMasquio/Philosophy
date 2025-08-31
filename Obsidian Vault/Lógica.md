@@ -13,3 +13,9 @@ updated: 2025-08-29
 
 ## Notas
 - A noção de diferença/contraste fundamenta negação e identidade (P vs ¬P), sustentando leis como [[Bivalência Global]]/LEM em lógicas clássicas; variações controlam quando e como a diferença colapsa (vagueza, inconsistência tolerada).
+
+## Deleuze
+- Primazia da [[Diferença]]: identidade, [[Lei da Não-Contradição]] e [[Lei do Terceiro Excluído]] emergem como efeitos locais de estabilização.
+- [[Disjunção Inclusiva]] e sínteses produtivas substituem negações dialéticas como motor lógico privilegiado.
+- Singularidades e topologia: cortes e “leis” derivam de [[Singularidades e Catástrofes]] que organizam o devir; foco em [[Invariantes]] e [[Atratores]].
+- Paradoxo como estrutura: acomodar paradoxos (Carroll, estoicos) e [[Vagueza]] via modelos contextuais/não‑clássicos, em vez de eliminá‑los.

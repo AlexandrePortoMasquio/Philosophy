@@ -34,6 +34,23 @@ updated: 2025-08-31
 - Imagem (Android): Kamel (Compose Multiplatform) para carregamento de imagens.
 - Build: Gradle (KTS), targets Android/iOS; projetos `shared`, `composeApp`, `iosApp`.
 - Testes (planejados): unit tests no domínio e mapeadores; fakes para datasources.
+- DI: sem Koin/Hilt no shared; uso de fábricas/constructors. Koin pode ser adicionado depois para apps/plataformas.
+
+## Injeção de Dependência
+- Abordagem: DI por construtor/fábricas no shared (sem container). O módulo shared expõe `Providers` (fábricas) para criar `HttpClient`, `CatalogDatabase`, data sources e `CatalogRepository`. As apps (Android/iOS) recebem funções puras — sem acoplamento a frameworks.
+- Por que não [[Koin]]/Hilt no desafio:
+  - Tempo/complexidade: take‑home curto; evitar custo de configuração/gradle/plugins e sobrecarga de inicialização.
+  - KMP e fronteiras: containers DI em KMP funcionam, mas podem complicar interop com iOS (ciclo de vida/escopos). Fábricas simples tornam o bridging para [[SwiftUI]] trivial (via Facade).
+  - Testabilidade: construtores aceitam interfaces (ports), facilitando injeção de fakes sem precisar de container.
+- Trade‑offs:
+  - Prós: builds mais rápidos, wiring explícito/legível, menos dependências.
+  - Contras: mais código de “cola” nas apps, menos suporte a escopos dinâmicos.
+- Quando adicionar Koin:
+  - Crescimento de features/módulos e necessidade de escopos (feature scope, viewModel scope), especialmente no Android. Recomenda‑se manter o shared neutro e aplicar Koin nas camadas de app.
+- Exemplo (fábrica):
+  - `createCatalogRepository(driver, baseUrl): CatalogRepository`
+  - `createHttpClient(): HttpClient`
+  - Apps chamam as fábricas no início e repassam instâncias ao ViewModel/facade.
 
 ## Organização do desenvolvimento
 - Slices verticais: implementar lista → detalhes ponta‑a‑ponta (domínio, dados, UI) para validar arquitetura cedo.

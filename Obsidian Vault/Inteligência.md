@@ -4,10 +4,10 @@ tags: [mente, cognição]
 updated: 2025-08-29
 ---
 
-## Ideia
+## Conceito
 - Inteligência é a capacidade de [[Adaptação]] contínua da [[Informação]] por [[Seleção Natural]], ao invés da adaptação apenas ao longo de gerações.
 
-## Origem biológica
+## Origem
 - Emerge da [[Adaptação]] por [[Seleção Natural]]: pressões ecológicas favorecem arquiteturas que exploram regularidades (compressão) e guiam ação eficaz (controle). Informação + energia + corpo = agência situada.
 
 ## Relações

@@ -1,1 +1,1 @@
-TODO [[Tecnocapitalismo]], [[Ciberespaço]]
+TODO [[Tecnocapitalismo]], [[Ciberespaço]], [[Inteligência]]

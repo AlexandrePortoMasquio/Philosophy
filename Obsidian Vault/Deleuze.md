@@ -29,3 +29,10 @@ updated: 2025-08-28
 - Regra: tratar a tolerância como local e buscar razões dinâmicas (singularidades/limiares) para cortes quando aparecem (ver [[Sorites]]).
 - Modelagem: usar [[Supervaloração]]/[[Contextualismo]] para assertibilidade; usar molduras intensivo‑singulares ([[Virtualidade]], [[Singularidades e Catástrofes]]) para fundamentar nitidez quando houver.
 - Critério: “bons cortes” alinham‑se a singularidades do sistema, não só a convenções; na ausência de singularidades, esperar maior penumbra (tensão com [[Lei da Não-Contradição]] e [[Bivalência Global]] na [[Lógica]] clássica).
+
+## Semântica e Lógica
+- Sentido como [[Acontecimento]]: em [[Lógica do Sentido]], o sentido é um evento incorpóreo na superfície das séries, distinto de designação/manifestação/significação; produzido por relações diferenciais e [[Quase-Causa]], não propriedade intrínseca da proposição.
+- Produção > representação: prioridade dos problemas e diferenciais sobre identidades; ver [[Diferença e Repetição]] e as séries de [[Lógica do Sentido]].
+- Multiplicidades de sentido e paradoxo: o “nonsense” opera estruturalmente (mentiroso etc.); a lógica deve acomodar paradoxos (modelos não‑clássicos/contextuais), em diálogo com [[Vagueza]] e [[Sorites]].
+- Primazia da [[Diferença]]: identidade/negação/terceiro‑excluído são efeitos locais; a base lógica é diferencial/topológica (singularidades, atratores, invariantes).
+- [[Disjunção Inclusiva]] e sínteses: privilegia disjunções inclusivas e sínteses produtivas, em contraste com negação dialética como motor único.
