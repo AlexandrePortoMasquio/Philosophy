@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "cssTheme": "Terminal"
 }
