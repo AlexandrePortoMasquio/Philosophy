@@ -1,0 +1,1 @@
+[[Empresa]] que cresceu e aculumou [[Capital]] suficiente para obter poder [[Política|político]] e influenciar o [[Estado]].

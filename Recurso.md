@@ -1,0 +1,1 @@
+Todo o que é? [[Energia]] [[Utilidade]] [[]]

@@ -1,4 +1,4 @@
 
 TODO
 
-TODO relacionar [[Corporativismo]]
+TODO relacionar [[Curtis Yarvin]] [[Corporativismo]]

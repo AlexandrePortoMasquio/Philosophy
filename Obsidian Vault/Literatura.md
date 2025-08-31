@@ -1,3 +1,3 @@
 TODO
 
-TODO relacionar [[Arte]]
+TODO relacionar [[Arte]], [[Linguagem]]
