@@ -55,54 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola Austríaca.md",
+                "file": "Abstração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escola Austríaca"
-            }
-          },
-          {
-            "id": "0de41bf3a9e4d6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mises.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mises"
-            }
-          },
-          {
-            "id": "bc0765cd3ea8b613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Valor Marginal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Valor Marginal"
-            }
-          },
-          {
-            "id": "3b2095880902713a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Valor Subjetivo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Valor Subjetivo"
+              "title": "Abstração"
             }
           },
           {
@@ -610,62 +568,6 @@
             }
           },
           {
-            "id": "a1e28d08bd71fbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neocameralismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neocameralismo"
-            }
-          },
-          {
-            "id": "ef72a84237be5cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mercado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mercado"
-            }
-          },
-          {
-            "id": "1d83de53586f6123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura KMP"
-            }
-          },
-          {
-            "id": "7c0df54052a858d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluxo de Diferenciação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluxo de Diferenciação"
-            }
-          },
-          {
             "id": "3ee1eff1baa00fd5",
             "type": "leaf",
             "state": {
@@ -764,7 +666,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -817,8 +719,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -907,12 +808,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ee1eff1baa00fd5",
+  "active": "b6d9b5e33c3ca9d5",
   "lastOpenFiles": [
-    "Ciência da Computação/Inteligência Artificial/Inteligência Artificial.md",
-    "Singularidade Tecnológica.md",
-    "Singularidade.md",
+    "Aceleracionismo.md",
+    "Escola Austríaca.md",
+    "Mises.md",
+    "Valor Subjetivo.md",
+    "Valor Marginal.md",
+    "Curtis Yarvin.md",
+    "Neocameralismo.md",
+    "Mercado.md",
+    "Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Arquitetura KMP.md",
     "Fluxo de Diferenciação.md",
+    "Singularidade Tecnológica.md",
+    "Ciência da Computação/Inteligência Artificial/Inteligência Artificial.md",
+    "Singularidade.md",
     "Virtualidade.md",
     "identidade.md",
     "Diferença.md",
@@ -926,16 +836,7 @@
     "Sistema Operacional.md",
     "Red Hat Enterprise Linux.md",
     "NixOS.md",
-    "Gentoo.md",
-    "Fedora.md",
-    "Fantasia/Rascunhos Fantasia/Orvaluna.md",
-    "Fantasia/Tolkien.md",
-    "Fantasia/Terra Média.md",
     "Fantasia/Rascunhos Fantasia",
-    "Fantasia/Mundos Fantásticos.md",
-    "Fantasia/Mundo Fantástico.md",
-    "Fantasia/Dungeons and Dragons.md",
-    "Fantasia/Dragonlance.md",
     "Fantasia",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/META-INF/composeApp_debug.kotlin_module",
     "Projetos/bimm-kmp-challenge-base/composeApp/build/tmp/kotlin-classes/debug/com/bimm/takehomeassignmnent/feature/details/DetailScreenKt$DetailScreen$1$1.class",
