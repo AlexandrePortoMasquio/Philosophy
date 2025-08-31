@@ -1,3 +1,7 @@
-TODO
+# RPG
 
-TODO elaborar relacionar [[Mundo Fantástico]], [[Personagem (Ficção)]]
+Nota: rascunho em elaboração.
+
+## Ligações
+- [[Mundo Fantástico]] · [[Personagem (Ficção)]]
+- [[Personagens (RPG)]]

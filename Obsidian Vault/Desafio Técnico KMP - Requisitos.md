@@ -47,3 +47,7 @@ Note: UIKit submissions will not be accepted.
 
 #### Submission
 Your app should be able to run in simulators. Please zip the project folder (run ./gradlew clean before zipping) and be sure to include in your README how to set up dependencies if your solution requires it. It would be great if you could also include an APK file if it's an Android app.
+
+---
+
+Ver também: [[Explicação do Desafio KMP]]

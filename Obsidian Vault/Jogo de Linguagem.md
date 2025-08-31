@@ -1,1 +1,1 @@
-TODO relacionar [[Filosofia da Linguagem]]
+TODO relacionar [[Filosofia da Linguagem]], [[Wittgenstein]], [[Pragmática]], [[Pragmatismo]]
