@@ -10,6 +10,11 @@ updated: 2025-08-28
 - Virtual como campo de diferenciação real (não atual), base de produção do novo.
 - A virtualidade é um [[campo]] de diferenciações puras reais, sem [[identidade]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
 
+## Composição: Fluxos de Diferenciação
+- A virtualidade se compõe de relações diferenciais e de fluxos de diferenciação que as percorrem. Esses fluxos são dinâmicas intensivas (gradientes, tensões) que exploram o espaço de possibilidades real.
+- Ao atravessar singularidades (limiares), os fluxos produzem resoluções morfogenéticas: séries que se atualizam em [[Forma]] sob condições materiais e de [[Informação]].
+- O virtual não é “possível” abstrato: é real e operativo; os fluxos de diferenciação explicam como o virtual engendra o atual sem recorrer a identidades prévias (primazia da [[Diferença]] sobre o idêntico).
+
 ## Ligações
 - Baseia-se no [[Apeiron]] (indeterminação fértil)
 - Do Apeiron, [[Emergência|emergem]] [[Fluxo de Diferenciação|fluxos de diferenciação]], que são [[Continuidade|contínuos]], [[Infinitude|não-finitos]] e [[Relação|não-relacionais]].

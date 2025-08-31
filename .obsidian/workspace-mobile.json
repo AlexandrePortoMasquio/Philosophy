@@ -11,10 +11,14 @@
             "id": "2d6cb98460830747",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Semelhança.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semelhança"
             }
           }
         ]
@@ -149,6 +153,19 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Diferença.md",
+    "Semelhança.md",
+    "Obsidian Vault/Virtualidade.md",
+    "Obsidian Vault/Ontologia da Diferença.md",
+    "Obsidian Vault/Ciência da Computação/Teoria da Computação/Teoria da Computação.md",
+    "Obsidian Vault/Mapa.md",
+    "Indeterminado.md",
+    "Obsidian Vault/Apeiron.md",
+    "Obsidian Vault/Diferenciação.md",
+    "Obsidian Vault/Informação.md",
+    "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
+    "Obsidian Vault/Maya.md",
+    "Obsidian Vault/Brahman.md",
     "Obsidian Vault/openSUSE.md",
     "Obsidian Vault/Ciência da Computação/Processamento de Linguagem Natural/Tokenização.md",
     "Obsidian Vault/CentOS Stream.md",
@@ -162,21 +179,8 @@
     "Obsidian Vault/Debian.md",
     "Obsidian Vault/Distro (Linux).md",
     "Obsidian Vault/Linux.md",
-    "Obsidian Vault/Sistema Operacional.md",
-    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
-    "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
-    "Obsidian Vault/Orvaluna.md",
-    "Obsidian Vault/Software.md",
-    "Obsidian Vault/Fantasia/Rascunhos Fantasia/Orvaluna.md",
     "Obsidian Vault/Fantasia/Rascunhos Fantasia",
-    "Obsidian Vault/Fantasia/Mundos Fantásticos.md",
-    "Obsidian Vault/Fantasia/Tolkien.md",
-    "Obsidian Vault/Fantasia/Terra Média.md",
-    "Obsidian Vault/Fantasia/Dungeons and Dragons.md",
-    "Obsidian Vault/Fantasia/Dragonlance.md",
-    "Obsidian Vault/Fantasia/Mundo Fantástico.md",
     "Obsidian Vault/Fantasia",
-    "Mundos Fantásticos.md",
     "node_modules/codex/test/fixture/template/assets/js/main.js",
     "node_modules/codex/test/fixture/template/stylus/main.styl",
     "node_modules/codex/test/fixture/template/assets/js",

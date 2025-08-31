@@ -12,7 +12,7 @@ updated: 2025-08-28
 - Problema difícil paralelo a [[Qualia]]; pressiona [[Fisicalismo]].
 - Relaciona-se a [[Informação]] (referência como mapeamento) e [[Transmissão de Informação]].
 - Teleosemântica: ver [[Teleosemântica]] para função/seleção como base do “sobre”.
-- TODO relacionar [[Semântica]]
+ - [[Semântica]]: condições de verdade e composição do conteúdo; ver também naturalização via [[Teleosemântica]].
 
 ## Diferenças
 * Intencionalidade é o mesmo que [[Denotação]]?
