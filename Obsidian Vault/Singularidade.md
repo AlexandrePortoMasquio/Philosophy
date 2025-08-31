@@ -9,4 +9,4 @@
 - Tecnológica: conecta [[Inteligência Artificial]], [[Transhumanismo]], visão de aceleração (p.ex., [[John Smart]]), e dinâmica de [[Tecnocapitalismo]].
 
 ## Ligações
-- Ver também: [[Singularidades e Catástrofes]], [[Inteligência Artificial]], [[Transhumanismo]], [[John Smart]], [[Aceleracionismo]], [[Tecnocapitalismo]], [[Informação]].
+- Ver também: [[Singularidades e Catástrofes]], [[Singularidade Tecnológica]] 

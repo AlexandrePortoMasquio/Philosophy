@@ -1,0 +1,1 @@
+TODO [[Inteligência Artificial]], [[Transhumanismo]], [[John Smart]], [[Aceleracionismo]], [[Tecnocapitalismo]], [[Informação]].

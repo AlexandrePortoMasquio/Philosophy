@@ -4,7 +4,8 @@ tags: [thom, catástrofes]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+## Principais Teses
+* TODO
 ## Ideia
 - Teoria das Catástrofes: classificação de descontinuidades estruturais em sistemas contínuos; explica morfogênese via [[Singularidades e Catástrofes]].
 
