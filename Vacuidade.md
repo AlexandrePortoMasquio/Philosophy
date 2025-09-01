@@ -6,10 +6,17 @@ updated: 2025-09-01
 ---
 
 ## Ideia
-- Vacuidade (śūnyatā): ausência de natureza intrínseca (svabhāva); coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas. Não é niilismo: reconhece funcionamentos e regularidades sem reificação. TODO oferecer argumentos para cada uma dessas afirmações.
+- Vacuidade (śūnyatā): ausência de natureza intrínseca (svabhāva); coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas. Não é niilismo: reconhece funcionamentos e regularidades sem reificação.
 
 ## Argumentos a Favor
-TODO
+- Dependência causal (originação dependente): tudo que surge, surge em dependência de condições; se algo tivesse essência própria (svabhāva), não dependeria de causas nem mudaria. Como muda e depende, não possui essência independente.
+- Composição e impermanência: entidades são compostas por partes e processos. Uma essência imutável contradiz a variação observável; identidade depende de partes e relações, logo não é intrínseca.
+- Relacionalidade de propriedades: “duro”, “quente”, “funcional” etc. são propriedades que emergem em relação a contextos/medidas. Propriedades relacionais minam a hipótese de natureza própria isolada.
+- Imputação conceitual: individuações e categorias dependem de convenções e fins práticos; sem a nomeação e o recorte conceitual, não há “coisa” auto‑subsistente. Isso sustenta vacuidade sem negar utilidade.
+- Eficácia sem essência: negar essência não nega causalidade. Pelo contrário: funcionamento decorre de condições suficientes/necessárias; ciência e técnica prosperam por modelar dependências, não “essências”.
+- Duas verdades: nível convencional (operacional, linguístico, científico) vs nível último (ausência de essência). A coerência entre níveis evita tanto o eternalismo quanto o niilismo.
+- Evitar extremos (catuṣkoṭi): rejeita “existe por si”, “não existe”, “ambos”, “nenhum”; adota via média onde existência é dependente e vazia de natureza própria.
+- Analogia informacional: cortes e modelos são compressões úteis de [[Informação]] sobre um contínuo de condições ([[Continuidade]]/[[Diferença]]); utilidade prática não implica essência metafísica.
 
 ## Relação com Vagueza
 - Afinidade: ambas evitam fronteiras rígidas e essências; ressaltam dependência de contexto/condições e criticam reificações.
