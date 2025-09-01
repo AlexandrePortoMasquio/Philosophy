@@ -126,6 +126,7 @@ updated: 2025-08-31
 - Acessibilidade/UX: melhorias em navegação, foco e tamanhos (Material/iOS Human Interface).
 
 ## Perguntas possíveis (e respostas)
+* [[Perguntas Desafio KMP]]
 - Por que KMP aqui? Para compartilhar domínio/dados e acelerar entrega multi‑plataforma mantendo UI nativa.
 - Como lida com erros? `DomainError` mapeia Network/Timeout/NotFound/Unknown; UI exibe estados claros e ações (tentar de novo/abrir offline).
 - E se mudar a API? Adapta‑se o adapter remoto/mappers; contratos do domínio permanecem.

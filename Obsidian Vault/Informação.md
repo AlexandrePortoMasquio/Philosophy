@@ -20,7 +20,8 @@ updated: 2025-08-28
 - Informação como coarse‑graining: também pode ser vista como o recorte operacional de fluxos contínuos de diferenciação (variáveis/macrostados úteis para transmissão/controle).
 
 ## Ligações
-- Base para [[Descentralismo]], [[Virtualidade]], [[Cosmologia Informacional]].
+* Emerge da [[Virtualidade]].
+- Base para [[Descentralismo]], [[Cosmologia Informacional]].
 - Suporta [[Diferença]] e [[Forma]] como padrões diferenciais codificados.
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
 - Equivalência operacional: informação ≈ [[Forma]] quando há [[Transmissão de Informação]].

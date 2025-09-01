@@ -9,4 +9,4 @@ updated: 2025-08-28
 - Associado ao [[Princípio de Incerteza]]: certas grandezas conjugadas (posição/momento, tempo/energia) têm limites conjuntos de precisão.
 
 ## Ligações
-- Caso físico específico do [[Princípio da Vagueza]] quando interpretado como limites estruturais de discriminação.
+- Caso físico específico do [[Princípio de Vagueza]] quando interpretado como limites estruturais de discriminação.
