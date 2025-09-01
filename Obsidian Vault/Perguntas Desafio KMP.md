@@ -13,6 +13,19 @@ updated: 2025-08-31
   - Resposta: Para separar contratos (domínio) de implementações (data/UI), maximizando testabilidade e troca de fontes (mock↔real) sem tocar na UI. MVVM se encaixa bem em Compose/SwiftUI. Considerei MVI/Redux (maior boilerplate e tempo) e “anêmico” direto na UI (acoplamento e baixa testabilidade); descartei pelo timebox do desafio.
 - Limites de módulo: o que fica no shared (KMP) e o que fica nas apps? Como você decide essa fronteira?
   - Resposta: Shared contém domínio, datasources e repositório (KMP puro). Apps mantêm UI, drivers de plataforma (AndroidSqliteDriver, Info.plist), DI de app e integrações. Critério: evita qualquer API de plataforma no shared; contratos estáveis e multiplataforma ficam no shared.
+- O que é um driver? Por que usamos? Por que é separado por plataforma? Quais são as classes e o que cada uma faz?
+  - Resposta: Em KMP, “driver” é o adaptador que conecta o código compartilhado a uma implementação concreta de um recurso de plataforma (ex.: banco de dados SQLite ou stack de rede). Usamos drivers porque o módulo shared não pode chamar APIs específicas de Android/iOS diretamente; o driver fornece a ponte “expect/actual”. É separado por plataforma porque cada SO expõe APIs e ciclos de vida diferentes.
+    - SQLDelight (`SqlDriver`):
+      - `AndroidSqliteDriver`: usa a API SQLite do Android (via `SQLiteOpenHelper`) para persistência no sandbox do app.
+      - `NativeSqliteDriver`: usa `sqlite3` nativo no Kotlin/Native (iOS/macOS); arquivo em caminho fornecido pela app; também suporta in‑memory.
+      - `JdbcSqliteDriver`: JVM/desktop; útil para ferramentas e testes locais.
+      - `SqlJsDriver`: JavaScript (browser/WebAssembly) baseado em sql.js; armazenamento em memória/IndexedDB quando configurado.
+    - Ktor HTTP (engines):
+      - `OkHttp`: Android/JVM, madura e com stack de rede do OkHttp/Okio.
+      - `CIO`: JVM puro, leve (coroutines I/O) quando OkHttp não é necessário.
+      - `Darwin`: iOS/macOS, usa NSURLSession nativo, integra com política de rede do iOS.
+      - `Js`: Browser (Fetch API) e Node (fetch/undici), respeitando limitações do ambiente.
+    - Padrão de uso no projeto: o módulo shared depende apenas de interfaces (`SqlDriver`, `HttpClient` já configurado). As apps instanciam o driver/engine adequado e injetam no shared via DI/fábricas, mantendo testabilidade (substituir por in‑memory/mocks em testes).
 - Domínio: qual o papel de `AppResult` e `DomainError`? Por que preferir tipos a exceções?
   - Resposta: Modelam estados previsíveis (Success/Empty/Error) e erros tipados (Network/Timeout/NotFound/Unknown), evitando exceções cruzando interop. Tipos dão mapeamento determinístico para UI e facilitam testes.
 - Fluxo de dados: descreva o caminho UI → Use Case → Repository → Local/Remote. Onde cada decisão acontece?
