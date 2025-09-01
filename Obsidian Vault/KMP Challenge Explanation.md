@@ -36,6 +36,39 @@ updated: 2025-08-31
 - Tests (planned): unit tests in domain and mappers; fakes for data sources.
 - DI: no Koin/Hilt in shared; factories/constructors instead. Koin can be added later at the app layer.
 
+## Project Structure (short)
+- `shared/` (KMP):
+  - `domain/`: entities, `AppResult`, `DomainError`, repo contracts, use cases.
+  - `data/`: `Remote` (Ktor) and `Local` (SQLDelight) datasources, `CatalogRepositoryImpl`, mappers.
+  - `di/`: `Providers` (factories), `IosDI` (iOS helpers).
+  - `facade/`: `CatalogFacade` (Swift‑friendly API).
+  - `src/commonMain/sqldelight/`: SQLDelight schema and queries.
+- `composeApp/` (Android): Compose UI, ViewModels, Android DI (SQLite driver).
+- `iosApp/` (iOS): SwiftUI UI, Swift ViewModels, KMP Facade integration.
+
+## UI States (mapping)
+- `AppResult.Success(content)` → UI `Content` (list/detail).
+- `AppResult.Empty` → UI `Empty` (message/placeholder).
+- `AppResult.Error(DomainError.Network|Timeout|NotFound|Unknown)` → UI `Error` with action (retry/open offline).
+- `Loading` while a use case runs (first load/refresh).
+
+## iOS Facade (signatures)
+- `CatalogFacade.getList(onSuccess, onEmpty, onError)`
+- `CatalogFacade.getDetail(id, onSuccess, onError)`
+- Encapsulates `suspend`/`Flow` and exposes Swift‑friendly callbacks; SwiftUI VMs don’t deal with coroutine types.
+
+## SQLDelight Schema (summary)
+- Table `catalog_item(id TEXT PRIMARY KEY, title TEXT, description TEXT, image_url TEXT, rating REAL, address TEXT, maps_url TEXT, website TEXT, updated_at INTEGER)`.
+- Typed queries to list/get by id, insert/update; `updated_at` enables future TTL.
+
+## Configuration
+- `BASE_URL`: provided on Android (App/Providers) and on iOS (`Info.plist` via `IosDI`). Empty → `MockRemoteDataSource` (local JSON with same contract).
+- Demo mode: “Sample/Catalog” toggle on Android to keep a stable template path.
+
+## Submodule
+- KMP challenge code is a submodule under `Obsidian Vault/Projetos/bimm-kmp-challenge-base`.
+- To review locally: `git submodule update --init --recursive` (or clone with `--recurse-submodules`).
+
 ## Dependency Injection
 - Approach: constructor/factory DI in shared (no container). The shared module exposes `Providers` (factories) to create `HttpClient`, `CatalogDatabase`, data sources, and `CatalogRepository`. Apps (Android/iOS) call pure functions — no framework coupling.
 - Why not [[Koin]]/Hilt here:

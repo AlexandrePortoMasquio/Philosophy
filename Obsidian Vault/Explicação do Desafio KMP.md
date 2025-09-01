@@ -36,6 +36,39 @@ updated: 2025-08-31
 - Testes (planejados): unit tests no domínio e mapeadores; fakes para datasources.
 - DI: sem Koin/Hilt no shared; uso de fábricas/constructors. Koin pode ser adicionado depois para apps/plataformas.
 
+## Estrutura do projeto (árvore curta)
+- `shared/` (KMP):
+  - `domain/`: entidades, `AppResult`, `DomainError`, contratos do repositório, use cases.
+  - `data/`: datasources `Remote` (Ktor) e `Local` (SQLDelight), `CatalogRepositoryImpl`, mapeadores.
+  - `di/`: `Providers` (fábricas), `IosDI` (helpers iOS).
+  - `facade/`: `CatalogFacade` (API amigável a Swift).
+  - `src/commonMain/sqldelight/`: schema e queries SQLDelight.
+- `composeApp/` (Android): UI Compose, ViewModels, DI Android (driver SQLite).
+- `iosApp/` (iOS): UI SwiftUI, ViewModels Swift, integração com Facade KMP.
+
+## Estados da UI (mapeamento)
+- `AppResult.Success(content)` → UI `Content` (lista/detalhe).
+- `AppResult.Empty` → UI `Empty` (mensagem/placeholder).
+- `AppResult.Error(DomainError.Network|Timeout|NotFound|Unknown)` → UI `Error` com ação (tentar novamente/abrir offline).
+- `Loading` explícito durante `use case` (ex.: primeira carga/pull‑to‑refresh).
+
+## Facade iOS (assinaturas)
+- `CatalogFacade.getList(onSuccess, onEmpty, onError)`
+- `CatalogFacade.getDetail(id, onSuccess, onError)`
+- Estratégia: encapsula `suspend`/`Flow` e expõe callbacks/closures Swift; ViewModels SwiftUI não lidam com tipos de corrotina.
+
+## Esquema SQLDelight (resumo)
+- Tabela `catalog_item(id TEXT PRIMARY KEY, title TEXT, description TEXT, image_url TEXT, rating REAL, address TEXT, maps_url TEXT, website TEXT, updated_at INTEGER)`.
+- Queries tipadas para listar/buscar por id, inserir/atualizar; `updated_at` habilita TTL futura.
+
+## Configuração
+- `BASE_URL`: informado no Android (App/Providers) e no iOS (`Info.plist` via `IosDI`). Vazio → usa `MockRemoteDataSource` (JSON local idêntico ao contrato).
+- Modo demo: alternância “Sample/Catalog” no Android para manter caminho estável de demonstração do template.
+
+## Submódulo
+- O código do desafio KMP está como submódulo em `Obsidian Vault/Projetos/bimm-kmp-challenge-base`.
+- Para revisar/local: `git submodule update --init --recursive` (ou clone com `--recurse-submodules`).
+
 ## Injeção de Dependência
 - Abordagem: DI por construtor/fábricas no shared (sem container). O módulo shared expõe `Providers` (fábricas) para criar `HttpClient`, `CatalogDatabase`, data sources e `CatalogRepository`. As apps (Android/iOS) recebem funções puras — sem acoplamento a frameworks.
 - Por que não [[Koin]]/Hilt no desafio:
