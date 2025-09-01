@@ -1,4 +1,4 @@
-# Inteligência Artificial
+## Conceito
 
 TODO em [[Nick Land]], o [[Tecnocapital]] é IA.
 

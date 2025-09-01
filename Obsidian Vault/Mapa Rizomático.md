@@ -11,6 +11,7 @@ Hubs
 - Conceitos‑hub: [[Virtualidade]] · [[Mundo das Formas]] · [[Vagueza]] · [[Descentralismo]]
 
 Pontos de partida:
+* [[Obsidian]]
 * [[Filosofia]]
 * [[Rizoma]]
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semelhança.md",
+                "file": "Utilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semelhança"
+              "title": "Utilidade"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b7ba1fac70b2c781",
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Utilidade.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,8 +154,23 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Obsidian Vault/Diferença.md",
+    "Finalidade.md",
+    "Utilidade.md",
+    "Fim (Praxeologia).md",
+    "Praxeologia.md",
+    "Agente Autônomo.md",
+    "Codex.md",
+    "Obsidian Mobile.md",
+    "Obsidian.md",
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Vacuidade.md",
+    "Filosofia Budista.md",
+    "Filosofia Oriental.md",
+    "Obsidian Vault/Filosofia.md",
+    "Obsidian Vault/Tecnocapital.md",
+    "Obsidian Vault/Ciência da Computação/Inteligência Artificial/Inteligência Artificial.md",
     "Semelhança.md",
+    "Obsidian Vault/Diferença.md",
     "Obsidian Vault/Virtualidade.md",
     "Obsidian Vault/Ontologia da Diferença.md",
     "Obsidian Vault/Ciência da Computação/Teoria da Computação/Teoria da Computação.md",
@@ -164,21 +180,6 @@
     "Obsidian Vault/Diferenciação.md",
     "Obsidian Vault/Informação.md",
     "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
-    "Obsidian Vault/Maya.md",
-    "Obsidian Vault/Brahman.md",
-    "Obsidian Vault/openSUSE.md",
-    "Obsidian Vault/Ciência da Computação/Processamento de Linguagem Natural/Tokenização.md",
-    "Obsidian Vault/CentOS Stream.md",
-    "Obsidian Vault/Red Hat Enterprise Linux.md",
-    "Obsidian Vault/NixOS.md",
-    "Obsidian Vault/Gentoo.md",
-    "Obsidian Vault/Alpine Linux.md",
-    "Obsidian Vault/Arch Linux.md",
-    "Obsidian Vault/Fedora.md",
-    "Obsidian Vault/Ubuntu.md",
-    "Obsidian Vault/Debian.md",
-    "Obsidian Vault/Distro (Linux).md",
-    "Obsidian Vault/Linux.md",
     "Obsidian Vault/Fantasia/Rascunhos Fantasia",
     "Obsidian Vault/Fantasia",
     "node_modules/codex/test/fixture/template/assets/js/main.js",

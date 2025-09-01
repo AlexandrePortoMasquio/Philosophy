@@ -1,1 +1,1 @@
-[[Teleologia]] [[Teleologia Naturalista]]
+[[Teleologia]] [[Teleologia Naturalista]] [[Utilidade]]

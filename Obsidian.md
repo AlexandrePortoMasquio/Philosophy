@@ -1,0 +1,4 @@
+## Conceito
+
+## Relações
+* [[Obsidian Mobile]]
