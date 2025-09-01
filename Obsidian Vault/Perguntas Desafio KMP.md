@@ -1,0 +1,113 @@
+---
+title: Perguntas Desafio KMP
+tags: [kmp, entrevista, perguntas]
+created: 2025-08-31
+updated: 2025-08-31
+---
+
+## Ver também
+- [[Desafio Técnico KMP - Requisitos]] · [[Explicação do Desafio KMP]]
+
+## Perguntas técnicas (30)
+- Arquitetura: por que Ports/Adapters + MVVM neste contexto? Quais alternativas você considerou e descartou?
+  - Resposta: Para separar contratos (domínio) de implementações (data/UI), maximizando testabilidade e troca de fontes (mock↔real) sem tocar na UI. MVVM se encaixa bem em Compose/SwiftUI. Considerei MVI/Redux (maior boilerplate e tempo) e “anêmico” direto na UI (acoplamento e baixa testabilidade); descartei pelo timebox do desafio.
+- Limites de módulo: o que fica no shared (KMP) e o que fica nas apps? Como você decide essa fronteira?
+  - Resposta: Shared contém domínio, datasources e repositório (KMP puro). Apps mantêm UI, drivers de plataforma (AndroidSqliteDriver, Info.plist), DI de app e integrações. Critério: evita qualquer API de plataforma no shared; contratos estáveis e multiplataforma ficam no shared.
+- Domínio: qual o papel de `AppResult` e `DomainError`? Por que preferir tipos a exceções?
+  - Resposta: Modelam estados previsíveis (Success/Empty/Error) e erros tipados (Network/Timeout/NotFound/Unknown), evitando exceções cruzando interop. Tipos dão mapeamento determinístico para UI e facilitam testes.
+- Fluxo de dados: descreva o caminho UI → Use Case → Repository → Local/Remote. Onde cada decisão acontece?
+  - Resposta: UI aciona use case; repositório lê cache (SQLDelight), decide refresh; se remoto disponível, busca via Ktor, mapeia e atualiza cache; retorna `AppResult`. Decisões: política cache/refresh e mapeamento de erro ficam no repo.
+- Offline‑first: qual é a política de cache hoje? O que pretende para TTL/refresh? Como evitar staleness?
+  - Resposta: Hoje cache‑first com refresh oportunista; TTL planejada via `updated_at` e política de expiração; triggers por pull‑to‑refresh e app‑start; evitar staleness com invalidação por idade e por mudança de filtros.
+- SQLDelight: por que escolha frente a outras opções KMP? Mostre a query principal e o mapeamento.
+  - Resposta: Esquema único, queries tipadas, MPP nativo. Alternativas (Realm Kotlin, SQLite cru) perderiam tipagem/visibilidade de schema. Query: listar itens ordenados por `updated_at`; mapeamento do DTO→entity→row via mappers no data.
+- Migração de schema: como você trataria uma mudança futura na tabela `catalog_item`?
+  - Resposta: Usar migrations do SQLDelight (`.sqm`), versionar alterações (ADD COLUMN com defaults/backfill), testes de migração, preservar compatibilidade; se necessário, strategy de fallback/clear com aviso.
+- Ktor/serialização: como configurou o `HttpClient`? Quais timeouts/retries adotaria em produção?
+  - Resposta: `HttpClient` com `ContentNegotiation` JSON, timeouts base; em produção: connect/read 5–10s, retry exponencial para idempotentes, logging redigido, cache ETag/Last‑Modified quando aplicável.
+- Erros: mapeamento HTTP/IO → `DomainError`; como a UI reage a cada caso (retry, offline fallback, not found)?
+  - Resposta: 404→NotFound (UI: empty/not found); IO/timeout→Network/Timeout (UI: erro com retry/offline); outros→Unknown (log + fallback). Estados guiados por `AppResult.Error`.
+- Facade iOS: por que criar `CatalogFacade`? Mostre como ele encapsula `suspend/Flow` para SwiftUI.
+  - Resposta: Para não expor corrotinas/Flow ao Swift. Facade converte `suspend/Flow` em callbacks (onSuccess/onEmpty/onError), mantendo API Swift‑friendly.
+- SwiftUI: como o ViewModel em Swift consome o Facade? Estratégia de threading/main actor?
+  - Resposta: VM `@MainActor` chama Facade; atualiza `@Published` no main thread via closures do Facade; cancela/discarda conforme ciclo de vida da tela.
+- Android: como o ViewModel mapeia `AppResult` para estados de tela? Onde ficam side effects?
+  - Resposta: VM expõe `StateFlow`/`UiState` (Loading/Empty/Error/Content) derivado de `AppResult`. Side effects (toasts/navigation) ficam no VM, não na composable.
+- DI: por que não usar Koin/Hilt no shared? Quando você adicionaria Koin nas apps e como?
+  - Resposta: Para reduzir complexidade/overhead e simplificar interop iOS. Adicionaria Koin no Android app para scopes (feature/VM) quando o app crescer; shared segue em fábricas puras.
+- Testes: quais unidades você priorizaria (use cases, repository com fakes, mappers)? Como isolar Ktor/SQLDelight?
+  - Resposta: Use cases e mappers primeiro; repo com fakes de Remote/Local; Ktor isolado via `RemoteDataSource` interface; SQLDelight via driver em memória/Temp.
+- Mock vs real: como trocar de `MockRemoteDataSource` para API real sem tocar na UI?
+  - Resposta: `BASE_URL` vazio → Mock; definido → Ktor. Providers constroem a pilha adequada; UI/Domain não mudam.
+- Imagens: por que Kamel no Android? Como trataria cache e placeholders/erro?
+  - Resposta: Integra nativa com Compose Multiplatform; usa cache interna/HTTP; placeholders/erro via painter padrão; política de memória/bitmap tuning conforme device.
+- Performance: onde estão os gargalos prováveis (frio, rede, imagens, DB)? Que métricas você coletaria?
+  - Resposta: Cold start, latência de rede, I/O de imagem, queries. Métricas: TTFB/TTI, sucesso de cache, erro por tipo, tempo de renderização lista.
+- Acessibilidade/i18n: que cuidados tomou/planeja (content descriptions, dynamic type, contraste, strings)?
+  - Resposta: Content descriptions/labels, suporte a fontes maiores, contraste mínimo, strings extraídas/localizáveis, navegação por leitor de tela.
+- Segurança: onde guardar chaves/URLs em produção? Como evitar log de dados sensíveis?
+  - Resposta: Config por ambiente/CI (secrets), Info.plist/BuildConfig sem segredos; nunca logar PII, redigir tokens/URLs; HTTPS e pinning quando aplicável.
+- Build/CI: quais tarefas Gradle/Xcode você rodaria num pipeline mínimo? Que validadores (ktlint/detekt) incluiria?
+  - Resposta: `./gradlew :shared:check :composeApp:assembleDebug`, ktlint/detekt; Xcode build para iosApp; cache de deps; step para testes unitários.
+- Estrutura do projeto: explique `shared/domain|data|di|facade` e o papel de `IosDI`.
+  - Resposta: `domain` contratos/entidades; `data` fontes e repo; `di` fábricas/`IosDI`; `facade` API Swift‑friendly. `IosDI` lê `BASE_URL` e instancia o repo para Swift.
+- Decoupling: como garantir que o shared não vaze dependências Android/iOS? Exemplos de fronteira limpa.
+  - Resposta: Sem imports de AndroidX/Apple no shared; drivers injetados; Android cria `AndroidSqliteDriver`, iOS usa `IosDI`/`NativeSqlite`.
+- Reuso web: o que precisaria mudar para reutilizar domínio/dados numa UI web (Compose Web/JS ou outro)?
+  - Resposta: Adicionar target JS no shared; UI em Compose Web/React consome use cases; manter Ktor/SQLDelight compatíveis (ou adaptar storage JS).
+- Paginação/Busca: como estenderia o repository/use cases para paginação e search?
+  - Resposta: Adicionar parâmetros (page/size/query) em contratos; implementar PagingSource no Android; queries SQL com `LIMIT/OFFSET` e filtros; UI com loading incremental.
+- Observabilidade: onde instrumentaria tracing/logging para diagnosticar falhas no campo?
+  - Resposta: Interceptores Ktor (IDs/correl), logs no repo (estados/erros), eventos de UI (falhas de ação), hooks para métricas (latência, taxa de erro).
+- Roadmap: principais next steps (TTL, testes, paginação, polimento UX). O que entraria primeiro e por quê?
+  - Resposta: 1) TTL/refresh (corretude), 2) testes (confiança), 3) paginação (escala), 4) polimento UX (qualidade percebida).
+- Versionamento do submódulo: por que submódulo? Como atualizar o ponteiro e manter reprodutibilidade?
+  - Resposta: Isola o desafio e fixa um SHA reprodutível. Atualizar: commit no submódulo, `git submodule update` e commit do ponteiro no superprojeto.
+- Configuração: onde definir `BASE_URL` em cada plataforma? Como injetar isso de forma segura?
+  - Resposta: Android via Providers/BuildConfig; iOS via `Info.plist` + `IosDI`. Em CI, usar secrets/env; nunca embutir segredos em código.
+- Tratamento de Empty: quando retorna `Empty` vs `Success([])`? Impacto na UX e na lógica.
+  - Resposta: `Empty` quando não há conteúdo significativo (ex.: 404/sem dados); `Success([])` quando a busca foi válida porém sem itens; UI diferencia “nada encontrado” vs “sem conteúdo”.
+- Resiliência: como lidaria com redes intermitentes e modo avião? Qual UX pretende (snackbar, retry, cache)?
+  - Resposta: Retry com backoff para idempotentes, cache‑first, banner offline, snackbar com ação, fila de ações quando aplicável; sempre preservar navegação com dados locais.
+
+## Perguntas adicionais (+20)
+- iOS nativo vs Compose Multiplatform no iOS: por que optar por [[SwiftUI]] no desafio?
+  - Resposta: Para cumprir o requisito de UI nativa, reduzir risco (estado do Compose iOS ainda evolutivo) e demonstrar KMP compartilhando domínio/dados sem comprometer UX nativa.
+- Exposição de fluxo ao iOS: por que não expor `Flow` diretamente? Alternativas?
+  - Resposta: Bridging direto aumenta atrito (tipos/escopo de corrotina); o Facade converte em callbacks. Alternativas: wrappers com `CallbacksFlow`/`NSFlowAdapter` ou exposição de `suspend` como `async` via `CompletableDeferred` + Swift Concurrency.
+- Thread‑safety no shared: como garante segurança de thread para DB/rede?
+  - Resposta: SQLDelight com driver por plataforma (acesso serializado), corrotinas com `Dispatcher` apropriado, repositório sem estado global, injeção de clock/IO para testes.
+- Mapeamento DTO→Domínio: onde ocorrem conversões e por quê?
+  - Resposta: Nos mapeadores da camada data, isolando o domínio de mudanças do payload; garante estabilidade do contrato do domínio.
+- Manuseio de headers de cache (ETag/Last‑Modified): integraria como?
+  - Resposta: Interceptores Ktor armazenam ETag/Last‑Modified; requests condicionais (`If-None-Match`/`If-Modified-Since`); repositório reconcilia 304 com cache.
+- Política de timeouts/retries por operação: todas iguais?
+  - Resposta: Não; leitura com retry exponencial curto; escrita (futuras) com atenção à idempotência; cancelation cooperativo via corrotinas.
+- Imagens no iOS: equivalente ao Kamel?
+  - Resposta: `AsyncImage`/`SDWebImageSwiftUI` para cache/placeholder/erro; mesma estratégia de URLs seguras e dimensionamento.
+- Paginação: key‑based vs page‑based — qual adotaria e por quê?
+  - Resposta: Page‑based se a API expõe páginas simples; key‑based (token/offset) quando necessário evitar gaps/duplicações; Android pode usar Paging 3.
+- Busca/filtragem local vs remota: onde aplicar?
+  - Resposta: Filtro local rápido no cache para UX imediata; se a fonte for remota com grande volume, delegar busca ao backend e paginar resultados.
+- Feature flags/config: como variam ambientes (dev/stg/prod) nas plataformas?
+  - Resposta: BuildConfig (Android) e Schemes/xcconfig (iOS); injetar via Providers/IosDI; nunca embutir segredos em código.
+- Logs/observabilidade: onde plugar Sentry/Crashlytics/metrics?
+  - Resposta: Apps configuram SDKs; shared expõe pontos de log/metric hooks no repositório/datasources; IDs de correlação via interceptores.
+- Acessibilidade: como garantir foco/leitura de estados (Loading/Empty/Error) pelos leitores de tela?
+  - Resposta: Labels/semântica nas views, `contentDescription`, roles apropriados, anúncios de mudanças de estado (LiveRegion/AccessibilityAnnouncement).
+- i18n/l10n: como localizar strings e formatos?
+  - Resposta: Strings nas plataformas (Android resources / iOS Localizable.strings); shared expõe apenas dados puros; formatação local via camada de UI.
+- CI mínimo: como construir Android e iOS em um pipeline?
+  - Resposta: Jobs separados: Gradle para shared/composeApp, Xcodebuild para iosApp; cache de deps; lint/tests; artefatos (APK/xcarchive).
+- Estratégia de modularização futura: como crescer sem monólito?
+  - Resposta: Separar shared em `:core:domain`, `:core:data`; features em módulos; apps consomem por DI; limites claros via interfaces.
+- Política de versionamento de dependências: como controlar upgrades (Ktor/SQLDelight/Coroutines/Compose)?
+  - Resposta: Versões centralizadas (version catalog/gradle libs); upgrades pequenos e frequentes; testes/regressão; changelog monitorado.
+- Tratamento de NotFound vs Empty UI: exemplos práticos?
+  - Resposta: NotFound em detalhes mostra estado específico com “voltar”; listas vazias exibem “nada encontrado” com ação de buscar/atualizar.
+- Estratégia para escrita offline (futuro): como conciliaria conflitos?
+  - Resposta: Fila local (outbox), retries com backoff, resolução por timestamps/servidor, UI de reconciliação quando necessário.
+- Garantia de determinismo em testes: como injetar tempo e IO?
+  - Resposta: Abstrair Clock/Dispatcher e injetar fakes; usar driver em memória para SQLDelight; fakes para RemoteDataSource.
+- Empacotamento iOS (XCFramework/SPM): como distribuir o shared?
+  - Resposta: Construir XCFramework (`./gradlew :shared:assembleXCFramework`), integrar via SPM/CocoaPods conforme política da equipe; manter API do Facade estável.
