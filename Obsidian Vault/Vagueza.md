@@ -14,7 +14,7 @@ updated: 2025-08-28
 - Pressiona [[Bivalência Global]]; modelagens: [[Supervaloração]], fuzzy, [[Epistemicismo]].
 - Conecta a [[Sorites]] como forma paradigmática do problema.
 - Relaciona-se a [[Virtualidade]] (diferença vs indeterminação) e [[Informação]].
-- TODO relacionar à [[Vacuidade]]
+- Em afinidade crítica com [[Vacuidade]] (ver relação abaixo).
 
 ## Aplicações
 - Números: em matemática formal, cortes são nítidos; na linguagem natural, termos numéricos vagos (p.ex., “muitos”) exibem vagueza.
@@ -54,3 +54,8 @@ updated: 2025-08-28
 ## Perguntas Abertas
 - Postura preferida do projeto (supervaloração/epistemicismo/fuzzy) e custos?
 - Como integrar granularidade e continuidade para explicar limiares de corte sem perder praticidade?
+
+## Relação com [[Vacuidade]]
+- Afinidade: ambas resistem a essências e cortes rígidos; destacam dependência de condições e contextos.
+- Diferença: a vagueza trata da indeterminação semântica/lógica e de fronteiras difusas em linguagem/modelos; a vacuidade é tese [[Ontologia|ontológica]]/[[Fenomenologia|fenomenológica]] de ausência de natureza intrínseca (dependência relacional).
+- Uso no projeto: a vacuidade orienta a ontologia relacional; a vagueza fornece ferramentas lógico‑semânticas para lidar com cortes e casos‑limite quando modelamos o contínuo.

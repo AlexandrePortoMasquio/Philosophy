@@ -10,7 +10,7 @@ updated: 2025-09-01
 - No [[Arcabouço]] do [[Racionalismo Naturalista]] e [[Teleologia Naturalista]], a utilidade emerge de efeitos que mantêm/atraem estados‑alvo sob restrições de [[Informação]] e custo.
 
 ## Definição operacional
-- Relativa: sempre a um objetivo g e contexto s (não absoluta).
+- Relativa: sempre a uma finalidade g e contexto s (não absoluta).
 - Observável: manifesta‑se no [[Uso]] e nos ganhos de controle (redução de erro para o alvo).
 - Esperada: sob incerteza, considera consequências prováveis e custos (tempo, energia, risco).
 
