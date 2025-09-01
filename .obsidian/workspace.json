@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "5175be5052ff09d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34336644f4b51926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3fbaa09203ddc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Quase-Causa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quase-Causa"
+            }
+          },
+          {
+            "id": "d4bb635cc2aa2d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limiar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limiar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6029d07f59ba4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd13271c772d4411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1767b5c6822e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "811e7d22bccb9963",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aeea00689c0968fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d94fea22b8343dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7829a4e0ae833c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5464995c1b02fea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/Quase-Causa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quase-Causa"
+            }
+          },
+          {
+            "id": "a003b59b3c2ce8a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/Quase-Causa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quase-Causa"
+            }
+          },
+          {
+            "id": "6c5f4a9323ea2ada",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8921fc8f528aa145",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/Quase-Causa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quase-Causa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3fbaa09203ddc17",
+  "lastOpenFiles": [
+    "Operador.md",
+    "Obsidian Vault/Quase-Causa.md",
+    "Obsidian Vault/Operação.md",
+    "Potência.md",
+    "Operação.md",
+    "Obsidian Vault/Atual.md",
+    "Limiar.md",
+    "Atual.md",
+    "Obsidian Vault/Irreal.md",
+    "Obsidian Vault/Ato.md",
+    "Ato.md",
+    "Obsidian Mobile.md",
+    "Obsidian.md",
+    "Obsidian Vault/Mapa Rizomático.md"
+  ]
+}
