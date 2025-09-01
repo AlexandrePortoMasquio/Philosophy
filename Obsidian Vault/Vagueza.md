@@ -14,6 +14,7 @@ updated: 2025-08-28
 - Pressiona [[Bivalência Global]]; modelagens: [[Supervaloração]], fuzzy, [[Epistemicismo]].
 - Conecta a [[Sorites]] como forma paradigmática do problema.
 - Relaciona-se a [[Virtualidade]] (diferença vs indeterminação) e [[Informação]].
+- TODO relacionar à [[Vacuidade]]
 
 ## Aplicações
 - Números: em matemática formal, cortes são nítidos; na linguagem natural, termos numéricos vagos (p.ex., “muitos”) exibem vagueza.
