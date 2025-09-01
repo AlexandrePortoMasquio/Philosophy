@@ -6,7 +6,7 @@ updated: 2025-08-29
 ---
 
 ## Ideia
-- Framework [[Declarativo]] de UI para iOS/macOS/watchOS/tvOS, com estado [[Reatividade|reativo]] e integração com [[Combine]].
+- Framework [[Declarativo]] de UI para iOS/macOS/watchOS/tvOS, com estado [[Reatividade|reativo]] e integração com [[Combine]], em [[Swift]].
 
 ## No KMP
 - Facilita expor `Flow/StateFlow` do shared via adaptadores para `Publisher`/`ObservableObject`.

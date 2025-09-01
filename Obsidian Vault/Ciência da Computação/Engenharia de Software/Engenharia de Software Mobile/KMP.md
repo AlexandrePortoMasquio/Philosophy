@@ -7,7 +7,7 @@ updated: 2025-08-29
 
 ## Mapa Rápido
 - Lado: [[Multiplataforma]] · [[Android]] · [[iOS]]
-- Acima: [[Arquitetura de Software]] · [[Linguagens de Programação]]
+- Acima: [[Arquitetura de Software]] · [[Linguagem de Programação]]
 - Abaixo: CI/CD (publicação de artefatos), testes, integração com apps
 
 ## Ideia
