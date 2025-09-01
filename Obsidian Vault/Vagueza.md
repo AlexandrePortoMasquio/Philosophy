@@ -6,7 +6,6 @@ updated: 2025-08-28
 ---
 
 ## Ideia
-* Um princípio análogo à incerteza de [[Heisenberg]], mas, com base na [[Ontologia da Diferença]] e [[Continuidade]], se aplica a todas as coisas, inclusive objetos abstratos, proposições, predicados, e objetos concretos.
 - Predicados ordinários carecem de fronteiras nítidas; há casos-limite e possivelmente vagueza de ordem superior.
 
 ## Ligações

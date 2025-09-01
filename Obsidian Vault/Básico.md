@@ -36,7 +36,7 @@ updated: 2025-09-01
 
 ## Perguntas Abertas
 - Medida de “basicidade relacional”: como quantificar robustez à reparametrização (índice de essência≈baixo, invariância≈alta)?
-- Como distinguir “básico” estrutural do “meramente conveniente” sem recair em essencialismo?
+- Como distinguir “básico” estrutural do “meramente conveniente” sem recair em [[Essencialismo]]?
 - Qual o papel do [[Sorites]] (holonomia semântica) ao decidir fronteiras entre básico/derivado em cadeias longas de tolerância?
 
 ## Mapa Rápido

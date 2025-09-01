@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Básico.md",
+                "file": "Campo Conceitual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Básico"
+              "title": "Campo Conceitual"
             }
           }
         ]
@@ -154,12 +154,22 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "(DELETAR).md",
-    "Obsidian Vault/Básico.md",
+    "Obsidian Vault/Campo.md",
+    "Campo Conceitual.md",
     "Obsidian Vault/Princípio de Vagueza.md",
+    "Curvatura.md",
+    "conceito.md",
+    "Obsidian Vault/Básico.md",
+    "Obsidian Vault/Virtualidade.md",
+    "Essencialismo.md",
+    "Fundacionismo.md",
+    "Obsidian Vault/Vagueza.md",
+    "Obsidian Vault/Objeto Abstrato.md",
+    "Obsidian Vault/Objetos Abstratos.md",
+    "(DELETAR 2).md",
+    "(DELETAR).md",
     "Existência.md",
     "Obsidian Vault/Atualização.md",
-    "Obsidian Vault/Virtualidade.md",
     "Obsidian Vault/Informação.md",
     "Obsidian Vault/Ciência da Computação/Criptografia/Criptografia.md",
     "Obsidian Vault/Perguntas Desafio KMP.md",
@@ -189,16 +199,6 @@
     "Obsidian Vault/UseCase.md",
     "Obsidian Vault/Port.md",
     "Obsidian Vault/Facade.md",
-    "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Linguagem de Programação.md",
-    "Obsidian Vault/Adapter.md",
-    "Obsidian Vault/Explicação do Desafio KMP.md",
-    "Fenomenologia.md",
-    "Obsidian Vault/Vagueza.md",
-    "Vacuidade.md",
-    "Obsidian Vault/Diferença.md",
-    "Utilidade.md",
-    "Obsidian Vault/Vacuidade.md",
-    "Obsidian Vault/Budismo.md",
-    "Obsidian Vault/Walton.md"
+    "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Linguagem de Programação.md"
   ]
 }

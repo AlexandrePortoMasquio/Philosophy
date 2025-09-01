@@ -7,7 +7,7 @@ updated: 2025-08-28
 ---
 
 ## Conceito
-- A virtualidade é um [[campo]] de diferenças puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
+- A virtualidade é um [[Campo]] de diferenças puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
 - A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez que as coisas [[Real|reais]] [[Emergência|emergem]] da virtualidade.
 
 ## Composição: Fluxos de Diferenciação
