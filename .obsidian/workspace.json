@@ -67,10 +67,14 @@
             "id": "30ebba489a769803",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Objetivo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivo"
             }
           },
           {
@@ -161,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/Objetivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Objetivo"
             }
           },
           {
@@ -179,11 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/Objetivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Objetivo"
             }
           },
           {
@@ -207,12 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian Vault/Objetivo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Objetivo"
             }
           }
         ]
@@ -235,6 +242,23 @@
   },
   "active": "30ebba489a769803",
   "lastOpenFiles": [
+    "Natural.md",
+    "Obsidian Vault/Objetivo.md",
+    "Obsidian Vault/Sujeito.md",
+    "Obsidian Vault/Problema Fácil da Consciência.md",
+    "Princípio.md",
+    "Obsidian Vault/Racionalismo Naturalista.md",
+    "Obsidian Vault/Síntese.md",
+    "conceito.md",
+    "Precisificação.md",
+    "Obsidian Vault/Princípio de Vagueza.md",
+    "Fundacionismo.md",
+    "Existência.md",
+    "Essencialismo.md",
+    "Curvatura.md",
+    "Campo Conceitual.md",
+    "(DELETAR).md",
+    "(DELETAR 2).md",
     "Obsidian Vault/Singularidade.md",
     "Obsidian Vault/Singularidade Tecnológica.md",
     "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Linguagem de Programação.md",
@@ -243,23 +267,6 @@
     "View.md",
     "Obsidian Vault/Presenter.md",
     "Obsidian Vault/Virtualidade.md",
-    "Obsidian Vault/UseCase.md",
-    "Obsidian Vault/Emergência.md",
-    "Obsidian Vault/Quase-Causa.md",
-    "Obsidian Vault/Facade.md",
-    "Obsidian Vault/Adapter.md",
-    "Obsidian Vault/Port.md",
-    "Obsidian Vault/Perguntas Desafio KMP.md",
-    "Operador.md",
-    "Obsidian Vault/Operação.md",
-    "Potência.md",
-    "Operação.md",
-    "Obsidian Vault/Atual.md",
-    "Limiar.md",
-    "Atual.md",
-    "Obsidian Vault/Irreal.md",
-    "Obsidian Vault/Ato.md",
-    "Ato.md",
-    "Obsidian Mobile.md"
+    "Obsidian Vault/UseCase.md"
   ]
 }

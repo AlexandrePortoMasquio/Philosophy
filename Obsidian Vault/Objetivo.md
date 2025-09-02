@@ -1,1 +1,1 @@
-Aquilo que existe independentemente da [[Mente]] ou da [[Linguagem]]
+Aquilo que existe [[Natural|naturalmente]] independentemente da [[Mente]] ou da [[Linguagem]]
