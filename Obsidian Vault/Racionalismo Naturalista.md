@@ -11,6 +11,7 @@ updated: 2025-08-28
 
 ## Ligações
 - Conecta [[Naturalismo]] [[Empirismo Naturalista]], [[Informação]], [[Ontologia da Diferença]].
+- Ponto de partida no [[Mapa Rizomático]]
 
 ## Fonte
 - ../livros/livro/01 Epistemologia_ Racionalismo Naturalista.txt

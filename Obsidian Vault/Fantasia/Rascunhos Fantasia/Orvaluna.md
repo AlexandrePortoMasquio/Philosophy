@@ -1,13 +1,11 @@
-
-
 Rascunho Criado pelo Codex
 
 Relacionado: [[Mundos Fantásticos]]
 
 ## Visão geral
-Orvaluna é um mundo de mares prateados e duas luas gêmeas que regem marés, magia e costumes. Cidades-porto flutuantes viajam entre arquipélagos, enquanto selvas bioluminescentes escondem ruínas de uma civilização pré-lunar. É um mundo de rotas, pactos e presságios.
-
+Orvaluna é um mundo fantástico.
 ## Geografia
+* Contém [[Cidades (Fantasia)]]
 - Mares Prateados: oceanos ricos em sais luminescentes que brilham nas marés altas.
 - Arquipélagos de Cristal: ilhas com formações de quartzo lunar; conduzem magia.
 - Selvas de Nacre: florestas úmidas bioluminescentes, habitat de fauna cantilante.
