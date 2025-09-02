@@ -5,9 +5,18 @@ created: 2025-09-02
 updated: 2025-09-02
 ---
 
-## Ideia
+## Conceito
 - Fenomenologia descreve as estruturas da experiência em primeira pessoa: como algo aparece, com que forma de doação, em que horizonte e com que envolvimento do corpo e do mundo. Não reduz vivência a mecanismo; busca os invariantes do aparecer.
 - No projeto, fornece alvos e restrições para modelos de [[Psicologia]] e [[Filosofia da Mente]]: o que qualquer teoria deve respeitar para ser fenomenalmente adequada.
+
+## Origem
+- Precursores: [[Brentano]] recoloca a [[Intencionalidade]] no centro da mente (consciência sempre é de algo), rompendo com psicologias associacionistas; [[William James|James]] explora o “fluxo” da consciência e a unidade dinâmica da experiência.
+- Fundação (Husserl): [[Husserl]] estabelece a fenomenologia como método rigoroso: [[Epoché]] (suspensão da tese natural) e [[Redução Fenomenológica]] (retorno às estruturas do aparecer); análise [[Noema|noemática]]/[[Noesis|noética]] da correlação entre ato e objeto‑como‑dado.
+- Virada existencial/hermenêutica: [[Heidegger]] desloca o foco para o ser‑no‑mundo (Dasein), temporalidade e compreensão pré‑teórica; a fenomenologia torna‑se ontologia fundamental.
+- Corpo e percepção: [[Merleau-Ponty]] desenvolve a fenomenologia do corpo próprio e da percepção como contato ativo com o mundo, contra reducionismos intelectualistas/empiristas.
+- Liberdade e negatividade: [[Sartre]] enfatiza consciência como nada e liberdade, explorando má‑fé, olhar do outro e temporalidade do projeto.
+- Valores e empatia: [[Scheler]] funda uma fenomenologia dos valores e afetos; [[Edith Stein]] investiga empatia e constituição do outro; [[Ingarden]] trabalha estruturas ontológicas de obras e objetos.
+- Desdobramentos: tradições posteriores articulam fenomenologia com [[Psicologia]] experimental, ciência cognitiva, psiquiatria, estética e filosofia da técnica.
 
 ## Método (esboço)
 - Descrição guiada: relatar com precisão aspectos da vivência (foco, fundo, saliência, esforço atencional, afetos) evitando pressuposições teóricas.
