@@ -35,8 +35,7 @@ updated: 2025-09-01
 - Sumários de guarnição apontam corrupção no Almirantado.
 
 ## Ligações
-- [[Cidades (Fantasia)]] · [[Nimbária]] (rotas aéreas costeiras) · [[Selvatéria]] (madeiras raras)
+- [[Cidades (Fantasia)]] · [[Nimbária (Cidade Fantástica)|Nimbária]] (rotas aéreas costeiras) · [[Selvatéria]] (madeiras raras)
 
 ## Mapa Rápido
 - Farol · Âncora Vermelha · Estaleiros · Catadores · Sopro
-

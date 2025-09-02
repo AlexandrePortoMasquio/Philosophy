@@ -35,8 +35,7 @@ updated: 2025-09-01
 - Relíquia do Primeiro Vento reaparece; três facções a reivindicam.
 
 ## Ligações
-- [[Cidades (Fantasia)]] · 
+- [[Cidades (Fantasia)]] · [[Arx-Mare]] (rotas de alto‑mar aéreo) · [[Ferronova]] (fretamento de ligas leves)
 
 ## Mapa Rápido
 - Anéis · Aerogôndolas · Meteoromantes · Contra‑vento · Sinos
-

@@ -35,8 +35,7 @@ updated: 2025-09-01
 - Rumor: Coração de Forja está enfraquecendo; sabotagem ou fim de um ciclo?
 
 ## Ligações
-- [[Cidades (Fantasia)]] · [[Nimbária]] (fibras leves para estruturas) · [[Lúmen-Profundo]] (óptica para controle térmico)
+- [[Cidades (Fantasia)]] · [[Nimbária (Cidade Fantástica)|Nimbária]] (fibras leves para estruturas) · [[Lúmen-Profundo]] (óptica para controle térmico)
 
 ## Mapa Rápido
 - Forjas · Braseiro · Escória · Ligas · Coração
-
