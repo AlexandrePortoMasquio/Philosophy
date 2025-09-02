@@ -35,7 +35,7 @@ updated: 2025-09-01
 - Caçadores desaparecem em clareira “sem eco”; rastro leva ao sub‑dossel.
 
 ## Ligações
-- [[Cidades (Fantasia)]] · [[Arx-Mare]] (madeira naval) · [[Lúmen-Profundo]] (remédios e pigmentos)
+- [[Cidades (Fantasia)]] · [[Arx-Mare (Cidade Fantástica)]] (madeira naval) · [[Lúmen-Profundo]] (remédios e pigmentos)
 
 ## Mapa Rápido
 - Círculo · Tecelões · Caçadores · Pólen · Lianas

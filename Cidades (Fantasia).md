@@ -12,7 +12,7 @@ updated: 2025-09-01
 * [[Falkor (Cidade Fantástica)]] — Cidade feudal muralhada em vau estratégico; nobreza endividada, guildas em ascensão, fé solar.
 - [[Nimbária (Cidade Fantástica)]] — Cidade das Falésias do Céu; aerogôndolas, navegação de ventos, guildas meteoromantes.
 - [[Lúmen-Profundo]] — Metrópole bioluminescente sob montanhas; cristalocanto, arquivos de luz, castas lumíferas.
-- [[Arx-Mare]] — Fortaleza‑porto erguida no esqueleto de um leviatã; corsários, dívidas de sangue, farol ósseo.
+- [[Arx-Mare (Cidade Fantástica)]] — Fortaleza‑porto erguida no esqueleto de um leviatã; corsários, dívidas de sangue, farol ósseo.
 - [[Selvatéria]] — Cidadela canópica no dossel vivo; pactos com espíritos, pontes de lianas, botânica de guerra.
 - [[Ferronova]] — Forja‑cidade sobre mar de magma; tecnomagos, ligas arcanas, sindicatos de braseiros.
 
@@ -24,4 +24,4 @@ updated: 2025-09-01
 - [[RPG]] · [[Jogo]] · [[Pragmática]] (para uso em mesa) · [[Informação]] (para pensar facções como códigos)
 
 ## Mapa Rápido
-- [[Nimbária (Cidade Fantástica)]] · [[Lúmen-Profundo]] · [[Arx-Mare]] · [[Selvatéria]] · [[Ferronova]]
+- [[Nimbária (Cidade Fantástica)]] · [[Lúmen-Profundo]] · [[Arx-Mare (Cidade Fantástica)]] · [[Selvatéria]] · [[Ferronova]]

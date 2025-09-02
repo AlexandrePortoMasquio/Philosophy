@@ -11,15 +11,144 @@
             "id": "2d6cb98460830747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "899c4c0df570b116"
+          }
+        ]
+      },
+      {
+        "id": "8f896f2ff6edc9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cf95ab46f86a8b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
                 "file": "Falkor (Cidade Fantástica).md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6788837465228978,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "Falkor (Cidade Fantástica)"
-            }
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "899c4c0df570b116"
+          }
+        ]
+      },
+      {
+        "id": "a1273c21873fffe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9e2d90ecb25cbb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Falkor (Cidade Fantástica).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4595498740894606,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "899c4c0df570b116"
+          }
+        ]
+      },
+      {
+        "id": "136dca1eab92a76c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79fedbb9af930092",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Falkor (Cidade Fantástica).md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2161688101196526,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "899c4c0df570b116"
           }
         ]
       }
@@ -98,7 +227,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Falkor (Cidade Fantástica).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,13 +282,13 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Ferronova.md",
+    "Falkor (Cidade Fantástica).md",
     "Selvatéria.md",
-    "Arx-Mare.md",
+    "Arx-Mare (Cidade Fantástica).md",
+    "Nimbária (Cidade Fantástica).md",
+    "Ferronova.md",
     "Lúmen-Profundo.md",
     "Cidades (Fantasia).md",
-    "Falkor (Cidade Fantástica).md",
-    "Nimbária (Cidade Fantástica).md",
     "Obsidian Vault/Fantasia/Rascunhos Fantasia/Orvaluna.md",
     "Obsidian Vault/Fantasia/Mundo Fantástico.md",
     "Obsidian Vault/RPG.md",

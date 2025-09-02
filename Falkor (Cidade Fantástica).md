@@ -33,7 +33,7 @@ updated: 2025-09-01
 
 ## Economia e Ofícios
 - Força em metalurgia, tecelagem e grãos; feiras atraem caravanas.
-- Rotas: rio liga a [[Arx-Mare]]; estradas para [[Selvatéria]] (madeiras), [[Lúmen-Profundo]] (óptica/vidraçaria), [[Nimbária (Cidade Fantástica)|Nimbária]] (mensageria aérea), [[Ferronova]] (ligas).
+- Rotas: rio liga a [[Arx-Mare (Cidade Fantástica)]]; estradas para [[Selvatéria]] (madeiras), [[Lúmen-Profundo]] (óptica/vidraçaria), [[Nimbária (Cidade Fantástica)|Nimbária]] (mensageria aérea), [[Ferronova]] (ligas).
 - Moeda mista (cunhagem senhorial e burguesa); dízimo à Sé; impostos de ponte e mercado.
 
 ## Religião e Magia
@@ -48,13 +48,12 @@ updated: 2025-09-01
 
 ## Conflitos e Ganchos
 - Sucessão Valebran: herdeiro reformista quer resgatar dívidas cedendo direitos às guildas; tio trama um golpe “para salvar a honra”.
-- Guerra do Pedágio: Ponteiros aumentam tarifas; caravanas desviam; rumores de suborno do porto de [[Arx-Mare]].
+- Guerra do Pedágio: Ponteiros aumentam tarifas; caravanas desviam; rumores de suborno do porto de [[Arx-Mare (Cidade Fantástica)]].
 - Sol em Eclipse: arcebispo ameaça interdito se a cunhagem burguesa não pagar dízimo; mercado entra em pânico.
-- Pó de Escória: armas com liga instável de [[Ferronova]] explodem; sabotagem ou lote clandestino?
 - Trama Canópica: madeira “vivente” de [[Selvatéria]] chega com praga latente; quem autorizará queimar o carregamento caro?
 
 ## Ligações
-- [[Cidades (Fantasia)]] · [[Arx-Mare]] · [[Selvatéria]] · [[Lúmen-Profundo]] · [[Nimbária (Cidade Fantástica)|Nimbária]] · [[Ferronova]]
+- [[Cidades (Fantasia)]] · [[Arx-Mare (Cidade Fantástica)]] · [[Selvatéria]] · [[Lúmen-Profundo]] · [[Nimbária (Cidade Fantástica)|Nimbária]] · [[Ferronova]]
 
 ## Mapa Rápido
 - Castelo‑Coroa · Catedral Solar · Vau/Ponte · Conselho Burguês · Ordem do Estandarte · Guilda do Anel de Ferro
