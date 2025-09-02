@@ -5,7 +5,7 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Ideia
+## Conceito
 - Predicados ordinários carecem de fronteiras nítidas; há casos-limite e possivelmente vagueza de ordem superior.
 
 ## Ligações
