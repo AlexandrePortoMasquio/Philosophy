@@ -34,6 +34,7 @@ updated: 2025-08-28
 - Estrutura-se como variações contínuas; [[Continuidade]] guia trajetórias de atualização até [[Atratores]] e [[Invariantes]].
 - Conecta com [[Entropia Informacional]] na passagem virtual→atual.
 - Tensiona [[Vagueza]]: distinção virtual vs indeterminado sem bordas.
+- Fundamenta o [[Rizoma]]: a virtualidade é o rizoma de base e é, ela mesma, um rizoma (malha de diferenças e fluxos que se atualizam).
 
 ## Diferenças
 - Embora dialogue com a noção de [[potência]] em [[Aristóteles]], a virtualidade é real e estruturada por multiplicidades/singularidades (não mera possibilidade abstrata) e orienta a [[Atualização]] por vias contínuas.
@@ -44,7 +45,7 @@ updated: 2025-08-28
 ## Referências sugeridas
 - Deleuze (Diferença e Repetição); Thom (Teoria das Catástrofes)
 ## Mapa Rápido
-* [[Mapa Rizomático]]
+* [[Mapa Rizomático]] · [[Rizoma]]
 * [[Deleuze]]
 - [[Apeiron]] · [[Diferença]] · [[Campo]] · [[Continuidade]] · [[Variação]] · [[Atualização]]
 - [[Atratores]] · [[Invariantes]] · [[Informação]] · [[Entropia Informacional]] · [[Singularidades e Catástrofes]]
