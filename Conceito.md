@@ -7,7 +7,7 @@ updated: 2025-09-01
 ---
 
 ## Ideia
-- Conceito é um operador de discriminação e composição: fixa [[Invariantes]] e regras de uso que tornam certas diferenças legíveis/operáveis, comprimindo o contínuo em um código aplicável.
+- Conceito é um [[Operador]] de discriminação e composição: fixa [[Invariantes]] e regras de uso que tornam certas diferenças legíveis/operáveis, comprimindo o contínuo em um código aplicável.
 - Não é essência fixa ([[Vacuidade]]); é padrão relacional estável o bastante para coordenar [[Operação]] e explicação, sujeito a [[Precisificação]] e revisão.
 - Media o trânsito do [[Virtualidade|virtual]] ao [[Atual|atual]]: cristaliza diferenças reais em critérios que guiam [[Atualização]] e ação.
 
@@ -51,7 +51,7 @@ updated: 2025-09-01
 ## Exemplos
 - “Espécie”: núcleo funcional de reprodução/linhagem; bordas entre subespécies/híbridos; múltiplas precisificações (morfo/gen/eco).
 - “Razoável” (direito): coordena decisão sob incerteza; padrões evoluem por precedentes (campo com curvatura institucional).
-- “Jogo” (Wittgenstein): sem essência única; família de semelhanças e invariantes fracos; bordas extensas.
+- “[[Jogo]]” ([[Wittgenstein]]): sem essência única; família de semelhanças e invariantes fracos; bordas extensas.
 
 ## Relações
 - [[Vagueza]] · [[Princípio de Vagueza]] · [[Precisificação]] · [[Campo Conceitual]] · [[Curvatura]]
@@ -63,4 +63,4 @@ updated: 2025-09-01
 - Governança de conceitos em instituições: versões, auditoria e critérios de mudança.
 
 ## Mapa Rápido
-- Núcleo · Bordas · [[Campo]] · [[Código]] · [[Precisificação]] · [[Invariantes]]
+- Núcleo · Bordas · [[Campo]] · [[Código]] · [[Precisificação]] · [[Invariantes]] · [[Operador]]

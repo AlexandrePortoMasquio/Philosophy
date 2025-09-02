@@ -13,6 +13,8 @@ Hubs
 Pontos de partida:
 * [[Obsidian]]
 * [[Filosofia]]
+* [[Racionalismo Naturalista]]
+* [[Conceito]], [[Operador]]
 * [[Rizoma]]
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]

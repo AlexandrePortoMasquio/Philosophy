@@ -6,8 +6,9 @@ created: 2025-09-01
 updated: 2025-09-01
 ---
 
-## Ideia
-- Em [[Deleuze]], operar é produzir diferença: operadores compõem intensidades e relações diferenciais, atualizando multiplicidades ao atravessar limiares/[[Singularidades e Catástrofes|singularidades]]. Não aplicam identidades prévias; realizam as sínteses (conectiva, [[Disjunção Inclusiva|disjuntiva inclusiva]], conjuntiva) que fazem séries funcionarem e consolidarem [[Forma]].
+## Conceito
+* TODO Interessante a explicação abaixo, mas o quebexatamente é um operador?
+- Na perspectiva da [[Ontologia da Diferença]], a [[Operação]] é a [[Produção]] de [[Diferença|diferenças]]. Os operadores compõem intensidades e relações diferenciais, atualizando multiplicidades ao atravessar limiares/[[Singularidades e Catástrofes|singularidades]]. Não aplicam identidades prévias; realizam as sínteses (conectiva, [[Disjunção Inclusiva|disjuntiva inclusiva]], conjuntiva) que fazem séries funcionarem e consolidarem [[Forma]].
 - Operador é um transformador tipado (mapeamento/regra) que, dados estados/descrições sob um [[Código]], produz saídas que orientam [[Operação]] e decisão. É o “como” de fazer algo atuar sobre diferenças.
 - Em chave conceitual, um [[Conceito]] bem formado funciona como operador de discriminação e composição: fixa [[Invariantes]] e regras de uso que comprimem o contínuo em critérios aplicáveis.
 - Anti‑essencialismo ([[Vacuidade]]): operadores não revelam naturezas intrínsecas; implementam recortes funcionais sobre o [[Campo Conceitual]] e podem ser refinados por [[Precisificação]].

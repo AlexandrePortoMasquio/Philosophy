@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceito.md",
+                "file": "Obsidian Vault/Racionalismo Naturalista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceito"
+              "title": "Racionalismo Naturalista"
             }
           }
         ]
@@ -154,6 +154,14 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian Vault/Primordial.md",
+    "Obsidian Vault/Filósofo.md",
+    "Obsidian Vault/Filosofia.md",
+    "Obsidian Vault/Tarefas.md",
+    "Operador.md",
+    "Obsidian Vault/Deleuze.md",
+    "Conceito.md",
     "conceito.md",
     "Campo Conceitual.md",
     "Precisificação.md",
@@ -162,7 +170,6 @@
     "Obsidian Vault/Campo.md",
     "Obsidian Vault/Princípio de Vagueza.md",
     "Curvatura.md",
-    "Conceito.md",
     "Obsidian Vault/Básico.md",
     "Obsidian Vault/Virtualidade.md",
     "Essencialismo.md",
@@ -173,10 +180,6 @@
     "(DELETAR 2).md",
     "(DELETAR).md",
     "Existência.md",
-    "Obsidian Vault/Atualização.md",
-    "Obsidian Vault/Informação.md",
-    "Obsidian Vault/Ciência da Computação/Criptografia/Criptografia.md",
-    "Obsidian Vault/Perguntas Desafio KMP.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
@@ -196,9 +199,6 @@
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png",
-    "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png",
-    "Obsidian Vault/Projetos/bimm-kmp-challenge-base/README.md",
-    "View.md",
-    "Swift.md"
+    "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png"
   ]
 }
