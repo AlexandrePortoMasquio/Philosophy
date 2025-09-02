@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campo Conceitual.md",
+                "file": "Conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campo Conceitual"
+              "title": "Conceito"
             }
           }
         ]
@@ -154,11 +154,15 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Obsidian Vault/Campo.md",
+    "conceito.md",
     "Campo Conceitual.md",
+    "Precisificação.md",
+    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+    "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
+    "Obsidian Vault/Campo.md",
     "Obsidian Vault/Princípio de Vagueza.md",
     "Curvatura.md",
-    "conceito.md",
+    "Conceito.md",
     "Obsidian Vault/Básico.md",
     "Obsidian Vault/Virtualidade.md",
     "Essencialismo.md",
@@ -195,10 +199,6 @@
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/README.md",
     "View.md",
-    "Swift.md",
-    "Obsidian Vault/UseCase.md",
-    "Obsidian Vault/Port.md",
-    "Obsidian Vault/Facade.md",
-    "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Linguagem de Programação.md"
+    "Swift.md"
   ]
 }

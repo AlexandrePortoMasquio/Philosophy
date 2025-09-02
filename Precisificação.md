@@ -5,7 +5,7 @@ created: 2025-09-01
 updated: 2025-09-01
 ---
 
-## Ideia
+## Conceito
 - Precisificação: operação que torna mais determinado um predicado/termo vago, fixando critérios sob um código/contexto/finalidade. Não revela uma essência; seleciona um recorte operacional do [[Campo Conceitual]].
 - Família admissível: em vez de uma única resposta, há um conjunto de precisificações que respeitam casos claros e variam nas bordas (ver [[Supervaloração]]). A escolha depende de custos/objetivos (previsão, justiça, controle, explicação).
 - Interface com o [[Princípio de Vagueza]]: toda precisificação herda certo borrão residual e pode exibir [[Vagueza de Ordem Superior]]; seu papel é gerir, não eliminar, a vagueza.
