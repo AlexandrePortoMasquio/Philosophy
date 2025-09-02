@@ -1,5 +1,9 @@
-# Compiladores
+## Conceito
 
+## Relações
+
+* [[Software]]
+* [[Linguagem de Programação]]
 - [[Análise Léxica|Análise Léxica]]
 - [[Análise Sintática|Análise Sintática]]
 - [[Análise Semântica|Análise Semântica]]

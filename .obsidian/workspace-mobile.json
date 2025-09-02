@@ -11,10 +11,14 @@
             "id": "2d6cb98460830747",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Mapa Rizomático.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mapa Rizomático"
             },
             "group": "899c4c0df570b116"
           }
@@ -30,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Falkor (Cidade Fantástica).md",
+                "file": "Obsidian Vault/Mapa Rizomático.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Falkor (Cidade Fantástica).md",
+                "file": "Obsidian Vault/Mapa Rizomático.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Falkor (Cidade Fantástica).md",
+                "file": "Obsidian Vault/Mapa Rizomático.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,6 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Obsidian Vault/Mapa Rizomático.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -282,6 +287,18 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Tomás de Aquino.md",
+    "Obsidian Vault/Virtualidade.md",
+    "Obsidian Vault/Intencionalidade.md",
+    "Brentano.md",
+    "Fenomenologia.md",
+    "Psicologia.md",
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian Vault/Informação.md",
+    "Obsidian Vault/Forma.md",
+    "Obsidian Vault/Cosmologia Informacional.md",
+    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
+    "Obsidian Vault/Ciência da Computação/Compiladores/Compilador.md",
     "Falkor (Cidade Fantástica).md",
     "Selvatéria.md",
     "Arx-Mare (Cidade Fantástica).md",
@@ -295,19 +312,7 @@
     "Jogo.md",
     "Obsidian Vault/Jogo de Linguagem.md",
     "Obsidian Vault/Linguagem.md",
-    "Obsidian Vault/Mapa Rizomático.md",
     "Obsidian Vault/Racionalismo Naturalista.md",
-    "Princípio.md",
-    "Obsidian Vault/Verbo.md",
-    "Obsidian Vault/Sujeito (Gramática).md",
-    "Obsidian Vault/Regência.md",
-    "Obsidian Vault/Pronome.md",
-    "Obsidian Vault/Predicado.md",
-    "Obsidian Vault/Pontuação.md",
-    "Obsidian Vault/Período.md",
-    "Obsidian Vault/Particípio.md",
-    "Obsidian Vault/Oração.md",
-    "Obsidian Vault/Língua Portuguesa.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

@@ -15,7 +15,7 @@ updated: 2025-08-28
 ## Escopo (módulos)
 - Transformação: [[Algoritmos/Algoritmos|Algoritmos]] e [[Estruturas de Dados/Estruturas de Dados|Estruturas de Dados]].
 - Limites: [[Teoria da Computação/Teoria da Computação|Teoria da Computação]] (computabilidade/complexidade; P, NP...).
-- Expressão: [[Linguagem de Programação|Linguagem de Programação]] e [[Compiladores/Compiladores|Compiladores]].
+- Expressão: [[Linguagem de Programação|Linguagem de Programação]] e [[Compilador|Compilador]].
 - Execução: [[Sistemas Operacionais/Sistemas Operacionais|Sistemas Operacionais]].
 - Comunicação: [[Redes de Computadores/Redes de Computadores|Redes de Computadores]] e [[Sistemas Distribuídos/Sistemas Distribuídos|Sistemas Distribuídos]].
 - Persistência: [[Banco de Dados/Banco de Dados|Banco de Dados]].
@@ -33,7 +33,7 @@ updated: 2025-08-28
 - Para prática: [[Engenharia de Software/Engenharia de Software|Engenharia de Software]], [[Engenharia de Software/Engenharia de Software Mobile/Engenharia de Software Mobile|Engenharia de Software Mobile]].
 
 ## Navegação por Tópicos
-- [[Algoritmos/Algoritmos|Algoritmos]] · [[Estruturas de Dados/Estruturas de Dados|Estruturas de Dados]] · [[Teoria da Computação/Teoria da Computação|Teoria da Computação]] · [[Linguagem de Programação|Linguagens]] · [[Compiladores/Compiladores|Compiladores]] · [[Sistemas Operacionais/Sistemas Operacionais|SO]] · [[Redes de Computadores/Redes de Computadores|Redes]] · [[Sistemas Distribuídos/Sistemas Distribuídos|Distribuídos]] · [[Banco de Dados/Banco de Dados|Banco de Dados]] · [[Criptografia/Criptografia|Criptografia]] · [[Inteligência Artificial/Inteligência Artificial|IA]] · [[Aprendizado de Máquina/Aprendizado de Máquina|ML]] · [[Visão Computacional/Visão Computacional|Visão]] · [[Processamento de Linguagem Natural/Processamento de Linguagem Natural|PLN]] · [[Computação Gráfica/Computação Gráfica|Gráfica]] · [[Computação Paralela/Computação Paralela|Paralela]] · [[Computação em Nuvem/Computação em Nuvem|Nuvem]] · [[DevOps/DevOps|DevOps]]
+- [[Algoritmos/Algoritmos|Algoritmos]] · [[Estruturas de Dados/Estruturas de Dados|Estruturas de Dados]] · [[Teoria da Computação/Teoria da Computação|Teoria da Computação]] · [[Linguagem de Programação|Linguagens]] · [[Compilador|Compilador]] · [[Sistemas Operacionais/Sistemas Operacionais|SO]] · [[Redes de Computadores/Redes de Computadores|Redes]] · [[Sistemas Distribuídos/Sistemas Distribuídos|Distribuídos]] · [[Banco de Dados/Banco de Dados|Banco de Dados]] · [[Criptografia/Criptografia|Criptografia]] · [[Inteligência Artificial/Inteligência Artificial|IA]] · [[Aprendizado de Máquina/Aprendizado de Máquina|ML]] · [[Visão Computacional/Visão Computacional|Visão]] · [[Processamento de Linguagem Natural/Processamento de Linguagem Natural|PLN]] · [[Computação Gráfica/Computação Gráfica|Gráfica]] · [[Computação Paralela/Computação Paralela|Paralela]] · [[Computação em Nuvem/Computação em Nuvem|Nuvem]] · [[DevOps/DevOps|DevOps]]
 
 ## Referências sugeridas
 - [[Shannon]] (teoria da informação), [[Complexidade de Kolmogorov]], [[Lei da Variedade Requisitada]].

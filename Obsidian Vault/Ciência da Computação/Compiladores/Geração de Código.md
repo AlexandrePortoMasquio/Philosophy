@@ -13,4 +13,4 @@ updated: 2025-08-29
 - Otimizações de baixo nível (peephole, inline simples) após o IR.
 
 ## Ligações
-- [[Código]] · [[Compiladores]] · [[Otimização (Software)]]
+- [[Código]] · [[Compilador]] · [[Otimização (Software)]]

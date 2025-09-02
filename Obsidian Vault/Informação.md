@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- [[Forma]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
+- [[Mapa Rizomático]] · [[Forma]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
 
 ## Ideia
 - Informação é forma transmissível.
