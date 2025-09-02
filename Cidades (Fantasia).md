@@ -9,7 +9,7 @@ updated: 2025-09-01
 - Coleção modular de cidades fantásticas, cada uma com identidade clara, ganchos de aventura e pontos de conflito. Projetadas para serem plug‑and‑play em campanhas, contos ou jogos.
 
 ## Cidades
-* [[Falkor (Cidade Fantástica)]] - Cidade feudal.
+* [[Falkor (Cidade Fantástica)]] — Cidade feudal muralhada em vau estratégico; nobreza endividada, guildas em ascensão, fé solar.
 - [[Nimbária (Cidade Fantástica)]] — Cidade das Falésias do Céu; aerogôndolas, navegação de ventos, guildas meteoromantes.
 - [[Lúmen-Profundo]] — Metrópole bioluminescente sob montanhas; cristalocanto, arquivos de luz, castas lumíferas.
 - [[Arx-Mare]] — Fortaleza‑porto erguida no esqueleto de um leviatã; corsários, dívidas de sangue, farol ósseo.
