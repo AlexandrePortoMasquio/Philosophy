@@ -11,7 +11,7 @@ updated: 2025-09-02
 - Operativamente: capacidade de fixar [[Axiologia|valores]], ler contextos (campo), [[Precisificação|precisificar]] cortes e agir com baixo arrependimento esperado, preservando bens em conflito.
 
 ## Distinções
-- Conhecimento vs Sabedoria: saber “que”/“como” não garante boa escolha de fins/meios em contexto; sabedoria adiciona avaliação e timing.
+- [[Conhecimento]] vs [[Sabedoria]]: saber “que”/“como” não garante boa escolha de meios/fins em contexto; sabedoria adiciona avaliação e timing.
 - Inteligência/astúcia vs Sabedoria: otimizar metas locais ≠ boa orientação global; sabedoria considera externalidades e horizontes longos.
 - Racionalidade epistêmica vs instrumental: sabedoria busca ambas sem sacrificar [[Finalidade Objetiva]] e limites morais.
 
