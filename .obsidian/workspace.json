@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialética Hegeliana.md",
+                "file": "Obsidian Vault/Dialética Descentralista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialética Hegeliana"
+              "title": "Dialética Descentralista"
             }
           },
           {
@@ -295,6 +295,7 @@
   },
   "active": "0aaf402f55024991",
   "lastOpenFiles": [
+    "Obsidian Vault/Mapa Rizomático.md",
     "Dialética Hegeliana.md",
     "Obsidian Vault/Dialética Descentralista.md",
     "Obsidian Vault/Hegel.md",
@@ -319,7 +320,6 @@
     "Obsidian Vault/Ciência da Computação/Compiladores/Compilador.md",
     "Nimbária (Cidade Fantástica).md",
     "Lúmen-Profundo.md",
-    "Jogo.md",
-    "Ferronova.md"
+    "Jogo.md"
   ]
 }

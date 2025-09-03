@@ -12,13 +12,15 @@ Hubs
 Pontos de partida:
 * [[Obsidian]]
 * [[Filosofia]]
-* [[Racionalismo Naturalista]]
-* [[Conceito]], [[Operador]]
+* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]]
+* [[Conceito]] · [[Operador]]
+* [[Metafísica]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
 * [[Rizoma]]
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
+- [[Dialética Descentralista]]
 - [[Filosofia da Mente]]: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
 - [[Linguagem]]
 - [[Sabedoria]]
