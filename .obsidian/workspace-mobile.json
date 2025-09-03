@@ -11,14 +11,10 @@
             "id": "2d6cb98460830747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Plano de Consistência.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plano de Consistência"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,7 +227,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Plano de Consistência.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,12 +282,16 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Obsidian Vault/Virtualidade.md",
-    "Obsidian Vault/Emergência.md",
-    "Obsidian Vault/Real.md",
+    "Intensidade.md",
     "Semelhança.md",
+    "Obsidian Vault/Simplicidade.md",
+    "Obsidian Vault/Virtualidade.md",
     "Obsidian Vault/Plano de Consistência.md",
     "Obsidian Vault/Rizoma.md",
+    "Obsidian Vault/Filosofia da Mente.md",
+    "Psicologia.md",
+    "Obsidian Vault/Emergência.md",
+    "Obsidian Vault/Real.md",
     "Thread Safety.md",
     "Swifto.md",
     "Obsidian Vault/Swift.md",
@@ -309,10 +308,6 @@
     "Axiologia.md",
     "Obsidian Vault/Tomás de Aquino.md",
     "Obsidian Vault/Intencionalidade.md",
-    "Brentano.md",
-    "Fenomenologia.md",
-    "Psicologia.md",
-    "Obsidian Vault/Informação.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

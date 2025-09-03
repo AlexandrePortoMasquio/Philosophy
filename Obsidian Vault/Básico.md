@@ -10,9 +10,9 @@ updated: 2025-09-01
 * As coisas básicas são invariantes e regras de [[Atualização]], sob múltiplas reparametrizações/códigos, que não são essências fixas, mas conjuntos de diferenças que geram o restante. Mas essas próprias diferenças básicas também estão sujeitas ao [[Princípio de Vagueza]].
 - O que conta como “básico” depende do [[Âmbito]] e do critério adotado; pelo [[Princípio de Vagueza]], até a fronteira entre básico/derivado é, em geral, vaga.
 - A [[Metafísica]] busca explicar a realidade mais básica?
-  O mais básico também é o mais [[Simples]]?
+  O mais básico também é o mais [[Simplicidade]]?
 - O mais [[básico]] é o [[Fundamento]] das outras [[Coisa|coisas]]?
-- Diferenciar: [[Básico]] ≠ [[Simples]]. O básico pode ser estruturalmente rico (p.ex., um pequeno conjunto de [[Invariantes]] e simetrias com alto poder gerativo). O simples pode ser apenas pobre em descrição.
+- Diferenciar: [[Básico]] ≠ [[Simplicidade]]. O básico pode ser estruturalmente rico (p.ex., um pequeno conjunto de [[Invariantes]] e simetrias com alto poder gerativo). O simples pode ser apenas pobre em descrição.
 - Em chave de [[Virtualidade]], o básico é um repertório de diferenças reais‑não‑atuais e [[Singularidades e Catástrofes|singularidades]] que organiza as trajetórias de atualização (bacias/[[Atratores]]), de onde emergem formas e funções.
 - Em chave de [[Vacuidade]], o básico não é substância com [[Essência|natureza intrínseca]]; é padrão relacional robusto entre códigos. “Básico” = o que resiste a trocas de descrição mantendo o mesmo papel operacional.
 - Em chave de [[Informação]], o básico coincide com as estruturas que maximizam compressibilidade e poder preditivo: leis/princípios como códigos de alta ordem informacional (relativos a um domínio).

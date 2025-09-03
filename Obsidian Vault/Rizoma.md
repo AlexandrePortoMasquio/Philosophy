@@ -13,7 +13,7 @@ O rizoma é uma estrutura determinada por conexões múltiplas, não hierárquic
 Veja também: [[Mapa Rizomático]] (hub)
 
 ## Princípios (resumo prático)
-- Conexão e heterogeneidade: qualquer ponto liga-se a qualquer outro. Misture domínios — por exemplo, conecte [[Informação]] com [[Psicologia]], [[Filosofia da Mente]] e [[Linguagem]].
+- Conexão e heterogeneidade: qualquer ponto liga-se a qualquer outro. Misture domínios — por exemplo, conecte [[Informação]] com [[Filosofia da Mente]] e [[Linguagem]].
 - Multiplicidade: uma multiplicidade não deriva de uma unidade original; ela é definida pelas dimensões que a compõem. Em notas, pense em feixes de relações, não “definições finais”.
 - Origem da multiplicidade: não deriva de uma unidade anterior; emerge de variações imanentes no “[[Plano de Consistência]]” — isto é, das dimensões e relações diferenciais efetivamente traçadas. Em prática: nasce das conexões que estabelecemos (linhas), não de um centro.
 - Ruptura a‑significante: um rizoma pode ser interrompido e retomar por outra linha sem “perder a essência”. Quebras e retomadas criam novas linhas de variação.
