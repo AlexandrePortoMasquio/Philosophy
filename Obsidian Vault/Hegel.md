@@ -1,3 +1,3 @@
 TODO
 
-TODO [[Dialética]], [[Síntese]]
+TODO [[Dialética Descentralista]], [[Síntese]]
