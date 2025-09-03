@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sabedoria.md",
+                "file": "Obsidian Vault/Virtualidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sabedoria"
+              "title": "Virtualidade"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,7 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sabedoria.md",
+            "file": "Obsidian Vault/Virtualidade.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,10 +287,22 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Motivação.md",
-    "Sabedoria.md",
-    "Axiologia.md",
+    "Obsidian Vault/Plano de Consistência.md",
+    "Obsidian Vault/Rizoma.md",
+    "Thread Safety.md",
+    "Swifto.md",
+    "Obsidian Vault/Swift.md",
     "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian.md",
+    "Obsidian Mobile.md",
+    "MockK.md",
+    "single responsibility.md",
+    "Teste Unitário.md",
+    "SOLID.md",
+    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/KMP.md",
+    "Sabedoria.md",
+    "Motivação.md",
+    "Axiologia.md",
     "Obsidian Vault/Tomás de Aquino.md",
     "Obsidian Vault/Virtualidade.md",
     "Obsidian Vault/Intencionalidade.md",
@@ -301,18 +313,6 @@
     "Obsidian Vault/Forma.md",
     "Obsidian Vault/Cosmologia Informacional.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
-    "Obsidian Vault/Ciência da Computação/Compiladores/Compilador.md",
-    "Falkor (Cidade Fantástica).md",
-    "Selvatéria.md",
-    "Arx-Mare (Cidade Fantástica).md",
-    "Nimbária (Cidade Fantástica).md",
-    "Ferronova.md",
-    "Lúmen-Profundo.md",
-    "Cidades (Fantasia).md",
-    "Obsidian Vault/Fantasia/Rascunhos Fantasia/Orvaluna.md",
-    "Obsidian Vault/Fantasia/Mundo Fantástico.md",
-    "Obsidian Vault/RPG.md",
-    "Jogo.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
