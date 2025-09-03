@@ -11,8 +11,8 @@ updated: 2025-09-03
 - A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez que as coisas [[Real|reais]] [[Emergência|emergem]] da virtualidade.
 
 ## Diferenças
-- Virtualidade ≠ [[Possível]]: a virtualidade é real e estruturada por multiplicidades e singularidades; o possível é um conjunto de alternativas concebíveis que se realizam por semelhança/limitação de um modelo.
-- TODO isso significa que o [[Possível]] é fictício e subjetivo, enquanto o Virtual é real e objetivo?
+- Virtualidade ≠ [[Possível]]: a virtualidade é real e estruturada por multiplicidades e singularidades; o possível é um conjunto de alternativas concebíveis que se realizam por [[Semelhança]]/limitação de um modelo.
+ - Não. [[Possível]] não é “fictício/meramente subjetivo”; é uma categoria conceitual/epistêmica (alternativas representáveis por semelhança a um modelo). No enquadramento deleuziano, o possível é menos que real no sentido ontológico: não opera causalmente até ser escolhido/instanciado. Já o [[Virtual]] é real e objetivo como campo de diferenças que condiciona e orienta as [[Atualização|atualizações]].
 - Passagem: do virtual ao atual ocorre por [[Atualização]] (diferenciação efetiva e individuação); do possível ao real por “realização” (instanciação de uma forma suposta), sem produção necessária de diferença.
 - Critério operativo: chame de virtual quando houver campo de variação com limiares e relações diferenciais que orientam múltiplas atualizações; chame de possível quando tratar de hipóteses modais/epistêmicas comparáveis a um modelo.
 - No cofre: a virtualidade fundamenta a cartografia no [[Plano de Consistência]] e se compõe rizomaticamente (ver [[Rizoma]]); “possível” fica para análises modais locais.
