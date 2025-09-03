@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Dialética Descentralista.md",
+                "file": "Obsidian Vault/Mapa Rizomático.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialética Descentralista"
+              "title": "Mapa Rizomático"
             }
           },
           {
@@ -295,9 +295,11 @@
   },
   "active": "0aaf402f55024991",
   "lastOpenFiles": [
+    "Obsidian Vault/Filosofia da Linguagem.md",
     "Obsidian Vault/Mapa Rizomático.md",
-    "Dialética Hegeliana.md",
+    "Simplicidade.md",
     "Obsidian Vault/Dialética Descentralista.md",
+    "Dialética Hegeliana.md",
     "Obsidian Vault/Hegel.md",
     "Obsidian Vault/Virtualidade.md",
     "hypotheses/001-global-bivalence.md",
@@ -318,8 +320,6 @@
     "Psicologia.md",
     "Obsidian Vault/Tomás de Aquino.md",
     "Obsidian Vault/Ciência da Computação/Compiladores/Compilador.md",
-    "Nimbária (Cidade Fantástica).md",
-    "Lúmen-Profundo.md",
-    "Jogo.md"
+    "Nimbária (Cidade Fantástica).md"
   ]
 }
