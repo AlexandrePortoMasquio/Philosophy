@@ -1,10 +1,10 @@
-# Dialética
+# Conceito
 
-Nota: rascunho em elaboração.
+A dialética é um [[Processo]], baseado na [[Seleção Natural]], pelo qual [[Oposições]] entre [[Tese]] e [[Antítese]] se resolvem em uma [[Síntese]], que conserva [[Vantagem|vantagens]] de ambos, eliminando desvantagens. (TODO continuar)
+
+## Dialética Hegeliana
 
 Em [[Hegel]], a dialética descreve movimento conceitual e histórico por negações determinadas ([[Aufhebung]]): conflitos revelam limites, são superados conservando/transformando conteúdos. Na [[Filosofia da História]], contradições sociais (senhor/[[Escravagismo|escravo]], [[Estado]]/sociedade civil) impulsionam mudanças institucionais.
-
-Influência no [[Sistema Vigente]]: diagnósticos dialéticos tratam instituições como resultados provisórios de tensões (p.ex., entre forças produtivas e formas jurídicas). Reformas e crises aparecem como resoluções temporárias que preservam elementos e reconfiguram outros; a crítica dialética busca onde contradições se acumulam e quais sínteses reorganizam normas e poder.
 
 ## Diferenças
 - Em [[Platão]], método dialético organiza a ascensão a princípios e a divisão de gêneros (diaíresis): contrasta e depura noções rumo a formas estáveis.
