@@ -3,13 +3,23 @@ title: Virtualidade (Deleuze)
 aliases: [Virtualidade]
 tags: [virtualidade, deleuze]
 created: 2025-08-28
-updated: 2025-08-28
+updated: 2025-09-03
 ---
 
 ## Conceito
 - A virtualidade é um [[Campo]] de diferenças puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
 - A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez que as coisas [[Real|reais]] [[Emergência|emergem]] da virtualidade.
 
+## Diferenças
+- Virtualidade ≠ [[Possível]]: a virtualidade é real e estruturada por multiplicidades e singularidades; o possível é um conjunto de alternativas concebíveis que se realizam por semelhança/limitação de um modelo.
+- TODO isso significa que o [[Possível]] é fictício e subjetivo, enquanto o Virtual é real e objetivo?
+- Passagem: do virtual ao atual ocorre por [[Atualização]] (diferenciação efetiva e individuação); do possível ao real por “realização” (instanciação de uma forma suposta), sem produção necessária de diferença.
+- Critério operativo: chame de virtual quando houver campo de variação com limiares e relações diferenciais que orientam múltiplas atualizações; chame de possível quando tratar de hipóteses modais/epistêmicas comparáveis a um modelo.
+- No cofre: a virtualidade fundamenta a cartografia no [[Plano de Consistência]] e se compõe rizomaticamente (ver [[Rizoma]]); “possível” fica para análises modais locais.
+
+Resumo prático
+- Virtual (real): problema estruturado por singularidades e gradientes que pode atualizar‑se de modos diversos.
+- Possível (concebível): alternativa descrita por identidade/semelhança a um modelo, esperando ser escolhida.
 ## Composição: Fluxos de Diferenciação
 - A virtualidade se compõe de relações diferenciais e de fluxos de diferenciação que as percorrem. Esses fluxos são dinâmicas intensivas (gradientes, tensões) que exploram o espaço de possibilidades real.
 - Ao atravessar singularidades (limiares), os fluxos produzem resoluções morfogenéticas: séries que se atualizam em [[Forma]] sob condições materiais e de [[Informação]].
