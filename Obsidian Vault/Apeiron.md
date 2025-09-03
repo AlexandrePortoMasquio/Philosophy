@@ -7,6 +7,8 @@ updated: 2025-08-28
 Ver também: [[Anaximandro]].
 ## Ideia
 - O indeterminado (ἄπειρον) como princípio gerador: potencialidade inesgotável de diferenciações.
+## O Apeiron é mais [[Básico]] que a [[Diferença]] e [[Identidade]]?
+* TODO argumentos a favor e contra.
 
 ## Argumentação
 - "Ilimitado" como archê: princípio primordial não‑determinado do qual as formas se diferenciam sob [[Critérios Naturais]].

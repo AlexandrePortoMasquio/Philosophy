@@ -95,10 +95,14 @@
             "id": "0aaf402f55024991",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Apeiron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apeiron"
             }
           },
           {
@@ -291,6 +295,7 @@
   },
   "active": "0aaf402f55024991",
   "lastOpenFiles": [
+    "Obsidian Vault/Síntese.md",
     "Sabedoria.md",
     "Obsidian Vault/Conhecimento.md",
     "Obsidian Vault/Mapa Rizomático.md",
@@ -315,7 +320,6 @@
     "Obsidian Vault/Vagueza.md",
     "Selvatéria.md",
     "Psicologia.md",
-    "Obsidian Vault/Tomás de Aquino.md",
-    "Obsidian Vault/Ciência da Computação/Compiladores/Compilador.md"
+    "Obsidian Vault/Tomás de Aquino.md"
   ]
 }
