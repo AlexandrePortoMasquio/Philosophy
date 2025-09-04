@@ -34,9 +34,9 @@ Resumo prático
 - [[Atratores]]: conjuntos/estados para onde dinâmicas convergem; dão estabilidade a padrões atualizados (formas, funções, regras de ação).
 - [[Invariantes]]: quantidades/estruturas preservadas ao longo das trajetórias; permitem identificar “o mesmo” através de variação e fundamentam critérios naturais de forma.
 
-
 ## Ligações
-- Baseia-se no [[Apeiron]] (indeterminação fértil)
+* Baseia-se na [[Ontologia da Diferença]]
+- Baseia-se no [[Apeiron]] ([[Indeterminação]] fértil)
 - Do Apeiron, [[Emergência|emergem]] [[Fluxo de Diferenciação|fluxos de diferenciação]], que são [[Continuidade|contínuos]], [[Infinitude|não-finitos]] e [[Relação|não-relacionais]].
 - Relaciona-se ao [[Mundo das Formas]]; [[Forma]] emergem da [[Diferença]].
 - [[Informação]] (diferenças estruturadas).

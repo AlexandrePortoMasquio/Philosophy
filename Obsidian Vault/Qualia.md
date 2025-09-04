@@ -4,8 +4,7 @@ tags: [mente, qualia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
-## Ideia
+# Qualia
 - Aspectos qualitativos da experiência em primeira pessoa (o “como é” sentir/experienciar).
 - No [[Pampsiquismo]], ou até no [[Pamprotopsiquismo]] ([[David Chalmers]]), nem todo qualia é necessariamente [[Subjetivo]], podendo ser [[Primordial|primordiais]].
 - O [[Pampsiquismo Informacional]] considera que [[Qualia]] são a mesma coisa que [[Informação]].

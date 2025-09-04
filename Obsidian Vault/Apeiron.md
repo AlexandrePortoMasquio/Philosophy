@@ -19,7 +19,8 @@ Ver também: [[Anaximandro]].
 - [[Brahman]] aqui designa o fim do processo: a culminação criadora — um criador livre e onipotente que emerge historicamente de [[Maya]].
 - Assim, início ≠ fim; indeterminado ≠ criador livre. A confusão entre ambos (comum em leituras do hinduísmo) mistura conceitos distintos.
 ## Ligações
-- [[Virtualidade]] (potência de atualização)
+* Baseia-se no [[Racionalismo Naturalista]]
+- Baseia a [[Virtualidade]] (potência de atualização)
 - [[Informação]] (estrutura de diferenças que atualiza o indeterminado)
 - [[Cosmologia Informacional]] (quadro geral)
 - Ver também: [[Maya]], [[Brahman]], [[Diferenciação]], [[Realidade]].

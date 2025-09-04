@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Campo.md",
+                "file": "Obsidian Vault/Qualia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campo"
+              "title": "Qualia"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,6 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Obsidian Vault/Qualia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -286,9 +287,13 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Potência.md",
+    "Obsidian Vault/Ontologia da Diferença.md",
     "Obsidian Vault/Virtualidade.md",
-    "Obsidian Vault/Rizoma.md",
+    "Obsidian Vault/Apeiron.md",
     "Obsidian Vault/Mundo das Formas.md",
+    "Obsidian Vault/Campo.md",
+    "Obsidian Vault/Rizoma.md",
     "Obsidian Vault/Diferença.md",
     "Obsidian Vault/Cosmologia Informacional.md",
     "Obsidian Vault/Seleção Natural.md",
@@ -304,14 +309,10 @@
     "Obsidian Vault/Operação.md",
     "Obsidian Vault/Invariantes.md",
     "Obsidian Vault/Ciência da Computação/Sistemas Distribuídos/Tolerância a Falhas.md",
-    "Obsidian Vault/Campo.md",
     "Obsidian Vault/Atual.md",
     "Conceito.md",
     "(DELETAR).md",
     "(DELETAR 2).md",
-    "Obsidian Vault/Mapa Rizomático.md",
-    "Obsidian Vault/Realidade.md",
-    "Intensidade.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
