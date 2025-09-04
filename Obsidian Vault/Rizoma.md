@@ -5,7 +5,6 @@ tags: [conceito, método, rizoma]
 created: 2025-08-30
 updated: 2025-09-03
 ---
-
 # Rizoma
 
 O rizoma é uma estrutura determinada por conexões múltiplas, não hierárquicas e sempre expansíveis. Em vez de uma árvore com tronco e raízes únicas (modelo arborescente), o rizoma espalha-se lateralmente, formando redes onde qualquer ponto pode conectar-se a qualquer outro. Essa noção (inspirada botânica e desenvolvida por Deleuze e Guattari em “Mil Platôs”) serve como método de investigação, escrita e organização do conhecimento.

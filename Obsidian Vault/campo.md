@@ -6,8 +6,7 @@ tags:
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
-## Conceito
+# Campo
 - Estrutura de possibilidades/forças que organiza variações e trajetórias; no contexto da [[Virtualidade]], é o campo de diferenciação real.
 - [[Campo Conceitual]]
 

@@ -4,8 +4,7 @@ tags: [diferença, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
-## Ideia
+# Diferença
 - Diferença como fundamento ontológico: é o que estrutura o real; [[Forma]] emergem dela e são padrões diferenciais.
 
 ## Nota (Deleuze)
