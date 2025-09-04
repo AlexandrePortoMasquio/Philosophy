@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste Unitário.md",
+                "file": "Obsidian Vault/Ciência da Computação/Aprendizado de Máquina/Aprendizado Não Supervisionado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste Unitário"
+              "title": "Aprendizado Não Supervisionado"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,7 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Teste Unitário.md",
+            "file": "Obsidian Vault/Ciência da Computação/Aprendizado de Máquina/Aprendizado Não Supervisionado.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,13 +287,16 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "MockK.md",
-    "Teste Unitário.md",
+    "Obsidian Vault/Ciência da Computação/Criptografia/Funções Hash.md",
+    "Obsidian Vault/Ciência da Computação/Estruturas de Dados/Grafo.md",
+    "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Paradigmas.md",
+    "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
+    "Teste Unitário.md",
+    "MockK.md",
     "Testes Unitário.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Testes.md",
     "Testes Unitários.md",
-    "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
     "Obsidian Vault/Qualia.md",
     "Potência.md",
     "Obsidian Vault/Ontologia da Diferença.md",
@@ -310,9 +313,6 @@
     "Devir.md",
     "Identificação.md",
     "Obsidian Vault/Diferenciação.md",
-    "Obsidian Vault/Singularidade.md",
-    "singularidades e consolidando [[Informação.md",
-    "Processo.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
