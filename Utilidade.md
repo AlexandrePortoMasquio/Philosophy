@@ -43,6 +43,7 @@ updated: 2025-09-01
 ## Observações
 - Dependente de contexto e escala temporal; pode entrar em conflito entre agentes.
 - Não confundir utilidade funcional com juízo moral; aqui é critério operacional.
+- Encadeamento: depende do [[Espaço-Tempo|tempo]] para ser mensurada/realizada; o tempo, por sua vez, emerge da [[Entropia Informacional]]. Logo, utilidade não fundamenta entropia.
 
 ## Perguntas abertas
 - Quais métricas mínimas de utilidade sob ruído e canal limitado?

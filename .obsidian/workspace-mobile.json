@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
+                "file": "Obsidian Vault/Entropia Informacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Entropia Informacional"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,7 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
+            "file": "Obsidian Vault/Entropia Informacional.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,6 +287,12 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Aleatoriedade.md",
+    "Obsidian Vault/Entropia Informacional.md",
+    "Obsidian Vault/Entropia Energética.md",
+    "Obsidian Vault/Energia.md",
+    "Obsidian Vault/Cosmologia Informacional.md",
+    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
     "Obsidian Vault/Mapa Rizomático.md",
     "Obsidian Vault/Virtualidade.md",
     "Devir.md",
@@ -295,7 +301,6 @@
     "Obsidian Vault/Organismo e Máquina.md",
     "Obsidian Vault/Teleologia Naturalista.md",
     "Obsidian Vault/Seleção Natural.md",
-    "Obsidian Vault/Cosmologia Informacional.md",
     "Obsidian Vault/Mundo das Formas.md",
     "Obsidian Vault/Apeiron.md",
     "Obsidian Vault/Ontologia da Diferença.md",
@@ -306,13 +311,8 @@
     "Obsidian Vault/Ciência da Computação/Estruturas de Dados/Grafo.md",
     "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Paradigmas.md",
     "Obsidian Vault/Ciência da Computação/Ciência da Computação.md",
-    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
     "Teste Unitário.md",
     "MockK.md",
-    "Testes Unitário.md",
-    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Testes.md",
-    "Testes Unitários.md",
-    "Obsidian Vault/Qualia.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
