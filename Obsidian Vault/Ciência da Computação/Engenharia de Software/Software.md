@@ -23,4 +23,5 @@ updated: 2025-08-29
 - TODO Qual a diferença entre software e [[programa]]?
 
 ## Ligações
-- [[Engenharia de Software]], [[Arquitetura de Software]], [[Processos]], [[Testes]], [[DevOps]] (observabilidade/entrega), [[Padrões de Projeto]], [[Sistema Operacional]].
+- [[Engenharia de Software]], [[Arquitetura de Software]], [[Processos]], [[Testes]], [[DevOps]] (observabilidade/entrega), [[Padrões de Projeto]], [[Sistema Operacional]]. [[Testes]]
+- [[Teste Unitário]]
