@@ -1,4 +1,5 @@
-
+# Singularidade
+Na perspectiva da [[Ontologia da Diferença]], singularidade é um ponto/estrutura crítica do campo de [[Virtualidade]] que regula séries e orienta trajetórias de [[Devir]]. É pré‑individual e intensiva: não é um indivíduo/identidade, mas um nó de condições (limiar, direção, máxima/mínima) que organiza a passagem virtual→atual.
 ## Ideia
 - Duplo sentido principal:
   - Singularidades morfogenéticas: pontos/estruturas críticas que orientam a organização de formas (ver [[Singularidades e Catástrofes]]).

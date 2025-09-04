@@ -4,11 +4,16 @@ tags: [teleologia, função]
 created: 2025-08-28
 updated: 2025-08-28
 ---
+# Teleologia Naturalista
 
-## Ideia
-- Finalidades como efeitos selecionados naturalmente: “para que” algo existe/funciona = o efeito cuja produção foi selecionada ao longo de [[Seleção]]/[[Seleção Natural]].
+A teleologia naturalista é a tese que afirma que a [[Seleção Natural]] produz [[Finalidade|finalidades]] [[Natureza|naturais]] (TODO continuar)
+
+Finalidades como efeitos selecionados naturalmente: “para que” algo existe/funciona = o efeito cuja produção foi selecionada ao longo de [[Seleção]]/[[Seleção Natural]].
 
 ## Ligações
+* É derivada da [[Seleção Natural]]
+* Altamente compatível com [[Racionalismo Naturalista]]
+* É uma forma de [[Naturalismo]]
 - Conecta [[Organismo e Máquina]], [[Informação]] (forma/controle), [[Desejo]] (teleologia consciente), [[Controle]], [[Função Natural]], [[Teleosemântica]], [[Praxeologia|Naturalismo Praxeológico]].
 
 ## Exemplos

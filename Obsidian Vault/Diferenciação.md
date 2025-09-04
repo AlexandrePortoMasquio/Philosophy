@@ -4,8 +4,9 @@ tags: [diferenciação, deleuze, processo]
 created: 2025-08-31
 updated: 2025-08-31
 ---
-
-## Ideia
+# Diferenciação
+- Processo real que resolve o [[Virtualidade|virtual]] no [[Atual|atual]]. Não é um estado (conteúdo) nem uma forma pronta, mas a [[Operação|operação]] de intensidades que atravessa [[Singularidade|singularidades]] até estabilizações em [[Forma]].
+- A diferenciação não é nem totalmente virtual (conteúdo) nem atual (estado), mas processo real de passagem do virtual para o atual; opera em regime intensivo atravessando [[Singularidade|singularidades]] e consolidando [[Forma|formas]].
 - Em [[Deleuze]], diferenciação é o processo real que atualiza o virtual: dinamismos intensivos que percorrem multiplicidades e produzem [[Forma]] sem recorrer a identidades prévias.
 - Opera por variações contínuas, gradientes e singularidades (limiares) que guiam trajetórias de [[Atualização]].
 
