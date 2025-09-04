@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Ciência da Computação/Aprendizado de Máquina/Aprendizado Não Supervisionado.md",
+                "file": "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizado Não Supervisionado"
+              "title": "Software"
             },
             "group": "899c4c0df570b116"
           }
@@ -231,7 +231,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Ciência da Computação/Aprendizado de Máquina/Aprendizado Não Supervisionado.md",
+            "file": "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,6 +287,21 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian Vault/Virtualidade.md",
+    "Devir.md",
+    "Obsidian Vault/Diferenciação.md",
+    "Sabedoria.md",
+    "Obsidian Vault/Organismo e Máquina.md",
+    "Obsidian Vault/Teleologia Naturalista.md",
+    "Obsidian Vault/Seleção Natural.md",
+    "Obsidian Vault/Cosmologia Informacional.md",
+    "Obsidian Vault/Mundo das Formas.md",
+    "Obsidian Vault/Apeiron.md",
+    "Obsidian Vault/Ontologia da Diferença.md",
+    "Potência.md",
+    "(DELETAR 2).md",
+    "Obsidian Vault/Ciência da Computação/Aprendizado de Máquina/Aprendizado Não Supervisionado.md",
     "Obsidian Vault/Ciência da Computação/Criptografia/Funções Hash.md",
     "Obsidian Vault/Ciência da Computação/Estruturas de Dados/Grafo.md",
     "Obsidian Vault/Ciência da Computação/Linguagens de Programação/Paradigmas.md",
@@ -298,21 +313,6 @@
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Testes.md",
     "Testes Unitários.md",
     "Obsidian Vault/Qualia.md",
-    "Potência.md",
-    "Obsidian Vault/Ontologia da Diferença.md",
-    "Obsidian Vault/Virtualidade.md",
-    "Obsidian Vault/Apeiron.md",
-    "Obsidian Vault/Mundo das Formas.md",
-    "Obsidian Vault/Campo.md",
-    "Obsidian Vault/Rizoma.md",
-    "Obsidian Vault/Diferença.md",
-    "Obsidian Vault/Cosmologia Informacional.md",
-    "Obsidian Vault/Seleção Natural.md",
-    "Obsidian Vault/Teleologia Naturalista.md",
-    "Obsidian Vault/Organismo e Máquina.md",
-    "Devir.md",
-    "Identificação.md",
-    "Obsidian Vault/Diferenciação.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

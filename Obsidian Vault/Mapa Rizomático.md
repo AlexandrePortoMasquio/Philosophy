@@ -25,6 +25,7 @@ Pontos de partida:
 - [[Filosofia da Linguagem]]
 - [[Sabedoria]]
 - [[Psicologia]]
+- [[Software]]
  
 Livro → Conceitos
 - Epistemologia: [[Racionalismo Naturalista]] · [[Empirismo Naturalista]] · [[Proposição]] · [[Justificação]] · [[Denotação]]
