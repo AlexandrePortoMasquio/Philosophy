@@ -1,10 +1,16 @@
-# Perguntas e Respostas
+# Entropia Informacional - Perguntas e Respostas
 
 ## Pergunta:
 * O que é dispersão de informação?
-## Resposta:
-* Ontológico (descentralista): saldo de forma que não se estabiliza como padrão sob invariantes naturais (simetrias, conservações, causalidades). É o “espalhamento” do real que resiste à síntese por leis/estruturas.
-* Em suma: dispersão é o quanto foge a padrões estáveis e previsíveis; ordem é o complementar (padrões que permitem síntese/compressão sem perder o essencial).
+### Resposta:
+* Ontológico (descentralista): quantidade de forma que não se estabiliza como padrão, ou seja, que não aumenta exponencialmente sua [[Transmissibilidade]].
+
+## Pergunta:
+* Se a [[Entropia Informacional]] descentralista baseia o conceito de [[Dispersão de Informação]] no de [[Transmissibilidade]], então isso implica que a [[Seleção Natural]] é a base da [[Entropia Informacional]], e não o contrário?
+* Isso implica que a Seleção Natural não depende do [[Tempo]], mas sim baseia o tempo? Como?
+
+### Resposta:
+* TODO
 ## Pergunta:
 * O que é [[Compressão de Informação]]
 ## Pergunta:
