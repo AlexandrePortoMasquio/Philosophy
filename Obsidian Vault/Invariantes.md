@@ -10,7 +10,7 @@ updated: 2025-08-28
 
 
 ## Ligações
-- Conectam-se a [[Informação]] (codificação de padrões) e [[Compressão]].
+- Conectam-se a [[Informação]] (codificação de padrões) e [[Compressão de Informação]].
 - Operam junto com [[Atratores]] na estabilidade das formas.
 
 ## Notas

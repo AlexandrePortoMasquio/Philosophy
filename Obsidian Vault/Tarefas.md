@@ -6,6 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Próximas Ações
+- [ ] Dar Definições não-circulares de [[Ruído]] e [[Entropia informacional]].
 - [ ] Informação: formalizar condições (Canal e Fidelidade) com exemplos simples e pequenas fórmulas verbais (canal binário com ruído).
 - [ ] Formas: exemplificar invariantes por domínio (geometria, linguagem, modelos) e ligação com Topologia das Formas.
 - [ ] Virtualidade/Continuidade: escrever 1 exemplo de [[Singularidades e Catástrofes]] (p.ex., dobra/cúspide) aplicado a conceitos.

@@ -11,7 +11,7 @@ updated: 2025-08-28
 - Em escalas mais grossas, diferenças sutis se tornam indistintas (mais compressão, menos detalhe); em escalas finas, aumentam limiares e bordas.
 
 ## Ligações
-- Relaciona-se a [[Informação]] (detalhe vs compressão) e [[Compressão]].
+- Relaciona-se a [[Informação]] (detalhe vs compressão) e [[Compressão de Informação]].
 - Interage com [[Vagueza]] e [[Sorites]] (limiares dependentes de escala).
 - Conecta-se a [[Mundo das Formas]] e [[Diferença]] (padrões multi-escala).
 - Complementa [[Continuidade]] (passagens suaves entre escalas).

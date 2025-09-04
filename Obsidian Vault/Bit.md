@@ -10,4 +10,4 @@ updated: 2025-08-28
 - [[Wolfram]] considera o bit a coisa mais básica que constitui o universo?
 
 ## Ligações
-- Conecta [[Shannon]], [[Compressão]], [[Código]], [[Capacidade de Canal]].
+- Conecta [[Shannon]], [[Compressão de Informação]], [[Código]], [[Capacidade de Canal]].

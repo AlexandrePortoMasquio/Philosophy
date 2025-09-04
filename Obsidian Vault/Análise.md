@@ -10,6 +10,6 @@ updated: 2025-08-28
 
 ## Ligações
 - Complementa [[Virtualidade]] e [[Diferença]] ao tornar explícitas as variações e seus critérios.
-- Apoia [[Forma]] (identificação de padrões) e [[Informação]] (codificação/medidas como [[Compressão]]).
+- Apoia [[Forma]] (identificação de padrões) e [[Informação]] (codificação/medidas como [[Compressão de Informação]]).
 - Útil para distinguir [[Vagueza]] genuína de falta de definição operacional; relaciona-se a [[Vagueza de Ordem Superior]].
 - Conecta com [[Controle]] e [[Descentralismo]] quando define critérios/feedbacks explícitos.

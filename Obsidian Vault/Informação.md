@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- [[Mapa Rizomático]] · [[Forma]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
+- [[Mapa Rizomático]] · [[Forma]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão de Informação]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
 
 ## Ideia
 - Informação é forma transmissível.
@@ -25,7 +25,7 @@ updated: 2025-08-28
 - Suporta [[Diferença]] e [[Forma]] como padrões diferenciais codificados.
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
 - Equivalência operacional: informação ≈ [[Forma]] quando há [[Transmissão de Informação]].
-- Compressibilidade: liga-se a [[Compressão]] como heurística de estrutura e a [[Invariantes]].
+- Compressibilidade: liga-se a [[Compressão de Informação]] como heurística de estrutura e a [[Invariantes]].
  - Relaciona-se a [[Repetição]] (padrões recorrentes favorecem compressibilidade e transmissibilidade).
 
 ## [[Shannon]]

@@ -11,4 +11,4 @@ updated: 2025-08-28
 - TODO elaborar computação em [[Wolfram]]
 
 ## Ligações
-- Conecta [[Wolfram]], [[Informação]], [[Compressão]] e [[Critérios Naturais]].
+- Conecta [[Wolfram]], [[Informação]], [[Compressão de Informação]] e [[Critérios Naturais]].

@@ -9,5 +9,5 @@ updated: 2025-08-28
 - Taxa máxima de transmissão confiável em um canal sob ruído; conceito de Shannon.
 
 ## Ligações
-- Conecta [[Canal e Fidelidade]], [[Shannon]], [[Código]], [[Ruído]], [[Compressão]].
+- Conecta [[Canal e Fidelidade]], [[Shannon]], [[Código]], [[Ruído]], [[Compressão de Informação]].
 

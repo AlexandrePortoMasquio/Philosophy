@@ -6,17 +6,19 @@ updated: 2025-09-04
 ---
 # Entropia Informacional
 
-- Medida da dispersão/[[Aleatoriedade]] residual relativa a um código/modelo: quanto do estado não é capturado nem previsto (ruído) pelo código vigente.
-- Une duas leituras complementares: [[Shannon]] (incerteza média H, entropia condicional H(·|·), informação mútua) e [[Complexidade de Kolmogorov]] (compressibilidade/descrição mínima de um objeto).
-- Ordem informacional é o complementar: estrutura/compressibilidade e poder preditivo de um código; aprender reduz entropia condicional ao internalizar correlações (converter ruído em sinal).
+- A entropia informacional, na perspectiva [[Descentralismo|descentralista]] adotada aqui, é [[Objetivo|objetiva]] e intrínseca à informação, e não relativa a um modelo ou um código, como a [[Entropia de Shannon]]. Pelo mesmo motivo, a entropia informacional descentralista não usa o conceito de [[Incerteza]], já que essa é relativa a um modelo.
+- Mais respostas em [[Entropia Informacional - Perguntas e Respostas]]
+## Definição descentralista (ontológica)
+- Objetiva e não relativa ao observador: diferentes modelos locais podem divergir, mas todos são constrangidos pelas mesmas regras naturais; o resíduo que persiste apesar desses modelos caracteriza a entropia informacional?
+- Complementar de ordem: ordem informacional é a estabilização de padrões que conservam diferenças úteis; entropia informacional é o saldo de variação que não foi capturado por tais padrões.
+- Seta do tempo: cresce globalmente com a acumulação de contingências e misturas; pode cair localmente quando processos de seleção e aprendizado descobrem ou formam novos padrões estáveis.
+- Operacionalidade: na prática, aproximamos esta noção buscando descrições parcimoniosas que preservem o essencial e separem o que é apenas contingente; medidas estatísticas ajudam como instrumentos, mas não constituem a definição ontológica.
 
-## Formalizações (curtas)
-- H(X): incerteza média de X; H(Y|X): incerteza residual de Y dado X (ruído relativo a X).
-- I(X;Y): correlação útil entre X e Y; quanto maior, mais sinal/ordem informacional entre as variáveis.
-- K(s): tamanho do menor programa que gera s; aproxima-se por [[Compressão]]; strings pouco compressíveis têm alta entropia algorítmica.
-- Critério prático: MDL (descrição mínima) e erro preditivo out-of-sample — bons códigos minimizam ambos.
+## Relação com leituras clássicas
+- Shannon: oferece medidas relativas a modelos e canais que são excelentes ferramentas operacionais (incerteza, correlação), mas não esgotam a definição ontológica aqui adotada.
+- Kolmogorov/descrição mínima: captura a intuição de que padrões reais permitem simplificação objetiva; quanto menos um estado admite ser simplificado à luz das leis, maior o seu saldo de dispersão informacional.
 
-## Dinâmica e seta do tempo
+## Seta do tempo
 - Em sistemas fechados, sob coarse-graining fixo, a entropia informacional tende a crescer (perda de distinções, irreversibilidade sob o código). A seta do tempo é o acúmulo de traços/seleções.
 - Códigos que evoluem podem reduzir entropia local (capturando novas correlações), enquanto o saldo global de ruído relativo a códigos mais pobres pode aumentar.
 
@@ -34,7 +36,7 @@ updated: 2025-09-04
 ## Ligações
 - Conecta [[Informação]] e processos de atualização em [[Virtualidade]].
 - Importante para [[Descentralismo]] (feedbacks, ruído vs sinal).
-- Relaciona-se a [[Compressão]] (ordem vs dispersão; redundância vs ruído).
+- Relaciona-se a [[Compressão de Informação]] (ordem vs dispersão; redundância vs ruído).
 - Relaciona [[Cosmologia Informacional]], [[Controle]] e [[Lei da Variedade Requisitada]].
 
 ## Fontes externas (referência)

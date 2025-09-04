@@ -26,7 +26,7 @@ Veja também: [[Mapa Rizomático]] (hub)
 ## Como escrever em modo rizomático
 1) Atomize ideias: quebre conceitos em notas curtas (uma ideia por arquivo), como [[Conceito]], [[Operador]], [[Finalidade]], [[Proposição]].
 2) Linke sem pudor: se uma frase acena para outro tema, crie o link agora; refine depois.
-3) Varie por vizinhança: abra uma nota e pergunte “o que toca isto?”; crie derivados (ex.: de [[Informação]] para [[Capacidade de Canal]], [[Ruído]], [[Redundância]], [[Compressão]]).
+3) Varie por vizinhança: abra uma nota e pergunte “o que toca isto?”; crie derivados (ex.: de [[Informação]] para [[Capacidade de Canal]], [[Ruído]], [[Redundância]], [[Compressão de Informação]]).
 4) Registre linhas, não árvores: em vez de “sumários definitivos”, mantenha trilhas: listas curtas de saltos úteis sob o contexto atual.
 5) Prefira mapas vivos: concentre rotas em [[Mapa Rizomático]] e outros MOCs contextuais (p. ex., “[[Filosofia da Mente]] ↔ [[Linguagem]] ↔ [[Psicologia]]”).
 

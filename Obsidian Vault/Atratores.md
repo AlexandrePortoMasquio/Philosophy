@@ -11,5 +11,5 @@ updated: 2025-08-28
 
 ## Conexões
 - Explicam a [[Persistência]] de formas ao lado de [[Invariantes]].
-- Relacionam-se a [[Informação]] e [[Compressão]] via regularidade/estrutura repetível.
+- Relacionam-se a [[Informação]] e [[Compressão de Informação]] via regularidade/estrutura repetível.
 - Conectam [[Virtualidade]] (produção do novo) a padrões estáveis.

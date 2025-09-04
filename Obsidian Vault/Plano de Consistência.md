@@ -45,7 +45,7 @@ Veja também: [[Rizoma]] · [[Virtualidade]] · [[Mapa Rizomático]]
 - [[Rizoma]]: o rizoma é o modo de composição no plano; suas linhas desenham cartografias parciais.
 - [[Diferença]] · [[Variação]] · [[Singularidade]]: unidades operativas do plano (marcam direções e dobras de devir).
 - [[Atratores]] · [[Invariantes]] · [[Topologia das Formas]]: maneiras de descrever consistências que emergem por composição.
-- [[Informação]] · [[Forma]] · [[Compressão]]: quando um padrão “se segura”, ele pode ser descrito informacionalmente sem perder a abertura à variação.
+- [[Informação]] · [[Forma]] · [[Compressão de Informação]]: quando um padrão “se segura”, ele pode ser descrito informacionalmente sem perder a abertura à variação.
 - [[Estratos]] · [[Territorialização]] · [[Desterritorialização]]: movimentos entre estabilizar e reabrir o fluxo.
 
 ## Operação no cofre (prática)

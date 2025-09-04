@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 
 ## Mapa Rápido
-- [[Computação]] · [[Informação]] · [[Complexidade de Kolmogorov]] · [[Compressão]] · [[Critérios Naturais]]
+- [[Computação]] · [[Informação]] · [[Complexidade de Kolmogorov]] · [[Compressão de Informação]] · [[Critérios Naturais]]
 - ↓ [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
 
 ## Ideia
@@ -18,7 +18,7 @@ updated: 2025-08-28
 * [[Wolfram]] considera algoritmos a base da [[Física]]
 - Como forma operacional, reflete [[../../Forma]] aplicadas a processos (formas de transformação).
 - Critérios de escolha algorítmica podem seguir [[Critérios Naturais]] (simplicidade, robustez) em vez de autoridade.
-- [[Repetição]] e padrões estruturais favorecem estratégias como Programação Dinâmica e [[Compressão]].
+- [[Repetição]] e padrões estruturais favorecem estratégias como Programação Dinâmica e [[Compressão de Informação]].
 
 ## Paradigmas
 - Guloso: otimização local visando bom global quando propriedades (matroide, subestrutura ótima) valem.
@@ -31,4 +31,4 @@ updated: 2025-08-28
 - Abaixo: [[Engenharia de Software/Testes|Testes]] (corretude), [[Engenharia de Software/Processos|Processos]] (análise/medição), [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] (adequação ao contexto).
 
 ## Referências sugeridas
-- [[Complexidade de Kolmogorov]]; [[Shannon]] (trade-offs de informação); notas de [[Compressão]].
+- [[Complexidade de Kolmogorov]]; [[Shannon]] (trade-offs de informação); notas de [[Compressão de Informação]].

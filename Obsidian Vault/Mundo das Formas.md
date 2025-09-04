@@ -23,7 +23,7 @@ updated: 2025-08-28
 ## Referências sugeridas
 - [[Thom]] (morfogênese), Klein/Cartan (simetrias), Shannon/Kolmogorov (informação/complexidade)
 ## Mapa Rápido
-- [[Forma]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
+- [[Forma]] · [[Diferença]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]]
 
 ## Perguntas Abertas
 - Quais invariantes são relevantes para formas conceituais (não físicas)?

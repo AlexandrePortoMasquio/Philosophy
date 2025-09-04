@@ -17,7 +17,7 @@ Pontos de partida:
 * [[Metafísica]] · [[Simplicidade]] ·  [[Apeiron]] · [[Ontologia da Diferença]] · 
 * [[Rizoma]]
 - [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]
-- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão]] · [[Repetição]] · [[Topologia das Formas]]
+- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] [[Entropia Informacional]]
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
 - [[Dialética Descentralista]]
@@ -37,7 +37,7 @@ Livro → Conceitos
 
 Glossário Rápido
 - Informação/Comunicação: [[Bit]] · [[Código]] · [[Ruído]] · [[Capacidade de Canal]] · [[Redundância]]
-- Estrutura/Forma: [[Atratores]] · [[Invariantes]] · [[Topologia das Formas]] · [[Compressão]]
+- Estrutura/Forma: [[Atratores]] · [[Invariantes]] · [[Topologia das Formas]] · [[Compressão de Informação]]
 
 Paradigmas:
 - [[Computação]] · [[Matemática]] · [[Topologia]] · [[Modularidade]] · [[Abstração]] · [[Análise]]

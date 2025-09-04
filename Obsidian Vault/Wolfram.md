@@ -10,4 +10,4 @@ updated: 2025-08-28
 - TODO [[Espaço-Tempo]] em Wolfram.
 
 ## Ligações
-- Relaciona [[Informação]], [[Compressão]], [[Critérios Naturais]] e [[Topologia das Formas]].
+- Relaciona [[Informação]], [[Compressão de Informação]], [[Critérios Naturais]] e [[Topologia das Formas]].

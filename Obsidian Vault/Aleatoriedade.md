@@ -6,13 +6,13 @@ updated: 2025-09-04
 ---
 # Aleatoriedade
 
-- Ausência de padrão útil relativa a um [[Código]]/modelo: o que não é capturado nem previsto ("[[Ruído]]") pelo código vigente é percebido como aleatório.
+- Ausência de padrão útil (capaz de reduzir [[Entropia Condicional]]/erro preditivo out‑of‑sample e aumentar compressibilidade sob parcimônia/MDL) relativa a um [[Código]]/modelo: o que não é capturado nem previsto ("[[Ruído]]") pelo código vigente é percebido como aleatório.
 - Três intuições equivalentes, sob condições: imprevisibilidade (não antecipável), incompressibilidade (não resumível) e equiprovabilidade (distribuição máxima de incerteza dada as restrições).
 - Na [[Cosmologia Informacional]], aleatoriedade é saldo de variação não codificada em processos que atualizam a [[Virtualidade]]; conecta-se à [[Entropia Informacional]].
 
 ## Perspectivas
 - Estatística (Shannon): aleatório = alta incerteza H; para variáveis discretas com suporte finito e sem restrições, o máximo é a distribuição uniforme.
-- Algorítmica (Kolmogorov‑Chaitin): aleatório = incompressível; um objeto é aleatório se não admite descrição significativamente menor que ele mesmo (ver [[Complexidade de Kolmogorov]]); testes de [[Compressão]] aproximam.
+- Algorítmica (Kolmogorov‑Chaitin): aleatório = incompressível; um objeto é aleatório se não admite descrição significativamente menor que ele mesmo (ver [[Complexidade de Kolmogorov]]); testes de [[Compressão de Informação]] aproximam.
 - Epistêmica vs Ontológica: imprevisibilidade por ignorância/modelo limitado vs indeterminação física (ex.: fenômenos quânticos). Em prática, tratamos como relativa ao código/observador.
 
 ## Independência de utilidade
@@ -45,7 +45,7 @@ updated: 2025-09-04
 - Tomar ruído de sensor sem des‑biasing; ignorar vieses e correlações temporais.
 
 ## Ligações
-- Conceitos: [[Informação]], [[Entropia Informacional]], [[Compressão]], [[Complexidade de Kolmogorov]], [[Código]], [[Ruído]], [[Computação]].
+- Conceitos: [[Informação]], [[Entropia Informacional]], [[Compressão de Informação]], [[Complexidade de Kolmogorov]], [[Código]], [[Ruído]], [[Computação]].
 - Métodos: [[Probabilidade]], [[Estatística]], [[Aprendizado de Máquina]] (ruído/regularização), [[Simulação]].
 - Sistemas: [[Criptografia]], [[Controle]] e [[Lei da Variedade Requisitada]] (variedade/ruído vs capacidade de discriminação).
 

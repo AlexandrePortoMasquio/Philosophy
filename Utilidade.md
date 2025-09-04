@@ -4,8 +4,7 @@ tags: [praxeologia, valor, decisão]
 created: 2025-09-01
 updated: 2025-09-01
 ---
-
-## Ideia
+# Utilidade
 - Capacidade de um [[Recurso]] contribuir para uma [[Finalidade]]; medida funcional/operacional do “para que serve” relativa à [[Finalidade]].
 - No [[Arcabouço]] do [[Racionalismo Naturalista]] e [[Teleologia Naturalista]], a utilidade emerge de efeitos que mantêm/atraem estados‑alvo sob restrições de [[Informação]] e custo.
 
