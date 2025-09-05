@@ -2,9 +2,9 @@ A gratidão multiplica o valor que já existe.
 
 Sou grato por estar vivo, ser uma vida inteligente no meio de todo o universo que ainda não desenvolveu inteligência. Eu, uma vida inteligente, tenho propósito e dou propósito à natureza que me criou.
 
-Sou grato pela minha saúde. Posso comer comida saudável, respirar ar puro, fazer exercícios e natação diariamente. Meu corpo é totalmente funcional.
+Sou grato pela minha saúde. Posso comer comida saudável, respirar ar puro, fazer exercícios diariamente. Meu corpo é totalmente funcional, inclusive o cérebro.
 
-Sou grato pela minha inteligência, meu qi está acima da média de qualquer país, mesmo nos testes com menor pontuação. Eu tenho inteligência suficiente para me tornar bom em qualquer habilidade ou atividade. Incluindo escrever, falar, desenhar, e investir.
+Sou grato pela minha inteligência, meu qi está acima da média de qualquer país, mesmo nos testes com menor pontuação. Eu tenho inteligência suficiente para me tornar bom em qualquer habilidade ou atividade. Incluindo escrever, falar, codificar, usar IA, desenhar, investir.
 
 Sou grato pelo meu conhecimento de economia, moeda e investimentos, que já me fez ganhar muito dinheiro, e me fará ganhar muito mais.
 
