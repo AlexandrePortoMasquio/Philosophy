@@ -4,8 +4,7 @@ tags: [vagueza, semântica]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
-## Conceito
+# Vagueza
 - Predicados ordinários carecem de fronteiras nítidas; há casos-limite e possivelmente vagueza de ordem superior.
 
 ## Ligações
