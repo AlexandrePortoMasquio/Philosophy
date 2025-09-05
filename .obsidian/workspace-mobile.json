@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motivos para ser grato.md",
+                "file": "Obsidian Vault/Mapa Rizomático.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivos para ser grato"
+              "title": "Mapa Rizomático"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Incerteza.md",
+            "file": "Obsidian Vault/Mapa Rizomático.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,11 +154,17 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Singularidade.md",
+    "Singularidade Tecnológica.md",
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian Vault/Singularidades e Catástrofes.md",
+    "Minhas Finanças.md",
+    "Investimento na Web3.md",
+    "Minhas Metas e Prioridades.md",
     "Gratidão.md",
     "Motivos para ser grato.md",
     "Sabedoria.md",
     "Obsidian Vault/Ética.md",
-    "Obsidian Vault/Mapa Rizomático.md",
     "Obsidian Vault/Forma.md",
     "Obsidian Vault/Filosofia.md",
     "Obsidian Vault/Explicação.md",
@@ -174,12 +180,6 @@
     "Obsidian Vault/Compressão de Informação.md",
     "Compressão de Informação.md",
     "Compressãp.md",
-    "Obsidian Vault/Entropia Condicional.md",
-    "Obsidian Vault/Entropia Informacional.md",
-    "Obsidian Vault/Incerteza.md",
-    "Obsidian Vault/Incerteza Residual.md",
-    "Obsidian Vault/Ruído.md",
-    "Obsidian Vault/Tarefas.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

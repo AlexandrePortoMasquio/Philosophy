@@ -13,16 +13,20 @@ updated: 2025-08-28
 * [[Conceito]] · [[Operador]]
 * [[Metafísica]] · [[Simplicidade]] ·  [[Apeiron]] · [[Ontologia da Diferença]] · 
 * [[Rizoma]]
-- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidades e Catástrofes]]
+- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]] · [[Singularidades e Catástrofes]]
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
-- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] [[Entropia 
+- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] [[Entropia]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
 - [[Dialética Descentralista]]
 - [[Filosofia da Mente]]: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
 - [[Filosofia da Linguagem]]
 
+## Sabedoria
 - [[Sabedoria]]
+- [[Minhas Metas e Prioridades]]
 - [[Psicologia]]
+
+## Tecnologia
 - [[Software]]
  
 Livro → Conceitos

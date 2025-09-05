@@ -1,3 +1,7 @@
 # Gratidão
 
-[[Motivos para ser grato]]
+
+
+## Ligações
+* [[Minhas Metas e Prioridades]]
+* [[Motivos para ser grato]]
