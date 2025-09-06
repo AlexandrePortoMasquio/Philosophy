@@ -4,12 +4,9 @@ tags: [informação, epistemologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
-## Mapa Rápido
-- [[Mapa Rizomático]] · [[Forma]] · [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Compressão de Informação]] · [[Invariantes]] · [[Repetição]] · [[Entropia Informacional]] · [[Descentralismo]]
-
-## Ideia
-- Informação é forma transmissível.
+[[Mapa Rizomático]]
+# Informação
+- Informação é [[Forma]] transmissível.
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
 - Nem toda informação é um [[Bit]]; o bit é a unidade de medida (quantidade), não a forma em si.
 - A informação é “identitária”? Ou a diferença, em si, também é forma e informação?

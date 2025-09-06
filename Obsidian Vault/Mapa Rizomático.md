@@ -6,7 +6,10 @@ updated: 2025-08-28
 ---
 # Home — Rizoma de Ideias
 
+## Estrutura
 * [[Obsidian]]
+* [[Codex]]
+* [[AGENTS]]
 ## Filosofia
 * [[Filosofia]]
 * [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]]
@@ -33,6 +36,10 @@ updated: 2025-08-28
 ## Sabedoria
 - [[Sabedoria]]
 - [[Minhas Metas e Prioridades]]
+- [[Gratidão]]
+- [[Ambição]]
+- [[Motivação]]
+- [[Pensamentos Motivacionais]]
 - [[Psicologia]]
 
 Livro → Conceitos

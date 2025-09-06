@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Mapa Rizomático.md",
+                "file": "Obsidian Vault/Diretrizes de Software Livre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa Rizomático"
+              "title": "Diretrizes de Software Livre"
             }
           }
         ]
@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Criptoespaço.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,8 +153,25 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Singularidade Tecnológica.md",
+    "Obsidian Vault/Debian.md",
+    "Obsidian Vault/Diretrizes de Software Livre.md",
+    "Motivação.md",
+    "Sabedoria.md",
     "Obsidian Vault/Mapa Rizomático.md",
+    "AGENTS.md",
+    "Obsidian Vault/Informação.md",
+    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
+    "Virtude.md",
+    "Moral.md",
+    "Obsidian Vault/Ética.md",
+    "Virtudes.md",
+    "Crenças (Sabedoria).md",
+    "Gratidão.md",
+    "Conhecimemto.md",
+    "Experiência.md",
+    "Ambição.md",
+    "Pensamentos Motivacionais.md",
+    "Singularidade Tecnológica.md",
     "Obsidian Vault/Singularidade Tecnológica.md",
     "Obsidian Vault/Transumanismo.md",
     "Obsidian Vault/Capitalismo.md",
@@ -163,23 +179,6 @@
     "Obsidian Vault/Lucro.md",
     "Obsidian Vault/Valor Excedente.md",
     "Obsidian Vault/Tecnocapital.md",
-    "Obsidian Vault/Ciberespaço.md",
-    "Obsidian Vault/Criptoespaço.md",
-    "Obsidian Vault/Web3.md",
-    "Obsidian Vault/Singularidade.md",
-    "Obsidian Vault/Singularidades e Catástrofes.md",
-    "Minhas Finanças.md",
-    "Investimento na Web3.md",
-    "Minhas Metas e Prioridades.md",
-    "Gratidão.md",
-    "Motivos para ser grato.md",
-    "Sabedoria.md",
-    "Obsidian Vault/Ética.md",
-    "Obsidian Vault/Forma.md",
-    "Obsidian Vault/Filosofia.md",
-    "Obsidian Vault/Explicação.md",
-    "Modelo.md",
-    "Filosofia - Perguntas e Respostas.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",
