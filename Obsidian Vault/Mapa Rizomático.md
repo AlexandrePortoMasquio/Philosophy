@@ -42,6 +42,9 @@ updated: 2025-08-28
 - [[Pensamentos Motivacionais]]
 - [[Psicologia]]
 
+## Utilidades
+* [[Tarefas]]
+
 Livro → Conceitos
 - Epistemologia: [[Racionalismo Naturalista]] · [[Empirismo Naturalista]] · [[Proposição]] · [[Justificação]] · [[Denotação]]
 - Informação: [[Transmissão de Informação]] · [[Shannon]] · [[Código]] · [[Ruído]] · [[Redundância]] · [[Capacidade de Canal]] · [[Complexidade de Kolmogorov]]

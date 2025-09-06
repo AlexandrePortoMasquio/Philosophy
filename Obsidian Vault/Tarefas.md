@@ -6,6 +6,8 @@ updated: 2025-08-28
 ---
 
 ## Próximas Ações
+* Estruturar os conhecimentos necessários para entrevistas técnicas KMP / Android.
+* Estudar SOLID, especialmente em KMP e Android, desenvolver cada princípio e aplicações.
 - [ ] Dar Definições não-circulares de [[Ruído]] e [[Entropia informacional]].
 - [ ] Informação: formalizar condições (Canal e Fidelidade) com exemplos simples e pequenas fórmulas verbais (canal binário com ruído).
 - [ ] Formas: exemplificar invariantes por domínio (geometria, linguagem, modelos) e ligação com Topologia das Formas.
