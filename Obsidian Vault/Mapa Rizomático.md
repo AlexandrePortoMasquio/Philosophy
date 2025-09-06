@@ -19,16 +19,22 @@ updated: 2025-08-28
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
 - [[Dialética Descentralista]]
 - [[Filosofia da Mente]]: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
+- [[Naturalismo Praxeológico]]
+- [[Economia]]
 - [[Filosofia da Linguagem]]
+- [[Filosofia da História]]
+- [[Capitalismo]], [[Inteligência Artificial]]
+- [[Tecnocapitalismo]], [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]], [[Transumanismo]], [[Singularidade Tecnológica]]
 
+## Tecnologia
+- [[Software]]
+- [[Web3]] [[Cyberia]]
+ 
 ## Sabedoria
 - [[Sabedoria]]
 - [[Minhas Metas e Prioridades]]
 - [[Psicologia]]
 
-## Tecnologia
-- [[Software]]
- 
 Livro → Conceitos
 - Epistemologia: [[Racionalismo Naturalista]] · [[Empirismo Naturalista]] · [[Proposição]] · [[Justificação]] · [[Denotação]]
 - Informação: [[Transmissão de Informação]] · [[Shannon]] · [[Código]] · [[Ruído]] · [[Redundância]] · [[Capacidade de Canal]] · [[Complexidade de Kolmogorov]]

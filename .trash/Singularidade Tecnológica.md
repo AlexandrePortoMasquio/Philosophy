@@ -1,0 +1,1 @@
+TODO [[Inteligência Artificial]], [[Transumanismo]], [[John Smart]], [[Aceleracionismo]], [[Tecnocapitalismo]], [[Informação]], [[Transcension]] [[Infinito Interior]]

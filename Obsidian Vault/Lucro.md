@@ -1,3 +1,7 @@
+# Lucro
 TODO
 
-TODO [[Valor Excedente]]
+## Relações
+
+## Ligações
+* [[Mercado]], [[Valor Excedente]], [[Capitalismo]]
