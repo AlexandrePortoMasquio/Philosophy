@@ -4,7 +4,7 @@ tags: [todo, planejamento]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+[[Mapa Rizomático]]
 ## Próximas Ações
 * Estruturar os conhecimentos necessários para entrevistas técnicas KMP / Android.
 * Estudar SOLID, especialmente em KMP e Android, desenvolver cada princípio e aplicações.

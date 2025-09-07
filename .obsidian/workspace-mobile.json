@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Tarefas.md",
+                "file": "Obsidian Vault/Ficção Científica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarefas"
+              "title": "Ficção Científica"
             }
           }
         ]
@@ -153,12 +153,23 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
+    "Obsidian Vault/Ficção.md",
     "Obsidian Vault/Mapa Rizomático.md",
+    "Sabedoria.md",
+    "Minhas Finanças.md",
+    "Obsidian Vault/Cyberia.md",
+    "Obsidian Vault/Finanças.md",
+    "Untitled.canvas",
+    "Cyberia - Requisitos do Contrato.md",
+    "Cyberia - Motivação.md",
+    "Motivação.md",
+    "Prática.md",
+    "Vida.md",
+    "Visualização (Sabedoria).md",
+    "Obsidian Vault/Tarefas.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
     "Obsidian Vault/Diretrizes de Software Livre.md",
     "Obsidian Vault/Debian.md",
-    "Motivação.md",
-    "Sabedoria.md",
     "AGENTS.md",
     "Obsidian Vault/Informação.md",
     "Virtude.md",
@@ -169,16 +180,6 @@
     "Gratidão.md",
     "Conhecimemto.md",
     "Experiência.md",
-    "Ambição.md",
-    "Pensamentos Motivacionais.md",
-    "Singularidade Tecnológica.md",
-    "Obsidian Vault/Singularidade Tecnológica.md",
-    "Obsidian Vault/Transumanismo.md",
-    "Obsidian Vault/Capitalismo.md",
-    "Obsidian Vault/Economia.md",
-    "Obsidian Vault/Lucro.md",
-    "Obsidian Vault/Valor Excedente.md",
-    "Obsidian Vault/Tecnocapital.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

@@ -16,7 +16,9 @@ Algumas crenças causam a sua própria verdade, porque mudam o comportamento, to
 E.g.: “posso correr 5 km em três meses” faz você treinar, dormir melhor e comer direito; ao fim, corre. O inverso também acontece: “ninguém presta” põe você na defensiva, e as relações azedam — a crença se confirma.
 
 ## Crenças e Gratidão
-TODO
+A gratidão ajusta a atenção para bens reais já presentes e, assim, corrige crenças de desvalorização generalizada. Quando praticada, diminui o peso de exageros negativos sem negar problemas, e favorece crenças mais proporcionais ao que de fato ocorreu. Não idealiza nem substitui o juízo: reconhece o recebido e abre espaço para agir com menos ressentimento e mais justiça.
+
+Em [[Sabedoria]], a gratidão seleciona evidências relevantes e sustenta discernimento: permite agradecer o bem e nomear o mal. Exemplo cotidiano: após um dia difícil, reconhecer a ajuda recebida e o que se aprendeu impede a crença global de fracasso; ao mesmo tempo, registra-se o erro e ajustam-se os meios. Assim, [[Gratidão]] e crenças se corrigem mutuamente: crenças verdadeiras tornam a gratidão razoável; a gratidão dificulta crenças cínicas ou catastróficas.
 
 ## Como usar bem
 - Formule como compromisso de ação, não como mágica: “se eu praticar 1h por dia por 90 dias, é provável que eu toque esta música”.

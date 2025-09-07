@@ -15,3 +15,6 @@ Exemplo: ao preparar-se para um concurso, estabelecem-se horários, começa-se p
 
 ## Relações
 [[Sabedoria]] · [[Virtude]] · [[Psicologia]] · [[Praxeologia]]
+
+## [[Prática]]
+* [[Cyberia - Motivação]]

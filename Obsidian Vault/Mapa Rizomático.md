@@ -40,10 +40,14 @@ updated: 2025-08-28
 - [[Ambição]]
 - [[Motivação]]
 - [[Pensamentos Motivacionais]]
+- [[Visualização (Sabedoria)]]
 - [[Psicologia]]
 
 ## Utilidades
 * [[Tarefas]]
+
+## Ficção
+* [[Ficção]]
 
 Livro → Conceitos
 - Epistemologia: [[Racionalismo Naturalista]] · [[Empirismo Naturalista]] · [[Proposição]] · [[Justificação]] · [[Denotação]]
