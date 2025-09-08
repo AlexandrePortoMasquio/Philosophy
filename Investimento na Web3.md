@@ -3,6 +3,6 @@
 O investimento na Web3 inclui o investimento em criptomoedas, (TODO continuar)
 
 ## Ligações
-* [[Finanças]]
+* [[Sabedoria Financeira]]
 * [[Investimento]]
 * [[Minhas Finanças]]

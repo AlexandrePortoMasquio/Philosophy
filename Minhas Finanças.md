@@ -1,6 +1,6 @@
 # Minhas Finanças
 
-Derivado de: [[Finanças]], [[Sabedoria]]
+Derivado de: [[Sabedoria Financeira]], [[Sabedoria]]
 
 ## Principais Fontes de Renda
 ### Meu emprego e meu segundo emprego

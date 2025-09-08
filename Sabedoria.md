@@ -7,7 +7,7 @@ updated: 2025-09-02
 Derivado de: [[Mapa Rizomático]]
 # Sabedoria
 - Sabedoria é competência para escolher fins e meios sob incerteza epistêmica, equilibrando verdade (boas crenças), bondade (bons fins) e eficácia (boas operações). Não é mera erudição: integra [[Informação]], [[Ética]] e [[Operação]] em julgamentos que se sustentam no tempo.
-- [[Arte]] de [[Vida|viver]] [[Bem]], acumulada pela [[Tradição]], [[Experiência]] e [[Conhecimento]], movida pelas [[Virtude|virtudes]] [[Gratidão]], [[Ambição]], [[Motivação]], 
+- [[Arte]] de [[Vida|viver]] [[Bem]], acumulada pela [[Tradição]], [[Experiência]] e [[Conhecimento]], movida pelas [[Virtude|virtudes]] [[Razão]], [[Gratidão]], [[Ambição]], [[Motivação]], [[Paixão]], 
 - Operativamente: capacidade de fixar [[Axiologia|valores]], ler contextos (campo), [[Precisificação|precisificar]] cortes e agir com baixo arrependimento esperado, preservando bens em conflito.
 - Sabedoria é o mesmo que [[Vida]] [[Prudência|prudente]]?
 
@@ -25,3 +25,8 @@ Derivado de: [[Mapa Rizomático]]
 
 ## Relações
 - · [[Mapa Rizomático]] · [[Gratidão]] · [[Ética]] · [[Informação]] · [[Conceito]] · [[Campo Conceitual]] · [[Finalidade Objetiva]] · [[Valor Subjetivo]] · [[Psicologia]] · [[Fenomenologia]] ····
+
+
+## Prática
+
+* [[Minhas Finanças]]

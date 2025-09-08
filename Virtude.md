@@ -6,9 +6,23 @@ tags: [ética, virtude]
 
 Na [[Moral]] e na [[Sabedoria]], a Virtude é uma tendência à [[Escolha]] do [[Bem]] em circunstâncias concretas. Não é um ato isolado, mas um conjunto de hábitos, crenças e motivações que orientam a percepção, o julgamento e a ação.
 
+## Virtudes Descentralistas
+* [[Razão]]
+* [[Gratidão]]
+* [[Ambição]]
+* [[Paixão]]
+* [[Disciplina]]
+* [[Propósito]]
+* [[Transcendência]]
+
 ## Virtudes Clássicas
 
-Na tradição clássica, a virtude evita os extremos: a coragem, por exemplo, não é nem temeridade nem covardia, mas a prontidão para enfrentar o que deve ser enfrentado, do modo e no tempo devidos.
+* [[Coragem]]
+* [[Prudência]]
+* [[Justiça]]
+* [[Temperança]]
+
+Na tradição clássica (TODO qual a origem?), a virtude evita os extremos: a coragem, por exemplo, não é nem temeridade nem covardia, mas a prontidão para enfrentar o que deve ser enfrentado, do modo e no tempo devidos.
 
 ## Revisar
 

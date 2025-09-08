@@ -1,0 +1,1 @@
+[[Filosofia|Filosoficamente]], [[Cyberia]] é um projeto [[Tecnofilosofia|tecnofilosófico]] [[Descentralismo|descentralista]], que une [[Inteligência Artificial]] e [[Web3]] para criar um [[Mercado]] [[Descentralização|descentralizado]] de IA.

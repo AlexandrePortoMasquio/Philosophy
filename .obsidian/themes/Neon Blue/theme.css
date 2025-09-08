@@ -1,0 +1,140 @@
+/* Neon Blue — tema local para Obsidian
+   Fundo preto, acentos azul-neon, leve brilho. */
+
+/* Paleta e variáveis principais */
+.theme-dark,
+.theme-light {
+  --background-primary: #000000;
+  --background-secondary: #080b10; /* preto-azulado muito escuro */
+  --background-primary-alt: #000000;
+  --background-modifier-hover: rgba(0, 200, 255, 0.08);
+  --background-modifier-active: rgba(0, 200, 255, 0.14);
+  --background-modifier-border: #0a3b52;
+
+  --text-normal: #d4f1ff;   /* azul claríssimo para boa leitura */
+  --text-muted: #93d9ff;    /* azul suave */
+  --text-faint: #4aa4cc;    /* azul médio */
+
+  --interactive-accent: #00c8ff;       /* azul-neon */
+  --interactive-accent-hover: #00aee6; /* hover um pouco mais escuro */
+  --interactive-accent-rgb: 0, 200, 255;
+  --text-accent: #18d7ff;
+  --text-accent-hover: #00b9ef;
+
+  --link-color: var(--text-accent);
+  --link-color-hover: var(--interactive-accent-hover);
+  --link-external-color: var(--text-accent);
+  --link-external-color-hover: var(--interactive-accent-hover);
+
+  --tag-color: #18d7ff;
+  --tag-background: rgba(0, 200, 255, 0.08);
+  --tag-border-color: rgba(0, 200, 255, 0.35);
+
+  --code-normal: #cfeeff;
+  --code-background: #051621; /* azul petróleo muito escuro */
+
+  --blockquote-border-color: #0c6d95;
+  --hr-color: #0b4f6d;
+}
+
+/* Conteúdo (editor e preview) */
+.cm-s-obsidian .cm-content,
+.markdown-preview-view {
+  color: var(--text-normal);
+}
+
+/* Seleção */
+::selection {
+  background: rgba(0, 200, 255, 0.22);
+  color: #e9faff;
+}
+
+/* Links */
+a,
+.cm-link,
+.cm-url {
+  color: var(--link-color);
+}
+a:hover,
+.cm-link:hover {
+  color: var(--link-color-hover);
+}
+
+/* Código */
+code,
+.cm-inline-code {
+  color: var(--code-normal);
+  background: rgba(0, 200, 255, 0.08);
+  border: 1px solid rgba(0, 200, 255, 0.18);
+  border-radius: 4px;
+  padding: 0.05rem 0.25rem;
+}
+pre code {
+  display: block;
+  background: var(--code-background);
+  border: 1px solid rgba(0, 200, 255, 0.25);
+  box-shadow: 0 0 0 1px rgba(0, 200, 255, 0.04) inset;
+}
+
+/* Citações */
+blockquote {
+  border-left: 3px solid var(--blockquote-border-color);
+  background: rgba(0, 200, 255, 0.035);
+}
+
+/* Cabeçalhos com leve brilho azul */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.cm-header {
+  color: #bfe9ff;
+  text-shadow: 0 0 6px rgba(0, 200, 255, 0.18);
+}
+
+/* Estados ativos/hover em listas e menus */
+.nav-file.is-active > .nav-file-title,
+.nav-folder.is-active > .nav-folder-title,
+.menu-item:hover,
+.suggestion-item.is-selected {
+  background: rgba(0, 200, 255, 0.12);
+  color: #eefaff;
+}
+
+/* Separadores e bordas sutis */
+.workspace-leaf-resize-handle,
+.view-header,
+.status-bar,
+.nav-header,
+.titlebar {
+  border-color: var(--background-modifier-border) !important;
+}
+
+/* Cursor do editor com cor de acento */
+.cm-cursor {
+  border-left-color: var(--interactive-accent) !important;
+}
+
+/* Ícones e botões com acento azul */
+button,
+.clickable-icon {
+  color: var(--text-accent);
+}
+button:hover,
+.clickable-icon:hover {
+  color: var(--interactive-accent-hover);
+}
+
+/* Barras de rolagem (WebKit) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(0,200,255,0.6), rgba(0,200,255,0.25));
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+

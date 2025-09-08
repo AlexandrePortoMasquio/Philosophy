@@ -1,0 +1,169 @@
+/* Matrix — tema local para Obsidian
+   Fundo preto, acentos verde-neon, tipografia monoespaçada. */
+
+:root {
+  --font-interface: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  --font-text: var(--font-interface);
+  --font-monospace: var(--font-interface);
+}
+
+/* Estilo principal (aplicado tanto em claro quanto escuro para consistência) */
+.theme-dark,
+.theme-light {
+  --background-primary: #000000;
+  --background-secondary: #0a0a0a;
+  --background-primary-alt: #000000;
+  --background-modifier-hover: rgba(0, 255, 127, 0.08);
+  --background-modifier-active: rgba(0, 255, 127, 0.14);
+  --background-modifier-border: #084c2e;
+
+  --text-normal: #ccffd9;
+  --text-muted: #8be6b1;
+  --text-faint: #4aa371;
+
+  --interactive-accent: #00ff7f;
+  --interactive-accent-hover: #00e673;
+  --interactive-accent-rgb: 0, 255, 127;
+  --text-accent: #00ff7f;
+  --text-accent-hover: #00e673;
+
+  --link-color: var(--text-accent);
+  --link-color-hover: var(--interactive-accent-hover);
+  --link-external-color: var(--text-accent);
+  --link-external-color-hover: var(--interactive-accent-hover);
+
+  --tag-color: #00ff7f;
+  --tag-background: rgba(0, 255, 127, 0.08);
+  --tag-border-color: rgba(0, 255, 127, 0.35);
+
+  --code-normal: #b8ffcc;
+  --code-background: #031f14;
+
+  --blockquote-border-color: #0f7a49;
+  --hr-color: #0b5a37;
+}
+
+/* Tipografia geral */
+body,
+.markdown-preview-view,
+.cm-s-obsidian,
+.workspace,
+.mod-root {
+  font-family: var(--font-text);
+}
+
+/* Editor e visualização */
+.cm-s-obsidian .cm-content {
+  color: var(--text-normal);
+}
+.markdown-preview-view {
+  color: var(--text-normal);
+}
+
+/* Realce de seleção */
+::selection {
+  background: rgba(0, 255, 127, 0.22);
+  color: #eafff1;
+}
+
+/* Links */
+a,
+.cm-link,
+.cm-url {
+  color: var(--link-color);
+}
+a:hover,
+.cm-link:hover {
+  color: var(--link-color-hover);
+}
+
+/* Código inline e blocos */
+code,
+.cm-inline-code {
+  color: var(--code-normal);
+  background: color-mix(in oklab, var(--code-background) 90%, black 10%);
+  border: 1px solid rgba(0, 255, 127, 0.18);
+  border-radius: 4px;
+  padding: 0.05rem 0.25rem;
+}
+pre code {
+  display: block;
+  background: var(--code-background);
+  border: 1px solid rgba(0, 255, 127, 0.25);
+  box-shadow: 0 0 0 1px rgba(0, 255, 127, 0.04) inset;
+}
+
+/* Citações */
+blockquote {
+  border-left: 3px solid var(--blockquote-border-color);
+  background: rgba(0, 255, 127, 0.035);
+}
+
+/* Barras de rolagem (WebKit) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(0,255,127,0.65), rgba(0,255,127,0.25));
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+/* Cabeçalhos com leve brilho */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.cm-header {
+  color: #b6ffd0;
+  text-shadow: 0 0 6px rgba(0, 255, 127, 0.18);
+}
+
+/* Estado ativo/hover em listas e painéis */
+.nav-file.is-active > .nav-file-title,
+.nav-folder.is-active > .nav-folder-title,
+.menu-item:hover,
+.suggestion-item.is-selected {
+  background: rgba(0, 255, 127, 0.12);
+  color: #eafff1;
+}
+
+/* Separadores e bordas sutis */
+.workspace-leaf-resize-handle,
+.view-header,
+.status-bar,
+.nav-header,
+.titlebar {
+  border-color: var(--background-modifier-border) !important;
+}
+
+/* Cursor do editor com cor de acento */
+.cm-cursor {
+  border-left-color: var(--interactive-accent) !important;
+}
+
+/* Botões e acentos interativos */
+button,
+.clickable-icon {
+  color: var(--text-accent);
+}
+button:hover,
+.clickable-icon:hover {
+  color: var(--interactive-accent-hover);
+}
+
+/* Tarefas (checkbox) com acento verde */
+input[type="checkbox"]:checked {
+  filter: hue-rotate(90deg) saturate(140%);
+}
+
+/* Opcional: leve efeito de “phosphor glow” em acentos */
+.is-flashing,
+.mod-active .view-header-title,
+.cm-strong {
+  text-shadow: 0 0 4px rgba(0, 255, 127, 0.25);
+}
+
