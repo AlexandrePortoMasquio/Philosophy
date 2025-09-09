@@ -10,5 +10,5 @@ updated: 2025-08-31
 - Introduz séries de signos, paradoxos (ex.: mentiroso), e a noção de [[Quase-Causa]] que produz sentido sem causalidade ordinária.
 
 ## Ligações
-- [[Semântica]] · [[Acontecimento]] · [[Diferença]] · [[Disjunção Inclusiva]]
+- [[Semântica]] · [[Acontecimento]] · [[Diferença]] · [[Disjunção Inclusiva (OR)]]
 

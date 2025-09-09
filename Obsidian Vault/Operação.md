@@ -11,7 +11,7 @@ updated: 2025-08-31
 
 ## Sínteses operativas
 - Conectiva (e…e…): encadeia fluxos e acoplamentos funcionais (produção maquínica); prefere composição à hierarquia.
-- [[Disjunção Inclusiva]] (ou…ou…): distribui séries sem exclusão, permitindo variações/coexistências em vez de escolhas binárias excludentes.
+- [[Disjunção Inclusiva (OR)]] (ou…ou…): distribui séries sem exclusão, permitindo variações/coexistências em vez de escolhas binárias excludentes.
 - Conjuntiva (é…): dá consistência e “sou”/“é” a certas composições (efeitos de sujeito/objeto), sem reificar identidades de base.
 - Nota: ver [[Síntese]] para o quadro amplo (virtual→atual→forma→função), onde as operações/sínteses atuam como passagens.
 
@@ -34,5 +34,5 @@ updated: 2025-08-31
 - Engenharia de software: operação = composição de transformações puras que estabilizam estados válidos (invariantes) enquanto o fluxo segue (pipeline).
 
 ## Ligações
-- [[Deleuze]] · [[Diferença e Repetição]] · [[Lógica do Sentido]] · [[Síntese]] · [[Disjunção Inclusiva]] · [[Fluxo de Diferenciação]] · [[Atualização]] · [[Virtualidade]] · [[Atratores]] · [[Invariantes]] · [[Singularidades e Catástrofes]] · [[Forma]] · [[Vagueza]]
+- [[Deleuze]] · [[Diferença e Repetição]] · [[Lógica do Sentido]] · [[Síntese]] · [[Disjunção Inclusiva (OR)]] · [[Fluxo de Diferenciação]] · [[Atualização]] · [[Virtualidade]] · [[Atratores]] · [[Invariantes]] · [[Singularidades e Catástrofes]] · [[Forma]] · [[Vagueza]]
 

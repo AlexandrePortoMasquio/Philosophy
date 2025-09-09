@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyberia - Filosofia.md",
+                "file": "Bivalência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberia - Filosofia"
+              "title": "Bivalência"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Operador Lógico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,19 +154,25 @@
   },
   "active": "2d6cb98460830747",
   "lastOpenFiles": [
-    "Cyberia - Filosofia.md",
-    "Obsidian Vault/Mapa Rizomático.md",
+    "Lógica Booleana.md",
+    "Bivalência.md",
+    "Operador Lógico.md",
+    "Completude Funcional.md",
+    "Obsidian Vault/Disjunção Inclusiva (OR).md",
+    "Russell.md",
     "Sabedoria.md",
     "Virtude.md",
+    "Minhas Finanças.md",
+    "Obsidian Vault/Cyberia.md",
+    "Cyberia - Filosofia.md",
+    "Obsidian Vault/Mapa Rizomático.md",
     "Motivação.md",
     "Cyberia - Motivação.md",
-    "Obsidian Vault/Cyberia.md",
     "Cyberia - Tarefas.md",
     "Cyberia - Token.md",
     "XCYB.md",
     "Obsidian Vault/Mercado.md",
     "Obsidian Vault/Descentralização.md",
-    "Minhas Finanças.md",
     "Obsidian Vault/Sabedoria Financeira.md",
     "Investimento.md",
     "Cyberia - Estratégia.md",
@@ -173,13 +180,7 @@
     "Obsidian Vault/Epistemologia.md",
     "Gratidão.md",
     "Obsidian Vault/Ficção Científica.md",
-    "Obsidian Vault/Ficção.md",
     "Untitled.canvas",
-    "Prática.md",
-    "Vida.md",
-    "Visualização (Sabedoria).md",
-    "Obsidian Vault/Tarefas.md",
-    "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonTest/kotlin/com/bimm/takehomeassignmnent/SharedCommonTest.kt",

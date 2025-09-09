@@ -35,4 +35,4 @@ updated: 2025-08-28
 - Produção > representação: prioridade dos problemas e diferenciais sobre identidades; ver [[Diferença e Repetição]] e as séries de [[Lógica do Sentido]].
 - Multiplicidades de sentido e paradoxo: o “nonsense” opera estruturalmente (mentiroso etc.); a lógica deve acomodar paradoxos (modelos não‑clássicos/contextuais), em diálogo com [[Vagueza]] e [[Sorites]].
 - Primazia da [[Diferença]]: identidade/negação/terceiro‑excluído são efeitos locais; a base lógica é diferencial/topológica (singularidades, atratores, invariantes).
-- [[Disjunção Inclusiva]] e sínteses: privilegia disjunções inclusivas e sínteses produtivas, em contraste com negação dialética como motor único.
+- [[Disjunção Inclusiva (OR)]] e sínteses: privilegia disjunções inclusivas e sínteses produtivas, em contraste com negação dialética como motor único.

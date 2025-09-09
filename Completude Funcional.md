@@ -1,0 +1,1 @@
+Um conjunto de operadores booleanos é funcionalmente completo se, usando apenas esses operadores (possivelmente combinados repetidamente), for possível expressar qualquer função booleana possível.
