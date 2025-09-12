@@ -1,11 +1,13 @@
 ---
 title: Lógica
-tags: [lógica, inferência]
+tags:
+  - lógica
+  - inferência
 updated: 2025-08-29
 ---
+[[Mapa Rizomático]]
 
-## Ideia
-- Não é apenas o estudo de formas válidas de inferência e estruturas de verdade, mas também uma estrutura da realidade, já que se aplica à [[Realidade]] da [[Denotação]] das [[Proposições]].
+- A lógica não é apenas um estudo de formas válidas de inferência e estruturas de verdade, mas também uma estrutura da realidade, já que se aplica à [[Realidade]] da [[Denotação]] das [[Proposições]].
  - Sistemas variam conforme princípios adotados: no clássico, valem [[Bivalência]] e [[Lei do Terceiro Excluído]], com uso amplo de prova por contradição; no intuicionista, verdade requer demonstração efetiva e faltam, em geral, LEM e a eliminação de dupla negação; no paraconsistente, rejeita‑se a explosão, permitindo contradições locais sem trivializar o sistema.
 
 ## Base

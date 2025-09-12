@@ -1,6 +1,6 @@
 # Epistemologia
 
-* Derivado de: [[Filosofia]], [[Mapa Rizomático]]
+* Derivado de: [[Filosofia]], [[Mapa Rizomático]] [[Empirismo]]
 
 TODO
 

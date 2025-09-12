@@ -5,7 +5,6 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Ideia
 - Todo enunciado declarativo é verdadeiro ou falso (exatamente um), salvo restrições (ex.: evitar predicados de verdade globais).
 - Relação com [[Lei do Terceiro Excluído]]: LEM afirma (P ∨ ¬P) é sempre verdadeiro; bivalência afirma que P tem exatamente um valor de verdade. São relacionados, mas não idênticos em todos os sistemas.
 

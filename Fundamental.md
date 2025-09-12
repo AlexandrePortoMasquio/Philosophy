@@ -1,0 +1,1 @@
+Redirecionar -> [[Fundamento]]

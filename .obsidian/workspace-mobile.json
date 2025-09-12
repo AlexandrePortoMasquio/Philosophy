@@ -13,13 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bivalência.md",
+                "file": "Sabedoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bivalência"
+              "title": "Sabedoria"
+            },
+            "group": "6e840ffc71db02e6"
+          },
+          {
+            "id": "51dffc537f92fe28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Fundamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fundamento"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2c4f528da0429b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a513ad50b460268",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sabedoria.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5949124863068552,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "6e840ffc71db02e6"
           }
         ]
       }
@@ -98,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Operador Lógico.md",
+            "file": "Obsidian Vault/Substância.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,34 +212,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d6cb98460830747",
+  "active": "51dffc537f92fe28",
   "lastOpenFiles": [
-    "Lógica Booleana.md",
-    "Bivalência.md",
-    "Operador Lógico.md",
-    "Completude Funcional.md",
-    "Obsidian Vault/Disjunção Inclusiva (OR).md",
-    "Russell.md",
+    "Genealogia.md",
+    "Obsidian Vault/Fundamento.md",
+    "Argumento pela primazia da diferença.md",
+    "Obsidian Vault/Diferença.md",
+    "Obsidian Vault/Mapa Rizomático.md",
+    "Obsidian Vault/Informação.md",
+    "Componente.md",
+    "Obsidian Vault/Substância.md",
+    "Mereologia (Parte–Todo).md",
+    "Obsidian Vault/Realidade.md",
+    "Fundamental.md",
+    "Princípio.md",
+    "Obsidian Vault/Metafísica.md",
+    "C![[mponente.md",
     "Sabedoria.md",
     "Virtude.md",
-    "Minhas Finanças.md",
-    "Obsidian Vault/Cyberia.md",
-    "Cyberia - Filosofia.md",
-    "Obsidian Vault/Mapa Rizomático.md",
-    "Motivação.md",
-    "Cyberia - Motivação.md",
-    "Cyberia - Tarefas.md",
-    "Cyberia - Token.md",
-    "XCYB.md",
-    "Obsidian Vault/Mercado.md",
-    "Obsidian Vault/Descentralização.md",
-    "Obsidian Vault/Sabedoria Financeira.md",
-    "Investimento.md",
-    "Cyberia - Estratégia.md",
-    "Cyberia - Requisitos do Contrato.md",
+    "Moral.md",
+    "Obsidian Vault/Thom.md",
+    "Empirismo.md",
     "Obsidian Vault/Epistemologia.md",
-    "Gratidão.md",
-    "Obsidian Vault/Ficção Científica.md",
+    "AGENTS.md",
+    "Obsidian Vault/Racionalismo.md",
+    "Obsidian.md",
+    "Obsidian Mobile.md",
+    "Codex.md",
+    "Obsidian Vault/Regra.md",
     "Untitled.canvas",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/commonMain/kotlin/com/bimm/takehomeassignmnent/domain/Greeting.kt",
     "Obsidian Vault/Projetos/bimm-kmp-challenge-base/shared/src/iosMain/kotlin/com/bimm/takehomeassignmnent/Platform.ios.kt",

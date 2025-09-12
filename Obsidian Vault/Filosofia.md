@@ -1,5 +1,8 @@
+[[Mapa Rizomático]]
+
 # Filosofia
-* A filosofia é a área de conhecimento que engloba os conhecimentos que (TODO continuar)
+* A filosofia é a área dos conhecimentos que podem ser conhecidos pela razão, de forma independente de dados contingentes, sendo conhecimentos estruturais, que estruturam a base conceitual abstrata da ciência.
+* TODO como a filosofia é mais abstrata que a ciência? O que isso significa?
 
 [[Filosofia - Perguntas e Respostas]]
 

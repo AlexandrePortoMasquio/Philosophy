@@ -7,4 +7,4 @@ Em perspectiva filosófica, fornece um vocabulário preciso para analisar argume
 Cuidados: na língua comum, “ou” pode soar exclusivo; convém explicitar quando a leitura inclusiva é pretendida. A [[Bivalência]] (ligada à [[Lei do Terceiro Excluído]]) nem sempre captura casos de vagueza, gradação ou inconsistências; nesses domínios, outras lógicas podem ser mais adequadas.
 
 ## Ligações
-- [[Lógica]] · [[Operador Lógico]] · [[Lei da Não-Contradição]] · [[Lei do Terceiro Excluído]]
+- [[Lógica]] · [[Operador Lógico]] · [[Lei da Não-Contradição]] · [[Lei do Terceiro Excluído]] [[Lógica Não-Booleana]]

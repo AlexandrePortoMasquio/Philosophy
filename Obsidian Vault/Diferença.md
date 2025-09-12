@@ -5,10 +5,12 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 # Diferença
-- Diferença como fundamento ontológico: é o que estrutura o real; [[Forma]] emergem dela e são padrões diferenciais.
+
+De acordo com o [[Argumento pela primazia da diferença]], a diferença é mais básica que a identidade, sendo um [[Fundamento]] para a metafísica, lógica e epistemologia.
+
+- Diferença como fundamento ontológico: é o que estrutura o real; [[Forma]] emergem dela e são padrões diferenciais
 
 ## Nota (Deleuze)
-* D
 - Diferença (distribuições, multiplicidades) vs diferenciação (processos que atualizam essas diferenças). A primeira é virtual/real; a segunda é o processo genético que resolve o virtual em [[Forma]].
 - Diferença-em-si: relações diferenciais e singularidades que compõem multiplicidades (conteúdo da [[Virtualidade]]), anteriores a identidades e [[Semelhança|semelhanças]].
 - Repetição como diferença: repetição genuína repõe variações e séries; não é cópia do mesmo, mas produção diferencial.
