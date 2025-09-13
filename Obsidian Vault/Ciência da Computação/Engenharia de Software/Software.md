@@ -6,7 +6,11 @@ tags:
 created: 2025-08-29
 updated: 2025-09-04
 ---
-# Software
+Derivado de: [[Informação]] [[Digital]]
+# O que é software
+(0 corrigir) Software é uma [[Informação]] [[Digital]] que produz um certo resultado: um conjunto de instruções e arranjos correlatos (código, dados, configuração, documentação) que, ao serem interpretados por máquinas ou pessoas, produzem efeitos regulares num contexto. Distingue‑se de programa por abarcar também o que permite sua entrega, operação e evolução; é, portanto, uma obra socio‑técnica, dependente de práticas e decisões humanas, além do suporte material que a executa.
+
+
 * Software é [[Informação]] [[Digital]]
 - Artefatos executáveis e seus ativos (código, configuração, dados, documentação, pipelines) que materializam requisitos sob restrições técnicas e organizacionais.
 - Não é apenas programa: inclui processo de entrega, operação e evolução contínua.
@@ -16,6 +20,9 @@ updated: 2025-09-04
 - Pela [[Cosmologia Informacional]], tudo é [[Software]]: a realidade é um processo informacional regido por regras executáveis; as "leis físicas" funcionam como especificações/[[Algoritmo|algoritmos]], a matéria/[[Energia]] como padrões persistentes.
 - 
 - , e as formas como estruturas de dados. Sistemas biológicos, sociais e técnicos são programas distribuídos que preservam e transformam informação.
+
+## Prática
+* [[Desenvolvimento de Software]]
 
 ## Dimensões
 - Funcionais e de qualidade: desempenho, confiabilidade, segurança, manutenibilidade, usabilidade, custo.

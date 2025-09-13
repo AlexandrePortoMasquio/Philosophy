@@ -1,6 +1,6 @@
-# Fundamento
+[[Metafísica]]
 
-X é o fundamento de Y se, e somente se, X é um [[Componente]] [[Necessidade|necessário]] para a [[Composição]] de Y.
+X é o fundamento de Y se, e somente se, X é um [[Componente]] [[Necessidade|necessário]] na [[Composição]] de Y.
 
 ## Perguntas
 - 

@@ -12,4 +12,4 @@ Numa bicicleta, quadro, rodas, corrente e freios são componentes porque partici
 O que conta como componente depende do contexto: para manutenção, um parafuso é componente; para aprender a pedalar, talvez não. Evitar confundir componente com atributo: “ser azul” é um atributo; a tinta que confere a cor pode ser um componente. A granularidade deve ser adequada à pergunta; recortes excessivamente finos ou grossos perdem utilidade explicativa.
 
 ## Relações
-[[Conceito]] · [[Processo]] · [[Produto]] · [[Mereologia (Parte–Todo)]]
+[[Conceito]] · [[Processo]] · [[Produto]] · [[Mereologia]]

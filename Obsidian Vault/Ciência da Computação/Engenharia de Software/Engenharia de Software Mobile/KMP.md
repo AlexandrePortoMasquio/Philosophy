@@ -12,7 +12,8 @@ updated: 2025-08-29
 
 ## Ideia
 - KMP permite compartilhar código [[Kotlin]] entre [[Android]], iOS e outras plataformas via módulos com `commonMain` (expect) e implementações específicas (`actual`).
-- Objetivo: reduzir duplicação de regras de negócio mantendo experiência nativa na UI.
+- Objetivo: reduzir duplicação de regras de negócio mantendo experiência nativa na [[UI]].
+- O [[Compose Multiplatform]] permite também compartilhar a 
 
 ## Quando usar
 - Domínio com lógica substancial e estável (networking, cache, validação, casos de uso) e UI nativa específica.

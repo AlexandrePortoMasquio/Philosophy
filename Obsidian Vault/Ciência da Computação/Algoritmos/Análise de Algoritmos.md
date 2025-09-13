@@ -1,2 +1,2 @@
-# Análise de Algoritmos
+[[Algoritmo]] 
 

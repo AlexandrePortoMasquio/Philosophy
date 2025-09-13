@@ -12,6 +12,7 @@ Este arquivo define como eu (Codex, GPT ou outro agente) devo escrever e editar 
 - Evitar jargão pseudo-técnico e termos importados de computação/estatística quando não forem essenciais.
 - Evitar linguagem coloquial ou informal.
 - Evitar linguagem subjetivista (nós conhecemos, nós vemos, percebemos, etc.), preferindo uma linguagem objetiva.
+- Evitar usar a pessoa, o sujeito, o ser humano, nós, etc. Para definir conceitos. Preferir sempre uma perspectiva impessoal e objetiva.
 - A linguagem deve seguir a norma culta e ser filosófica e acadêmica.
 
 # Estrutura das Notas
