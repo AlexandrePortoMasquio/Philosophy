@@ -1,0 +1,133 @@
+/* LED Amarelo sobre Azul Petróleo — tema local para Obsidian */
+
+:root {
+  --font-interface: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-text: var(--font-interface);
+  --font-monospace: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+.theme-dark,
+.theme-light {
+  --background-primary: #0b4f6c;
+  --background-secondary: #0a445e;
+  --background-primary-alt: #0a485f;
+  --background-modifier-hover: rgba(255, 214, 10, 0.08);
+  --background-modifier-active: rgba(255, 214, 10, 0.14);
+  --background-modifier-border: #0e5f7a;
+
+  --text-normal: #fff3bf;
+  --text-muted: #ffe08a;
+  --text-faint: #ffd76a;
+
+  --interactive-accent: #ffd60a;
+  --interactive-accent-hover: #ffea3a;
+  --interactive-accent-rgb: 255, 214, 10;
+  --text-accent: #ffdf00;
+  --text-accent-hover: #ffea3a;
+
+  --link-color: var(--text-accent);
+  --link-color-hover: var(--interactive-accent-hover);
+  --link-external-color: var(--text-accent);
+  --link-external-color-hover: var(--interactive-accent-hover);
+
+  --tag-color: #1b2e3a;
+  --tag-background: #ffe166;
+  --tag-border-color: rgba(255, 214, 10, 0.45);
+
+  --code-normal: #fff1a8;
+  --code-background: #0a3f53;
+
+  --blockquote-border-color: #116b88;
+  --hr-color: #0e5f7a;
+}
+
+body,
+.markdown-preview-view,
+.cm-s-obsidian,
+.workspace,
+.mod-root {
+  font-family: var(--font-text);
+  color: var(--text-normal);
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.cm-header,
+.mod-active .view-header-title {
+  color: #fff2a6;
+  text-shadow: 0 0 6px rgba(255, 214, 10, 0.35), 0 0 12px rgba(255, 214, 10, 0.25);
+}
+
+.cm-s-obsidian .cm-content,
+.markdown-preview-view {
+  color: var(--text-normal);
+}
+
+::selection {
+  background: rgba(255, 214, 10, 0.28);
+  color: #1b2e3a;
+}
+
+a,
+.cm-link,
+.cm-url {
+  color: var(--link-color);
+  text-shadow: 0 0 6px rgba(255, 214, 10, 0.25);
+}
+a:hover,
+.cm-link:hover {
+  color: var(--link-color-hover);
+}
+
+code,
+.cm-inline-code {
+  color: var(--code-normal);
+  background: color-mix(in oklab, var(--code-background) 90%, black 10%);
+  border: 1px solid rgba(255, 214, 10, 0.25);
+  border-radius: 4px;
+  padding: 0.05rem 0.25rem;
+}
+pre code {
+  display: block;
+  background: var(--code-background);
+  border: 1px solid rgba(255, 214, 10, 0.28);
+  box-shadow: 0 0 0 1px rgba(255, 214, 10, 0.06) inset;
+}
+
+blockquote {
+  border-left: 3px solid var(--blockquote-border-color);
+  background: rgba(17, 107, 136, 0.08);
+}
+
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(255,214,10,0.65), rgba(255,214,10,0.25));
+  border: 2px solid #0b4f6c;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track { background: #0a445e; }
+
+.nav-file.is-active > .nav-file-title,
+.nav-folder.is-active > .nav-folder-title,
+.menu-item:hover,
+.suggestion-item.is-selected {
+  background: rgba(255, 214, 10, 0.14);
+  color: #fffbea;
+}
+
+.cm-cursor { border-left-color: var(--interactive-accent) !important; }
+
+button,
+.clickable-icon { color: var(--text-accent); }
+button:hover,
+.clickable-icon:hover { color: var(--interactive-accent-hover); }
+
+input[type="checkbox"]:checked { filter: hue-rotate(320deg) saturate(120%); }
+
+.workspace-leaf-resize-handle,
+.view-header,
+.status-bar,
+.nav-header,
+.titlebar { border-color: var(--background-modifier-border) !important; }
+

@@ -11,7 +11,7 @@ updated: 2025-08-29
 - NÃO conectar com filosofia
 
 ## Arquiteturas Profissionais (como aplicar)
-- Camadas Limpa/Clean: `:core:domain` (entidades/UseCases) e `:core:data` (repositórios, fontes local/remota). Shared (KMP) abriga ambas; apresentação fica nas apps.
+- Camadas Limpa/[[Clean Architecture]]: `:core:domain` (entidades/UseCases) e `:core:data` (repositórios, fontes local/remota). Shared (KMP) abriga ambas; apresentação fica nas apps.
 - MVVM + UDF: Android com ViewModel + StateFlow/Reducer; iOS com ObservableObject/State. Use cases orquestram regras; repositórios abstraem dados.
 - MVI (quando fizer sentido): único estado imutável por tela, intents, reducer e efeitos. Útil em flows complexos.
 - Modularização por feature: `:feature:catalog` etc., dependem de `:core:*` via interfaces; facilita testes e evolução.

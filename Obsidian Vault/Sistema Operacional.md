@@ -2,12 +2,17 @@
 
 Relacionado: [[Software]], [[Linux]], [[Distro (Linux)]]
 
-## Conceito
+## Definição
 
-Camada de software que gerencia recursos do hardware, fornece abstrações (processos, arquivos, memória, rede) e serviços para programas de usuário. Exemplos: [[Linux]], BSD, Windows, macOS.
+Camada de software que gerencia recursos do hardware, fornece abstrações (processos, arquivos, memória, rede) e serviços para programas de usuário.
 
-## Como Funciona (TODO)
+## Funcionalidade (TODO)
 
+TODO
+
+## Exemplos
+
+[[Android]], [[iOS]], [[Linux]], BSD, Windows, macOS.
 
 
 ## Diferenças

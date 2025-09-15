@@ -5,15 +5,18 @@ created: 2025-08-28
 updated: 2025-08-29
 ---
 
+## Definição
+Kotlin Multiplatform (KMP) é um conjunto de capacidades do [[Ecossistema Kotlin]] — suporte do compilador, organização por source sets e plugins de build — para compartilhar código entre múltiplas plataformas a partir de uma base comum. Não é uma linguagem nem um framework de interface; trata-se de uma abordagem e de uma ferramenta de compilação/organização de projeto que permite combinar código comum com implementações específicas por plataforma quando necessário. Na prática, o código comum reside em `commonMain` e os trechos específicos em `androidMain` e `iosMain` (mecanismo `expect/actual`).
+
 ## Mapa Rápido
 - Lado: [[Multiplataforma]] · [[Android]] · [[iOS]]
 - Acima: [[Arquitetura de Software]] · [[Linguagem de Programação]]
-- Abaixo: CI/CD (publicação de artefatos), testes, integração com apps
+- Abaixo: [[CI/CD]]
 
 ## Ideia
 - KMP permite compartilhar código [[Kotlin]] entre [[Android]], iOS e outras plataformas via módulos com `commonMain` (expect) e implementações específicas (`actual`).
 - Objetivo: reduzir duplicação de regras de negócio mantendo experiência nativa na [[UI]].
-- O [[Compose Multiplatform]] permite também compartilhar a 
+- O [[Compose Multiplatform]] permite também compartilhar a interface de usuário quando conveniente, mantendo integrações nativas nas bordas quando necessário.
 
 ## Quando usar
 - Domínio com lógica substancial e estável (networking, cache, validação, casos de uso) e UI nativa específica.

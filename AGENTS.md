@@ -17,9 +17,11 @@ Este arquivo define como eu (Codex, GPT ou outro agente) devo escrever e editar 
 
 # Estrutura das Notas
 - Preferir 1–3 parágrafos curtos em prosa, a cada geração. Usar tópicos e listas apenas quando realmente ajudarem a leitura e o registro de conhecimento.
+- Os 3 parágrafos em uma nova nota de tecnologia devem estar, por padrão, sob os títulos Definição, Funcionalidade e Casos de Uso.
+- Em Filosofia: Definição, Argumentos a Favor, Argumentos Contra, Conclusão.
 - Evitar “componentes operativos”, “calibração”, “métricas”, “mapa rápido” ou outros tipos de jargões pseudo-técnicos como seções padrão.
 - Pode ser incluída um seção para argumentos a favor e contra.
-- Seções são formatadas, com duas hashtags (##).
+- Seções ou títulos são formatados com duas hashtags (##).
 
 # Vínculos e Referências
 - Usar wikilinks com parcimônia (0–4 por nota). Só linkar quando enriquecer a compreensão ou navegação real.

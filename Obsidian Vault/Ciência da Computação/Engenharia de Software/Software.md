@@ -6,7 +6,7 @@ tags:
 created: 2025-08-29
 updated: 2025-09-04
 ---
-Derivado de: [[Informação]] [[Digital]]
+Derivado de: [[Informação]] [[Digital]] [[Mapa Rizomático]]
 # O que é software
 (0 corrigir) Software é uma [[Informação]] [[Digital]] que produz um certo resultado: um conjunto de instruções e arranjos correlatos (código, dados, configuração, documentação) que, ao serem interpretados por máquinas ou pessoas, produzem efeitos regulares num contexto. Distingue‑se de programa por abarcar também o que permite sua entrega, operação e evolução; é, portanto, uma obra socio‑técnica, dependente de práticas e decisões humanas, além do suporte material que a executa.
 
@@ -39,3 +39,6 @@ Derivado de: [[Informação]] [[Digital]]
 ## Ligações
 - [[Engenharia de Software]], [[Arquitetura de Software]], [[Processos]], [[Testes]], [[DevOps]] (observabilidade/entrega), [[Padrões de Projeto]], [[Sistema Operacional]]. [[Testes]]
 - [[Teste Unitário]]
+- [[Ciência da Computação]]
+* [[Informática]]
+* [[Kernel (Software)]]
