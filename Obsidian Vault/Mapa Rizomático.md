@@ -44,7 +44,8 @@ updated: 2025-08-28
 - [[Psicologia]]
 
 ## Religião
-* 
+* [[Budismo]]
+* [[Vacuidade]]
 
 ## Utilidades
 * [[Tarefas]]

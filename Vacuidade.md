@@ -2,11 +2,28 @@
 title: Vacuidade
 tags: [budismo, ontologia, vacuidade, vagueza]
 created: 2025-09-01
-updated: 2025-09-01
+updated: 2025-09-15
 ---
 
-## Ideia
-- Vacuidade (śūnyatā): ausência de natureza intrínseca (svabhāva); coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas. Não é niilismo: reconhece funcionamentos e regularidades sem reificação.
+## Definição
+
+Vacuidade (śūnyatā) é a ausência de natureza intrínseca (svabhāva): coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas.
+
+## Perguntas
+
+[[Vacuidade - Perguntas]]
+
+## Fronteiras
+
+A vacuidade recusa fronteiras e limites fixos porque a individuação de objetos e eventos decorre de condições variáveis e de imputações conceituais. O recorte que separa “isto” de “aquilo” depende de escala de observação, finalidade prática e convenções; mudadas as condições, altera‑se o recorte. Se houvesse natureza intrínseca, a demarcação seria necessária e invariável; como os fenômenos surgem e cessam em dependência, os limites são convencionais e revisáveis.
+
+Exemplos cotidianos: a “praia” recua e avança com marés, ventos e intervenções; o mesmo trecho é ora areia, ora mar, sem contorno essencial. Um “bairro” existe por decreto, hábitos e infraestrutura; alteradas vias e usos, seus limites mudam sem que algo essencial se perca. Assim, limites orientam ação e linguagem, mas não descrevem naturezas fixas.
+
+## Implicações
+
+Implica uma ontologia não-essencialista e uma metodologia pragmática: [[Categoria|categorias]], identidades e fronteiras funcionam como designações convencionais úteis, não como naturezas fixas. A avaliação teórica e prática passa a privilegiar condições, dependências e efeitos, o que desencoraja dogmatismos e evita o niilismo: ausência de essência não elimina eficácia causal, responsabilidade ou normatividade contextual.
+
+Exemplo cotidiano: “cadeira” designa um arranjo de materiais, forma e uso; sem a disposição adequada, o mesmo conjunto de partes deixa de cumprir a função e o rótulo perde aplicabilidade. “Trânsito” é um padrão que emerge de veículos, sinalização, regras e hábitos; não há um “trânsito” por si, mas uma rede de condições cuja modificação altera o fenômeno.
 
 ## Argumentos a Favor
 - Dependência causal (originação dependente): tudo que surge, surge em dependência de condições; se algo tivesse essência própria (svabhāva), não dependeria de causas nem mudaria. Como muda e depende, não possui essência independente.

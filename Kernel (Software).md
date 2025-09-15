@@ -9,7 +9,9 @@ Kernel é o núcleo do sistema operacional responsável por mediar o uso do [[Ha
 
 ## Origem
 
-TODO
+A noção de kernel surge com os sistemas operacionais multiprogramados das décadas de 1960 e 1970, quando se tornou necessário um núcleo residente e privilegiado para arbitrar o acesso concorrente aos dispositivos e à memória. A tradição do [[Unix]] cristalizou a separação entre espaço de usuário e modo supervisor e difundiu a ideia de um conjunto pequeno e definido de chamadas de sistema como contrato estável com os programas.
+
+A partir dos anos 1980, duas linhas de design passaram a orientar a evolução: núcleos monolíticos, que privilegiam desempenho ao integrar mais subsistemas, e micro‑núcleos, que deslocam serviços para fora do núcleo em busca de robustez e verificabilidade. Em ambos os casos, o kernel permanece como o componente que inicia o sistema, permanece residente, atende interrupções e gerencia recursos básicos sobre os quais o restante do sistema se organiza.
 
 ## Funcionamento
 
