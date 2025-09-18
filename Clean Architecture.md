@@ -2,7 +2,9 @@
 title: Clean Architecture
 updated: 2025-09-14
 ---
- 
+ [[Arquitetura de Software]]
+## Definição
+
 Clean Architecture é um padrão de design que organiza o sistema de modo que as regras de negócio permaneçam independentes de dispositivos (hardware, sistemas operacionais e recursos de plataforma), interfaces e [[Persistência (Software)|mecanismos de persistência]] (bancos de dados, arquivos e caches). As dependências apontam para dentro: políticas de alto nível não dependem de detalhes de implementação. Exemplo cotidiano: a política de trocas de uma loja não deve depender do modelo da maquineta de cartão; pode-se trocar o equipamento sem reescrever a regra.
 
 ## Por que importa

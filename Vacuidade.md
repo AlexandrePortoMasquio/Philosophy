@@ -7,7 +7,7 @@ updated: 2025-09-15
 
 ## Definição
 
-Vacuidade (śūnyatā) é a ausência de natureza intrínseca (svabhāva): coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas.
+Vacuidade (śūnyatā) é a ausência de natureza intrínseca, ou [[Essência]] (svabhāva): coisas existem dependente‑relacionalmente (originação dependente), não como essências fixas.
 
 ## Perguntas
 

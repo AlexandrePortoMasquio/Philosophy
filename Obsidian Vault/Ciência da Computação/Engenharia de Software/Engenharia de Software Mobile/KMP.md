@@ -2,11 +2,11 @@
 title: KMP (Kotlin Multiplatform)
 tags: [mobile, kotlin, multiplatform]
 created: 2025-08-28
-updated: 2025-08-29
+updated: 2025-09-15
 ---
-
+[[Software]]
 ## Definição
-Kotlin Multiplatform (KMP) é um conjunto de capacidades do [[Ecossistema Kotlin]] — suporte do compilador, organização por source sets e plugins de build — para compartilhar código entre múltiplas plataformas a partir de uma base comum. Não é uma linguagem nem um framework de interface; trata-se de uma abordagem e de uma ferramenta de compilação/organização de projeto que permite combinar código comum com implementações específicas por plataforma quando necessário. Na prática, o código comum reside em `commonMain` e os trechos específicos em `androidMain` e `iosMain` (mecanismo `expect/actual`).
+Kotlin Multiplatform (KMP) é um conjunto de capacidades do [[Ecossistema Kotlin]] — suporte do [[Compilador (Kotlin)]], organização por source sets e plugins de build — para compartilhar código entre múltiplas plataformas a partir de uma base comum. Não é uma linguagem nem um framework de interface; trata-se de uma abordagem e de uma ferramenta de compilação/organização de projeto que permite combinar código comum com implementações específicas por plataforma quando necessário. Na prática, o código comum reside em `commonMain` e os trechos específicos em `androidMain` e `iosMain` (mecanismo `expect/actual`).
 
 ## Mapa Rápido
 - Lado: [[Multiplataforma]] · [[Android]] · [[iOS]]
@@ -21,6 +21,18 @@ Kotlin Multiplatform (KMP) é um conjunto de capacidades do [[Ecossistema Kotlin
 ## Quando usar
 - Domínio com lógica substancial e estável (networking, cache, validação, casos de uso) e UI nativa específica.
 - Equipes com proficiência em Kotlin e integração [[iOS]] (Interop Swift/ObjC).
+
+## Vantagens
+
+- Redução de duplicidade: regras de negócio, modelos e políticas residem no módulo compartilhado, diminuindo divergências entre Android e iOS e simplificando manutenção.
+- Experiência nativa preservada: UI e integrações ficam nas bordas de cada plataforma, evitando compromissos de desempenho/UX típicos de camadas de abstração de interface.
+- Contratos únicos e testáveis: tipos de erro, resultados e validações são definidos uma vez e exercitados por uma suíte comum (`commonTest`), aumentando consistência.
+- Entrega coordenada: funcionalidades chegam simultaneamente às plataformas, com menor risco de regressões assimétricas e menor esforço de sincronização entre equipes.
+- Dependências sob controle: uso de bibliotecas multiplataforma (Ktor, kotlinx.serialization, SQLDelight) reduz acoplamento a APIs específicas e facilita evolução.
+
+## Prós e Contras em relação ao Flutter
+
+TODO
 
 ## Módulos
 * [[Domain]]

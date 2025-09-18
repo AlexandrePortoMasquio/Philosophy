@@ -23,6 +23,7 @@ Derivado de: [[Informação]] [[Digital]] [[Mapa Rizomático]]
 
 ## Prática
 * [[Desenvolvimento de Software]]
+* [[Estruturas de Dados]]
 
 ## Dimensões
 - Funcionais e de qualidade: desempenho, confiabilidade, segurança, manutenibilidade, usabilidade, custo.
@@ -42,3 +43,4 @@ Derivado de: [[Informação]] [[Digital]] [[Mapa Rizomático]]
 - [[Ciência da Computação]]
 * [[Informática]]
 * [[Kernel (Software)]]
+* [[Estruturas de Dados]]

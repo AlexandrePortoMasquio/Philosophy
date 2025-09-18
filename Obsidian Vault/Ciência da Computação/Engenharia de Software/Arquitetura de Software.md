@@ -11,7 +11,7 @@ updated: 2025-08-28
 
 ## Qualidades Arquiteturais
 - Desempenho, escalabilidade, confiabilidade, segurança, manutenibilidade, evolutividade, portabilidade.
-- Trade-offs explícitos: escolhas de estilo (camadas, microsserviços, monólito modular, event-driven) influenciam custos e capacidades.
+- Trade-offs explícitos: escolhas de estilo (camadas, [[Microsserviço|microsserviços]], monólito modular, event-driven) influenciam custos e capacidades.
 
 ## Estilos e Decisões
 - Camadas: separação de responsabilidades; facilita substituição e testes.

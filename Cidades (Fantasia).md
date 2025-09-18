@@ -21,7 +21,7 @@ updated: 2025-09-01
 - Cada cidade inclui ligações cruzadas para facilitar viagens e campanhas multissítio.
 
 ## Ligações
-- [[RPG]] · [[Jogo]] · [[Pragmática]] (para uso em mesa) · [[Informação]] (para pensar facções como códigos)
+- [[RPG]] · [[Jogo]]
 
 ## Mapa Rápido
 - [[Nimbária (Cidade Fantástica)]] · [[Lúmen-Profundo]] · [[Arx-Mare (Cidade Fantástica)]] · [[Selvatéria]] · [[Ferronova]]

@@ -21,3 +21,7 @@ updated: 2025-09-13
 
 ## Relações
 [[Software]] · [[Processo]] · [[Precisificação]] · [[Testes Unitários]]
+
+## Tecnologias
+
+* [[Automação de Testes de Regressão]]

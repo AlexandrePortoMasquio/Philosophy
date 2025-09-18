@@ -26,6 +26,7 @@ Comunicação, navegação, captura e edição de mídia, serviços financeiros,
 ## Ver também
 - [[Arquitetura Android]]
 - [[KMP]] · [[Arquitetura KMP]]
+- [[Perfetto]]
 
 ## TODOs
 - Definir `MyAppApplication` e `RootApp` como nomes finais.

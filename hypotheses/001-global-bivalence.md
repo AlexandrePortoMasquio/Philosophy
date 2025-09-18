@@ -6,7 +6,7 @@ tags: [logic, truth, vagueness]
 created: 2025-08-26
 updated: 2025-08-26
 ---
-
+[[Bivalência Global]]
 ## Summary
 - The hypothesis claims that every declarative sentence is either true or false (bivalence holds globally). This entry tracks arguments pro/con across precise mathematics, vagueness, and truth-theoretic paradoxes.
 
