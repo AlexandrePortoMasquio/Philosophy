@@ -22,6 +22,7 @@ Derivado de: [[Informação]] [[Digital]] [[Mapa Rizomático]]
 - , e as formas como estruturas de dados. Sistemas biológicos, sociais e técnicos são programas distribuídos que preservam e transformam informação.
 
 ## Prática
+* [[Programação]]
 * [[Desenvolvimento de Software]]
 * [[Estruturas de Dados]]
 
@@ -39,7 +40,7 @@ Derivado de: [[Informação]] [[Digital]] [[Mapa Rizomático]]
 
 ## Ligações
 - [[Engenharia de Software]], [[Arquitetura de Software]], [[Processos]], [[Testes]], [[DevOps]] (observabilidade/entrega), [[Padrões de Projeto]], [[Sistema Operacional]]. [[Testes]]
-- [[Teste Unitário]]
+- [[Teste Unitário (KMP e Android)]]
 - [[Ciência da Computação]]
 * [[Informática]]
 * [[Kernel (Software)]]

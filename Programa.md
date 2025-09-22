@@ -5,7 +5,7 @@ updated: 2025-09-14
 
 ## Definição
 
-Em [[Software]] e [[Informática]], o programa é uma sequência finita de instruções, expressa em linguagem formal executável, destinada a realizar um objetivo definido em ambiente computacional. Especifica como transformar entradas em saídas e como evoluir estados sob condições de controle, dentro de limites claros de finalidade e de recursos. Exemplo cotidiano: uma receita prescreve passos e condições para obter um prato a partir de ingredientes.
+Em [[Programação]], [[Software]] e [[Informática]], o programa é uma sequência finita de instruções, expressa em linguagem formal executável, destinada a realizar um objetivo definido em ambiente computacional. Especifica como transformar entradas em saídas e como evoluir estados sob condições de controle, dentro de limites claros de finalidade e de recursos. Exemplo cotidiano: uma receita prescreve passos e condições para obter um prato a partir de ingredientes.
 
 ## Funcionamento
 

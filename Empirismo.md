@@ -13,5 +13,4 @@ Aprender que a água ferve a 100°C ao nível do mar ocorre por medições repet
 Sem critérios, a generalização a partir de poucos casos conduz a ilusões. A indução carece de garantia lógica absoluta: o futuro pode divergir do passado. Também há dimensões do conhecimento que exigem conceitos não observáveis diretamente (causação, número, probabilidade); aqui, o empirismo rigoroso pede que tais conceitos se justifiquem por seu papel explicativo e por testes observáveis, evitando metafísica ociosa.
 
 ## Relações
-[[Experiência]] · [[Fenomenologia]] · [[Psicologia]] · [[Crenças (Sabedoria)]]
-
+[[Experiência]] · [[Fenomenologia]] · [[Psicologia]] · [[Fundacionismo]]

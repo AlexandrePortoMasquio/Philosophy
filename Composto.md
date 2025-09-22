@@ -17,5 +17,5 @@ Há posições que rejeitam compostos como entidades adicionais: reducionismos v
 
 ## Conclusão
 
-Tratar algo como composto é útil quando a organização faz diferença para explicar função, estabilidade e identidade. Em análise e em prática, convém declarar o critério usado para composição e os limites de validade, evitando reificação do todo ou apagamento das dependências às partes. Assim, “composto” orienta distinções operacionais sem disputar essências metafísicas fortes. Ver também: [[Mereologia]] · [[Componente]] · [[Sistema]] · [[Substância]].
+Tratar algo como composto é útil quando a organização faz diferença para explicar função, estabilidade e identidade. Em análise e em prática, convém declarar o critério usado para composição e os limites de validade, evitando reificação do todo ou apagamento das dependências às partes. Assim, “composto” orienta distinções operacionais sem disputar essências metafísicas fortes. Ver também: [[Mereologia]] · [[Componente]] · [[Sistema]] · [[Substância (Filosofia)]].
 

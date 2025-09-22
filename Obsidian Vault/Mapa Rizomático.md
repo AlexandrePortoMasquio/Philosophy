@@ -32,6 +32,7 @@ updated: 2025-08-28
 ## Tecnologia
 - [[Software]]
 - [[Web3]] [[Cyberia]]
+- [[Programação]]
  
 ## Sabedoria
 - [[Sabedoria]]

@@ -17,4 +17,4 @@ Várias correntes recusam um [[Fundamento]] último da [[Realidade]]. [[Nietzsch
 
 
 ## Relações
-* [[Básico]] · [[Substância]]
+* [[Básico]] · [[Substância (Filosofia)]]

@@ -19,6 +19,7 @@ Este arquivo define como eu (Codex, GPT ou outro agente) devo escrever e editar 
 - Preferir 1–3 parágrafos curtos em prosa, a cada geração. Usar tópicos e listas apenas quando realmente ajudarem a leitura e o registro de conhecimento.
 - Os 3 parágrafos em uma nova nota de tecnologia devem estar, por padrão, sob os títulos Definição, Funcionalidade e Casos de Uso.
 - Em Filosofia: Definição, Argumentos a Favor, Argumentos Contra, Conclusão.
+- Em Ficção: 1. Definição, 2. História, 3. Variações ou Evolução
 - Evitar “componentes operativos”, “calibração”, “métricas”, “mapa rápido” ou outros tipos de jargões pseudo-técnicos como seções padrão.
 - Pode ser incluída um seção para argumentos a favor e contra.
 - Seções ou títulos são formatados com duas hashtags (##).
@@ -51,4 +52,4 @@ Relações (curto): [[Nota A]] · [[Nota B]]
 # Processo
 - Antes de editar, checar se há instrução específica do usuário nesta conversa que contrarie este arquivo; seguir a instrução do usuário.
 - Em caso de dúvida sobre tom/estrutura, perguntar ao usuário com 2–3 opções curtas.
-
+- Faça apenas o que o usuário pediu, não modifique o que já estava feito, exceto se for pedido.

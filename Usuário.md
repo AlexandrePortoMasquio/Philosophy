@@ -16,4 +16,4 @@ Clarificar o que conta como usuário orienta desenho de permissões, governança
 Reduções a um estereótipo genérico (“o usuário”) apagam contextos e necessidades diversas. Abstrações excessivas ocultam assimetrias de poder e impacto. Convém explicitar finalidade, direitos, deveres, limites de reversão e critérios de acesso, além de considerar acessibilidade e efeitos colaterais de exclusão.
 
 ## Relações
-[[Interface de Usuário]] · [[Operador]] · [[Produto]] · [[Cliente (Software)]]
+[[Interface de Usuário]] · [[Operador]] · [[Produto]] · [[Cliente (Programação)]]

@@ -20,7 +20,7 @@ updated: 2025-09-13
 - [ ] Registrar decisões, riscos e limites de aceitação
 
 ## Relações
-[[Software]] · [[Processo]] · [[Precisificação]] · [[Testes Unitários]]
+[[Software]] · [[Processo]] · [[Precisificação]] · [[Teste Unitário]]
 
 ## Tecnologias
 

@@ -10,7 +10,7 @@ Derivado de [[Software]], [[Programação]]
 
 ## Funcionalidade
 
-Valores circulam entre funções, processos e serviços por cópia ou por referências que preservam semântica por conteúdo. Imutabilidade simplifica raciocínio e concorrência, reduz efeitos colaterais e facilita [[Teste (Software)]]. Igualdade e ordenação devem ser definidas com precisão; hash estável e consistente permite uso como chave em coleções. Em fronteiras de sistema, valores são serializados segundo contratos explícitos; versionamento preserva compatibilidade e evita ambiguidade semântica. Em termos de [[Memória (Software)]], optar por valores implica avaliar custos de cópia vs compartilhamento, evitando estruturas excessivamente pesadas.
+Valores circulam entre funções, processos e serviços por cópia ou por referências que preservam semântica por conteúdo. Imutabilidade simplifica raciocínio e concorrência, reduz efeitos colaterais e facilita [[Teste (Programação)]]. Igualdade e ordenação devem ser definidas com precisão; hash estável e consistente permite uso como chave em coleções. Em fronteiras de sistema, valores são serializados segundo contratos explícitos; versionamento preserva compatibilidade e evita ambiguidade semântica. Em termos de [[Memória (Software)]], optar por valores implica avaliar custos de cópia vs compartilhamento, evitando estruturas excessivamente pesadas.
 
 ## Casos de Uso
 

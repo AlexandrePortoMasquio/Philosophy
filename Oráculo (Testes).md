@@ -10,7 +10,7 @@ Oráculo, em software, é o critério ou procedimento que decide, a partir de en
 
 ## Funcionalidade
 
-Concretiza critérios de aceitação de [[Teste (Software)]] em verificações objetivas: define quais entradas observar, quais saídas medir e como julgar (igualdade exata, tolerâncias numéricas, inclusão/ordem, ausência de efeitos colaterais). Em cenários com variância legítima, oráculos robustos aplicam normalizações e faixas de tolerância para evitar falsos positivos; quando resultados exatos são necessários, exigem igualdade determinística. A qualidade do oráculo depende de precisão, reprodutibilidade e relevância para o valor do sistema.
+Concretiza critérios de aceitação de [[Teste (Programação)]] em verificações objetivas: define quais entradas observar, quais saídas medir e como julgar (igualdade exata, tolerâncias numéricas, inclusão/ordem, ausência de efeitos colaterais). Em cenários com variância legítima, oráculos robustos aplicam normalizações e faixas de tolerância para evitar falsos positivos; quando resultados exatos são necessários, exigem igualdade determinística. A qualidade do oráculo depende de precisão, reprodutibilidade e relevância para o valor do sistema.
 
 ## Casos de Uso
 

@@ -1,1 +1,1 @@
-TODO relacionar [[Substância]] [[Tempo]] [Cosmologia Informacional](Cosmologia%20Informacional.md) 
+TODO relacionar [[Substância (Filosofia)]] [[Tempo]] [Cosmologia Informacional](Cosmologia%20Informacional.md) 

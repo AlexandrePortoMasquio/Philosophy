@@ -6,6 +6,8 @@ updated: 2025-08-28
 ---
 [[Mapa Rizomático]]
 ## Próximas Ações
+* Kotlin job, SupervisorJob
+* coroutines
 * Estruturar os conhecimentos necessários para entrevistas técnicas KMP / Android.
 * Estudar SOLID, especialmente em KMP e Android, desenvolver cada princípio e aplicações.
 - [ ] Dar Definições não-circulares de [[Ruído]] e [[Entropia informacional]].

@@ -4,7 +4,7 @@ tags: [testes, qualidade]
 created: 2025-09-16
 updated: 2025-09-16
 ---
-[[Desenvolvimento de Software]] [[Teste (Software)]]
+[[Desenvolvimento de Software]] [[Teste (Programação)]]
 ## Definição
 
 Teste de regressão é o conjunto de verificações que assegura que mudanças no sistema não reintroduzam defeitos corrigidos nem quebrem comportamentos já estabilizados. Foca a repetibilidade: após alterações de código, configuração ou ambiente, executa‑se a bateria de testes para confirmar que funcionalidades previamente aceitas permanecem válidas. Complementa a validação de novas histórias ao proteger valor já entregue.

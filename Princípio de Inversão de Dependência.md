@@ -12,5 +12,5 @@ Um serviço de faturamento depende de “RepositorioDePedidos” como contrato; 
 Abstrações excessivas confundem e encarecem manutenção. A inversão funciona melhor quando interfaces capturam invariantes do domínio, não detalhes circunstanciais de tecnologia.
 
 ## Relações
-[[SOLID]] · [[Testes Unitários]] · [[Desenvolvimento de Software]]
+[[SOLID]] · [[Teste Unitário]] · [[Desenvolvimento de Software]]
 

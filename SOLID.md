@@ -2,7 +2,7 @@
 title: SOLID
 updated: 2025-09-13
 ---
-“SOLID” é um conjunto de princípios de design que orienta coesão, separação de responsabilidades e controle de dependências. Servem como heurísticas para tornar [[Módulo (Software)|módulos]] mais previsíveis, substituíveis e verificáveis, favorecendo evolução com menor acoplamento e maior clareza de contrato.
+Em [[Programação]], “SOLID” é um conjunto de princípios de design que orienta coesão, separação de responsabilidades e controle de dependências. Servem como heurísticas para tornar [[Módulo (Software)|módulos]] mais previsíveis, substituíveis e verificáveis, favorecendo evolução com menor acoplamento e maior clareza de contrato.
 
 ## Princípios (síntese)
 - [[Princípio de Responsabilidade Única]]: cada unidade responde por uma razão de mudança.
@@ -15,4 +15,4 @@ updated: 2025-09-13
 Aplicação literal e universal degrada em formalismo estéril: princípios servem a finalidades. Responsabilidade “única” depende do recorte adotado; extensibilidade prematura pode introduzir indireções supérfluas. Convém priorizar invariantes reais do domínio, tornar contratos verificáveis e aceitar exceções quando a simplicidade ou o desempenho assim o exigirem.
 
 ## Relações
-[[Desenvolvimento de Software]] · [[Precisificação]] · [[Testes Unitários]] · [[Software]]
+[[Desenvolvimento de Software]] · [[Precisificação]] · [[Teste Unitário]] · [[Software]]

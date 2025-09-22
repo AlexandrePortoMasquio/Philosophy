@@ -2,11 +2,11 @@
 title: Teste (Software)
 updated: 2025-09-16
 ---
-Derivado de [[Software]]
+Derivado de [[Software]], [[Programação]]
 
 ## Definição
 
-Teste, em software, é a atividade de verificar, por meios controlados, se um programa atende ao seu [[Contrato (Software)|contrato]] e aos critérios de qualidade especificados. Consiste em formular casos e oráculos a partir de requisitos bem [[Precisificação|precisados]] e observar resultados para aceitar, rejeitar ou revisar comportamentos. Abrange níveis como [[Testes Unitários]] (funções/módulos), integração e validações ponta‑a‑ponta, com escopos diferentes e objetivos complementares.
+Teste, em software e programação, é a atividade de verificar, por meios controlados, se um programa atende ao seu [[Contrato (Software)|contrato]] e aos critérios de qualidade especificados. Consiste em formular casos e oráculos a partir de requisitos bem [[Precisificação|precisados]] e observar resultados para aceitar, rejeitar ou revisar comportamentos. Abrange níveis como [[Teste Unitário]] (funções/módulos), [[Teste de Integração|testes]] e validações ponta‑a‑ponta, com escopos diferentes e objetivos complementares.
 
 ## Funcionalidade
 

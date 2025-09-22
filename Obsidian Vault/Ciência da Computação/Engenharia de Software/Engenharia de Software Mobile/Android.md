@@ -6,7 +6,7 @@ updated: 2025-09-15
 ---
 ## Definição
 
-Android é uma [[Plataforma (Software)]] [[Desenvolvimento Mobile|móvel]] baseada em [[Linux]] que fornece um sistema operacional, um conjunto de APIs e um ambiente de execução para aplicações. Oferece modelo de permissões, distribuição por lojas e suporte a múltiplos fabricantes e formatos de dispositivo. O objetivo é permitir aplicações com integração a recursos do aparelho sob diretrizes comuns de segurança e experiência.
+Android é uma [[Plataforma (Programação)]] [[Desenvolvimento Mobile|móvel]] baseada em [[Linux]] que fornece um sistema operacional, um conjunto de APIs e um ambiente de execução para aplicações. Oferece modelo de permissões, distribuição por lojas e suporte a múltiplos fabricantes e formatos de dispositivo. O objetivo é permitir aplicações com integração a recursos do aparelho sob diretrizes comuns de segurança e experiência.
 
 ## Base do Sistema em Linux
 

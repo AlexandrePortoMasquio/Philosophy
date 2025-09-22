@@ -4,6 +4,24 @@ tags: [mobile, kotlin, kmp, arquitetura]
 created: 2025-08-28
 updated: 2025-08-29
 ---
+## Definição
+
+Arquitetura KMP é o arranjo de [[Camadas (KMP)]], contratos e [[Modularização (KMP)|módulos]] necessários para compartilhar lógica de domínio e dados entre plataformas mantendo interfaces nativas e fronteiras claras. O núcleo compartilhado concentra modelos, regras e serviços expressos em `commonMain`; o código específico de alvo permanece nas bordas (Android/iOS/JS), onde se realizam composições, integrações e políticas próprias de plataforma.
+
+O objetivo é maximizar coerência e reutilização sem sacrificar experiência nativa: variações inevitáveis ficam encapsuladas por `expect/actual` e adaptadores; dependências invertem‑se a favor de interfaces do domínio; contratos estáveis (tipos, erros, fluxos) permitem testes comuns e evolução independente das implementações de cada alvo.
+
+## Princípios
+
+Separar comum de específico e proteger o comum de detalhes de plataforma; depender de contratos do domínio (não de implementações), aplicando inversão e segregação de interfaces; limitar a superfície das bordas com adaptadores `expect/actual` e dados imutáveis ao atravessar fronteiras. Testabilidade guia o desenho: regras ficam testáveis em `commonTest`; integrações são exercitadas por alvo com dublês mínimos. Medir interop e latência orienta escolhas sobre o que compartilhar e o que manter local à plataforma.
+
+## Padrões de Arquitetura KMP
+
+* [[MVVM]]
+* [[Clean Architecture]]
+* MVI
+* UDF (Fluxo Unidirecional)
+* Ports and Adapters (Hexagonal)
+
 
 ## Mapa Rápido
 - Acima: [[../Arquitetura de Software|Arquitetura de Software]] 

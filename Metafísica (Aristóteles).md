@@ -7,7 +7,7 @@ updated: 2025-09-16
 
 ## Definição
 
-Em [[Aristóteles]], a metafísica é a investigação do “ser enquanto ser” e dos primeiros princípios e causas, distinta das ciências particulares que consideram entes sob aspectos específicos. O eixo da doutrina é a prioridade da [[Substância]] (ousia) como aquilo que existe por si e funda a inteligibilidade dos demais modos do ser. Complementam‑na a teoria das causas (material, formal, eficiente e final), a distinção entre ato e [[Ato|ato]]/potência, e a formulação do princípio de não contradição como condição do pensar e do dizer. A tradição chama esse conjunto de “primeira filosofia”, frequentemente identificado com a “[[Metafísica]]” enquanto obra e campo.
+Em [[Aristóteles]], a metafísica é a investigação do “ser enquanto ser” e dos primeiros princípios e causas, distinta das ciências particulares que consideram entes sob aspectos específicos. O eixo da doutrina é a prioridade da [[Substância (Filosofia)]] (ousia) como aquilo que existe por si e funda a inteligibilidade dos demais modos do ser. Complementam‑na a teoria das causas (material, formal, eficiente e final), a distinção entre ato e [[Ato|ato]]/potência, e a formulação do princípio de não contradição como condição do pensar e do dizer. A tradição chama esse conjunto de “primeira filosofia”, frequentemente identificado com a “[[Metafísica]]” enquanto obra e campo.
 
 ## Argumentos a Favor
 
