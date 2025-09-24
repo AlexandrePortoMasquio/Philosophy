@@ -7,6 +7,13 @@ updated: 2025-09-14
 
 Clean Architecture é um padrão de design que organiza o sistema de modo que as regras de negócio permaneçam independentes de dispositivos (hardware, sistemas operacionais e recursos de plataforma), interfaces e [[Persistência (Software)|mecanismos de persistência]] (bancos de dados, arquivos e caches). As dependências apontam para dentro: políticas de alto nível não dependem de detalhes de implementação. Exemplo cotidiano: a política de trocas de uma loja não deve depender do modelo da maquineta de cartão; pode-se trocar o equipamento sem reescrever a regra.
 
+## Estrutura
+
+- Domínio (Entidades e Regras): concentra invariantes e políticas de negócio; opera com tipos e operações estáveis, sem dependências externas.
+- Aplicação ([[UseCase]]s): orquestra o que acontece e em que ordem; coordena portas, define fronteiras transacionais e retorna resultados do domínio, sem conhecer UI, banco ou rede.
+- Adaptadores de Interface: convertem dados e contratos entre o núcleo e as bordas; incluem controladores, apresentadores e mapeadores; dependem da Aplicação, não o inverso.
+- Infraestrutura e Dispositivos: bancos de dados, clientes de rede, drivers e bibliotecas de plataforma; implementam detalhes técnicos e podem ser substituídos sem alterar as camadas internas.
+
 ## Por que importa
 
 Esse arranjo torna o núcleo do domínio mais claro e testável, facilita a substituição de detalhes (bancos de dados, bibliotecas de rede, camadas de apresentação) e reduz o custo de mudança ao longo do tempo. Ao separar políticas estáveis de meios voláteis, aumenta-se a longevidade do sistema e diminui-se o acoplamento acidental entre partes que evoluem por razões distintas.

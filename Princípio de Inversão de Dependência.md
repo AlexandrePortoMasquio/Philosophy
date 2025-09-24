@@ -2,6 +2,8 @@
 title: Princípio de Inversão de Dependência
 updated: 2025-09-13
 ---
+[[SOLID]]
+## Definição
 
 Dependências devem apontar para abstrações estáveis, não para detalhes voláteis. Políticas de alto nível controlam detalhes por contratos; implementações concretas encaixam‑se nesses contratos sem inverter a direção do acoplamento.
 

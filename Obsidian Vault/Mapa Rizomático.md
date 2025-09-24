@@ -6,13 +6,15 @@ updated: 2025-08-28
 ---
 # Home — Rizoma de Ideias
 
+·········
+
 ## Estrutura
 * [[Obsidian]]
 * [[Codex]]
 * [[AGENTS]]
 ## Filosofia
 * [[Filosofia]]
-* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]]
+* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Mapa]] ···
 * [[Conceito]] · [[Operador]]
 * [[Metafísica]] · [[Simplicidade]] ·  [[Apeiron]] · [[Ontologia da Diferença]] · 
 * [[Rizoma]]

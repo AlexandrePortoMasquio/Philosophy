@@ -4,7 +4,7 @@ updated: 2025-09-13
 ---
 [[Software]]
 
-Na [[Ontologia Informacional]], informação é primária e a materialidade é instanciação derivada. “Digital” designa modos informacionais discretos cuja identidade pode ser preservada por reencenação fiel de estados distinguíveis, sem dependência essencial de um suporte material específico; “[[Analógico]]” designa modos informacionais contínuos, nos quais variação e precisão permanecem co‑dependentes da instanciação material.
+Na [[Ontologia Informacional]], a [[Informação]] é primária e a [[Matéria]] é instanciação derivada. “Digital” designa modos informacionais discretos cuja identidade pode ser preservada por reencenação fiel de estados distinguíveis, sem dependência essencial de um suporte material específico; “[[Analógico]]” designa modos informacionais contínuos, nos quais variação e precisão permanecem co‑dependentes da instanciação material.
 
 Essa discretização organiza classes de valores e regras de transição entre elas. Com isso, torna viáveis cópia com alta fidelidade, comparação estável de estados e recomposição modular, ao custo de quantização e perda de gradações situadas entre cortes definidos.
 

@@ -2,7 +2,7 @@
 title: Ciclo de Vida (Software)
 updated: 2025-09-14
 ---
-O ciclo de vida é o conjunto de estados e transições de uma [[Aplicação (Software)]], processo ou componente, da criação ao término.
+O ciclo de vida é o conjunto de estados e transições de uma [[Aplicação (Programação)]], processo ou componente, da criação ao término.
 
 ## Por que importa
 

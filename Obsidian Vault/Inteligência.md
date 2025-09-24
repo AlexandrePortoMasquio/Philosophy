@@ -3,7 +3,7 @@ title: Inteligência
 tags: [mente, cognição]
 updated: 2025-08-29
 ---
-
+[[Seleção Natural]]
 ## Definição
 
 Inteligência é a capacidade de [[Adaptação]] contínua da [[Informação]] por [[Seleção Natural]], ao invés da adaptação apenas ao longo de gerações.

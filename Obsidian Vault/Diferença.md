@@ -4,12 +4,21 @@ tags: [diferença, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-# Diferença
+[[Metafísica]] [[Monismo da Diferença]]
+
+## Definição
+
+A diferença é relação por meio da qual quaisquer coisas se diferenciam entre si.
+
+Na [[Metafísica da Diferença]], a diferença é o componente mais [[Básico]] da realidade, do qual todos os outros [[Ser|seres]] são derivados. A diferença, nesta perspectiva, também é a base da identidade, das leis da lógica, das formas, dos objetos abstratos, da informação e de todas as coisas, em qualquer âmbito.
+
+## Primazia da Diferença
 
 De acordo com o [[Argumento pela primazia da diferença]], a diferença é mais básica que a identidade, sendo um [[Fundamento]] para a metafísica, lógica e epistemologia.
 
-- Diferença como fundamento ontológico: é o que estrutura o real; [[Forma]] emergem dela e são padrões diferenciais
+## Relatividade da Diferença
 
+Ver [[Relatividade da Diferença]]
 ## Nota (Deleuze)
 - Diferença (distribuições, multiplicidades) vs diferenciação (processos que atualizam essas diferenças). A primeira é virtual/real; a segunda é o processo genético que resolve o virtual em [[Forma]].
 - Diferença-em-si: relações diferenciais e singularidades que compõem multiplicidades (conteúdo da [[Virtualidade]]), anteriores a identidades e [[Semelhança|semelhanças]].

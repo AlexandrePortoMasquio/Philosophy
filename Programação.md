@@ -15,4 +15,6 @@ Na prática, organiza-se em [[Módulo (Software)|módulos]] e [[Abstração|abst
 
 ## Casos de Uso
 
+* [[Programação Orientada a Objetos]]
+
 Construção de aplicações e serviços, automação de tarefas, processamento de dados, controle de dispositivos e simulações. Exemplo cotidiano: automatizar um relatório repetitivo — define‑se a sequência de passos, valida‑se a entrada e produz‑se a saída com verificações explícitas; o ganho está na reprodutibilidade, na redução de erros e na economia de tempo. Em todos os casos, a programação bem feita articula intenção clara, decomposição adequada e verificação contínua.

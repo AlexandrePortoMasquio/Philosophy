@@ -2,10 +2,11 @@
 title: Aplicação (Software)
 updated: 2025-09-14
 ---
-
+Derivado de: [[Programação]]
+Relacionado a: [[Aplicação (Clean Architecture)]]
 ## Definição
 
-Em [[Software]], uma aplicação é um [[Programa]] orientado a um objetivo definido que oferece capacidades em um contexto de uso por meio de [[Interface|interfaces]] e coordena recursos de computação ([[Processamento (Software)]], [[Memória (Software)]], armazenamento e rede). Caracteriza-se por um conjunto de funcionalidades coesas, regras de operação e limites claros de responsabilidade e integração com o ambiente de execução.
+Em [[Software]] e [[Programação]], uma aplicação é um [[Programa]] orientado a um objetivo definido que oferece capacidades em um contexto de uso por meio de [[Interface|interfaces]] e coordena recursos de computação ([[Processamento (Software)]], [[Memória (Software)]], armazenamento e rede). Caracteriza-se por um conjunto de funcionalidades coesas, regras de operação e limites claros de responsabilidade e integração com o ambiente de execução.
 
 ## Aplicação em KMP
 

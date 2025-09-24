@@ -5,7 +5,7 @@ updated: 2025-09-15
 
 ## Definição
 
-O desenvolvimento mobile é a concepção, implementação e manutenção de [[Aplicação (Software)|aplicações]] destinadas a [[Dispositivo Móvel|dispositivos móveis]], coordenando interface, acesso a recursos do aparelho ([[Sensores (Mobile)]], câmera, [[Armazenamento (Mobile)]] e [[Rede (Mobile)]]) e [[Ciclo de Vida (Software)]] específico de [[Plataformas (Mobile)]]. O objetivo é oferecer capacidades úteis sob restrições de tela, energia, conectividade e segurança, com comportamento consistente diante de interrupções e variações de contexto.
+O desenvolvimento mobile é a concepção, implementação e manutenção de [[Aplicação (Programação)|aplicações]] destinadas a [[Dispositivo Móvel|dispositivos móveis]], coordenando interface, acesso a recursos do aparelho ([[Sensores (Mobile)]], câmera, [[Armazenamento (Mobile)]] e [[Rede (Mobile)]]) e [[Ciclo de Vida (Software)]] específico de [[Plataformas (Mobile)]]. O objetivo é oferecer capacidades úteis sob restrições de tela, energia, conectividade e segurança, com comportamento consistente diante de interrupções e variações de contexto.
 
 ## Tipos
 

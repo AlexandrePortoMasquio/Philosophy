@@ -4,7 +4,8 @@ tags: [seleção, biologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-# Seleção Natural
+[[Cosmologia Informacional]]
+## Definição
 - Seleção como princípio informacional geral: padrões que se preservam ou replicam sob [[Critérios Naturais]] (reforço/inibição) ao longo do [[Tempo]].
 - Aplica-se a toda [[Informação]], devido aos [[Traço|traços]] e [[Memória]], resultantes da [[Entropia Informacional]]
  - Gera [[Função Natural]] e sustenta [[Teleologia Naturalista]]: efeitos selecionados explicam “para que” servem estruturas/comportamentos.
