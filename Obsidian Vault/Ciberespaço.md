@@ -12,5 +12,5 @@ O ciberespaço é a rede informacional que interconecta todas as tecnologias com
 - Espaço informacional interconectado por redes; suporta transmissão e composição de [[Informação]] e coordenação via [[Descentralismo]].
 
 ## Ligações
-- Relaciona [[Tecnocapital]], [[Criptoespaço]], [[Transmissão de Informação]].
+- Relaciona [[Tecnocapital]], [[Criptoespaço]], [[Transmissão]].
 

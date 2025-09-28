@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 [[Mundo das Formas]] [[Informação]] [[Entropia Informacional]]
 ## Definição
-- Tese que se baseia em uma [[Ontologia da Diferença]], ou metafísica da diferença, em que as [[Informação|Informações]], emergindo da [[Virtualidade]] como [[Forma]] transmissíveis ([[Transmissão de Informação]]) constituem uma rede de [[Entropia Informacional]], da qual emerge o [[Espaço-Tempo]]. Estruturas físicas são organização informacional e dinâmicas de [[Seleção Natural]].
+- Tese que se baseia em uma [[Ontologia da Diferença]], ou metafísica da diferença, em que as [[Informação|Informações]], emergindo da [[Virtualidade]] como [[Forma]] transmissíveis ([[Transmissão]]) constituem uma rede de [[Entropia Informacional]], da qual emerge o [[Espaço-Tempo]]. Estruturas físicas são organização informacional e dinâmicas de [[Seleção Natural]].
 - Abrange desde a história da [[Evolução]] [[Primordial]] até o [[Tecnocapitalismo]]
 
 ## Ligações

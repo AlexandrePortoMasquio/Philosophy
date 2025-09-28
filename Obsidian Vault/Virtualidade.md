@@ -6,10 +6,14 @@ created: 2025-08-28
 updated: 2025-09-03
 ---
 
-[[Metafísica]] [[Mapa Rizomático]]
+[[Metafísica]] · [[Mapa Rizomático]] ·
+
+······················
 ## Definição
-- A virtualidade é um [[Campo]] [[Rizoma|rizomático]] de [[Diferença|diferenças]] puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades contínuas de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
-- A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez que as coisas [[Real|reais]] [[Emergência|emergem]] da virtualidade.
+
+A virtualidade é o [[Campo]] [[Rizoma|rizomático]] de [[Diferença|diferenças]] puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades [[Continuidade da Diferença|contínuas]] de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
+
+A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez que as coisas [[Real|reais]] [[Emergência|emergem]] da virtualidade.
 
 ## Diferenças
 - Virtualidade ≠ [[Possível]]: a virtualidade é real e estruturada por multiplicidades e singularidades; o possível é um conjunto de alternativas concebíveis que se realizam por [[Semelhança]]/limitação de um modelo.

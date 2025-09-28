@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Para que [[Informação]] exista operacionalmente, é preciso um canal com fidelidade mínima (F ≥ τ), codificação/decodificação e sincronização, sob ruído limitado.
 
 ## Ligações
-- Relaciona [[Transmissão de Informação]], [[Entropia Informacional]] (capacidade/ruído) e [[Compressão de Informação]].
+- Relaciona [[Transmissão]], [[Entropia Informacional]] (capacidade/ruído) e [[Compressão de Informação]].
 - Conecta [[Forma]] (o que se transmite) e [[Repetição]] (padrões recorrentes aumentam fidelidade efetiva).
 - Ver também: [[Capacidade de Canal]], [[Código]], [[Ruído]], [[Redundância]].
 ## Exemplo

@@ -4,8 +4,16 @@ tags: [deleuze, ontologia, processo, virtualidade, atualização]
 created: 2025-09-04
 updated: 2025-09-04
 ---
-# Devir
-- “Devir” costuma ser usado como sinônimo de “tornar‑se”, mas aqui indica variação intensiva e produção de diferença, não a passagem a uma identidade pré‑definida (“[[Identificação]]”).
+
+[[Diferença]] [[Repetição]]
+## Definição
+
+Devir é o processo [[Intensidade|intensivo]] de variação pelo qual multiplicidades se transformam, cruzam limiares e produzem diferenças sem recorrer a modelos ou fins pré‑dados. Não se reduz a mera mudança extensiva; opera por modulação de relações, reorganizando regimes e fazendo emergir novas consistências.
+
+Em termos ontológicos, designa a passagem do virtual ao atual orientada por singularidades e campos de força, na qual identidades contam como efeitos locais e provisórios de trajetórias estabilizadas. Exemplo cotidiano: o aprendizado de uma habilidade em que pequenos ajustes contínuos atravessam um limiar e estabilizam um padrão de ação.
+
+## Relações
+
 - Estatuto do devir: nome geral para processos/linhas de variação. Quando conecta [[Virtualidade|virtual]]→[[Atual|atual]] por variação intensiva, chamamos especificamente de [[Diferenciação]]/[[Atualização]]; “devir” é a moldura ampla em que essas passagens ocorrem.
 - Resposta direta: no uso comum, “devir” ≈ “tornar‑se”; neste projeto, “devir” evita o viés teleológico de “tornar‑se X” e ressalta trajetórias intensivas que produzem diferença sem copiar modelos.
 - O [[Devir]] é o processo de [[Diferenciação]]/[[Atualização]] — dinamismos intensivos que percorrem multiplicidades, cruzam limiares e atualizam formas sem copiar modelos.

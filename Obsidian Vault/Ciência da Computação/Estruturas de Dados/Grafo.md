@@ -1,5 +1,5 @@
 # Grafo
 
 ## Ligações
-* [[Matemática]], [[Wolfram]], [[Rovelli]]
+* [[Matemática]], [[Stephen Wolfram]], [[Rovelli]]
 

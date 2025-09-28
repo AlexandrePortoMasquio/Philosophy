@@ -6,7 +6,7 @@ updated: 2025-08-28
 ---
 # Home — Rizoma de Ideias
 
-·········
+······················
 
 ## Estrutura
 * [[Obsidian]]
@@ -14,13 +14,13 @@ updated: 2025-08-28
 * [[AGENTS]]
 ## Filosofia
 * [[Filosofia]]
-* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Mapa]] ···
+* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Mapa]] ·······
 * [[Conceito]] · [[Operador]]
-* [[Metafísica]] · [[Simplicidade]] ·  [[Apeiron]] · [[Ontologia da Diferença]] · 
-* [[Rizoma]]
-- [[Virtualidade]] · [[Apeiron]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]] · [[Singularidades e Catástrofes]]
+* [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
+- [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] ·····
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
-- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] [[Entropia]]
+- [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] ······
+- [[Cosmologia Informacional]] [[Entropia]] [[Entropia Informacional]]
 - [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
 - [[Dialética Descentralista]]
 - [[Filosofia da Mente]]: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
@@ -58,7 +58,7 @@ updated: 2025-08-28
 
 Livro → Conceitos
 - Epistemologia: [[Racionalismo Naturalista]] · [[Empirismo Naturalista]] · [[Proposição]] · [[Justificação]] · [[Denotação]]
-- Informação: [[Transmissão de Informação]] · [[Shannon]] · [[Código]] · [[Ruído]] · [[Redundância]] · [[Capacidade de Canal]] · [[Complexidade de Kolmogorov]]
+- Informação: [[Transmissão]] · [[Shannon]] · [[Código]] · [[Ruído]] · [[Redundância]] · [[Capacidade de Canal]] · [[Complexidade de Kolmogorov]]
 - Ordem/Evolução: [[Evolução e Ordem]] · [[Seleção Natural]] · [[Atratores]] · [[Invariantes]]
 - Praxeologia: [[Naturalismo Praxeológico]] · [[Organismo e Máquina]] · [[Desejo]] · [[Controle]]
  - Teleologia: [[Teleologia Naturalista]] · [[Função Natural]] · [[Teleosemântica]] · [[Finalidade Objetiva]]

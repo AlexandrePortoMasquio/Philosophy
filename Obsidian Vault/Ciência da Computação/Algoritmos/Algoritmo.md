@@ -5,9 +5,16 @@ created: 2025-08-28
 updated: 2025-08-28
 ---
 
-## Mapa Rápido
-- [[Computação]] · [[Informação]] · [[Complexidade de Kolmogorov]] · [[Compressão de Informação]] · [[Critérios Naturais]]
-- ↓ [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]]
+- [[Computação]] · [[Informação]] · [[Complexidade de Kolmogorov]] · [[Compressão de Informação]] · [[Critérios Naturais]] ······················
+- ↓ [[Engenharia de Software/Processos|Processos]] · [[Engenharia de Software/Testes|Testes]] · [[../Engenharia de Software/Arquitetura de Software|Arquitetura de Software]] ······················
+
+························
+
+## Definição
+
+Algoritmo é um [[Processo]] finito que [[Transformação|transforma]] entradas em saídas por meio de uma sequência de passos não ambíguos e executáveis, devendo terminar quando aplicável. Define-se em relação a uma especificação: para cada entrada válida, a execução produz um resultado previsto ou relata falha conforme critérios estabelecidos.
+
+Caracterizam-no precisão (passos claramente definidos), finitude (terminação), efetividade (passos mecanizáveis) e adequação ao propósito (correção). Podem ser determinísticos ou probabilísticos, exatos ou aproximados, e avaliam-se pelos recursos consumidos, em especial tempo e espaço.
 
 ## Ideia
 - Algoritmo é um procedimento finito e efetivo para transformar entradas em saídas.
@@ -15,7 +22,7 @@ updated: 2025-08-28
 - Qualidade algorítmica emerge de trocas entre corretude, tempo e espaço, relacionadas à [[Complexidade de Kolmogorov]] e à compressibilidade de descrições.
 
 ## Relações
-* [[Wolfram]] considera algoritmos a base da [[Física]]
+* [[Stephen Wolfram]] considera algoritmos a base da [[Física]]
 - Como forma operacional, reflete [[../../Forma]] aplicadas a processos (formas de transformação).
 - Critérios de escolha algorítmica podem seguir [[Critérios Naturais]] (simplicidade, robustez) em vez de autoridade.
 - [[Repetição]] e padrões estruturais favorecem estratégias como Programação Dinâmica e [[Compressão de Informação]].

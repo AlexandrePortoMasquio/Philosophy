@@ -40,5 +40,5 @@ updated: 2025-09-04
 
 ## Ligações
 - Conceitos: [[Shannon]] · [[Entropia Informacional]] · [[Entropia Condicional]] · [[Incerteza Residual]] · [[Aleatoriedade]] · [[Informação]] · [[Compressão de Informação]] · [[Complexidade de Kolmogorov]] · [[Código]].
-- Sistemas e métodos: [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Capacidade de Canal]] · [[Aprendizado de Máquina]] (generalização/risco) · [[Controle]].
+- Sistemas e métodos: [[Transmissão]] · [[Canal e Fidelidade]] · [[Capacidade de Canal]] · [[Aprendizado de Máquina]] (generalização/risco) · [[Controle]].
 

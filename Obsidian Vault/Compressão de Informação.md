@@ -41,4 +41,4 @@ updated: 2025-09-04
 
 ## Ligações
 - Conceitos: [[Informação]] · [[Forma]] · [[Abstração]] · [[Padrão]] · [[Diferença]]
-- Relações: [[Entropia Informacional]] (ordem vs dispersão) · [[Transmissão de Informação]] (fidelidade e redundância) · [[Complexidade de Kolmogorov]] (descrição mínima, em espírito) · [[Aleatoriedade]] (quando a compressão falha com honestidade)
+- Relações: [[Entropia Informacional]] (ordem vs dispersão) · [[Transmissão]] (fidelidade e redundância) · [[Complexidade de Kolmogorov]] (descrição mínima, em espírito) · [[Aleatoriedade]] (quando a compressão falha com honestidade)

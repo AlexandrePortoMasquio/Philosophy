@@ -4,7 +4,7 @@ tags: [diferença, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-[[Metafísica]] [[Monismo da Diferença]]
+[[Metafísica]] [[Monismo da Diferença]] [[Ontologia da Diferença]]
 
 ## Definição
 

@@ -2,9 +2,10 @@
 title: Programação
 updated: 2025-09-16
 ---
-Derivado de: [[Software]]
+Derivado de: [[Software]], [[Obsidian Vault/Ciência da Computação/Algoritmos/Algoritmo]]
 Conduz a: [[KMP]]
 
+······················
 ## Definição
 
 Programação é a prática de se produzir [[Programa|programas]], [[Software]] e [[Código]]. É a atividade de se formular funcionalidades precisas em forma executável: traduz problemas em estruturas e procedimentos expressos em uma linguagem formal, de modo que uma máquina automática possa realizar operações confiáveis sob limites de tempo e recursos. Envolve escolher estruturas, definir controles de fluxo e estados, e estabelecer contratos que tornem o comportamento verificável. A clareza do código e a precisão do propósito conectam a formulação do problema à execução confiável.

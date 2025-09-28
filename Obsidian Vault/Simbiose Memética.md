@@ -9,5 +9,5 @@ updated: 2025-08-28
 - Cooperação/coesão entre memes que se reforçam mutuamente sob [[Seleção]] cultural; transmissão via [[Informação]].
 
 ## Ligações
-- Conecta [[Organismo e Máquina]], [[Tecnocapital]], [[Ciberespaço]], [[Transmissão de Informação]].
+- Conecta [[Organismo e Máquina]], [[Tecnocapital]], [[Ciberespaço]], [[Transmissão]].
 

@@ -9,7 +9,7 @@ updated: 2025-08-28
 - A seta do tempo relaciona-se ao aumento de [[Entropia Informacional]]; diferentes escalas/observadores podem definir tempos efetivos distintos.
 
 ## Debates
-* Tempo em [[Wolfram]] vs. tempo em [[Rovelli]].
+* Tempo em [[Stephen Wolfram]] vs. tempo em [[Rovelli]].
 
 ## Ligações
 - Conecta [[Persistência]], [[Espaço-Tempo]], [[Rovelli]] e [[Continuidade]].

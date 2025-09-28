@@ -26,7 +26,7 @@ updated: 2025-09-04
 
 ## Relações
 - Conceitos: [[Entropia Condicional]] · [[Entropia Informacional]] · [[Aleatoriedade]] · [[Ruído]] · [[Shannon]] · [[Compressão de Informação]] · [[Código]].
-- Canais: [[Transmissão de Informação]] · [[Canal e Fidelidade]] · [[Capacidade de Canal]].
+- Canais: [[Transmissão]] · [[Canal e Fidelidade]] · [[Capacidade de Canal]].
 - Aprendizado: generalização e MDL; reduzir `H(Y|X)` = aprender correlações reais. Overfitting não reduz a incerteza residual fora da amostra.
 
 ## Estimação prática

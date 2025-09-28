@@ -4,7 +4,10 @@ tags: [formas, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-# Mundo das Formas
+[[Forma]] · [[Metafísica]] ···································
+
+····································
+## Mundo das Formas
 - Domínio das estruturas formais enquanto diferenças estáveis; as formas emergem da [[Diferença]] e são, elas mesmas, padrões diferenciais.
 
 ## Diferenciação de Conceitos

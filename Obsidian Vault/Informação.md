@@ -4,9 +4,13 @@ tags: [informação, epistemologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-[[Mapa Rizomático]]
+[[Mapa Rizomático]] · [[Cosmologia Informacional]] · [[Ontologia Informacional]] ····················
+
+······················
 # Informação
-- Informação é [[Forma]] transmissível.
+
+Informação é [[Forma]] transmissível.
+
 - Diferença que faz diferença; estruturação de estados com capacidade de seleção e transmissão.
 - Nem toda informação é um [[Bit]]; o bit é a unidade de medida (quantidade), não a forma em si.
 - A informação é “identitária”? Ou a diferença, em si, também é forma e informação?
@@ -21,7 +25,7 @@ updated: 2025-08-28
 - Base para [[Descentralismo]], [[Cosmologia Informacional]].
 - Suporta [[Diferença]] e [[Forma]] como padrões diferenciais codificados.
 - Relaciona-se a [[Entropia Informacional]] como medida de dispersão/ordem.
-- Equivalência operacional: informação ≈ [[Forma]] quando há [[Transmissão de Informação]].
+- Equivalência operacional: informação ≈ [[Forma]] quando há [[Transmissão]].
 - Compressibilidade: liga-se a [[Compressão de Informação]] como heurística de estrutura e a [[Invariantes]].
  - Relaciona-se a [[Repetição]] (padrões recorrentes favorecem compressibilidade e transmissibilidade).
 

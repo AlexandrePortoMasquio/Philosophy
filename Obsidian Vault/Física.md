@@ -1,3 +1,3 @@
 TODO
 
-TODO [[Wolfram]], [[Rovelli]], [[Espaço-Tempo]]
+TODO [[Stephen Wolfram]], [[Rovelli]], [[Espaço-Tempo]]

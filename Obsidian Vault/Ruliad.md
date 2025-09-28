@@ -1,1 +1,1 @@
-TODO [[Wolfram]]
+TODO [[Stephen Wolfram]]

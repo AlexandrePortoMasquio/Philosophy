@@ -23,4 +23,4 @@ Ao projetar um código, elegem‑se compromissos entre economia e robustez: comp
 Formatos de arquivo e protocolos (com campos e verificações) que permitem armazenar e trocar dados com confiabilidade; códigos de barras e QR que representam itens em ambientes ruidosos; codificações de caracteres (por exemplo, mapeamentos que suportam acentos) e de mídia (áudio/vídeo) que equilibram tamanho e fidelidade. Exemplos cotidianos: um arquivo de imagem com cabeçalho e soma de verificação evita leitura equivocada; um QR continua legível com pequenas avarias porque o desenho inclui redundância controlada.
 
 ## Ligações
-- Conecta [[Transmissão de Informação]], [[Canal e Fidelidade]], [[Shannon]], [[Redundância]].
+- Conecta [[Transmissão]], [[Canal e Fidelidade]], [[Shannon]], [[Redundância]].

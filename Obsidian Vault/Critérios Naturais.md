@@ -10,6 +10,6 @@ updated: 2025-08-28
 
 ## Ligações
 - Fundamenta [[Descentralismo]] e [[Controle]] (ausência de privilégios arbitrários).
-- Conecta [[Seleção]] e [[Transmissão de Informação]] (fidelidade/ruído sob os mesmos critérios).
+- Conecta [[Seleção]] e [[Transmissão]] (fidelidade/ruído sob os mesmos critérios).
 - Relaciona-se a [[Invariantes]] e [[Topologia das Formas]].
 

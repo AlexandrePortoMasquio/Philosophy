@@ -5,6 +5,15 @@ tags: [ontologia, método, deleuze, rizoma, virtualidade]
 created: 2025-09-03
 updated: 2025-09-03
 ---
+## Definição
+
+Plano de [[Consistência]] é o [[Campo de Imanência]] em que multiplicidades se ligam e variam sem apelo a formas, essências ou hierarquias prévias. Não é substância nem substrato, mas meio de composição: relações diferenciais que se sustentam o bastante para produzir padrões estáveis sem se cristalizarem como essências.
+
+No uso metodológico, fornece a [[Base]] para cartografias: permite traçar linhas entre pontos heterogêneos e recombinar trajetos. Articula‑se com a [[Virtualidade]] (conteúdo diferencial que pode atualizar‑se) e com o [[Rizoma]] (modo de composição e mapeamento). Exemplo simples: um conjunto de notas que se reorganiza por ligações e percursos, no qual a regularidade emerge do reuso e da variação, não de um índice fixo.
+
+## Diferença entre Plano de Consistência e Campo de Imanência
+
+TODO
 
 ## Diferenças
 - [[Virtualidade]]: campo de diferenças reais e singularidades que podem atualizar‑se de múltiplas maneiras; não é o “possível”, mas um conjunto estruturado de potenciais que orienta a atualização.

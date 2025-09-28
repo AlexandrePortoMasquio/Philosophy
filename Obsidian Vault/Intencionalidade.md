@@ -18,14 +18,14 @@ updated: 2025-09-02
 
 ## Ligações
 - Problema difícil paralelo a [[Qualia]]; pressiona [[Fisicalismo]].
-- Relaciona-se a [[Informação]] (referência como mapeamento) e [[Transmissão de Informação]].
+- Relaciona-se a [[Informação]] (referência como mapeamento) e [[Transmissão]].
 - Teleosemântica: ver [[Teleosemântica]] para função/seleção como base do “sobre”.
  - [[Semântica]]: condições de verdade e composição do conteúdo; ver também naturalização via [[Teleosemântica]].
 
 ## Diferenças
 * Intencionalidade é o mesmo que [[Denotação]]?
 ## Mapa Rápido
-- [[Informação]] · [[Transmissão de Informação]]
+- [[Informação]] · [[Transmissão]]
 - [[Consciência]] · [[Problema Difícil da Consciência]]
 
 ## Perguntas Abertas

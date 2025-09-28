@@ -46,7 +46,7 @@ updated: 2025-09-04
 
 ## Ligações
 - Conceitos: [[Shannon]] · [[Entropia Informacional]] · [[Informação]] · [[Compressão de Informação]] · [[Código]] · [[Ruído]] · [[Aleatoriedade]].
-- Relacionados: Informação Mútua (I) · Regra da cadeia · Limite de Slepian–Wolf · [[Transmissão de Informação]] · [[Canal e Fidelidade]].
+- Relacionados: Informação Mútua (I) · Regra da cadeia · Limite de Slepian–Wolf · [[Transmissão]] · [[Canal e Fidelidade]].
 
 ## Referências rápidas
 - Shannon (1948): A Mathematical Theory of Communication.

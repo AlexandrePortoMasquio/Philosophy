@@ -11,14 +11,17 @@ Este arquivo define como eu (Codex, GPT ou outro agente) devo escrever e editar 
 - Foco na perspectiva filosófica. A área principal das notas é a filosofia.
 - Evitar jargão pseudo-técnico e termos importados de computação/estatística quando não forem essenciais.
 - Evitar linguagem coloquial ou informal.
-- Evitar linguagem subjetivista (nós conhecemos, nós vemos, percebemos, etc.), preferindo uma linguagem objetiva.
+- Evitar linguagem subjetivista (nós conhecemos, nós vemos, percebemos, etc.), preferindo uma linguagem objetiva e impessoal.
 - Evitar usar a pessoa, o sujeito, o ser humano, nós, etc. Para definir conceitos. Preferir sempre uma perspectiva impessoal e objetiva.
+- Da mesma forma, não chame um conceito de "noção", nem um posicionamento de "leitura", pois isso soa subjetivo. Conceitos em proposições verdadeiras são objetos abstratos que denotam coisas reais (ou irreais, em proposições falsas). Trate desse algo real.
 - A linguagem deve seguir a norma culta e ser filosófica e acadêmica.
 
 # Estrutura das Notas
 - Preferir 1–3 parágrafos curtos em prosa, a cada geração. Usar tópicos e listas apenas quando realmente ajudarem a leitura e o registro de conhecimento.
+- Tratar da coisa real em si, e não da palavra ou objeto linguístico, exceto se essa for a própria coisa denotada.
 - Os 3 parágrafos em uma nova nota de tecnologia devem estar, por padrão, sob os títulos Definição, Funcionalidade e Casos de Uso.
-- Em Filosofia: Definição, Argumentos a Favor, Argumentos Contra, Conclusão.
+- Em Filosofia, se for um conceito descritivo: Definição, Derivação, Relações, Posicionamentos. Esses posicionamentos devem ser "ismos" sobre o assunto, em bullet points.
+- Em Filosofia, se for uma posição (um "ismo): Definição, Argumentos a Favor, Argumentos Contra, Conclusão.
 - Em Ficção: 1. Definição, 2. História, 3. Variações ou Evolução
 - Evitar “componentes operativos”, “calibração”, “métricas”, “mapa rápido” ou outros tipos de jargões pseudo-técnicos como seções padrão.
 - Pode ser incluída um seção para argumentos a favor e contra.

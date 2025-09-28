@@ -7,6 +7,7 @@ updated: 2025-09-21
 
 [[Metafísica]] [[Existência]] [[Categoria]]
 
+······················
 ## Definição
 
 Ontologia é o estudo do que existe e de como existe: tipos de [[Ente|entes]], modos de ser, dependências e fronteiras entre categorias. Investiga se há apenas objetos concretos ou também entidades abstratas (números, propriedades), se eventos, processos e relações contam como existentes, e como se organizam em níveis. Serve como [[Cartografia Conceitual]] do mundo, esclarecendo compromissos ao falar e ao explicar.

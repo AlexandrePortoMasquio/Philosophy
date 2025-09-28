@@ -4,7 +4,11 @@ tags: [informação, transmissão]
 created: 2025-08-28
 updated: 2025-08-28
 ---
+[[Ontologia Informacional]] · [[Informação]] · [[Algoritmo]]   ····················
 
+## Definição
+
+Na [[Ontologia Informacional]]
 ## Ideia
 - Mecanismos e canais pelos quais diferenças são preservadas/transformadas entre sistemas.
 - Transmitir é conservar operacionalmente forma; o que se transmite é forma, portanto [[Informação]].
