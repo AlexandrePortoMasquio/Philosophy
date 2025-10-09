@@ -4,9 +4,9 @@ tags: [deleuze, filosofia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+[[Filosofia]] ·····················
 ## Ideia
-- Diferença e repetição como fundamentos; o [[Virtualidade|virtual]] é real e produtivo, estruturando multiplicidades e singularidades que se atualizam em [[Forma]].
+- [[Diferença]] e [[Repetição]] como fundamentos; o [[Virtualidade|virtual]] é real e produtivo, estruturando multiplicidades e singularidades que se atualizam em [[Forma]].
 
 ## Relações
 * O que é [[Desconstrução]] em Deleuze? Como isso se diferencia de [[Derrida]]?

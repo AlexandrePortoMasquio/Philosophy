@@ -7,15 +7,15 @@ updated: 2025-08-28
 # Home — Rizoma de Ideias
 
 ······················
-
+* [[Brainstorm]]
 ## Estrutura
 * [[Obsidian]]
 * [[Codex]]
 * [[AGENTS]]
 ## Filosofia
 * [[Filosofia]]
-* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Mapa]] ·······
-* [[Conceito]] · [[Operador]]
+* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · ······
+* [[Conceito]] · [[Operador]] ·
 * [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
 - [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] ·····
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
@@ -33,6 +33,7 @@ updated: 2025-08-28
 
 ## Tecnologia
 - [[Software]]
+- [[Algoritmo]]
 - [[Web3]] [[Cyberia]]
 - [[Programação]]
  

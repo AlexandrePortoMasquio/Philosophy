@@ -2,7 +2,7 @@
 title: Algoritmo
 updated: 2025-09-12
 ---
-[[Software]] · [[Programação]] ·····················
+[[Software]] · [[Programação]] · [[Notação Big O]] ····················
 
 ## Definição
 

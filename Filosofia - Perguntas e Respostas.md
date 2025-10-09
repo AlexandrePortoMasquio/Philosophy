@@ -1,20 +1,11 @@
-# Filosofia - Perguntas e Respostas
+
+[[Filosofia]]
+## Filosofia - Perguntas e Respostas
 
 ## Pergunta:
 * A filosofia é definida pela sua finalidade de enfrentar problemas?
 ### Resposta:
 * NÃO. A filosofia é uma área de [[Conhecimento]], e não um meio para enfrentar problemas.
-
-## Pergunta:
-* O que é [[Filosofia]]?
-### Resposta:
-* Criação e articulação de conceitos para enfrentar problemas fundamentais sobre ser, conhecer e agir; não apenas compila saberes, mas reconfigura perguntas e critérios.
-* Distingue-se da ciência (funções/modelos) e da arte (perceptos/afetos), embora dialogue com ambas.
-
-## Pergunta:
-* O que é Filosofia para Deleuze?
-### Resposta:
-* Em Deleuze, é "arte de inventar conceitos" e uma cartografia criativa de problemas num plano de imanência; distingue‑se da ciência (funções/modelos) e da arte (perceptos/afetos), embora dialogue com ambas.
 
 ## Pergunta:
 * Qual é a diferença entre [[Filosofia]] e [[Ciência]]?

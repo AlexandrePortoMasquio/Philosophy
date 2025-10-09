@@ -1,9 +1,13 @@
-[[Mapa Rizomático]] [[Dado]]
+[[Mapa Rizomático]] ·
 
-······················
-# Filosofia
-* A filosofia é a área dos conhecimentos que podem ser conhecidos pela razão, de forma independente de [[Dado (Filosofia)|dados]] [[Contingente|contingentes]], sendo conhecimentos estruturais, que estruturam a base conceitual abstrata da ciência.
-* TODO como a filosofia é mais abstrata que a ciência? O que isso significa?
+·····················
+## Filosofia
+
+A filosofia é a área dos conhecimentos que podem ser conhecidos pela [[Razão]], de forma independente de [[Dado (Filosofia)|dados]] [[Contingente|contingentes]], sendo conhecimentos estruturais, que estruturam a base conceitual abstrata da ciência.
+
+Na perspectiva de Deleuze, a filosofia é a arte de inventar conceitos e uma [[Cartografia]] criativa de problemas num plano de imanência; distingue‑se da ciência (funções/modelos) e da arte (perceptos/afetos), embora dialogue com ambas.
+
+## Como a filosofia é mais abstrata que a ciência? O que isso significa?
 
 [[Filosofia - Perguntas e Respostas]]
 

@@ -2,9 +2,11 @@
 title: Custo (Algoritmo)
 updated: 2025-09-28
 ---
+[[Algoritmo]] ····································
 
 ## Definição
-Custo, em algoritmos, é a medida dos recursos exigidos por uma execução para uma entrada dada. Os eixos usuais são tempo (número de passos efetivos) e espaço (memória adicional utilizada), podendo incluir outros recursos conforme o contexto. A avaliação pode considerar pior caso, caso médio ou melhor caso e, em análise assintótica, descreve a ordem de crescimento ao variar o tamanho da entrada.
+
+Custo, em algoritmos, é a quantidade de recursos exigidos por uma execução para uma entrada dada. Os eixos usuais são tempo (número de passos efetivos) e espaço (memória adicional utilizada), podendo incluir outros recursos conforme o contexto. A avaliação pode considerar pior caso, caso médio ou melhor caso e, em análise assintótica, descreve a ordem de crescimento ao variar o tamanho da entrada.
 
 ## Derivação
 O conceito surge da necessidade de comparar procedimentos independentemente de detalhes de máquina: modela-se o passo elementar, contam-se operações e estima-se memória. A formalização assintótica (p.ex., [[Notação Big O]]) abstrai constantes e termos menores para evidenciar a tendência dominante, enquanto medições empíricas registram o comportamento concreto sob implementações e ambientes específicos.

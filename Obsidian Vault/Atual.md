@@ -12,7 +12,7 @@ updated: 2025-08-31
 
 ## Características
 - Estabilidade operacional: padrões/funções tornaram‑se estáveis o bastante para suportar ação, referência e cálculo.
-- Cortes locais: a passagem a “atual” se dá ao cruzar [[Limiar|limiares]]/singularidades que reconfiguram [[Invariantes]] (ver [[Singularidades e Catástrofes]]).
+- Cortes locais: a passagem a “atual” se dá ao cruzar [[Limiar (Deleuze)|limiares]]/singularidades que reconfiguram [[Invariantes]] (ver [[Singularidades e Catástrofes]]).
 - Identidade por invariantes: reconhecemos o mesmo através da variação quando certos invariantes se mantêm (forma, função, conservação) — ver [[Informação]].
 
 ## Atual x Virtual x Real

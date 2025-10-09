@@ -9,7 +9,7 @@ aliases:
   - proposições
 ---
 [[Semântica]]
-
+······················
 ## Definição
 
 ## Relações

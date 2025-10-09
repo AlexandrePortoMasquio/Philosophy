@@ -2,8 +2,8 @@
 title: Programação
 updated: 2025-09-16
 ---
-Derivado de: [[Software]], [[Obsidian Vault/Ciência da Computação/Algoritmos/Algoritmo]]
-Conduz a: [[KMP]]
+Derivado de: [[Software]] · [[Algoritmo]] · [[Sistema Operacional]] ·····················
+Conduz a: [[KMP]] · [[Android]] ·····················
 
 ······················
 ## Definição

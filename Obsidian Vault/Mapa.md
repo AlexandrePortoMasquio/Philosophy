@@ -3,7 +3,9 @@ title: Mapa
 tags: [filosofia, deleuze]
 updated: 2025-09-22
 ---
-[[Rizoma]], [[Virtualidade]]
+[[Rizoma]] · [[Virtualidade]]
+
+······················
 ## Definição
 
 Em Deleuze e Guattari, mapa não é cópia do dado, mas dispositivo de produção: compõe conexões, percursos e intensidades em um campo, permitindo intervenções e transformações. É imanente ao território e aberto: admite entradas múltiplas, derivações locais e revisões contínuas. Diferencia‑se do “traçado” (decalque) porque não reproduz uma forma anterior; engendra um plano de passagem entre pontos e forças em movimento.

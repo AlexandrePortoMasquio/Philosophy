@@ -1,8 +1,10 @@
-[[Filosofia]]
+[[Filosofia]] · [[Lógica]] ·
+
+······················
 
 ## Definição
 
-A semântica é o âmbito do significado de [[Proposição|proposições]], ou seja, o âmbito do que proposições [[Denotação|denotam]].
+A semântica é o âmbito do significado de [[Proposição|proposições]]. Também é, por implicação, o âmbito do que proposições [[Denotação|denotam]].
 ## Ideia
 - Estudo do significado (de [[proposições]]): como expressões se ligam ao mundo, sustentam inferências (ver [[Lógica]]) e orientam uso em práticas comunicativas.
 - Componentes centrais: verdade-condicional, referência/denotação, condições de assertibilidade, e papel do contexto.

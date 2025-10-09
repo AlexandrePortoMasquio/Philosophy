@@ -2,10 +2,10 @@
 title: Kernel (Software)
 updated: 2025-09-15
 ---
-Derivado de [[Software]]
+Derivado de [[Software]] 
 ## Definição
 
-Kernel é o núcleo do sistema operacional responsável por mediar o uso do [[Hardware]] por processos de usuário e serviços do próprio sistema. Fornece abstrações fundamentais (processos e [[Thread (Software)]], memória, arquivos, rede, dispositivos) e aplica políticas de isolamento, segurança e compartilhamento de recursos. Em termos práticos, viabiliza que programas executem em um ambiente controlado, independente das particularidades do hardware.
+Kernel é o núcleo do sistema operacional, responsável por mediar o uso do [[Hardware]] por processos de usuário e [[Serviços do Sistema Operacional]]. Fornece abstrações fundamentais (processos e [[Thread (Software)]], memória, arquivos, rede, dispositivos) e aplica políticas de isolamento, segurança e compartilhamento de recursos. Em termos práticos, viabiliza que programas executem em um ambiente controlado, independente das particularidades do hardware.
 
 ## Origem
 
