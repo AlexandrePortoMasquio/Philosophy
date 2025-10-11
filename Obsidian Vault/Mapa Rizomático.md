@@ -17,19 +17,19 @@ updated: 2025-08-28
 * [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · ······
 * [[Conceito]] · [[Operador]] ·
 * [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
-- [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] · [[Fuga]] ····
+- [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] · [[Linha de Fuga (Deleuze e Guattari)]] ····
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] ······
-- [[Cosmologia Informacional]] [[Entropia]] [[Entropia Informacional]]
-- [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]]
-- [[Dialética Descentralista]]
+- [[Cosmologia Informacional]] · [[Entropia]] · [[Entropia Informacional]] ·
+- [[Descentralismo]] · [[Controle]] · [[Entropia Informacional]] · [[Critérios Naturais]] · [[Canal e Fidelidade]] · [[Seleção]] ·
+- [[Dialética Descentralista]] ·
 - [[Filosofia da Mente]]: [[Problema Mente-Corpo]] · [[Fisicalismo]] · [[Dualismo]] · [[Idealismo]] · [[Pampsiquismo]] · [[Consciência]] · [[Problema Difícil da Consciência]] · [[Problema Fácil da Consciência]] · [[Qualia]] · [[Intencionalidade]] · [[Identidade Mente-Cérebro]] · [[Superveniência]] · [[Funcionalismo]] · [[Reducionismo]] · [[Eliminativismo]] · [[Quarto de Mary]] · [[Qualia Invertidos]]
-- [[Naturalismo Praxeológico]]
-- [[Economia]]
-- [[Filosofia da Linguagem]]
-- [[Filosofia da História]]
-- [[Capitalismo]], [[Inteligência Artificial]]
-- [[Tecnocapitalismo]], [[Tecnocapital]], [[Ciberespaço]], [[Criptoespaço]], [[Transumanismo]], [[Singularidade Tecnológica]]
+- [[Naturalismo Praxeológico]] ·
+- [[Economia]] ·
+- [[Filosofia da Linguagem]] ·
+- [[Filosofia da História]] ·
+- [[Capitalismo]] · [[Inteligência Artificial]] ·
+- [[Tecnocapitalismo]] · [[Tecnocapital]] · [[Ciberespaço]] · [[Criptoespaço]] · [[Transumanismo]] · [[Singularidade Tecnológica]] ·
 
 ## Tecnologia
 - [[Software]]
