@@ -17,7 +17,7 @@ updated: 2025-08-28
 * [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · ······
 * [[Conceito]] · [[Operador]] ·
 * [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
-- [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] ·····
+- [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] · [[Fuga]] ····
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] ······
 - [[Cosmologia Informacional]] [[Entropia]] [[Entropia Informacional]]

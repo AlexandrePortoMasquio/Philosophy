@@ -5,7 +5,7 @@ tags: [conceito, método, rizoma]
 created: 2025-08-30
 updated: 2025-09-03
 ---
-[[Mapa Rizomático]]
+[[Mapa Rizomático]] ······················
 
 # Rizoma
 
