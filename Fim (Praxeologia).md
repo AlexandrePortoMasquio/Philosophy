@@ -20,7 +20,7 @@ updated: 2025-09-01
 - Mecanismos: [[Controle]] (feedback), [[Informação]] (códigos/canais), [[Seleção]].
 
 ## Conexões finais
-- Núcleo: [[Praxeologia]], [[Naturalismo Praxeológico]], [[Organismo e Máquina]], [[Desejo]].
+- Núcleo: [[Praxeologia]], [[Capítulo - Naturalismo Praxeológico]], [[Capítulo - Organismo e Máquina]], [[Desejo]].
 - Teleologia: [[Teleologia Naturalista]] · [[Função Natural]] · [[Finalidade]].
 - Epistêmico: [[Entropia Informacional]] · [[Informação]].
 

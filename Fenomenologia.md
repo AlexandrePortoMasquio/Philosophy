@@ -10,7 +10,7 @@ updated: 2025-09-02
 - No projeto, fornece alvos e restrições para modelos de [[Psicologia]] e [[Filosofia da Mente]]: o que qualquer teoria deve respeitar para ser fenomenalmente adequada.
 
 ## Origem
-- Precursores: [[Brentano]] recoloca a [[Intencionalidade]] no centro da mente (consciência sempre é de algo), rompendo com psicologias associacionistas; [[William James|James]] explora o “fluxo” da consciência e a unidade dinâmica da experiência.
+- Precursores: [[Brentano]] recoloca a [[Capítulo - Intencionalidade]] no centro da mente (consciência sempre é de algo), rompendo com psicologias associacionistas; [[William James|James]] explora o “fluxo” da consciência e a unidade dinâmica da experiência.
 - Fundação (Husserl): [[Husserl]] estabelece a fenomenologia como método rigoroso: [[Epoché]] (suspensão da tese natural) e [[Redução Fenomenológica]] (retorno às estruturas do aparecer); análise [[Noema|noemática]]/[[Noesis|noética]] da correlação entre ato e objeto‑como‑dado.
 - Virada existencial/hermenêutica: [[Heidegger]] desloca o foco para o ser‑no‑mundo (Dasein), temporalidade e compreensão pré‑teórica; a fenomenologia torna‑se ontologia fundamental.
 - Corpo e percepção: [[Merleau-Ponty]] desenvolve a fenomenologia do corpo próprio e da percepção como contato ativo com o mundo, contra reducionismos intelectualistas/empiristas.
@@ -25,7 +25,7 @@ updated: 2025-09-02
 - Corpo próprio e situação: a experiência é encarnada e situada; gesto, postura e possibilidade de ação modulam o sentido.
 
 ## Estruturas da Experiência
-- [[Intencionalidade]]: toda consciência é “de algo”; direção, alvo e modos (perceber, lembrar, imaginar, querer) diferem em perfil e evidência.
+- [[Capítulo - Intencionalidade]]: toda consciência é “de algo”; direção, alvo e modos (perceber, lembrar, imaginar, querer) diferem em perfil e evidência.
 - Temporalidade: retenção (agora‑passado), protensão (agora‑por‑vir) e presença articulam o fluxo vivido (ver [[Tempo]]).
 - Figura‑fundo e saliência: o aparecer destaca aspectos e deixa outros em latência; atenção desloca fronteiras.
 - Corpo e agência: o “posso” antecede o “penso”; possibilidade de ação estrutura a cena.
@@ -37,7 +37,7 @@ updated: 2025-09-02
 - Mapeamento multi‑escala: da vivência ao [[Atual]] via padrões de atividade/código; sem postular identidade simples com substratos, mas preservando invariantes.
 
 ## Relações
-- [[Filosofia da Mente]] · [[Psicologia]] · [[Consciência]] · [[Qualia]] · [[Subjetivo]] · [[Intencionalidade]] · [[Informação]] · [[Quase-Causa]] · [[Virtualidade]] · [[Atual]]
+- [[Filosofia da Mente]] · [[Psicologia]] · [[Consciência]] · [[Qualia]] · [[Subjetivo]] · [[Capítulo - Intencionalidade]] · [[Informação]] · [[Quase-Causa]] · [[Virtualidade]] · [[Atual]]
 
 ## Perguntas Abertas
 - Como operacionalizar a “fidelidade fenomenal” para comparar modelos?

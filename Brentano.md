@@ -6,7 +6,7 @@ updated: 2025-09-02
 ---
 
 ## Ideia
-- Filósofo e psicólogo (séc. XIX) que recolocou a [[Intencionalidade]] como marca do mental: todo estado psíquico é “de algo” (tem um objeto intencional), distinguindo‑o de estados físicos.
+- Filósofo e psicólogo (séc. XIX) que recolocou a [[Capítulo - Intencionalidade]] como marca do mental: todo estado psíquico é “de algo” (tem um objeto intencional), distinguindo‑o de estados físicos.
 - Propõe uma psicologia científica de base descritiva (primeira pessoa) articulada à análise conceitual — influenciando decisivamente a [[Fenomenologia]] (via [[Husserl]] e a Escola de Viena/Lviv).
 
 ## Contribuições Principais
@@ -27,7 +27,7 @@ updated: 2025-09-02
 - Reísmo tardio (fase posterior): tendência a reduzir a ontologia a substâncias/partes reais, controversa frente a objetos intencionais inexistentes.
 
 ## Ligações
-- [[Intencionalidade]] · [[Fenomenologia]] · [[Filosofia da Mente]] · [[Psicologia]] · [[Husserl]] · [[Meinong]] · [[Twardowski]]
+- [[Capítulo - Intencionalidade]] · [[Fenomenologia]] · [[Filosofia da Mente]] · [[Psicologia]] · [[Husserl]] · [[Meinong]] · [[Twardowski]]
 
 ## Mapa Rápido
 - Marca do mental · Psicologia descritiva · Tríade (apresentar/julgar/amar‑odiar) · Inexistência intencional · Influência em Husserl

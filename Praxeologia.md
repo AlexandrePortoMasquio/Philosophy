@@ -7,7 +7,7 @@ updated: 2025-09-01
 
 ## Ideia
 - Estudo da ação como comportamento orientado a [[Fim (Praxeologia)|fins]] sob restrições naturais e informacionais; integra [[Teleologia Naturalista]] e [[Controle]] sem apelar a [[Subjetivo|subjetivismo]] forte.
-- Naturaliza a ação: fins e meios emergem de mecanismos de [[Seleção]] e de processamento de [[Informação]] em [[Organismo e Máquina]].
+- Naturaliza a ação: fins e meios emergem de mecanismos de [[Seleção]] e de processamento de [[Informação]] em [[Capítulo - Organismo e Máquina]].
 - Conecta-se a [[Desejo]] (motivação com intencionalidade) e à atribuição de [[Função Natural]].
 
 ## Estrutura mínima da ação
@@ -37,7 +37,7 @@ updated: 2025-09-01
 - Socioeconômico: produção escolhe meios para fins sob custos e incerteza; ver [[Produto]], [[Recurso]], [[Utilidade]].
 
 ## Ligações
-- Núcleo: [[Naturalismo Praxeológico]] · [[Organismo e Máquina]] · [[Desejo]] · [[Controle]].
+- Núcleo: [[Capítulo - Naturalismo Praxeológico]] · [[Capítulo - Organismo e Máquina]] · [[Desejo]] · [[Controle]].
 - Teleologia: [[Teleologia Naturalista]] · [[Função Natural]] · [[Teleosemântica]] · [[Finalidade]].
 - Epistêmico: [[Informação]] · [[Seleção]] · [[Entropia Informacional]].
 
@@ -47,4 +47,4 @@ updated: 2025-09-01
 - Quais condições para coordenação praxeológica descentralizada sem controle central?
 
 ## Fontes internas
-- [[Naturalismo Praxeológico]], [[Teleologia Naturalista]], [[Organismo e Máquina]], [[Controle]], [[Desejo]], [[Subjetivo]].
+- [[Capítulo - Naturalismo Praxeológico]], [[Teleologia Naturalista]], [[Capítulo - Organismo e Máquina]], [[Controle]], [[Desejo]], [[Subjetivo]].

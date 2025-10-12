@@ -7,7 +7,7 @@ updated: 2025-09-01
 
 ## Ideia
 - Psicologia é o estudo científico dos processos mentais e comportamentos em múltiplas escalas (do indivíduo ao social), articulando descrição fenomenológica, experimento e modelagem.
-- No projeto, faz a ponte entre [[Fenomenologia]] (primeira pessoa) e modelos informacionais/neurocomportamentais (terceira pessoa), visando explicar regularidades da [[Consciência]] e da [[Intencionalidade]].
+- No projeto, faz a ponte entre [[Fenomenologia]] (primeira pessoa) e modelos informacionais/neurocomportamentais (terceira pessoa), visando explicar regularidades da [[Consciência]] e da [[Capítulo - Intencionalidade]].
 
 ## Áreas (recorte funcional)
 - Cognitiva/Computacional: percepção, memória, atenção, linguagem, decisão; modelos algorítmicos/estatísticos.
@@ -29,7 +29,7 @@ updated: 2025-09-01
 - [[Informação]]/ordem informacional: compressão/predição como critério de modelo.
 
 ## Relações
-- [[Filosofia da Mente]] · [[Fenomenologia]] · [[Consciência]] · [[Intencionalidade]] · [[Informação]] · [[Pragmática]] · [[Teleosemântica]]
+- [[Filosofia da Mente]] · [[Fenomenologia]] · [[Consciência]] · [[Capítulo - Intencionalidade]] · [[Informação]] · [[Pragmática]] · [[Teleosemântica]]
 
 ## Perguntas Abertas
 - Como medir “fidelidade fenomenal” de modelos cognitivos de modo comparável?

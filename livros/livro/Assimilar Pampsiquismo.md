@@ -1,0 +1,7 @@
+\[3/2 22:27\] Alexandre Porto: Eu batizei o meu pampsiquismo de "pampsiquismo informacional", o que é lógico, considerando que eu considero que tudo é informação. Todas as coisas físicas, mentais e abstratas são informação (ou forma abstrata). Toda informação é forma, toda forma é qualia e todos os qualia são forma.  
+\[3/2 22:28\] Alexandre Porto: Isso significa que eu considero que até os objetos abstratos são qualia, só uma observação.  
+\[3/2 22:30\] Alexandre Porto: O argumento pelo qual o pampsiquismo é mais atacado é o problema da combinação. Como os qualia se combinam?  
+\[3/2 22:31\] Alexandre Porto: A resposta é que a realidade é feita fundamentalmente de relações, e não de coisas.  
+\[3/2 22:31\] Alexandre Porto: Primeiro vem a relação, e depois a coisa, e não o contrário. Então todos os qualia já existem intrinsecamente em relação uns aos outros.  
+\[3/2 22:33\] Alexandre Porto: A aparente separação é que deve ser explicada, e não a combinação. A aparência de separação é explicada pela interrupção da informação. Nos sentimos separados por falta de informação sobre as outras mentes e objetos. Nos sentimos unificados dentro de nós mesmos pelas nossas memórias.  
+\[3/2 22:34\] Alexandre Porto: Então essa é minha explicação do pampsiquismo. Daí eu vou explicar como a praxeologia pode ser naturalista, superando o dualismo, mas outro dia.

@@ -34,7 +34,7 @@ updated: 2025-09-01
 - Ferramenta que reduz tempo de produção aumenta utilidade instrumental de um [[Recurso]] para gerar [[Produto]].
 
 ## Ligações
-- Núcleo: [[Praxeologia]] · [[Naturalismo Praxeológico]] · [[Controle]].
+- Núcleo: [[Praxeologia]] · [[Capítulo - Naturalismo Praxeológico]] · [[Controle]].
 - Teleologia: [[Finalidade]] · [[Teleologia Naturalista]] · [[Função Natural]].
 - Meios: [[Uso]] · [[Recurso]] · [[Produto]].
 - Epistêmico: [[Informação]] · [[Entropia Informacional]].
