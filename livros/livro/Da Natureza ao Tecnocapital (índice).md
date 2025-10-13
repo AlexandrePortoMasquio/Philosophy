@@ -120,7 +120,7 @@
 
 [[Capítulo - Futuro (Assimilar)]]
 
-[[Capítulo - Trabalho, Automação e Criação (Assimilar?)]]
+[[Capítulo - Trabalho, Automação e Criação (Assimilar)]]
 
 [[Capítulo - Digitalização e Simulação]]
 
@@ -144,7 +144,7 @@
 
 [[Capítulo - Ciberespaço 2_2 (Games) (Assimilar)]]
 
-[[Capítulo - Tecnocapitalismo (Assimilar?)]]
+[[Capítulo - Tecnocapitalismo (Assimilar)]]
 
 [[Capítulo - Tecnofilosofia]]
 
