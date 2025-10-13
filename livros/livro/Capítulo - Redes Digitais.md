@@ -1,0 +1,3 @@
+As redes digitais começam a surgir no final da etapa do capitalismo corporativo, durante a transição para o capitalismo informacional. Inicialmente, essas redes servem como infraestrutura de comunicação para corporações e governos, como é o caso da ARPANET e das primeiras redes de computadores nos anos 1960 e 1970\.
+
+Embora essas redes ainda não tivessem o papel central que ganham no capitalismo informacional, elas já são uma pré-condição para a transformação econômica que leva ao capitalismo digital. É no capitalismo informacional que as redes digitais deixam de ser ferramentas acessórias para se tornarem o núcleo da economia.  

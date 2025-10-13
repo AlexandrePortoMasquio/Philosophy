@@ -1,6 +1,6 @@
 # Cyberia - Estratégia
 
-[[Cyberia]] prioriza provar valor com um serviço de IA descentralizado, público, simples e confiável, liquidando pagamentos sem intermediários e preservando a descentralização. O plano sequencia decisões para reduzir riscos: lançar um MVP mínimo verificável, observar uso real e lucrar por investimentos no token XCYB. Evita promessas não testadas; favorece entregas curtas, auditáveis e abertas a qualquer origem.
+[[Capítulo - Cyberia]] prioriza provar valor com um serviço de IA descentralizado, público, simples e confiável, liquidando pagamentos sem intermediários e preservando a descentralização. O plano sequencia decisões para reduzir riscos: lançar um MVP mínimo verificável, observar uso real e lucrar por investimentos no token XCYB. Evita promessas não testadas; favorece entregas curtas, auditáveis e abertas a qualquer origem.
 ## Fases
 
 - Fase 1 — MVP verificável: contrato de escrow em Solana conforme [[Cyberia - Requisitos do Contrato]], cliente mínimo (linha de comando e página simples) e uma tarefa de IA de utilidade clara; testes públicos com valores pequenos; guia de uso objetivo.
@@ -32,7 +32,7 @@
 - Comunicação: não prometer retorno financeiro; divulgar resultados observáveis (uso, falhas corrigidas, disponibilidade) em vez de slogans.
 
 ## Ligações
-* [[Cyberia]]
+* [[Capítulo - Cyberia]]
 * [[Cyberia - Motivação]]
 * [[Cyberia - Requisitos do Contrato]]
 * [[Praxeologia]]

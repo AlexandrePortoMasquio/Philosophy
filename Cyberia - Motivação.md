@@ -1,6 +1,6 @@
 # Cyberia - Motivação
 
-Derivado de: [[Motivação]] [[Cyberia]]
+Derivado de: [[Motivação]] [[Capítulo - Cyberia]]
 
 Próximos passos: Fazer o serviço de IA, e então o contrato inteligente.
 

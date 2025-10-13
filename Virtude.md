@@ -30,5 +30,5 @@ As virtudes dão forma prática aos fins que dizemos valorizar. Sem elas, o disc
 
 Toda virtude pode degenerar por excesso ou por falta. Generosidade sem medida vira prodigalidade; prudência sem coragem paralisa. Por isso a virtude depende de discernimento para ler a situação e encontrar a medida justa, evitando tanto a rigidez quanto a conveniência oportunista. Essa medida não se calcula mecanicamente: aprende-se na prática, com exemplos, correções e atenção às consequências.
 
-Relações: · [[Moral]] · [[Ética]] · [[Sabedoria]] · [[Axiologia]] · [[Ambição]] · [[Gratidão]] ·····
+Relações: · [[Moral]] · [[Capítulo - Ética]] · [[Sabedoria]] · [[Axiologia]] · [[Ambição]] · [[Gratidão]] ·····
 

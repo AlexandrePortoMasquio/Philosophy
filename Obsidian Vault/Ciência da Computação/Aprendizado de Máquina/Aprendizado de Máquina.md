@@ -9,7 +9,7 @@ updated: 2025-08-28
 - Construção de funções a partir de dados por otimização; generalização além do conjunto de treinamento.
 
 ## Relações
-* TODO: O Aprendizado de Máquina é uma subcategoria da [[Inteligência Artificial]]?
+* TODO: O Aprendizado de Máquina é uma subcategoria da [[Capítulo - Inteligência Artificial]]?
 - TODO: tipos de aprendizado de máquina
 
 ## Tópicos

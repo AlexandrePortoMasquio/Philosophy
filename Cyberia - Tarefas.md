@@ -1,6 +1,6 @@
 # Cyberia - Tarefas
 
-Lista sequencial de execução do projeto [[Cyberia]]. Itens concluídos marcados com V.
+Lista sequencial de execução do projeto [[Capítulo - Cyberia]]. Itens concluídos marcados com V.
 
 - [V] Token criado (mint [[Cyberia - Token|XCYB]] definido).
 - [V] Contrato de escrow implementado na Solana (fluxos básico e de reembolso).
@@ -20,7 +20,7 @@ Lista sequencial de execução do projeto [[Cyberia]]. Itens concluídos marcado
 - [ ] Ampliação gradual de provedores e integração com clientes externos, sem backend central.
 
 ## Ligações
-* [[Cyberia]]
+* [[Capítulo - Cyberia]]
 - [[Cyberia - Estratégia]]
 - [[Cyberia - Requisitos do Contrato]]
 - [[Investimento na Web3]]

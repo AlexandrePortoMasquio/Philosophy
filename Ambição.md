@@ -13,7 +13,7 @@ updated: 2025-09-06
 - Ambição vs ganância: ambição busca grandeza com critérios; ganância absolutiza meios (poder/dinheiro/status) e ignora custos/externalidades.
 - Ambição vs aspiração: aspiração é elevação de gosto/valor; ambição é vetor de realização. Ideal: aspirar bem e ambicionar com método.
 - Ambição vs desejo: desejo é impulso; ambição estrutura desejo em projeto com [[Finalidade]] e métricas.
-- Ambição vs vaidade: vaidade mede por aplauso externo; ambição sábia mede por valor criado e coerência com [[Ética]].
+- Ambição vs vaidade: vaidade mede por aplauso externo; ambição sábia mede por valor criado e coerência com [[Capítulo - Ética]].
 
 ## Componentes (operativos)
 - Fins (axiologia): clareza de “o que vale” e por quê; trade-offs explícitos (ver [[Axiologia]], [[Finalidade]]).

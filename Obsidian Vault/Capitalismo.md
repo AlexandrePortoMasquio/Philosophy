@@ -1,3 +1,3 @@
 # Capitalismo
 
-TODO [[Capitalismo Mercantil]], [[Capitalismo Industrial]], [[Capitalismo Financeiro]], [[Capitalismo Corporativista]], [[Tecnocapitalismo]], [[Lucro]], [[Economia]]
+TODO [[Capitalismo Mercantil]], [[Capítulo - Capitalismo Industrial]], [[Capítulo - Capitalismo Financeiro]], [[Capitalismo Corporativista]], [[Tecnocapitalismo]], [[Lucro]], [[Economia]]

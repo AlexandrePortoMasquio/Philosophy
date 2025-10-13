@@ -6,6 +6,6 @@ Derivado de: [[Sabedoria Financeira]], [[Sabedoria]]
 ### Meu emprego e meu segundo emprego
 * [[Motivação - Segundo Emprego]]
 ### Minha cripto: Cyberia
-* [[Cyberia]]
+* [[Capítulo - Cyberia]]
 ### Meus investimentos em criptos.
 * [[Investimento na Web3]]
