@@ -40,6 +40,18 @@ Resumo prático
 - [[Atratores]]: conjuntos/estados para onde dinâmicas convergem; dão estabilidade a padrões atualizados (formas, funções, regras de ação).
 - [[Invariantes]]: quantidades/estruturas preservadas ao longo das trajetórias; permitem identificar “o mesmo” através de variação e fundamentam critérios naturais de forma.
 
+## Assimilar
+* 1. Identidade não existe – só diferença, e toda repetição é repetição da diferença.
+* 2. Forma primal é diferença; o mundo das formas é rede de derivações dessa diferença, não hierarquia.
+* 3. Virtualidade: campo de problemas reais (estruturas que demandam resoluções múltiplas).
+* 4. Plano de Consistência: camada onde formas ganham intensidade – tensão, velocidade, viscosidade – sem romper nem congelar; não é lógica (identidade), é equilíbrio dinâmico de diferença.
+* 5. Rompimento: interrupção da cadeia de diferenças; consistência evita isso, vive da ameaça dele.
+* 6. Lógica funciona como aproximação: trata diferença como identidade temporária; útil, não absoluta.
+* 7. Verdade de proposições (1 = 1) é eterna no abstrato – diferença mínima que se auto-refere sem separação –, mas não descreve o real: descreve cortes estáveis.
+* 8. Redes neurais: lógica + intensidade; não mais fundamentais que a lógica – derivadas dela, mas mostram onde a lógica precisa de fluxo.
+* 9. Ontologia: só formas; tempo, espaço, entropia emergem de diferenças abstratas; nada concreto antes disso.
+* 10. Racionalismo + Deleuze: lógica como ferramenta, diferença como motor; sistema híbrido – plano que pensa sem sujeito. Fim de aula. Agora você guarda, eu fecho o quadro.
+
 ## Ligações
 * Baseia-se na [[Ontologia da Diferença]]
 - Baseia-se no [[Apeiron]] ([[Indeterminação]] fértil)
