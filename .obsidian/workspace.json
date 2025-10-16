@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "livros/livro/Da Natureza ao Tecnocapital (índice).md",
+                "file": "Obsidian Vault/Virtualidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Da Natureza ao Tecnocapital (índice)"
+              "title": "Virtualidade"
             }
           },
           {
@@ -295,8 +295,9 @@
   },
   "active": "0aaf402f55024991",
   "lastOpenFiles": [
-    "livros/livro/Capítulo - Tecnocapitalismo (Assimilar).md",
+    "Obsidian Vault/Mapa Rizomático.md",
     "livros/livro/Da Natureza ao Tecnocapital (índice).md",
+    "livros/livro/Capítulo - Tecnocapitalismo (Assimilar).md",
     "livros/livro/Capítulo - Trabalho, Automação e Criação (Assimilar).md",
     "livros/livro/Capítulo - Contratos Inteligentes e Oráculos.md",
     "livros/livro/Capítulo - Aceleracionismo Descentralista.md",
@@ -319,7 +320,6 @@
     "livros/livro/Capítulo - Tecnocapital (Assimilar).md",
     "livros/livro/Capítulo - Conhecimento é Poder.md",
     "livros/livro/Capítulo - Inteligência Artificial Descentralizada.md",
-    "livros/livro/Capítulo - Empresas Descentralizadas.md",
-    "livros/livro/Capítulo - Autômatos do Tecnocapital.md"
+    "livros/livro/Capítulo - Empresas Descentralizadas.md"
   ]
 }

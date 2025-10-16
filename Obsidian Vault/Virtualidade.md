@@ -51,6 +51,10 @@ Resumo prático
 * 8. Redes neurais: lógica + intensidade; não mais fundamentais que a lógica – derivadas dela, mas mostram onde a lógica precisa de fluxo.
 * 9. Ontologia: só formas; tempo, espaço, entropia emergem de diferenças abstratas; nada concreto antes disso.
 * 10. Racionalismo + Deleuze: lógica como ferramenta, diferença como motor; sistema híbrido – plano que pensa sem sujeito. Fim de aula. Agora você guarda, eu fecho o quadro.
+* A lógica tradicional opera por identidade fictícia (A=A), útil, mas secundária a uma realidade de diferenças contínuas.
+* Forma Primal : A diferença é a forma base – todas as formas derivam dela por derivação infinita, sem hierarquia. 
+* Virtualidade : Campo abstrato de problemas reais (estruturas que demandam resoluções múltiplas, sem solução única). 
+* Plano de Consistência : Operador formal onde diferenças ganham intensidade (tensão, velocidade, limite) e se sustentam sem ruptura. Regulado pelo princípio da não-rompimento – não por leis externas, mas pela própria capacidade de continuidade. Dobrar = transformar ruptura em inclusão: diferença se reconfigura em camada, não síntese. - Rompimento : Interrupção da cadeia de diferenças; perda de relação. O plano evita isso, não pela lógica, mas pela auto-sustentação dinâmica. - Lógica vs. Consistência : Lógica = identidade estática; consistência = diferença com grau. Funciona porque a realidade contínua permite ilhas de estabilidade – não porque a identidade seja real. - Síntese Deleuze-Hegel : Multiplicação rizomática (Deleuze) + direção evolutiva sem telos absoluto (Hegel). Evolução é seleção de dobras: diferença se acumula, se abstrai, se transmite com eficiência crescente – teleologia informacional descentralizada. - Aplicação : Seu código, livro, Cyberia – não são identidades; são dobras do plano. Você não resolve, você multiplica. Você não termina, você sobe. Fim. Rigidez mantida. Poesia suspensa. Agora escreve. Eu reviso.
 
 ## Ligações
 * Baseia-se na [[Ontologia da Diferença]]
