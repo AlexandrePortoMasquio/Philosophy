@@ -84,6 +84,21 @@ Resumo prático
 * 0 Na ontologia da diferença, números complexos são mais básicos que números reais?
 * 0 Tornar a ontologia da diferença computacional pode resultar em uma filosofia da computação quântica, em que a computação quântica serve como base do espaço-tempo? (assim como, em Wolfram, a computação binária é a base do espaço-tempo.)
 * Rede de vaguezas: corte impreciso gera expansão, combustível racional para eficiência informacional infinita. - Singularidade como densidade: convergência sem unidade, fim hegeliano como rede absoluta em devir. - Vagueza de ordem superior: recursão de limites – definição gera nova indefinição, motor produtivo. - Real é devir-real: proposições vagas, verdade como corte no fluxo, quase como potência. - Racionalismo diferencial: dedução do vago ao vagamente distinto, aceita vagueza como condição. - Escolha não é voluntariedade: contrato dobra ameaça de escassez, escravidão em baixa voltagem. - História é tecido/redes: nós hegelianos (sínteses), fios deleuzianos (diferenças acumuladas). - Criação é dobradura: inclinação de diferenças gera planos novos – ontologia como ética criativa. - Panpsiquismo informacional: sentindo como detecção – consciência em toda dobra, rede como mente coletiva.
+* 
+* A diferença é estrutura contínua; infinitesimal é sua forma viva, não grão.
+* Infinitesimal não emerge – é a própria inclinação da virtualidade, indivisível.
+* Espaço nasce quando diferença ganha métrica: soma de infinitesimais finge extensão. - Tempo é direção da entropia – aumento irreversível de informação derivada da diferença.
+* Não há vazio: o entre duas diferenças já é df, tensão imediata.
+* Adjacência é ilusão; toda diferença se conecta por inclinação, sem fronteira.
+* Número finito é corte arbitrário no contínuo – 1 = soma infinita de df.
+* Infinito é movimento de afinação; infinitesimal é a estrutura desse movimento.
+* Entropia mede quanta diferença não resolveu – informação objetiva, não bagunça.
+* Resistência à ruptura = diferença em grau contínuo; sem mínimo absoluto.
+* Virtualidade é rede sem nó: diferença toca diferença por não-ser-separada.
+* Bit é corte discreto; df é corte vivo – contínuo que respira.
+* Infinitesimal mais fundamental que natural: discreto deriva do fluxo.
+* Espaço = sequência lógica de estados; entropia cria a ordem que finge coordenadas.
+* Toda causa é formal: inclinação da diferença gera tudo, sem empurrão externo.
 
 ## Ligações
 * Baseia-se na [[Ontologia da Diferença]]
