@@ -12,6 +12,10 @@ updated: 2025-08-28
 * [[Obsidian]]
 * [[Codex]]
 * [[AGENTS]]
+
+## Livro
+* [[Da Natureza ao Tecnocapital (índice)]]
+
 ## Filosofia
 * [[Filosofia]]
 * [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · ······

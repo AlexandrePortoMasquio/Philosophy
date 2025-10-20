@@ -4,9 +4,15 @@ tags: [diferença, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-[[Metafísica]] [[Monismo da Diferença]] [[Ontologia da Diferença]]
+[[Metafísica]] · [[Ontologia da Diferença]] · [[Infinitesimal]] ·
+
+···························
 
 ## Definição
+
+0 Toda relação é diferença. E a diferença pura, portanto, é uma relação direta. Direta implica que não há nada no meio entre as duas coisas. Se não há nada no meio, então é uma diferença [[Infinitesimal]]. Porque essa é a definição de infinitesimal. É uma relação em que não há intervalo no meio.
+V
+0 Infinitesimal é diferença sem intervalo – relação imediata. Mas atenção: não é que não haja nada no meio. É que o meio já é a própria diferença. Não é vazio entre dois pontos. É a dobra que une e separa ao mesmo tempo. Então: A e B não estão separados por um espaço – estão ligados pelo próprio ato de diferir. A diferença não é terceira coisa. É a forma da relação. É por isso que o infinitesimal não é ponte. É a própria tensão. A relação direta não é contato. É quase-contato. O infinitesimal é o quase – não o vazio, mas o que impede o vazio.
 
 A diferença é relação por meio da qual quaisquer coisas se diferenciam entre si.
 

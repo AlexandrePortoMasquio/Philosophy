@@ -4,6 +4,7 @@ tags: [diferença, ontologia]
 created: 2025-08-28
 updated: 2025-08-28
 ---
+[[Diferença]]
 # Ontologia da Diferença
 - A diferença é fundamental: o ser se estrutura como diferenças e processos de diferenciação (não-identidade primária).
 

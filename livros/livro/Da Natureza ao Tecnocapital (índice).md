@@ -2,9 +2,11 @@
 
 0 [[Introdução|Capítulo - Introdução ao Naturalismo, Liberdade e Tecnocapital]]
 
-0 [[Capítulo - Epistemologia_ Racionalismo Naturalista]]]
+0 [[Capítulo - Epistemologia_ Racionalismo Naturalista]]
 
 0 [[Capítulo - Ontologia da Diferença]]
+
+0 [[Assimilar Ontologia da Diferença]]
 
 0 [[Capítulo - Cosmologia Informacional]]
 

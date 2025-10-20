@@ -13,6 +13,10 @@ Na [[Ontologia da Diferença]], [[Diferença|diferenças]] são intrinsecamente 
 
 O conceito deriva da distinção clássica entre qualidades intensivas e extensivas e, na ciência moderna, passa a ser descrito por escalas contínuas (temperatura, nível sonoro) sem perder o caráter de grau. Em correntes contemporâneas, é tomado como diferença em processo, anterior e condicionante de formas estáveis, por isso associado à potência de transformação.
 
+## Diferença entre Intensivo e Extensivo
+
+Extensivo é o que se divide, se soma, se espalha – quantidade, comprimento, massa, tempo, volume. Quando você corta um bolo em dois, você tem dois bocados: extensivo. Intensivo é o que não se divide sem mudar – temperatura, pressão, velocidade, cor, gosto. Se você corta o bolo, a temperatura continua 40 graus em cada pedaço: não perde força, só continua. O extensivo vive na medida. O intensivo vive no grau. Um é coisa. O outro é estado. A diferença básica é intensiva: não se corta, não se perde, só se afina.
+
 ## Relações
 
 Relaciona-se com qualidade (o modo como algo é) e com quantidade (quanto há), mas não se reduz a nenhuma delas; contrasta com extensão, pois aumenta-se a intensidade sem ocupar mais espaço. Exemplo cotidiano: um café pode ser preparado mais forte sem aumentar o volume da xícara; de modo análogo, uma luz pode brilhar mais sem ampliar o ambiente iluminado.

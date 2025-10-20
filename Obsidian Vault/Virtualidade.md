@@ -6,7 +6,7 @@ created: 2025-08-28
 updated: 2025-09-03
 ---
 
-[[Metafísica]] · [[Mapa Rizomático]] ·
+[[Metafísica]] · [[Mapa Rizomático]] · [[Ontologia da Diferença]]
 
 ······················
 ## Definição
