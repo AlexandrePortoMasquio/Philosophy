@@ -20,9 +20,17 @@ Ver: [[Arquitetura Android]]
 
 Aplicações são empacotadas em [[APK (Android)]]/[[AAB (Android)]], assinadas e instaladas pelo gerenciador do sistema. Cada app executa em processo próprio com sandbox, interage por intents e serviços, e observa eventos de ciclo de vida (criação, pausa, retomada, destruição). Recursos como armazenamento, rede, sensores e câmera são acessados por APIs com controle de permissões; tarefas em segundo plano seguem políticas de economia de energia e limites de execução.
 
+## Android SDK
+
+Ver [[Android SDK]]
+
 ## Tecnologias
 
 * Android OS security features: [[SELinux]], [[Sandboxing]]
+
+## Estruturas de dados (Android)
+
+Ver [[Estruturas de Dados (Android)]]
 
 ## DEX/ART
 
