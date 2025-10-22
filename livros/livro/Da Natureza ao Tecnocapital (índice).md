@@ -8,6 +8,8 @@
 
 0 [[Assimilar Ontologia da Diferença]]
 
+0 [[Assimilar Epistemologia da Diferença]]
+
 0 [[Capítulo - Cosmologia Informacional]]
 
 [[Capítulo - Transmissão de Informação]]

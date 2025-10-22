@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assimilar Ontologia da Diferença.md",
+                "file": "Assimilar Epistemologia da Diferença.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assimilar Ontologia da Diferença"
+              "title": "Assimilar Epistemologia da Diferença"
             }
           },
           {
@@ -295,7 +295,10 @@
   },
   "active": "0aaf402f55024991",
   "lastOpenFiles": [
+    "Geometria de Riemann.md",
+    "Assimilar Epistemologia da Diferença.md",
     "livros/livro/Da Natureza ao Tecnocapital (índice).md",
+    "Assimilar Ontologia da Diferença.md",
     "Obsidian Vault/Mapa Rizomático.md",
     "Programação.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
@@ -304,7 +307,6 @@
     "Rotina (Programação).md",
     "Método (Programação).md",
     "Android SDK.md",
-    "Assimilar Ontologia da Diferença.md",
     "Intensidade.md",
     "Capítulo - Ontologia da Diferença.md",
     "livros/livro/Capítulo - Cosmologia Informacional.md",
@@ -318,8 +320,6 @@
     "livros/livro/Capítulo - Aceleracionismo Descentralista.md",
     "livros/livro/Capítulo - Aceleração do Tecnocapital.md",
     "livros/livro/Capítulo - Cyberia.md",
-    "livros/livro/Capítulo - Tecnofilosofia.md",
-    "livros/livro/Capítulo - Ciberespaço 2_2 (Games) (Assimilar).md",
-    "livros/livro/Capítulo - Ciberespaço 1_2 (Raciocínios Filosóficos) (Assimilar).md"
+    "livros/livro/Capítulo - Tecnofilosofia.md"
   ]
 }
