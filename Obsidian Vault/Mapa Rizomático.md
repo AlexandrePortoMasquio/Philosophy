@@ -18,7 +18,7 @@ updated: 2025-08-28
 
 ## Filosofia
 * [[Filosofia]]
-* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · ······
+* [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · [[Cartografia Conceitual]] · [[Cartografia Conceitual]] ·····
 * [[Conceito]] · [[Operador]] ·
 * [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
 - [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] · [[Linha de Fuga (Deleuze e Guattari)]] ····

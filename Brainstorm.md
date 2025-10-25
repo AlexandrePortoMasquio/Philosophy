@@ -1,1 +1,0 @@
-A cartografia, em Deleuze, é a arte de se delinear mapas conceituais, mas rejeitando-se a teoria da correspondência e, adotando-se, em vez disso, um [[Coerentismo]]

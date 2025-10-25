@@ -40,7 +40,7 @@ Veja também: [[Rizoma]] · [[Virtualidade]] · [[Mapa Rizomático]]
 ## Distinções úteis
 - Plano de organização (estratos) × Plano de consistência: os estratos operam por codificação, tipificação e hierarquias; o plano de consistência por variação, composição e transversalidade. Usamos estratos para estabilizar, o plano para explorar e recompor.
 - Substância/essência × Plano: o plano não é substrato “coisa‑em‑si”, mas arranjo de relações que torna certas composições possíveis.
-- Cartografia × Plano: [[Cartografia]] e [[Mapa Rizomático]] são práticas que traçam percursos no plano; não o esgotam.
+- Cartografia × Plano: [[Cartografia Conceitual]] e [[Mapa Rizomático]] são práticas que traçam percursos no plano; não o esgotam.
 
 ## Princípios (modo de usar)
 - Partir de diferenças efetivas: comece por variações observáveis (conceituais, fenomenais ou formais) e conecte‑as.

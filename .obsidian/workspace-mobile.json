@@ -28,17 +28,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Rizoma.md",
+                "file": "Assimilar Epistemologia da Diferença.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rizoma"
+              "title": "Assimilar Epistemologia da Diferença"
             },
             "group": "e8fc9b352c28f9f3"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0a0793e84eb344bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4d4d488fad6e3c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Assimilar Epistemologia da Diferença.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "e8fc9b352c28f9f3"
+          }
+        ]
       },
       {
         "id": "56492902610b195a",
@@ -259,7 +303,18 @@
   },
   "active": "51dffc537f92fe28",
   "lastOpenFiles": [
+    "Coerentismo.md",
+    "Assimilar Epistemologia da Diferença.md",
+    "Obsidian Vault/Epistemologia.md",
+    "Fundacionalismo.md",
+    "Fundacionismo.md",
+    "Fubdacionalismo.md",
+    "Cartografia Conceitual.md",
     "Obsidian Vault/Mapa Rizomático.md",
+    "livros/livro/Da Natureza ao Tecnocapital (índice).md",
+    "Brainstorm.md",
+    "Capítulo - Ontologia da Diferença.md",
+    "Obsidian Vault/Filosofia.md",
     "Obsidian Vault/Rizoma.md",
     "Fuga.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
@@ -274,17 +329,6 @@
     "Android SDK.md",
     "Obsidian Vault/Sistema Operacional.md",
     "Obsidian Vault/Ciência da Computação/Sistemas Operacionais/Sistemas Operacionais.md",
-    "Kernel (Software).md",
-    "Obsidian Vault/Epistemologia.md",
-    "Coerentismo.md",
-    "Brainstorm.md",
-    "Obsidian Vault/Filosofia.md",
-    "Cartografia.md",
-    "Teoria da Correspondência.md",
-    "Limiar (Deleuze).md",
-    "Obsidian Vault/Deleuze.md",
-    "Cartografia Conceitual.md",
-    "Filosofia - Perguntas e Respostas.md",
     "JVM",
     "Princípio Aberto",
     "Untitled.canvas",
