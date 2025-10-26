@@ -1,6 +1,6 @@
 0 [[Geometria de Riemann]]
 
-O racionalismo da diferença (pós-moderno) se baseia no mesmo princípio racional que o racionalismo moderno, da razão dedutiva a priori como base principal e mais sólida do conhecimento. No entanto, o racionalismo da diferença leva em consideração o princípio de vagueza, em que todas as definições são vagamente delineadas, em alguma extensão.
+O racionalismo da diferença (pós-moderno) se baseia no mesmo princípio racional que o racionalismo moderno, da razão dedutiva a priori como base principal e mais sólida do conhecimento. No entanto, o racionalismo da diferença leva em consideração o princípio de vagueza, em que todas as definições são vagamente delineadas, em algum grau.
 
 No racionalismo da diferença, cada passo dedutivo diminui a incerteza, mas ela nunca se torna zero, como no racionalismo clássico de Descartes. A incerteza não é uma falha epistemológica, mas sim um aspecto intrínseco do conhecimento, derivado do princípio de vagueza.
 

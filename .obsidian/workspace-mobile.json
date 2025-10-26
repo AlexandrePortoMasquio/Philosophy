@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assimilar Epistemologia da Diferença.md",
+                "file": "livros/livro/Capítulo - Epistemologia_ Racionalismo Naturalista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assimilar Epistemologia da Diferença"
+              "title": "Capítulo - Epistemologia_ Racionalismo Naturalista"
             },
             "group": "e8fc9b352c28f9f3"
           }
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assimilar Epistemologia da Diferença.md",
+                "file": "Fundacionalismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +247,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Ciência da Computação/Engenharia de Software/Engenharia de Software Mobile/Android.md",
+            "file": "livros/livro/Capítulo - Epistemologia_ Racionalismo Naturalista.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -303,17 +303,17 @@
   },
   "active": "51dffc537f92fe28",
   "lastOpenFiles": [
-    "Coerentismo.md",
-    "Assimilar Epistemologia da Diferença.md",
+    "livros/livro/Da Natureza ao Tecnocapital (índice).md",
+    "Capítulo - Ontologia da Diferença.md",
+    "Obsidian Vault/Mapa Rizomático.md",
     "Obsidian Vault/Epistemologia.md",
     "Fundacionalismo.md",
+    "Assimilar Epistemologia da Diferença.md",
+    "Coerentismo.md",
     "Fundacionismo.md",
     "Fubdacionalismo.md",
     "Cartografia Conceitual.md",
-    "Obsidian Vault/Mapa Rizomático.md",
-    "livros/livro/Da Natureza ao Tecnocapital (índice).md",
     "Brainstorm.md",
-    "Capítulo - Ontologia da Diferença.md",
     "Obsidian Vault/Filosofia.md",
     "Obsidian Vault/Rizoma.md",
     "Fuga.md",

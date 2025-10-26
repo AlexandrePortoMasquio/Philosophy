@@ -14,8 +14,6 @@ Enquanto a matéria sempre se encontra em uma forma, a forma nem sempre depende 
 
 \- Forma Abstrata
 
-0 (definir precisamente o que é uma proposição, aqui ou no capítulo sobre epistemologia)
-
 Proposições são objetos abstratos complexos, que se compõem de partes, como a variável, o quantificador e o predicado. Por exemplo, na proposição “todo homem é mortal”, que também pode ser expressa da forma “para todo X, se X é homem, então X é mortal”, X é a variável, “para todo” é o quantificador, “é homem” e “é mortal” são predicados. Proposições são, portanto, objetos abstratos compostos de formas abstratas mais simples, e que não são proposicionais em si, carregando valor de verdade, mas tornam-se proposicionais ao combinarem-se entre si. Podemos, portanto, deduzir a partir disso que formas abstratas não-proposicionais, e mais simples que a proposição, também existem.
 
 Formas abstratas, como proposições e relações lógicas e matemáticas, são objetos que não têm localização no espaço ou no tempo e, portanto, não dependem nem da matéria, e nem do espaço-tempo, existindo eternamente. O espaço-tempo, por outro lado, depende das formas para existir, sendo uma rede de pontos adjacentes, e tendo sempre, portanto, uma forma, a forma da composição entre esses pontos. A física, inclusive, mostra que o espaço pode conter curvaturas e ondulações, que são formas. Até mesmo um espaço com curvatura zero tem uma forma, composta por todos os seus pontos adjacentes em uma quantidade de dimensões. As formas, portanto, são mais fundamentais e independentes do espaço-tempo, sendo, fundamentalmente, abstratas.
