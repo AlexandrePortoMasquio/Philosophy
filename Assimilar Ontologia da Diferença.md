@@ -1,10 +1,29 @@
-O emaranhado de intensidades, unidas pela diferença, e que são, elas próprias, diferenças. Esse emaranhado é a virtualidade, o campo no qual todas as diferenças e intensidades se conectam. Toda intensidade é uma intensidade de diferença, e toda diferença é intensiva.
 
-Por que toda diferença é intensiva? A diferença é a relação mais básica e direta. Se ela pudesse ser contada em números finitos, como em "uma diferença, duas diferenças..." haveria intervalo entre as conexões, pois entre números finitos, há infinitos números intermediários. Por exemplo, entre 1 e 2, há 1,5, e assim por diante. Portanto, para que haja uma relação direta e básica, essa relação não pode ter um grau finito, mas sim infinitesimal, em que a separação é infinitamente mínima, e há relação sem intervalo. Portanto, a diferença é intensiva, e não extensiva.
+0 Definir o que significa "básico", aqui ou na Metafísica.
 
-Portanto, diferenças básicas não podem ser contadas de forma finita. Aquilo que existe em quantidade finita pode ser decomposto em partes menores de forma contínua (0 provar?). A diferença, sendo infinitesimal, só pode ser contada em infinitudes. Finitos emergem de infinitudes de infinitesimais. Diferenças básicas, portanto, não podendo ser contadas em quantidades finitas, existem apenas em quantidades infinitas.
+A diferença é primordial e fundamental, não podendo ser baseada, nem causada, por qualquer outra coisa ou identidade. Mas dentre as diferenças, há uma diferença primordial e fundamental, da qual se derivam todas as outras? Partindo-se desse pressuposição, haveria uma diferença primordial e fundamental, da qual se derivassem todas as outras, havendo, portanto, uma diferença entre a diferença primordial e as diferenças não-primordiais. A diferença primordial, assim como todas as outras, basearia sua existência nessa diferença, entre ela e as outras. Mas se ela se baseasse nessa diferença, entra a primordial e as outras, então essa diferença seria mais primordial que a diferença primordial. Portanto, a pressuposição de que, de uma diferença primordial, se derivam as outras cai em contradição, e deve ser falsa. Portanto, conclui-se que não pode haver uma diferença primordial que dê origem a todas as outras.
+
+Diferenças existem, portanto, em uma cadeia descentralizada, em que cada uma se relaciona com as outras, pois a própria diferença é a relação mais básica e direta, e a base de todas as relações. A relação, dessa forma, é mais básica que a coisa. Todas as diferenças, portanto, sendo diferentes umas das outras, estão incluídas em uma mesma cadeia de relações.
+
+Se ela pudesse ser contada em números finitos, como em "uma diferença, duas diferenças..." haveria intervalo entre as conexões. Por exemplo, entre 1 e 2, há 1,5, e assim por diante. Se forem ignorados os números entre 1 e 2, ainda restaria um salto entre os dois, um intervalo, de forma que eles não se tocam, não sendo realmente adjacentes. Mas a diferença, sendo a relação mais básica e direta, não pode permitir saltos, e deve conectar diretamente, por adjacência. Mas isso não é possível entre quaisquer números finitos, pois entre eles há infinitos números intermediários. Portanto, para que haja uma relação direta e básica, essa relação não pode ter um grau finito, mas sim infinitesimal, em que a separação é infinitamente mínima, e há relação sem intervalo. Diferenças puras são, portanto, infinitesimais. A cadeia de diferenças relacionadas é contínua. Essas diferenças infinitesimais são as diferenças puras.
+
+Diferenças puras não são identidades, são relações de grau infinitamente mínimo. Objetos e coisas emergem dessas relações, e não o contrário. Diferenças não são atributos de objetos, são aquilo que existe de mais básico, das quais as identidades e objetos emergem. Desta forma, o devir é mais fundamental que o ser. O devir não é um "vir a ser" cronológico, mas sim a relação ontologicamente mais fundamental que o ser, e da qual o ser emerge.
+
+Se diferenças básicas pudessem ser contadas de forma finita, em que houvesse a primeira diferença infinitesimal após o zero, poderia-se, também, dividir esse "um infinitesimal" em "meio infinitesimal", havendo mais infinitesimais entre o zero e o infinitesimal, ou entre um infinitesimal e outro. Mas isso contradiz o conceito de infinitesimal, pois o infinitesimal já foi dividido infinitamente e não pode mais ser dividido, fazendo parte de uma sequência contínua. Mas sequências contadas finitamente, mesmo de infinitesimais, não podem ser contínuas, sendo sempre discretas. Aquilo que existe em quantidade finita pode ser decomposto em partes menores de forma contínua. Logo, diferenças puras, sendo infinitesimais, só podem ser contadas em infinitudes. Conclui-se, também, que as diferenças puras existem apenas em infinitudes, e não em quantidades finitas. Portanto, a multiplicidade é mais fundamental que a unidade.
+
+## A cadeia de diferenças é linear?
+
+Se a cadeia de diferenças, em que cada diferença se conecta a outras, fosse linear e unidimensional, 
+
+Desta forma, portanto, a diferença é intensiva, e não extensiva. 0
+
+0 O que são diferenças puras? Isso se diferencia de algum outro tipo de diferença?
+
+0 Diferenças puras são intensivas, e não extensivas? O que isso significa?
 
 A diferença, que existe fundamentalmente, é infinitesimal, enquanto a identidade, que é emergente e superveniente, é finita. A infinitude é a ponte pela qual o finito emerge de infinitesimais relacionados entre si.
+
+A virtualidade é o rizoma de intensidades, unidas pela diferença, e que são, elas próprias, diferenças. Esse emaranhado é a virtualidade, o campo no qual todas as diferenças e intensidades se conectam. Toda intensidade é uma intensidade de diferença, e toda diferença é intensiva.
 
 Como a finitude emerge da infinitude? A diferença, pela sua própria natureza, se repete infinitamente, em infinitos padrões, diferentes uns dos outros. Desta repetição infinita de diferenças, emergem todas as quantidades, inclusive infinitas e finitas. Desta forma, a finitude emerge da repetição infinita de infinitesimais.
 
@@ -77,3 +96,6 @@ A matemática só finge precisão; o π é quase-racional, o 2 é quase-inteiro 
 0 Toda definição tem uma penumbra, que é quase-dentro ou quase-fora.
 
 0 O universo não corta, ele flui em diferenças contínuas.
+
+
+ -  Sem diferença primordial, não há regressão linear infinita. - Regressão, se existir, é rizomática: ramificações laterais, não linha vertical. - Infinitesimais não admitem contagem; entre qualquer dois cabe outro. - Contagem impõe discretização; virtualidade é contínua por definição. - Dimensão finita colapsa na virtualidade: não há cardinal fixo. - Linearidade requer métrica externa; métrica é ela mesma diferença. - Sem métrica absoluta, não há antes/depois universal. - Virtualidade é multiplicidade sem número: nem um, nem dois, nem n. - Uma diferença é expressão contraditória; já implica quantificação. - Diferenças não são binárias (A vs B); o vs já cria nova diferença. - Cada diferença se apoia em outras, sem base fundadora. - Explicação não termina em origem; circula em rede. - Rizoma não é metáfora: é a forma mínima de propagação da diferença. - Virtualidade não é vazio; é campo de tensões ativas. - Toda tentativa de reduzir a diferença a identidade falha logicamente. - O racionalismo da diferença aceita axioma mínimo: diferença existe. - Dedução segue: o resto emerge da própria diferenciação.
