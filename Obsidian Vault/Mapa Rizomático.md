@@ -20,7 +20,7 @@ updated: 2025-08-28
 * [[Filosofia]]
 * [[Epistemologia]] · [[Racionalismo Naturalista]] · [[Semântica]] · [[Lógica]] · [[Mapa]] · [[Cartografia Conceitual]] · [[Cartografia Conceitual]] ·····
 * [[Conceito]] · [[Operador]] ·
-* [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Ontologia da Diferença]] · 
+* [[Metafísica]] · [[Simplicidade]] · [[Apeiron]] · [[Obsidian Vault/Ontologia da Diferença]] · 
 - [[Virtualidade]] · [[Diferença]] · [[Continuidade]] · [[Atualização]] · [[Variação]] · [[Singularidade]]  ······· [[Rizoma]] · [[Devir]] · [[Intensidade]] · [[Linha de Fuga (Deleuze e Guattari)]] ····
 - [[Vagueza]] · [[Vagueza de Ordem Superior]] · [[Bivalência Global]] · [[Sorites]] · [[Epistemicismo]]
 - [[Mundo das Formas]] · [[Forma]] · [[Informação]] · [[Atratores]] · [[Invariantes]] · [[Compressão de Informação]] · [[Repetição]] · [[Topologia das Formas]] ······

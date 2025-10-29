@@ -10,7 +10,7 @@ updated: 2025-08-28
 - Integra [[Razão]] [[A Priori]] (lógica/matemática) e dados empíricos sob [[Princípio|princípios]] naturais comuns; rejeita dogmatismo e subjetivismos.
 
 ## Ligações
-- Conecta [[Naturalismo]] [[Empirismo Naturalista]], [[Informação]], [[Ontologia da Diferença]].
+- Conecta [[Naturalismo]] [[Empirismo Naturalista]], [[Informação]], [[Obsidian Vault/Ontologia da Diferença]].
 - Ponto de partida no [[Mapa Rizomático]]
 
 ## Fonte

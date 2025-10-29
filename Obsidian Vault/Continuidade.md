@@ -14,5 +14,5 @@ updated: 2025-08-28
  - Guia trajetórias de atualização do [[Virtualidade|virtual]] até [[Atratores]] (estabilidade) via [[Invariantes]].
  - Sustenta preservação/compressão de [[Informação]]; quebras elevam [[Entropia Informacional]].
  - Dá critério para cortes locais (bivalência contextual), enquanto zonas limiares aumentam [[Vagueza]].
- - Nem tudo é contínuo: a [[Ontologia da Diferença]] estrutura variações contínuas locais, mas há bifurcações/[[Singularidades e Catástrofes]] que introduzem descontinuidades globais.
+ - Nem tudo é contínuo: a [[Obsidian Vault/Ontologia da Diferença]] estrutura variações contínuas locais, mas há bifurcações/[[Singularidades e Catástrofes]] que introduzem descontinuidades globais.
  - [[Relatividade]]

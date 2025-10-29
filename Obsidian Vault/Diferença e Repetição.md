@@ -6,7 +6,7 @@ updated: 2025-08-31
 ---
 
 ## Ideia
-- Obra que fundamenta a [[Ontologia da Diferença]]: a diferença é primeira; identidades e leis emergem como efeitos locais de processos de [[Diferenciação]].
+- Obra que fundamenta a [[Obsidian Vault/Ontologia da Diferença]]: a diferença é primeira; identidades e leis emergem como efeitos locais de processos de [[Diferenciação]].
 - Implicações lógicas: crítica à centralidade da identidade/negação; ênfase em multiplicidades, singularidades e “problemas” como motores conceituais.
 
 ## Ligações

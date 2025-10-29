@@ -15,3 +15,11 @@ A cartografia, em Deleuze, é a arte de se delinear mapas conceituais, mas rejei
 A teoria da correspondência é rejeitada, pela perspectiva cartográfica, na epistemologia da diferença, porque (continue a partir daqui)
 
 e, adotando-se, em vez disso, um coerentismo?
+
+## Projeto Racionalista da Diferença
+
+O projeto do racionalismo da diferença não é modelar a realidade em um modelo representativo e fechado, mas sim mapeá-la de forma aberta, alcançando mais camadas de abstração, sabendo-se que não pode haver uma camada final e intransponível.
+
+Desta forma, o projeto racionalista da diferença não tem um destino final. Porém, isso não significa que todos os caminhos da razão sejam igualmente valiosos. O caminho racionalista é destinado a alcançar mais camadas de abstração, embora nenhuma dessas camadas seja a camada final.
+
+0 Como a abstração é aceleração cartográfica?

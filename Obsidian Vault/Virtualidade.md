@@ -6,7 +6,7 @@ created: 2025-08-28
 updated: 2025-09-03
 ---
 
-[[Metafísica]] · [[Mapa Rizomático]] · [[Ontologia da Diferença]]
+[[Metafísica]] · [[Mapa Rizomático]] · [[Obsidian Vault/Ontologia da Diferença]]
 
 ······················
 ## Definição
@@ -103,7 +103,7 @@ Resumo prático
 * Toda causa é formal: inclinação da diferença gera tudo, sem empurrão externo.
 * Infinitesimal é qualitativo - qualia são contínuos.
 ## Ligações
-* Baseia-se na [[Ontologia da Diferença]]
+* Baseia-se na [[Obsidian Vault/Ontologia da Diferença]]
 - Baseia-se no [[Apeiron]] ([[Indeterminação]] fértil)
 - Do Apeiron, [[Emergência|emergem]] [[Fluxo de Diferenciação|fluxos de diferenciação]], que são [[Continuidade|contínuos]], [[Infinitude|não-finitos]] e [[Relação|não-relacionais]].
 - Relaciona-se ao [[Mundo das Formas]]; [[Forma]] emergem da [[Diferença]].

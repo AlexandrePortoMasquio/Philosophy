@@ -9,4 +9,4 @@ updated: 2025-08-28
 - Totalidade do que existe; nesta ontologia, organizada informacionalmente (diferenças, [[Informação]], [[Forma]]).
 
 ## Ligações
-- Conecta [[Metafísica]], [[Ontologia da Diferença]], [[Cosmologia Informacional]].
+- Conecta [[Metafísica]], [[Obsidian Vault/Ontologia da Diferença]], [[Cosmologia Informacional]].

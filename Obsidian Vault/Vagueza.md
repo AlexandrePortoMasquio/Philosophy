@@ -8,7 +8,7 @@ updated: 2025-08-28
 - Predicados ordinários carecem de fronteiras nítidas; há casos-limite e possivelmente vagueza de ordem superior.
 
 ## Ligações
-* Baseia-se na [[Ontologia da Diferença]], em que a [[Granularidade]] emerge da [[Continuidade]].
+* Baseia-se na [[Obsidian Vault/Ontologia da Diferença]], em que a [[Granularidade]] emerge da [[Continuidade]].
 - Pressiona [[Bivalência Global]]; modelagens: [[Supervaloração]], fuzzy, [[Epistemicismo]].
 - Conecta a [[Sorites]] como forma paradigmática do problema.
 - Relaciona-se a [[Virtualidade]] (diferença vs indeterminação) e [[Informação]].

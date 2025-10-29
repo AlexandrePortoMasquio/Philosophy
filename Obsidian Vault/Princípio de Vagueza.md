@@ -8,7 +8,7 @@ updated: 2025-09-01
 
 ## Formulação
 - O princípio de vagueza afirma que toda fronteira, seja [[Conceito|conceitual]], [[metafísica]], ou de qualquer outro tipo, carrega alguma indeterminação relativa à [[Granularidade]] e à [[Continuidade]].
-- O [[Princípio de Vagueza]] é análogo ao [[Princípio de Incerteza]] de [[Heisenberg]], mas, com base na [[Ontologia da Diferença]] e [[Continuidade]], se aplica a todas as coisas, inclusive [[Objeto Abstrato|objetos abstratos]], [[Proposição|proposições]], predicados, e objetos concretos.
+- O [[Princípio de Vagueza]] é análogo ao [[Princípio de Incerteza]] de [[Heisenberg]], mas, com base na [[Obsidian Vault/Ontologia da Diferença]] e [[Continuidade]], se aplica a todas as coisas, inclusive [[Objeto Abstrato|objetos abstratos]], [[Proposição|proposições]], predicados, e objetos concretos.
 - O [[Princípio de Incerteza]] de [[Heisenberg]] é um caso particular aplicado a observáveis conjugados (posição/momento etc.).
 
 ## Argumentos a Favor

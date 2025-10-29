@@ -1,6 +1,6 @@
 # Singularidade
 
-Na perspectiva da [[Ontologia da Diferença]], singularidade é um ponto/estrutura crítica do campo de [[Virtualidade]] que regula e orienta trajetórias de [[Devir]]. É pré‑individual e intensiva: não é um indivíduo/identidade, mas um nó de condições (limiar, direção, máxima/mínima) que organiza a passagem do virtual para o atual, gerando multiplicidades de atualidades, como em um [[Efeito Borboleta]].
+Na perspectiva da [[Obsidian Vault/Ontologia da Diferença]], singularidade é um ponto/estrutura crítica do campo de [[Virtualidade]] que regula e orienta trajetórias de [[Devir]]. É pré‑individual e intensiva: não é um indivíduo/identidade, mas um nó de condições (limiar, direção, máxima/mínima) que organiza a passagem do virtual para o atual, gerando multiplicidades de atualidades, como em um [[Efeito Borboleta]].
 
 TODO singularidade na matemática
 ## Ideia

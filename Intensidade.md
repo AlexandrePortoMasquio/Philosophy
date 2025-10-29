@@ -7,7 +7,7 @@ updated: 2025-09-28
 
 Intensidade é o grau de variação ou de força com que uma qualidade se manifesta em um processo, graduável e contínuo, que pode aumentar ou diminuir sem acréscimo de extensão, número ou partes. Distingue-se da quantidade discreta: mais calor, mais brilho ou mais dor não implicam mais objeto, mas maior grau de manifestação.
 
-Na [[Ontologia da Diferença]], [[Diferença|diferenças]] são intrinsecamente [[Continuidade|contínuas]] e, portanto, são intensidades.
+Na [[Obsidian Vault/Ontologia da Diferença]], [[Diferença|diferenças]] são intrinsecamente [[Continuidade|contínuas]] e, portanto, são intensidades.
 
 ## Derivação
 

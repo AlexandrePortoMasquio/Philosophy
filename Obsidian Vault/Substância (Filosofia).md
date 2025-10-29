@@ -6,4 +6,4 @@ No contexto contemporâneo ou pós-moderno, o conceito pode ser reinterpretado s
 
 ## Ontologia da Diferença
 
-Na [[Ontologia da Diferença]], a substância não é um substrato fixo anterior às variações, mas sim a própria diferença pura, que é o único [[Invariante]]. A [[Identidade]] [[Emergência|emerge]] de composições; a diferença é primeira e organiza o [[Devir]].
+Na [[Obsidian Vault/Ontologia da Diferença]], a substância não é um substrato fixo anterior às variações, mas sim a própria diferença pura, que é o único [[Invariante]]. A [[Identidade]] [[Emergência|emerge]] de composições; a diferença é primeira e organiza o [[Devir]].

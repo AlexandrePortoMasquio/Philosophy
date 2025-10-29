@@ -33,7 +33,7 @@ Pela ontologia da diferença, a realidade não possui grãos intrísecos, sendo 
 
 ## Mereologia pelo Princípio de Vagueza
 
-O [[Princípio de Vagueza]] afirma que todo [[Conceito]] tem bordas intrinsecamente vagas entre o que o separa de conceitos diferentes. Dessa forma, adicionalmente à sobreposição entre [[Componente]] e [[Composto]], resultante da [[Ontologia da Diferença]], também há uma área cinzenta em que a separação entre ambos os conceitos não é clara.
+O [[Princípio de Vagueza]] afirma que todo [[Conceito]] tem bordas intrinsecamente vagas entre o que o separa de conceitos diferentes. Dessa forma, adicionalmente à sobreposição entre [[Componente]] e [[Composto]], resultante da [[Obsidian Vault/Ontologia da Diferença]], também há uma área cinzenta em que a separação entre ambos os conceitos não é clara.
 
 ## Cuidados e limites
 

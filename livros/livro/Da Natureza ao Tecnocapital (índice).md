@@ -4,6 +4,8 @@
 
 [[Capítulo - Epistemologia_ Racionalismo Naturalista]]
 
+0 [[Capítulo - Metafísica e Substância]]
+
 0 [[Capítulo - Ontologia da Diferença]]
 
 0 [[Assimilar Ontologia da Diferença]]

@@ -13,7 +13,7 @@ O rizoma é uma estrutura determinada por conexões múltiplas, não-hierárquic
 
 O Rizoma é anti-genealógico, pois recusa a lógica de filiação e de origem únicas: não deriva de um tronco ancestral, mas compõe-se por alianças laterais entre séries heterogêneas. Em vez de remontar a causas primeiras, opera no meio, conectando multiplicidades e permitindo que linhas se bifurquem, se cruzem e reentrem. A consistência do conjunto provém do traçado dessas linhas, não de identidades ou essências herdadas.
 
-Na [[Ontologia da Diferença]], a realidade é um rizoma interconectado de diferenças que, pela [[Relatividade da Diferença]], compõem uma [[Rede Informacional]].
+Na [[Obsidian Vault/Ontologia da Diferença]], a realidade é um rizoma interconectado de diferenças que, pela [[Relatividade da Diferença]], compõem uma [[Rede Informacional]].
 
 ## Princípios (resumo prático)
 - Conexão e heterogeneidade: qualquer ponto liga-se a qualquer outro. Misture domínios — por exemplo, conecte [[Informação]] com [[Filosofia da Mente]] e [[Linguagem]].
