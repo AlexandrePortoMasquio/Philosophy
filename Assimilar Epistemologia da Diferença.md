@@ -16,6 +16,14 @@ A teoria da correspondência é rejeitada, pela perspectiva cartográfica, na ep
 
 e, adotando-se, em vez disso, um coerentismo?
 
+## A epistemologia da diferença é a mais sistemática?
+
+A epistemologia da diferença não baseia a realidade ou conhecimento em quaisquer categorias fixas, sendo aberta a uma infinidade de nuances e novas camadas de abstração. De forma aparentemente paradoxal, isto a torna mais sistemática. Quanto mais a epistemologia se abre a novas camadas de abstração, mais consistência ela é capaz de alcançar, e não há um limite.
+V
+Essa abertura (qual? Como definir?) de um sistema epistemológico não é aleatoriedade ou relativismo, mas sim o aprofundamento da sua consistência.
+V
+Esse aprofundamento, no entanto, não é um aumento de complexidade, mas sim de simplicidade. Quanto maior a camada de abstração, mais simples é a base do conhecimento. Assim como um mapa pode informar sobre os caminhos de estradas apenas com traços que são mais simples que as próprias estradas, e precisa dessa simplicidade para condensar informação.
+
 ## Projeto Racionalista da Diferença
 
 O projeto do racionalismo da diferença não é modelar a realidade em um modelo representativo e fechado, mas sim mapeá-la de forma aberta, alcançando mais camadas de abstração, sabendo-se que não pode haver uma camada final e intransponível.
@@ -23,3 +31,7 @@ O projeto do racionalismo da diferença não é modelar a realidade em um modelo
 Desta forma, o projeto racionalista da diferença não tem um destino final. Porém, isso não significa que todos os caminhos da razão sejam igualmente valiosos. O caminho racionalista é destinado a alcançar mais camadas de abstração, embora nenhuma dessas camadas seja a camada final.
 
 0 Como a abstração é aceleração cartográfica?
+
+0 o que é condensar informação? É manter o que sustenta a diferença, sem ruído?
+
+0 A condensação de informação resulta em diminuição ou perda da informação original?
