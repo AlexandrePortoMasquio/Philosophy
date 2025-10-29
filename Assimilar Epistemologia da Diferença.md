@@ -35,3 +35,5 @@ Desta forma, o projeto racionalista da diferença não tem um destino final. Por
 0 o que é condensar informação? É manter o que sustenta a diferença, sem ruído?
 
 0 A condensação de informação resulta em diminuição ou perda da informação original?
+
+0 A condensação permite derivar uma grande quantidade de informação de um algoritmo gerador mais simples?
