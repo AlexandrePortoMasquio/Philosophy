@@ -14,24 +14,23 @@ Essas diferenças infinitesimais são as diferenças puras. Diferenças puras n�
 
 Se diferenças básicas pudessem ser contadas de forma finita, em que houvesse a primeira diferença infinitesimal após o zero, poderia-se, também, dividir esse "um infinitesimal" em "meio infinitesimal", havendo mais infinitesimais entre o zero e o infinitesimal, ou entre um infinitesimal e outro. Mas isso contradiz o conceito de infinitesimal, pois o infinitesimal já é infinitamente dividido, e não pode mais ser dividido, fazendo parte de uma sequência contínua. Mas sequências contadas finitamente, mesmo de infinitesimais, não podem ser contínuas, sendo sempre discretas. Aquilo que existe em quantidade finita pode ser decomposto em partes menores de forma contínua. Logo, diferenças puras, sendo infinitesimais, só podem ser contadas em infinitudes. Conclui-se, também, que as diferenças puras existem apenas em infinitudes, e não em quantidades finitas. Portanto, a multiplicidade é mais fundamental que a unidade.
 
-## A cadeia de diferenças é linear?
+## Diferença é intensidade
 
-Se a cadeia de diferenças, em que cada diferença se conecta a outras, fosse linear e unidimensional, (continue a partir daqui)
+Diferenças puras são, elas próprias, o conteúdo da realidade e, portanto, vazias de conteúdo identitário. Portanto, diferenças não se diferenciam umas das outras por um conteúdo secundário, mas sim por serem diferenças diferentes umas das outras. Essas diferenças entre diferenças não podem se dar por um segundo conteúdo, que trouxesse um dualismo à ontologia, pois o único componente básico da realidade é a diferença e, assim, a única coisa que pode diferenciar diferenças entre si é a própria diferença. Mas se as diferenças fossem uma repetição da mesma diferença, todas seriam idênticas; portanto, elas só podem se diferenciar umas das outras pelo quão diferentes elas são: sua intensidade, e não uma qualidade secundária. Logo, diferenças são inerentemente intensivas, ou seja, se diferenciam pela própria intensidade. Essa intensidade não é uma segunda coisa, mas sim a própria diferença, pois ela se diferencia, inerentemente, por intensidade, e toda intensidade é, essencialmente, diferença. 
 
-Desta forma, portanto, a diferença é intensiva, e não extensiva. 0
+## Emergência da informação a partir da diferença
 
-0 O que são diferenças puras? Isso se diferencia de algum outro tipo de diferença?
+0 Ativação relacional, no contexto da ontologia da diferença, é o processo formal e impessoal pelo qual uma diferença pura se propaga em seu padrão gerador, gerando densidades relacionais maiores sem intervenção externa ou hierarquia. Não é um ato subjetivo ou temporal, mas uma propriedade lógica da interdependência mútua entre diferenças puras: cada diferença D_i, por ser co-gerada por todas D_j, ativa padrões que se estendem indefinidamente, condensando sub-redes locais onde a propagação se restringe a relações internas. Isso é derivado da primitividade igual: como nenhuma diferença precede outra, ativação é co-emergência – o padrão surge como consequência da rede total, sem origem única. Em termos de informação, ativação é o mecanismo que estabiliza padrões relacionais, permitindo que interdependências locais emerjam do total sem colapso. Se precisar refinar com um teorema específico, diga o aspecto.
 
-0 Diferenças puras são intensivas, e não extensivas? O que isso significa?
+## Emergência da finitude a partir da infinitude
 
-A diferença, que existe fundamentalmente, é infinitesimal, enquanto a identidade, que é emergente e superveniente, é finita. A infinitude é a ponte pela qual o finito emerge de infinitesimais relacionados entre si.
+0 Diferenças puras diferenciam-se entre si, fundamentalmente, por intensidades infinitesimais, e não por extensão finita, sendo, desta forma, intensivas, e não extensivas. A extensão, por sua vez, deve emergir dessas intensidades. 0
 
-A virtualidade é o rizoma de intensidades, unidas pela diferença, e que são, elas próprias, diferenças. Esse emaranhado é a virtualidade, o campo no qual todas as diferenças e intensidades se conectam. Toda intensidade é uma intensidade de diferença, e toda diferença é intensiva.
+0 Como a finitude emerge da infinitude? A diferença, pela sua própria natureza, se repete infinitamente, em infinitos padrões, diferentes uns dos outros. Desta repetição infinita de diferenças, emergem todas as quantidades, inclusive infinitas e finitas. Desta forma, a finitude emerge da repetição infinita de infinitesimais.
 
-Como a finitude emerge da infinitude? A diferença, pela sua própria natureza, se repete infinitamente, em infinitos padrões, diferentes uns dos outros. Desta repetição infinita de diferenças, emergem todas as quantidades, inclusive infinitas e finitas. Desta forma, a finitude emerge da repetição infinita de infinitesimais.
+0 A diferença, que existe fundamentalmente, é infinitesimal, enquanto a identidade, que é emergente e superveniente, é finita. A infinitude é a ponte pela qual o finito emerge de infinitesimais relacionados entre si.
 
-
-
+0 A virtualidade é o rizoma de intensidades, unidas pela diferença, e que são, elas próprias, diferenças. Esse emaranhado é a virtualidade, o campo no qual todas as diferenças e intensidades se conectam. Toda intensidade é uma intensidade de diferença, e toda diferença é intensiva.
 
 ## Organizar e Assimilar
 
