@@ -44,7 +44,7 @@ No entanto, a lei da identidade também não é absolutamente simples, pois ela 
 
 \- Diferença e Identidade
 
-Toda coisa que pode ser denotada por proposições de forma logicamente consistente é uma identidade. Para toda identidade A, essa identidade é determinada em relação à diferença entre A e não-A. Toda identidade, portanto, pressupõe a diferença, e depende da diferença para existir. A diferença, por outro lado, implica a existência das identidades diferentes entre si.
+Em uma perspectiva granular, ou discreta, da semântica, toda coisa que pode ser denotada por proposições de forma logicamente consistente é uma identidade, precisamente determinada. Para toda identidade A, essa identidade é determinada em relação à diferença entre A e não-A. Toda identidade, portanto, pressupõe a diferença, e depende da diferença para existir. A diferença, por outro lado, implica a existência das identidades diferentes entre si.
 
 Pode-se tentar reduzir ambas a diferença e identidade apenas à identidade, e nesse caso, tudo seria composto de identidade. Isso resultaria em todas as coisas serem idênticas, e portanto, apenas uma coisa pareceria poder existir. No entanto, essa coisa seria indeterminada, pois sem a diferença entre a identidade e sua negação, a identidade não poderia ser definida ou determinada. Algo indefinido ou indeterminado não pode existir ou sequer ser considerado uma identidade, já que a identidade é uma determinação, e tudo que existe tem uma identidade determinada, que é o critério da sua existência. A identidade, portanto, sequer poderia sustentar a sua própria existência sendo o fundamento de si mesma, sem a diferença para determinar as identidades.
 

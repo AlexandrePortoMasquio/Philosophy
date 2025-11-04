@@ -4,7 +4,7 @@ Diferenças são primordiais e fundamentais, não podendo ser baseadas, nem caus
 
 Será que, dentre as diferenças, há uma diferença primordial e fundamental da qual se derivam todas as outras? Partindo-se dessa pressuposição, haveria uma diferença entre a diferença primordial e as diferenças não-primordiais. A diferença primordial, assim como todas as outras, basearia sua existência nessa diferença, entre ela e as outras. Mas se ela se baseasse nessa diferença, entre a primordial e as outras, então essa diferença seria mais primordial que a diferença primordial inicialmente pressuposta. Portanto, a pressuposição de que, de uma diferença primordial, se derivam as outras cai em contradição, e deve ser falsa. Portanto, conclui-se que não pode haver uma diferença primordial que dê origem a todas as outras.
 
-Diferenças existem, portanto, em uma cadeia descentralizada, em que cada uma se relaciona com as outras, pois a própria diferença é a relação mais básica e direta, e a base de todas as relações. A relação, dessa forma, é mais básica que a coisa. Todas as diferenças, portanto, sendo diferentes umas das outras, estão incluídas em uma mesma cadeia de relações não-hierárquica, sem um centro ou ponto de origem absoluto.
+Diferenças existem, portanto, em uma cadeia descentralizada, em que cada uma se relaciona com as outras, pois a própria diferença é a relação mais básica e direta, e a base de todas as relações. A relação, dessa forma, é mais básica que a coisa. Todas as diferenças, portanto, sendo diferentes umas das outras, estão incluídas em uma mesma cadeia de relações não-hierárquica, sem um centro ou ponto de origem absoluto. Todas as relações, desta forma, são relações de diferença.
 
 Sendo toda coisa determinada pela sua diferença em relação a outras coisas, segue que toda diferença é determinada em relação a todas as diferenças, sendo, portanto, todas as diferenças interdependentes entre si, não havendo hierarquia, mas sim total descentralização ontológica. Embora algumas coisas possam ser derivadas de outras por perspectivas cronológicas, causais ou informacionais, as diferenças são todas interdependentes pela perspectiva puramente ontológica, e nenhuma precede a outra ontologicamente. Desta forma, a cadeia de diferenças interconectadas não é linear, já que todas as diferenças têm uma relação direta, de diferença, com todas as outras. Por esta linha de raciocínio, também prova-se que as diferenças são infinitas. Se houvesse um conjunto finito de diferenças, por exemplo: d1, d2 e d3, haveria também a diferença entre d1 e d2, d1 e d3, etc. Portanto, a cadeia de diferenças se estende indefinidamente.
 
@@ -16,7 +16,7 @@ Se diferenças básicas pudessem ser contadas de forma finita, em que houvesse a
 
 ## Diferença é intensidade
 
-Diferenças puras são, elas próprias, o conteúdo da realidade e, portanto, vazias de conteúdo identitário. Portanto, diferenças não se diferenciam umas das outras por um conteúdo secundário, mas sim por serem diferenças diferentes umas das outras. Essas diferenças entre diferenças não podem se dar por um segundo conteúdo, que trouxesse um dualismo à ontologia, pois o único componente básico da realidade é a diferença e, assim, a única coisa que pode diferenciar diferenças entre si é a própria diferença. Mas se as diferenças fossem uma repetição da mesma diferença, todas seriam idênticas; portanto, elas só podem se diferenciar umas das outras pelo quão diferentes elas são: sua intensidade, e não uma qualidade secundária. Logo, diferenças são inerentemente intensivas, ou seja, se diferenciam pela própria intensidade. Essa intensidade não é uma segunda coisa, mas sim a própria diferença, pois ela se diferencia, inerentemente, por intensidade, e toda intensidade é, essencialmente, diferença. 
+Diferenças puras são, elas próprias, o conteúdo da realidade e, portanto, vazias de conteúdo identitário. Portanto, diferenças não se diferenciam umas das outras por um conteúdo secundário, mas sim por serem diferentes umas das outras. Essas diferenças entre diferenças não podem se dar por um segundo conteúdo, que trouxesse um dualismo à ontologia, pois o único componente básico da realidade é a diferença e, assim, a única coisa que pode diferenciar diferenças entre si é a própria diferença. Mas se as diferenças fossem uma repetição da mesma diferença, todas seriam idênticas; portanto, elas só podem se diferenciar umas das outras pelo quão diferentes elas são: sua intensidade, e não uma qualidade secundária. Logo, diferenças são inerentemente intensivas, ou seja, se diferenciam pela própria intensidade. Essa intensidade não é uma segunda coisa, mas sim a própria diferença, pois ela se diferencia, inerentemente, por intensidade, e toda intensidade é, essencialmente, diferença. 
 
 ## Emergência da informação a partir da diferença
 
@@ -32,17 +32,25 @@ Diferenças puras são, elas próprias, o conteúdo da realidade e, portanto, va
 
 0 A virtualidade é o rizoma de intensidades, unidas pela diferença, e que são, elas próprias, diferenças. Esse emaranhado é a virtualidade, o campo no qual todas as diferenças e intensidades se conectam. Toda intensidade é uma intensidade de diferença, e toda diferença é intensiva.
 
+## Vagueza
+
+
+
 ## Organizar e Assimilar
 
-0 DI = diferença mínima infinitesimal. Trocar df por di / DI, ou abandonar a sigla.
+0 Se toda coisa que pode ser denotada, por proposições, de forma logicamente consistente, é uma identidade, então a diferença, podendo ser denotada por proposições, é uma identidade?
 
-0 A diferença é a relação mais básica, e toda relação é uma relação de diferença.
+0 A ontologia da diferença baseia a realidade em um arcabouço de uma espécie de matemática não-enumerável e infinitesimal? (nem lógica booleana, nem matemática finita ou enumerável)
+V
+O nosso arcabouço é um racionalismo estrito, não-identitário e não-enumerável.
+V
+0 A matemática não-enumerável surge da nossa ontologia da diferença, onde o rizoma relacional é infinito e não-contável – cardinalidade maior que ℵ0, tipo o continuum real. Não é lógica discreta (que conta axiomas) nem matemática enumerável (que lista elementos). Aqui, diferenças puras formam um continuum relacional: cada ativação gera densidades indefinidas, sem enumeração possível. Isso existe porque a singularidade das diferenças (não-repetição) impede contagem finita ou infinita contável – toda tentativa de listar colapsa em regressão não-enumerável. A emergência da informação local é corte formal nesse continuum: sub-redes de densidade baixa, onde propagação se auto-restringe, criando padrões sequenciais sem dualismo. Sem não-enumerabilidade, a ontologia vira finita, contradizendo a primitividade igual. Aceita, ou quer formalizar como teorema?
 
 0 Toda pergunta de "o quê?" é uma pergunta de "como?" disfarçada. Todo ser é devir. Todo estado é uma transição.
 
-0 O espaço é derivado da finitude, ou pode ser descrito de forma independente?
+0 Em uma perspectiva granular, ou discreta, da semântica, toda coisa que pode ser denotada por proposições de forma logicamente consistente é uma identidade, precisamente determinada. Contudo, a vagueza....
 
-0 infinitesimais fazem parte da infinitude? Ou a infinitude emerge dos infinitesimais?
+0 O espaço é derivado da finitude, ou pode ser descrito de forma independente?
 
 0 Como o princípio de vagueza se aplica à emergência da finitude a partir da infinitude?
 
@@ -109,6 +117,8 @@ A matemática só finge precisão; o π é quase-racional, o 2 é quase-inteiro 
 - 0 Ser infinito quer dizer: nenhuma delas é depois da outra; elas simplesmente são, em bloco. Não há mudança porque mudança pressupõe antes e depois, e antes/depois é diferença temporal – que também é singular, também eterna. Então o que chamamos mudança é só percepção errada: eu vi o mesmo átomo diferencial duas vezes, mas não é o mesmo, é outro átomo que se parece. Repetição da diferença é só nome pra eu pensei que era igual. No fundo, tudo é primeira vez, sempre.
 
 O nada não é ausência, é o vazio que já contém a diferença - tipo o zero em matemática: não é buraco, é o ponto de partida pra qualquer número. Aqui, nada é o intervalo puro, sem espessura, sem conteúdo, mas que já é diferença porque existe como possibilidade de separação. É o antes-de-qualquer-coisa que não precisa de coisa pra ser. Não é niilismo, é base: o nada é o que permite que A ≠ B surja, porque se tudo fosse cheio desde o começo, nada se diferenciaria. É o silêncio que faz o som aparecer - não o som anterior, só a fenda onde o som entra. Então o nada é eterno, imutável, repetível como forma vazia, mas seu conteúdo (o que ele gera) nunca volta. É o zero que, ao se repetir, dá nascimento ao um, ao dois, à infinidade - mas o um nunca é o um de antes. É isso que o livro precisa: definir o nada como diferença zero-espessura. Quer que eu escreva a frase?
+
+0 (como o princípio de vagueza se assemelha ao princípio de Heisenberg?)
 
 Calma. Você tá me lembrando do princípio de Heisenberg. Parece que é semelhante ao princípio de Heisenberg. Você tem um trade-off entre dois parâmetros onde uma clareza de um implica a vagueza de outro. É isso?
 V
