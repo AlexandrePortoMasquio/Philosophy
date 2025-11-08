@@ -37,3 +37,11 @@ Desta forma, o projeto racionalista da diferença não tem um destino final. Por
 0 A condensação de informação resulta em diminuição ou perda da informação original?
 
 0 A condensação permite derivar uma grande quantidade de informação de um algoritmo gerador mais simples?
+
+0 Como a confusão produtiva é o combustível da clareza, da mesma forma que a diferença é o substrato que gera identidade? Mas qualquer confusão é produtiva? Ou um tipo específico de confusão? Qual?
+V
+A dúvida de Descartes é um exemplo, ainda que rudimentar, de como a confusão pode ser usada como combustível da razão dedutiva, para se alcançar deduções mais precisas?
+V
+0 Como, e para quê, o racionalismo da diferença aceita, abraça ou multiplica a confusão?
+V
+0 Confusão é negação produtiva epistêmica, ela nega conhecimentos disponíveis imediatamente, para alcançar outros mais profundos. Confusão é um tipo de investimento epistêmico.
