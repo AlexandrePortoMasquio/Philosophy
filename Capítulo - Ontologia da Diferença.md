@@ -28,7 +28,9 @@ Logo, todas as diferenças se relacionam entre si desigualmente, em intensidades
 
 ## Virtualidade
 
-A rede interconectada de relações entre todas as diferenças puras é a virtualidade... 0
+A virtualidade é a rede interconectada de relações entre todas as diferenças existentes e imanentes, ou seja, tudo que existe.
+
+0 Virtualidade é o mesmo que campo de imanência
 
 ## Emergência da informação a partir da diferença
 

@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +251,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8809ac8a0d9fef25",
+  "active": "60e3da032b41a987",
   "lastOpenFiles": [
-    "Brainstorm.md",
     "Obsidian Vault/Plano de Consistência.md",
+    "Brainstorm.md",
     "Capítulo - Ontologia da Diferença.md",
     "Obsidian Vault/Presenter.md",
     "livros/livro/Da Natureza ao Tecnocapital (índice).md",

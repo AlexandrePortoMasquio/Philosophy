@@ -7,7 +7,11 @@ updated: 2025-09-03
 ---
 ## Definição
 
-0 o plano de consistência é um só, ou existem infinitos referenciais de consistência diferentes?
+0 Campo de consistência é o mesmo que referencial ontológico?
+
+0 existem infinitos campos de consistência, cada um baseado em uma regra diferente.
+
+0 A virtualidade é a ruliad?
 
 Plano de [[Consistência]] é o [[Campo de Imanência]] em que multiplicidades se ligam e variam sem apelo a formas, essências ou hierarquias prévias. Não é substância nem substrato, mas meio de composição: relações diferenciais que se sustentam o bastante para produzir padrões estáveis sem se cristalizarem como essências.
 
