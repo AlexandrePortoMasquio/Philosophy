@@ -7,13 +7,19 @@ updated: 2025-09-03
 ---
 ## Definição
 
+0 o plano de consistência é um só, ou existem infinitos referenciais de consistência diferentes?
+
 Plano de [[Consistência]] é o [[Campo de Imanência]] em que multiplicidades se ligam e variam sem apelo a formas, essências ou hierarquias prévias. Não é substância nem substrato, mas meio de composição: relações diferenciais que se sustentam o bastante para produzir padrões estáveis sem se cristalizarem como essências.
 
 No uso metodológico, fornece a [[Base]] para cartografias: permite traçar linhas entre pontos heterogêneos e recombinar trajetos. Articula‑se com a [[Virtualidade]] (conteúdo diferencial que pode atualizar‑se) e com o [[Rizoma]] (modo de composição e mapeamento). Exemplo simples: um conjunto de notas que se reorganiza por ligações e percursos, no qual a regularidade emerge do reuso e da variação, não de um índice fixo.
 
 ## Diferença entre Plano de Consistência e Campo de Imanência
 
-TODO
+// [[Brainstorm]]
+// Aqui, não use conceitos secundários, subjetivos e nem espaço-temporais, como
+// "estabilidade", observação, etc. Apenas diferenças puras intensivas.
+
+Campo de imanência é o campo que inclui todas as diferenças virtuais: a mesma coisa que virtualidade; o plano de consistência emerge desse campo como composição imanente de diferenças puras (intensidades) que se conectam sem apelo a formas, essências ou hierarquias. O primeiro afirma a ausência de um fora; o segundo dispõe séries e conexões intensivas que conferem consistência às multiplicidades apenas pela relação diferencial.
 
 ## Diferenças
 - [[Virtualidade]]: campo de diferenças reais e singularidades que podem atualizar‑se de múltiplas maneiras; não é o “possível”, mas um conjunto estruturado de potenciais que orienta a atualização.

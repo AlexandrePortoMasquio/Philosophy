@@ -18,6 +18,10 @@ Se diferenças básicas pudessem ser contadas de forma finita, em que houvesse a
 
 Diferenças puras são, elas próprias, o conteúdo da realidade e, portanto, vazias de conteúdo identitário. Portanto, diferenças não se diferenciam umas das outras por um conteúdo secundário, mas sim por serem diferentes umas das outras. Essas diferenças entre diferenças não podem se dar por um segundo conteúdo, que trouxesse um dualismo à ontologia, pois o único componente básico da realidade é a diferença e, assim, a única coisa que pode diferenciar diferenças entre si é a própria diferença. Mas se as diferenças fossem uma repetição da mesma diferença, todas seriam idênticas; portanto, elas só podem se diferenciar umas das outras pelo quão diferentes elas são: sua intensidade, e não uma qualidade secundária. Logo, diferenças são inerentemente intensivas, ou seja, se diferenciam pela própria intensidade. Essa intensidade não é uma segunda coisa, mas sim a própria diferença, pois ela se diferencia, inerentemente, por intensidade, e toda intensidade é, essencialmente, diferença.
 
+## Semelhança e Identidade
+
+Intensidades são maiores ou menores apenas em relação umas às outras, e não absolutamente grandes ou pequenas. Para toda intensidade há infinitas intensidades menores, aproximando-se de zero, e infinitas maiores, não havendo uma intensidade máxima, nem mínima. Pode-se chamar de "semelhança" o quanto uma diferença é menor em relação a outras diferenças. Quanto menos diferente, mais semelhante. A semelhança, portanto, não é algo contrário à diferença, e nem há um dualismo entre diferença e semelhança, apenas graus de diferença relativos uns aos outros. Identidade é o limite hipotético de diferença nula; mas na prática, há apenas graus de semelhança, pois tudo é diferença, e a diferença nula, ou identidade, portanto, não existe.
+
 Logo, todas as diferenças se relacionam entre si desigualmente, em intensidades diferentes. Essa diferença de intensidade... // TODO aqui
 
 0 Afinidade: intensidade relacional preferencial entre duas diferenças, comparada às demais relações disponíveis no entorno. Diz-se que A tem afinidade com B quando a co‑determinação A↔B é mais forte do que a de A com outras diferenças vizinhas e do que a de B com as suas vizinhas. Não é semelhança, mas atração intensiva: um gradiente que torna a adjacência A–B a via de menor resistência para a propagação.
@@ -27,6 +31,8 @@ Logo, todas as diferenças se relacionam entre si desigualmente, em intensidades
 A rede interconectada de relações entre todas as diferenças puras é a virtualidade... 0
 
 ## Emergência da informação a partir da diferença
+
+0 O plano de consistência é mais básico ou derivado da informação?
 
 0 Canal: o conjunto de diferenças cuja intensidade das suas relações entre si é maior que a intensidade das relações com o restante da virtualidade.
 
