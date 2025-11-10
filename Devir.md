@@ -24,7 +24,7 @@ Em termos ontológicos, designa a passagem do virtual ao atual orientada por sin
 - Em termos do cofre: devir é a dinâmica que liga [[Virtualidade]] (diferenças reais e singularidades) à [[Atualização]] (estabilizações em [[Forma]] e [[Informação]]), sob gradientes e restrições locais.
 
 ## Estrutura do Devir
-- **Campo**: ocorre no [[Plano de Consistência]] como variação contínua entre pontos e séries; compõe‑se rizomaticamente ([[Rizoma]]).
+- **Campo**: ocorre no [[Campo de Consistência]] como variação contínua entre pontos e séries; compõe‑se rizomaticamente ([[Rizoma]]).
 - **Forças**: é movido por intensidades (diferenças de potencial, tensões) e por [[Fluxo de Diferenciação]] que atravessam o campo.
 - **Limiar**: ao encontrar [[Singularidades e Catástrofes|singularidades/limiares]], muda de regime e produz novas formas (catástrofes elementares, dobras, bifurcações).
 - **Estabilização**: padrões atuais sustentam‑se por [[Atratores]] e [[Invariantes]]; a estabilidade é sempre local e recomponível.
@@ -49,7 +49,7 @@ Em termos ontológicos, designa a passagem do virtual ao atual orientada por sin
 ## Ligações
 - Núcleo: [[Virtualidade]] · [[Atualização]] · [[Diferença]] · [[Fluxo de Diferenciação]]
 - Estabilidade: [[Atratores]] · [[Invariantes]] · [[Forma]] · [[Informação]]
-- Cartografia: [[Plano de Consistência]] · [[Rizoma]] · [[Mapa Rizomático]]
+- Cartografia: [[Campo de Consistência]] · [[Rizoma]] · [[Mapa Rizomático]]
 - Transições: [[Singularidades e Catástrofes]] · [[Variação]]
 
 ## Referências

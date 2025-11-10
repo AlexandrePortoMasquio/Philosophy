@@ -43,7 +43,7 @@ updated: 2025-09-03
 ## Ligações
 - Núcleo: [[Diferença]] · [[Repetição]] · [[Virtualidade]] · [[Atualização]]
 - Ferramentas: [[Informação]] · [[Invariantes]] · [[Atratores]] · [[Precisificação]] · [[Campo Conceitual]]
-- Cartografia: [[Rizoma]] · [[Mapa Rizomático]] · [[Plano de Consistência]]
+- Cartografia: [[Rizoma]] · [[Mapa Rizomático]] · [[Campo de Consistência]]
 - Clássicos: [[Identidade]] · [[Analogia]] · [[Possibilidade]]
 
 ## Referências

@@ -5,7 +5,8 @@ tags: [ontologia, método, deleuze, rizoma, virtualidade]
 created: 2025-09-03
 updated: 2025-09-03
 ---
-## Definição
+[[Virtualidade]] · [[Plano de Consistência]] ····················
+## Conceito
 
 0 Campo de consistência é o mesmo que referencial ontológico?
 
@@ -13,7 +14,7 @@ updated: 2025-09-03
 
 0 A virtualidade é a ruliad?
 
-Plano de [[Consistência]] é o [[Campo de Imanência]] em que multiplicidades se ligam e variam sem apelo a formas, essências ou hierarquias prévias. Não é substância nem substrato, mas meio de composição: relações diferenciais que se sustentam o bastante para produzir padrões estáveis sem se cristalizarem como essências.
+[[Campo de Consistência]] é uma parte do [[Campo de Imanência]] em que diferenças se relacionam entre si dentro de uma regra ou critério específico. Um campo de consistência não é separado do restante do campo de imanência, assim como, por exemplo, os números inteiros não são separados dos reais, mas são um recorte específico dentro dos números reais. Da mesma forma, um certo tecido espaço-temporal, seguindo certas leis físicas, é um recorte dentro de um tecido mais amplo; uma realidade que segue uma lógica binária é um recorte dentro de um campo mais amplo de diferenças virtuais, e assim por diante, sendo que todos os campos de consistência fazem parte, em última instância, da virtualidade, o campo de todas as imanências.
 
 No uso metodológico, fornece a [[Base]] para cartografias: permite traçar linhas entre pontos heterogêneos e recombinar trajetos. Articula‑se com a [[Virtualidade]] (conteúdo diferencial que pode atualizar‑se) e com o [[Rizoma]] (modo de composição e mapeamento). Exemplo simples: um conjunto de notas que se reorganiza por ligações e percursos, no qual a regularidade emerge do reuso e da variação, não de um índice fixo.
 

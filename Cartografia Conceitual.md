@@ -16,7 +16,7 @@ Essa cartografia distingue‑se da representação: não busca [[Teoria da Corre
 
 ## Derivação
 
-Deriva da crítica à representação e da primazia da diferença e do devir: em vez de reconhecer identidades fixas, a cartografia opera sobre multiplicidades e variações. Enraíza‑se nos princípios do [[Rizoma]] (mapa versus decalque) e no [[Plano de Consistência]], onde conexões se fazem por variação contínua. O mapa é coextensivo ao território que traça: ao mapear, altera condições e abre novas passagens.
+Deriva da crítica à representação e da primazia da diferença e do devir: em vez de reconhecer identidades fixas, a cartografia opera sobre multiplicidades e variações. Enraíza‑se nos princípios do [[Rizoma]] (mapa versus decalque) e no [[Campo de Consistência]], onde conexões se fazem por variação contínua. O mapa é coextensivo ao território que traça: ao mapear, altera condições e abre novas passagens.
 
 ## Rejeição ao Fundacionalismo
 

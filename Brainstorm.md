@@ -12,4 +12,4 @@ Todas as relações são desiguais em intensidade. Para toda diferença, há dif
 * Identidade é o limite hipotético de diferença nula; mas na prática, há apenas graus de semelhança, pois tudo é diferença, e a diferença nula, ou identidade, portanto, não existe.
 * 0 como disso emergem referenciais relativos, dentro dos quais as diferenças têm 
 
-0 [[Plano de Consistência]]
+0 [[Campo de Consistência]]

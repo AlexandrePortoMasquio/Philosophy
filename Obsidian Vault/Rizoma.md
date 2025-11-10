@@ -18,7 +18,7 @@ Na [[Obsidian Vault/Ontologia da Diferença]], a realidade é um rizoma intercon
 ## Princípios (resumo prático)
 - Conexão e heterogeneidade: qualquer ponto liga-se a qualquer outro. Misture domínios — por exemplo, conecte [[Informação]] com [[Filosofia da Mente]] e [[Linguagem]].
 - Multiplicidade: uma multiplicidade não deriva de uma unidade original; ela é definida pelas dimensões que a compõem. Em notas, pense em feixes de relações, não “definições finais”.
-- Origem da multiplicidade: não deriva de uma unidade anterior; emerge de variações imanentes no “[[Plano de Consistência]]” — isto é, das dimensões e relações diferenciais efetivamente traçadas. Em prática: nasce das conexões que estabelecemos (linhas), não de um centro.
+- Origem da multiplicidade: não deriva de uma unidade anterior; emerge de variações imanentes no “[[Campo de Consistência]]” — isto é, das dimensões e relações diferenciais efetivamente traçadas. Em prática: nasce das conexões que estabelecemos (linhas), não de um centro.
 - Ruptura a‑significante: um rizoma pode ser interrompido e retomar por outra linha sem “perder a essência”. Quebras e retomadas criam novas linhas de variação.
 - Cartografia (vs. decalcomania): mapear é inventar trajetos reais no terreno das ideias, não copiar moldes fixos. Use [[Mapa Rizomático]] como mapa vivo, não como índice rígido.
 

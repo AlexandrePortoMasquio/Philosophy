@@ -1,0 +1,1 @@
+o mesmo que [[Campo de Consistência]]

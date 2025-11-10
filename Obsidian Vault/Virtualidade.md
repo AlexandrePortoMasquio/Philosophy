@@ -6,9 +6,8 @@ created: 2025-08-28
 updated: 2025-09-03
 ---
 
-[[Metafísica]] · [[Mapa Rizomático]] · [[Obsidian Vault/Ontologia da Diferença]]
-
-······················
+[[Metafísica]] · [[Mapa Rizomático]] · [[Obsidian Vault/Ontologia da Diferença]] · [[Plano de Imanência]] · [[Campo de Consistência]] ·
+·····················
 ## Definição
 
 A virtualidade é o [[Campo]] [[Rizoma|rizomático]] de [[Diferença|diferenças]] puras reais, sem [[identidade]] ou [[Forma]] intrínseca. Contém multiplicidades [[Continuidade da Diferença|contínuas]] de potenciais [[variação|variações]] que estruturam o devir e [[Atualização|atualizações]].
@@ -20,7 +19,7 @@ A [[Virtualidade]] é real e a [[Básico|base]] de toda a [[Realidade]], uma vez
  - Não. [[Possível]] não é “fictício/meramente subjetivo”; é uma categoria conceitual/epistêmica (alternativas representáveis por semelhança a um modelo). No enquadramento deleuziano, o possível é menos que real no sentido ontológico: não opera causalmente até ser escolhido/instanciado. Já o [[Virtual]] é real e objetivo como campo de diferenças que condiciona e orienta as [[Atualização|atualizações]].
 - Passagem: do virtual ao atual ocorre por [[Atualização]] (diferenciação efetiva e individuação); do possível ao real por “realização” (instanciação de uma forma suposta), sem produção necessária de diferença.
 - Critério operativo: chame de virtual quando houver campo de variação com limiares e relações diferenciais que orientam múltiplas atualizações; chame de possível quando tratar de hipóteses modais/epistêmicas comparáveis a um modelo.
-- No cofre: a virtualidade fundamenta a cartografia no [[Plano de Consistência]] e se compõe rizomaticamente (ver [[Rizoma]]); “possível” fica para análises modais locais.
+- No cofre: a virtualidade fundamenta a cartografia no [[Campo de Consistência]] e se compõe rizomaticamente (ver [[Rizoma]]); “possível” fica para análises modais locais.
 
 Resumo prático
 - Virtual (real): problema estruturado por singularidades e gradientes que pode atualizar‑se de modos diversos.
