@@ -36,6 +36,8 @@ A virtualidade é a rede interconectada de relações entre todas as diferenças
 
 0 Diferença entre virtual e atual
 
+0 virtualidade = realidade = campo de imanência?
+
 ## Campos de Consistência
 
 Campos de consistência são partes da virtualidade, em que diferenças se relacionam entre si dentro de uma regra ou critério específico. Um campo de consistência não é separado do restante do campo de imanência, assim como, por exemplo, os números inteiros não são separados dos reais, mas são um recorte específico dentro dos números reais. Da mesma forma, um certo tecido espaço-temporal, seguindo certas leis físicas, é um recorte dentro de um tecido mais amplo; uma realidade que segue uma lógica binária é um recorte dentro de um campo mais amplo de diferenças virtuais, e assim por diante, sendo que todos os campos de consistência fazem parte, em última instância, da virtualidade, o campo de todas as imanências.
@@ -46,13 +48,15 @@ A diferença, em si, embora componha toda a virtualidade, não pode ser consider
 
 ## Emergência da informação a partir da diferença
 
+0 diferenças mais intensas resultam em mais diferenças relacionadas do que as menos intensas? Eu digo não como uma contagem de diferenças relacionadas, pois todas se relacionam entre si, mas sim, digamos, em relação à soma das intensidades. Isso é relativo, não é? Densidade é relativa, enquanto intensidade é absoluta?
+
 0 O plano de consistência é mais básico ou derivado da informação?
 
 0 Canal: o conjunto de diferenças cuja intensidade das suas relações entre si é maior que a intensidade das relações com o restante da virtualidade.
 
 0 Sinal: a diferença A que, nesse conjunto, tem intensidade de afinidade acima de um limiar relativo ao fundo (o ruído das afinidades menores). (0 ?)
 
-É a trilha de afinidades fortes, onde B responde mais a A do que C responde a D. Não é espaço físico – é o caminho de menor resistência entre intensidades. Sinal: A diferença que, dentro desse canal, se destaca por ter intensidade maior que o fundo (o ruído das outras diferenças). Sinal não é informação ainda – é o pico, o pico que se desdobra sem se desfazer. Informação surge quando o pico chega ao outro nó e ainda é reconhecível – ainda carrega o mesmo desequilíbrio. Então: diferença + intensidade desigual → canal (trilha de afinidades) → sinal (pico que sobra no canal). Sem mágica. Só relações que se dobram mais rápido umas que as outras.
+0 É a trilha de afinidades fortes, onde B responde mais a A do que C responde a D. Não é espaço físico – é o caminho de menor resistência entre intensidades. Sinal: A diferença que, dentro desse canal, se destaca por ter intensidade maior que o fundo (o ruído das outras diferenças). Sinal não é informação ainda – é o pico, o pico que se desdobra sem se desfazer. Informação surge quando o pico chega ao outro nó e ainda é reconhecível – ainda carrega o mesmo desequilíbrio. Então: diferença + intensidade desigual → canal (trilha de afinidades) → sinal (pico que sobra no canal). Sem mágica. Só relações que se dobram mais rápido umas que as outras.
 
 0 O sinal emerge 
 
