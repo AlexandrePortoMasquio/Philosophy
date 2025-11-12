@@ -1,5 +1,7 @@
 [[Assimilar Ontologia da Diferença]]
 
+0 diferença é não-ser? "É diferente" é o mesmo que "não é"? Devir é o mesmo que não-ser? O ser é baseado no não-ser? A realidade é um monte de irrealidades relacionadas? > O não-ser não é nada, nem vazio, porque vazio é identidade, enquanto o não-ser é relacional. O não-ser, portanto, é o quase-ser, e não uma ausência absoluta.
+
 Diferenças são primordiais e fundamentais, não podendo ser baseadas, nem causadas, por qualquer outra coisa ou identidade. Diferenças são o que existe de mais básico e fundamental, e compõem todas as coisas que existem. Portanto, toda diferença é uma relação entre múltiplas diferenças, já que o que é diferenciado deve, também, ser diferença.
 
 Será que, dentre as diferenças, há uma diferença primordial e fundamental da qual se derivam todas as outras? Partindo-se dessa pressuposição, haveria uma diferença entre a diferença primordial e as diferenças não-primordiais. A diferença primordial, assim como todas as outras, basearia sua existência nessa diferença, entre o primordial e o não-primordial. Mas se ela se baseasse nessa diferença, então essa diferença seria mais básica e primordial que a diferença inicialmente pressuposta. Portanto, a pressuposição de que, de uma diferença primordial, se derivam as outras cai em contradição, e deve ser falsa. Portanto, conclui-se que não pode haver uma diferença primordial que dê origem a todas as outras.
