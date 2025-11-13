@@ -4,7 +4,7 @@ tags: [arquitetura]
 created: 2025-08-29
 updated: 2025-08-29
 ---
-
+[[Arquitetura de Software]]
 ## Ideia
 - Model–View–Presenter: Presenter aplica regras de apresentação e empurra atualizações para a View por contrato (interface).
 

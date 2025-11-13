@@ -4,7 +4,7 @@ tags: [engenharia de software, arquitetura]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+[[Programação]] ······················
 ## Ideia
 - Arquitetura é a organização intencional de componentes e relações para satisfazer requisitos funcionais e não funcionais sob restrições.
 - Conecta teoria e prática: estrutura (formas), níveis (granularidade) e mecanismos de controle (fluxo, estado, isolamento) direcionam decisões.
