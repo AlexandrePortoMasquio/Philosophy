@@ -2,6 +2,8 @@
 
 O racionalismo da diferença (pós-moderno) se baseia no mesmo princípio racional que o racionalismo moderno, da razão dedutiva a priori como base principal e mais sólida do conhecimento. No entanto, o racionalismo da diferença leva em consideração o princípio de vagueza, em que todas as definições são vagamente delineadas, em algum grau.
 
+Conceitos, na epistemologia da diferença (pós-moderno), não são finais ou totalmente precisos e definidos, como no racionalismo moderno. Conceitos são processos de precisificação em andamento, e não objetos totalmente precisos. A epistemologia cumpre a função de, continuamente, precisificar o campo conceitual, em um processo sem fim.
+
 No racionalismo da diferença, cada passo dedutivo diminui a incerteza, mas ela nunca se torna zero, como no racionalismo clássico de Descartes. A incerteza não é uma falha epistemológica, mas sim um aspecto intrínseco do conhecimento, derivado do princípio de vagueza.
 
 A vagueza, no racionalismo da diferença, não é um princípio relativista ou niilista, mas sim um aumento de precisão epistemológica em relação ao racionalismo clássico. A vagueza é intrínseca a toda definição, e uma epistemologia que a reconhece e pressupõe é, de forma contraintuitiva, mais precisa que uma epistemologia que almeja a total precisão.

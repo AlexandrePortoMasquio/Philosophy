@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorm.md",
+                "file": "Assimilar Epistemologia da Diferença.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorm"
+              "title": "Assimilar Epistemologia da Diferença"
             }
           },
           {
@@ -147,8 +147,7 @@
               "title": "Limiar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,18 +292,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "60e3da032b41a987",
+  "active": "b3fbaa09203ddc17",
   "lastOpenFiles": [
-    "Brainstorm.md",
+    "livros/livro/Da Natureza ao Tecnocapital (índice).md",
     "Obsidian Vault/Mapa Rizomático.md",
+    "Brainstorm.md",
+    "Capítulo - Ontologia da Diferença.md",
     "Obsidian Vault/Informação.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Software.md",
     "Programação.md",
     "Obsidian Vault/Ciência da Computação/Engenharia de Software/Arquitetura de Software.md",
     "Obsidian Vault/MVP.md",
     "Obsidian Vault/Presenter.md",
-    "Capítulo - Ontologia da Diferença.md",
-    "livros/livro/Da Natureza ao Tecnocapital (índice).md",
     "Assimilar Ontologia da Diferença.md",
     "Obsidian Vault/Síntese.md",
     "Obsidian Vault/Campo de Consistência.md",

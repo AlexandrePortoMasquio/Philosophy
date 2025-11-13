@@ -1,3 +1,5 @@
+[[Mapa Rizomático]]
+
 ## Monismo do Devir
 
 * A ontologia da diferença é uma ontologia do devir, e não do ser.
