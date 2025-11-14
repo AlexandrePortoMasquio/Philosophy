@@ -4,7 +4,7 @@ tags: [ciência da computação, aprendizado de máquina]
 created: 2025-08-28
 updated: 2025-08-28
 ---
-
+[[Programação]]
 ## Ideia
 - Construção de funções a partir de dados por otimização; generalização além do conjunto de treinamento.
 

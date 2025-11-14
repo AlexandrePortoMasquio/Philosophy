@@ -4,7 +4,7 @@ tags: [android]
 created: 2025-08-29
 updated: 2025-09-15
 ---
-[[Programação]] · [[Desenvolvimento Mobile]] · [[Desenvolvimento Android]] · [[Android SDK]] ···················
+[[Programação]] · [[Desenvolvimento Mobile]] · [[Desenvolvimento Android]] · [[Android SDK]] · [[Performance (Android e KMP)]] ··················
 
 ## Definição
 
